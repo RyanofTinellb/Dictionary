@@ -5,7 +5,7 @@
 {title}
 </title>
 {stylesheet}
-<script src="../../searchFunction.js"></script>
+<script src="../searchFunction.js"></script>
 </head>
 <div class="nav-header">
 {nav-header}
