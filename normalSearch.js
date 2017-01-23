@@ -59,7 +59,7 @@ function orSearch(arr, terms) {
 				return a < b;}).filter(function(item, pos, ary) {
 			return !pos || item != ary[pos - 1];
 				})
-			output = output.filter(function(item, pos, ary) {return pos != i;});
+			output = output.filter(function(item, pos, ary) {return pos != (i+1);});
 		} else {i++;}
 	}
 	return output;
