@@ -150,7 +150,7 @@ function display(arr, data, id, terms) {
 			}
 			lines.push(line);
 		}
-		text += "<li><a href=\"" + link + "\">" + name + "</a>: "
+		text += "<li><a href=\"/" + link + "\">" + name + "</a>: "
 		text += lines.join(" &hellip; ") + "</li>"
 	}
 	text += "</ol>";
