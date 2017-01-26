@@ -242,7 +242,7 @@ Three plus four is seven.
 [7]Usage Notes
 these are just about the only terms of this type. Anything else uses the genitive.
 [7]Examples
-<strong><a href="../d/daqa.html">daqa</a> &rsquo;ala</strong>
+<strong>daqa &rsquo;ala</strong>
 <high-lulani>(dq / al)</high-lulani>
 <em>water-<small-caps>gen</small-caps> heat</em>
 &ldquo;the heat of the water&rdquo;
@@ -312,7 +312,7 @@ a subtle requirement. Note that the object of requirement may be physical or sub
 [5]<ipa>/&#x294;&#x259;.&#x2c8;sil.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">friendship</div>
 [7]Derived Terms
-<a href="../a/'asilari.html">&rsquo;asilari</a> <high-lulani>(aSlR)</high-lulani> <em>friend</em>
+<strong><a href="../a/'asilari.html">&rsquo;asilari</a></strong> <high-lulani>(aSlR)</high-lulani> <em>friend</em>
 [2]&rsquo;asilari
 [3]High Lulani
 [4]<high-lulani>(aSlR)</high-lulani>
@@ -350,7 +350,7 @@ a mood of joy or supreme contentment
 <a href="../m/malliju.html">malliju</a> <high-lulani>(m;LY)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
 <a href="../s/sutti.html">sutti</a> <high-lulani>(z;T)</high-lulani> <em>fear</em>
-<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>passion</em>
+<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>zeal</em>
 [2]&rsquo;ahatini
 [3]High Lulani
 [4]<high-lulani>(ahTN)</high-lulani>
@@ -470,9 +470,10 @@ a mood of joy or supreme contentment
 [3]High Lulani
 [4]<high-lulani>(iT;&gt;)</high-lulani>
 [5]<ipa>/&#x294;&#x268;.&#x2c8;t&#x2b0;ik.k&#x289;/</ipa>
-[6]derived inanimate noun <div class="definition">breast</div>
+[6]derived inanimate noun <div class="definition">breast; nipple</div>
 [7]Etymology
-<a href="../i/'iti.html">&rsquo;iti</a> <high-lulani>(iT)</high-lulani> <em>milk</em> + <a href="../\/-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
+<a href="../i/'iti.html">&rsquo;iti</a> <high-lulani>(iT)</high-lulani> <em>milk</em> + <a href="../k/-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
+
 [2]&rsquo;idajabi
 [3]High Lulani
 [4]<high-lulani>(idjB)</high-lulani>
@@ -712,7 +713,7 @@ a point in space-time-reality-gingla
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../s/sutti.html">sutti</a> <high-lulani>(z;T)</high-lulani> <em>fear</em>
-<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>passion</em>
+<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>zeal</em>
 [2]&rsquo;isilitu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(iSLei)</high-lulani>
@@ -793,9 +794,7 @@ one point on this axis, <em>i.e.:</em> a world, a reality
 [3]High Lulani
 [4]<high-lulani>(uD)</high-lulani>
 [5]<ipa>/&#x2c8;&#x294;ud.&#x268;/</ipa>
-[6]inanimate stem noun <div class="definition">teeth</div>
-[7]Derived Terms
-<strong><a href="../u/'udixita.html">&rsquo;udixita</a></strong> <high-lulani>(uDXt)</high-lulani> <em>tooth</em>
+[6]inanimate mass stem noun <div class="definition">teeth</div>
 [2]&rsquo;uccadama
 [3]High Lulani
 [4]<high-lulani>(u;cdm)</high-lulani>
@@ -947,6 +946,20 @@ state
 [6]animate derived noun <div class="definition">follower; submissive</div>
 [7]Etymology
 <a href="../u/'ussa.html">&rsquo;ussa</a> <high-lulani>(u;s)</high-lulani> <em>follow</em> + <a href="../b/ba.html">ba</a> <high-lulani>(b)</high-lulani> <em>&#x2013;er</em>
+[2]&rsquo;usatinna
+[3]High Lulani
+[4]<high-lulani>(usT;n)</high-lulani>
+[5]<ipa>/&#x2cc;&#x294;us.&#x259;.&#x2c8;t&#x2b0;i&#x272;.&#x272;&#x259;/</ipa>
+[6]derived adverb <div class="definition">visibly</div>
+[7]Etymology
+<strong><a href="../u/'usa.html">&rsquo;usa</a></strong> <high-lulani>(us)</high-lulani> <em>to see</em> + <strong><a href="../a/-atinna.html">-atinna</a></strong> <high-lulani>(/aT;n)</high-lulani> <em><small-caps>adv</small-caps></em>
+[2]&rsquo;usadajabi
+[3]High Lulani
+[4]<high-lulani>(usdjB)</high-lulani>
+[5]<ipa>/&#x2cc;&#x294;us.&#x259;.d&#x259;.&#x2c8;&#x25f;ab.&#x268;/</ipa>
+[6]transitive derived compound noun <div class="definition">to read</div>
+[7]Etymology
+<strong><a href="../u/'usa.html">&rsquo;usa</a></strong> <high-lulani>(us)</high-lulani> <em>to see</em> + <strong><a href="../d/dajabi.html">dajabi</a></strong> <high-lulani>(djB)</high-lulani> <em>reading</em>
 [2]&rsquo;usaju&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(usYi)</high-lulani>
@@ -1210,7 +1223,7 @@ state
 [5]<ipa>/&#x2c8;pag.&#x289;.&#x14b;&#x259;/</ipa>
 [6]derived noun pronoun <div class="definition">first person genitive pronoun; mine</div>
 [7]Etymology
-<a href="../p/pagu.html">pagu</a> <high-lulani>(p&lt;)</high-lulani> <em>my</em> + <a href="../q/qa.html">qa</a> <high-lulani>(q)</high-lulani> <em>nominaliser</em>
+<strong><a href="../p/pagu.html">pagu</a></strong> <high-lulani>(p&lt;)</high-lulani> <em>my</em> + <strong><a href="../q/qa.html">qa</a></strong> <high-lulani>(q)</high-lulani> <small-caps>nmn</small-caps>
 [7]Related Terms
 <strong><a href="../b/baqa.html">baqa</a></strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
 <strong><a href="../d/disiqa.html">disiqa</a></strong> <high-lulani>(DSq)</high-lulani> <em>hers</em>
@@ -1532,7 +1545,7 @@ gnomic
 [7]Example
 <strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
 <strong><a href="../b/bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
-<a href="../u/'ussaba.html">&rsquo;ussaba</a> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
+<strong><a href="../u/'ussaba.html">&rsquo;ussaba</a></strong> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
 [5]<ipa>/ba/</ipa>
 [6]stem personal pronoun <div class="definition">second person genitive; <small-caps>2gen</small-caps>; your; yours</div>
 [7]See Also
@@ -1611,6 +1624,11 @@ gnomic
 [6]abstract stem noun <div class="definition">caution; care</div>
 [7]Derived Terms
 <strong><a href="../b/bataniqqi.html">bataniqqi</a></strong> <high-lulani>(btN;Q)</high-lulani> <em>carefully</em>
+[2]bataniqqi
+[3]High Lulani
+[4]<high-lulani>(btN;Q)</high-lulani>
+[5]<ipa>/&#x2cc;bat&#x2b0;.&#x259;.&#x2c8;ni&#x14b;.&#x14b;&#x268;/</ipa>
+[6] <div class="definition"></div>
 [2]batari
 [3]High Lulani
 [4]<high-lulani>(btR)</high-lulani>
@@ -1724,6 +1742,15 @@ state
 &larr; <a href="../i/'ikka.html">&rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
 &rarr; <a href="../t/tika.html">tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
 &uarr; <a href="../k/katiru.html">katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
+[2]baqa
+[3]High Lulani
+[4]<high-lulani>(bq)</high-lulani>
+[5]<ipa>/ba.&#x2c8;&#x14b;a/</ipa>
+[6]derived noun pronoun<div class="definition">yours</div>
+[7]Etymology
+<strong><a href="../b/ba.html">ba</a></strong> <high-lulani>(b)</high-lulani> <small-caps>2gen</small-caps> + <strong><a href="../q/qa.html">qa</a></strong> <high-lulani>(q)</high-lulani> <small-caps>nmn</small-caps>
+[7]See Also
+<strong><a href="../p/paguqa.html">paguqa</a></strong> <em>mine</em>
 [2]basa
 [3]High Lulani
 [4]<high-lulani>(bs)</high-lulani>
@@ -1752,6 +1779,13 @@ state
 &rarr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
 &uarr; <a href="../l/limma.html">limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
 &darr; <a href="../p/papa.html">papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
+[2]bi&rsquo;ini
+[3]High Lulani
+[4]<high-lulani>(BiN)</high-lulani>
+[5]<ipa>/b&#x268;.&#x2c8;&#x294;in.&#x268;/</ipa>
+[6]intransitive derived verb <div class="definition">to itch</div>
+[7]Etymology
+<strong><a href="../b/bi'u.html">bi&rsquo;u</a></strong> <high-lulani>(Bu)</high-lulani> <em>to hurt</em> + <strong><a href="../i/&#x268;ni.html">&#x268;ni</a></strong> <high-lulani>(-N)</high-lulani> <em><small-caps>dim</small-caps></em>
 [2]bi&rsquo;u
 [3]High Lulani
 [4]<high-lulani>(Bu)</high-lulani>
@@ -1767,6 +1801,15 @@ state
 &ldquo;I have a headache.&rdquo;
 [7]Derived Terms
 <strong><a href="../b/bi'ini.html">bi&rsquo;ini</a></strong> <high-lulani>(BiN)</high-lulani> <em>itch</em>
+[2]bi&rsquo;u&rsquo;iku
+[3]High Lulani
+[4]<high-lulani>(Bui&gt;)</high-lulani>
+[5]<ipa>/&#x2cc;bi&#x294;.&#x289;.&#x2c8;&#x294;ik&#x2b0;.&#x289;/</ipa>
+[6]intransitive derived compound noun <div class="definition">to be starving</div>
+[7]Definition
+to have hunger pains
+[7]Etymology
+<strong><a href="../b/bi'u.html">bi&rsquo;u</a></strong> <em>to hurt</em> + <strong><a href="../i/'iku.html">&rsquo;iku</a></strong> <em>hunger</em>
 [2]bibu
 [3]High Lulani
 [4]<high-lulani>(BO)</high-lulani>
@@ -1774,6 +1817,13 @@ state
 [6]abstract stem noun <div class="definition">complaint; whine</div>
 [7]Derived Term
 <strong><a href="../i/'ibibu.html">&rsquo;ibibu</a></strong> <high-lulani>(iBO)</high-lulani> <em>to complain</em>
+[2]bibuba
+[3]High Lulani
+[4]<high-lulani>(BOb)</high-lulani>
+[5]<ipa>/b&#x268;.&#x2c8;bub.&#x259;/</ipa>
+[6]animate derived noun <div class="definition">whiner; complainer</div>
+[7]Etymology
+<strong><a href="../b/bibu.html">bibu</a></strong> <em>to complain</em> + <strong><a href="../b/ba.html">ba</a></strong> <small-caps>nmn</small-caps>
 [2]bitta
 [3]High Lulani
 [4]<high-lulani>(B;t)</high-lulani>
@@ -1813,6 +1863,11 @@ The second dimension is objective: if one time-travels into the past, then one's
 [4]<high-lulani>(Bw)</high-lulani>
 [5]<ipa>//</ipa>
 [6] <div class="definition"></div>
+[2]bu
+[3]High Lulani
+[4]<high-lulani>(O)</high-lulani>
+[5]<ipa>/bu&#x2d0;/</ipa>
+[6]inanimate stem noun <div class="definition">foot; toe</div>
 [2]buccata
 [3]High Lulani
 [4]<high-lulani>(O;ct)</high-lulani>
@@ -1893,6 +1948,13 @@ to have the same vowels and placement of geminates
 [6]inanimate derived compound noun <div class="definition">limestone</div>
 [7]Etymology
 <a href="../b/bufi.html">bufi</a> <high-lulani>(OF)</high-lulani> <em>stone</em> + <a href="../t/tila.html">tila</a> <high-lulani>(Tl)</high-lulani> <em>shell</em>
+[2]bufiniqqi
+[3]High Lulani
+[4]<high-lulani>(OFN;Q)</high-lulani>
+[5]<ipa>/&#x2cc;buf.&#x268;.&#x2c8;ni&#x14b;.&#x14b;&#x268;/</ipa>
+[6]derived adverb <div class="definition">stonily</div>
+[7]Etymology
+<strong><a href="../b/bufi.html">bufi</a></strong> <em>stone</em> + <strong><a href="../n/niqqi.html">niqqi</a></strong> <small-caps>adv</small-caps>
 [2]bufiqi
 [3]High Lulani
 [4]<high-lulani>(OFQ)</high-lulani>
@@ -1910,7 +1972,7 @@ to have the same vowels and placement of geminates
 [5]<ipa>/t&#x2b0;&#x259;/</ipa>
 [6]stem conjunction enclitic <div class="definition">and</div>
 [7]Example
-<strong><a href="../l/lulani.html">lulani</a> <a href="../k/kimillita.html">kimillita</a></strong>
+<strong><a href="../l/lulani.html">lulani</a> <a href="../k/kimilli.html">kimilli</a>ta</strong>
 <high-lulani>(WlN / KM;Lt)</high-lulani>
 <em>queen king-and</em>
 &ldquo;The queen and the king&rdquo;
@@ -1975,34 +2037,14 @@ a meaningful oscillation of medium
 [5]<ipa>/&#x2c8;t&#x2b0;ak&#x2b0;.&#x289;/</ipa>
 [6]stem auxiliary <div class="definition">past iterative; <small-caps>pst;itr</small-caps>; did over and over; did repeatedly</div>
 [7]See Also
-[t]
-dynamic
-stative
-negative
-iterative
-gnomic
-[r]past
-<a href="../q/qixa.html">qixa</a>
-<a href="../p/pi.html">pi</a>
-<a href="../q/qilu.html">qilu</a>
-<strong>taku</strong>
-<a href="../r/rusa.html">rusa</a>
-[r]present
-<a href="../c/cani.html">cani</a>
-<a href="../r/ra'u.html">ra&rsquo;u</a>
-<a href="../j/ji.html">ji</a>
-<a href="../n/na.html">na</a>
-<a href="../r/ru.html">ru</a>
-[r]future
-<a href="../l/labu.html">labu</a>
-<a href="../n/nagi.html">nagi</a>
-<a href="../f/funi.html">funi</a>
-<a href="../h/hu.html">hu</a>
-<a href="../r/ruku.html">ruku</a>
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qixa.html">qixa</a> | <a href="../p/pi.html">pi</a> | <a href="../q/qilu.html">qilu</a> | <strong>taku</strong> | <a href="../r/rusa.html">rusa</a>
+[r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
+[r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
 [6]stem attributive adjective <div class="definition">for; as a</div>
 [7]Examples
-<strong><a href="../n/nagitaku.html">nagitaku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(nGt&gt; / K;b)</high-lulani> <em>cane</em>
+<strong><a href="../n/nigatakukibba.html">nigataku kibba</a></strong> <high-lulani>(nGt&gt; / K;b)</high-lulani> <em>cane</em>
 [2]takkulu
 [3]High Lulani
 [4]<high-lulani>(t;&gt;W)</high-lulani>
@@ -2319,7 +2361,7 @@ to rotate on one&rsquo;s own axis
 &ldquo;I sang the song again.&rdquo;
 [6]derivational suffix (verb) <div class="definition">redo</div>
 [7]Examples
-<strong><a href="../l/latuni.html">latuni</a></strong> <high-lulani>(leN)</high-lulani> <em>to do again</em>
+<strong><a href="../l/la.html">la</a>tuni</strong> <high-lulani>(leN)</high-lulani> <em>to do again</em>
 [6]stem mathematics <div class="definition">denotes a repeating infinite digit string</div>
 [2]turassi
 [3]High Lulani
@@ -2383,7 +2425,17 @@ to rotate on one&rsquo;s own axis
 [6]intransitive derived verb <div class="definition">to be folded up</div>
 [7]Etymology
 <a href="../t/tuhi.html">tuhi</a> <high-lulani>(eH)</high-lulani> <em>small</em> + <a href="../n/nuhu.html">nuhu</a> <high-lulani>(IV)</high-lulani> <em>origami</em>
+[2]tsar
+[3]English
+[4]
+[5]<ipa>/tsa&#x2d0;/</ipa>
+[6]inanimate stem noun <div class="definition">akashic record</div>
+[7]Definition
+a compendium of all knowledge, capable of giving an answer to any question asked of it
+[7]Translations
+<strong>HL:</strong> <em><a href="../d/duluri.html">duluri</a></em> <high-lulani>(EWR)</high-lulani>
 [1]D
+
 [2]da
 [3]High Lulani
 [4]<high-lulani>(d)</high-lulani>
@@ -2472,6 +2524,7 @@ to rotate on one&rsquo;s own axis
 [4]<high-lulani>(dnG)</high-lulani>
 [5]<ipa>/d&#x259;.nag.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">decree; proclamation</div>
+
 [2]dara
 [3]High Lulani
 [4]<high-lulani>(dr)</high-lulani>
@@ -2510,13 +2563,31 @@ to rotate on one&rsquo;s own axis
 [3]High Lulani
 [4]<high-lulani>(ds)</high-lulani>
 [5]<ipa>/&#x2c8;das.&#x259;/</ipa>
-[6]abstract stem noun <div class="definition">passion; anger</div>
+[6]abstract stem noun <div class="definition">zeal; anger; passion</div>
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
 <a href="../s/sutti.html">sutti</a> <high-lulani>(z;T)</high-lulani> <em>fear</em>
 <a href="../d/dasatu'i.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
 <a href="../d/dasada.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
+[2]dasatu&rsquo;i
+[3]High Lulani
+[4]<high-lulani>(dsei)</high-lulani>
+[5]<ipa>/&#x2cc;das.&#x259;.&#x2c8;t&#x2b0;u&#x294;.&#x268;/</ipa>
+[6]abstract derived noun <div class="definition">passion</div>
+[7]Etymology
+<strong><a href="../d/dasa.html">dasa</a></strong> <high-lulani>(ds)</high-lulani> <em>zeal</em> + <strong><a href="../t/tu'i.html">tu&rsquo;i</a></strong> <high-lulani>(ei)</high-lulani> <em>positive aspect</em>
+[7]See Also
+<strong><a href="../d/dasada.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
+[2]dasada
+[3]High Lulani
+[4]<high-lulani>(dsd)</high-lulani>
+[5]<ipa>/d&#x259;.&#x2c8;sad.&#x259;/</ipa>
+[6]abstract derived noun <div class="definition">anger</div>
+[7]Etymology
+<strong><a href="../d/dasa.html">dasa</a></strong> <em>zeal</em> + <strong><a href="../d/da.html">da</a></strong> <em>negative aspect</em>
+[7]See Also
+<strong><a href="../d/dasatu'i.html">dasatu&rsquo;i</a></strong> <em>passion</em>
 [2]dasi
 [3]High Lulani
 [4]<high-lulani>(dS)</high-lulani>
@@ -2530,6 +2601,28 @@ to rotate on one&rsquo;s own axis
 <high-lulani>(.uz / dS / d.)</high-lulani>
 <small-caps>1int</small-caps> <em>eat water.</em>
 &ldquo;I drank water.&rdquo;
+[2]dasikku
+[3]High Lulani
+[4]<high-lulani>(dS;&gt;)</high-lulani>
+[5]<ipa>/d&#x259;.&#x2c8;sik.k&#x289;/</ipa>
+[6]inanimate derived noun <div class="definition">digestive system</div>
+[7]Etymology
+<strong><a href="../d/dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong><a href="../k/-kku.html">-kku</a></strong> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
+
+[2]dasiffi
+[3]High Lulani
+[4]<high-lulani>(dS;F)</high-lulani>
+[5]<ipa>/d&#x259;.&#x2c8;sif.f&#x268;/</ipa>
+[6]inanimate derived noun <div class="definition">cutlery; fork; spoon; chopsticks</div>
+[7]Etymology
+<strong><a href="../d/dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong><a href="../f/-ffi.html">-ffi</a></strong> <high-lulani>(;F)</high-lulani> <em>instrument</em>
+[2]dasisippa
+[3]High Lulani
+[4]<high-lulani>(dSS;p)</high-lulani>
+[5]<ipa>/&#x2cc;das.&#x268;.&#x2c8;sip.p&#x259;/</ipa>
+[6]abstract derived noun <div class="definition">mealtime</div>
+[7]Etymology
+<strong><a href="../d/dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong><a href="../s/sippa.html">sippa</a></strong> <high-lulani>(S;p)</high-lulani> <em>time</em>
 [2]dasu
 [3]High Lulani
 [4]<high-lulani>(dz)</high-lulani>
@@ -2542,6 +2635,7 @@ to rotate on one&rsquo;s own axis
 [6]derived animate noun <div class="definition">mollusc</div>
 [7]Etymology
 <a href="../d/dasu.html">dasu</a> <high-lulani>(dz)</high-lulani> <em>animal</em> + <a href="../t/tila.html">tila</a> <high-lulani>(Tl)</high-lulani> <em>shell</em>
+
 [2]daxuni
 [3]High Lulani
 [4]<high-lulani>(dZN)</high-lulani>
@@ -2565,7 +2659,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;dic.c&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">cold</div>
 [7]Derived Terms
-<strong><a href="../c/cussidicci.html">cussidicci</a></strong> <high-lulani>(y;SD;C)</high-lulani> <em>to be/feel cold
+<strong><a href="../c/cussidicci.html">cussidicci</a></strong> <high-lulani>(y;SD;C)</high-lulani> <em>to be cold</em>
 [2]dina
 [3]High Lulani
 [4]<high-lulani>(Dn)</high-lulani>
@@ -2583,9 +2677,9 @@ to rotate on one&rsquo;s own axis
 [6]inanimate stem noun <div class="definition">money; dollar</div>
 [7]Example
 <strong><a href="../k/kifi.html">kifi</a> diru</strong> <high-lulani>(KF / Dw)</high-lulani> <em>three dollars</em>
-<strong><a href="../d/dirukifi.html">dirukifi</a></strong> <high-lulani>(DwKF)</high-lulani> <em>a three dollar coin</em>
+<strong><a href="../d/diru.html">diru</a><a href="../k/kifi.html">kifi</a></strong> <high-lulani>(DwKF)</high-lulani> <em>a three dollar coin</em>
 [7]See Also
-<a href="../l/laqqu.html">laqqu</a> <high-lulani>(l;A)</high-lulani> <em>wealth</em>
+<strong><a href="../l/laqqu.html">laqqu</a></strong> <high-lulani>(l;A)</high-lulani> <em>wealth</em>
 [2]difi
 [3]High Lulani
 [4]<high-lulani>(DF)</high-lulani>
@@ -2649,6 +2743,16 @@ official or ceremonial
 [6]inanimate derived noun <div class="definition">prologue</div>
 [7]Etymology
 <a href="../d/di.html">di</a> <high-lulani>(D)</high-lulani> <em>up</em> + <a href="../s/sinna.html">sinna</a> <high-lulani>(S;n)</high-lulani> <em>story</em> + <a href="../m/muka.html">muka</a> <high-lulani>(Uk)</high-lulani> <small-caps>nmn</small-caps>
+[2]disiqa
+[3]High Lulani
+[4]<high-lulani>(DSq)</high-lulani>
+[5]<ipa>/d&#x268;.&#x2c8;si&#x14b;.&#x259;/</ipa>
+[6]derived noun pronoun <div class="definition">hers; his</div>
+[7]Etymology
+<strong><a href="../d/disi.html">disi</a></strong> <high-lulani>(DS)</high-lulani> 3<small-caps>gen</small-caps> + <strong><a href="../q/qa.html">qa</a></strong> <high-lulani>(q)</high-lulani> <small-caps>nmn</small-caps>
+[7]See Also
+<strong>paguqa</strong> <high-lulani>(p&lt;q)</high-lulani> <em>mine</em>
+<strong>baqa</strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
 [2]dissu
 [3]High Lulani
 [4]<high-lulani>(D;z)</high-lulani>
@@ -2667,17 +2771,73 @@ usually used compounded
 <small-caps>1int 2dat</small-caps> <em>feel happiness.</em>
 &ldquo;You make me happy.&rdquo;
 [7]Derived Terms
-<a href="../d/dissu'ahati.html">dissu&rsquo;ahati</a> <high-lulani>(D;zahT)</high-lulani> <em>to be happy</em>
-<strong><a href="../d/dissusama.html">dissusama</a></strong> <high-lulani>(D;zs;m)</high-lulani> <em>to romantically love</em>
+<strong><a href="../d/dissu'ahati.html">dissu&rsquo;ahati</a></strong> <high-lulani>(D;zahT)</high-lulani> <em>to be happy</em>
+<strong><a href="../d/dissusamma.html">dissusamma</a></strong> <high-lulani>(D;zs;m)</high-lulani> <em>to romantically love</em>
 [6]abstract stem noun <div class="definition">youth; newness</div>
 [7]Derived Terms
-<a href="../d/dissuri.html">dissuri</a> <high-lulani>(D;zR)</high-lulani> <em>stranger</em>
-<a href="../d/dissusa.html">dissusa</a> <high-lulani>(D;zs)</high-lulani> <em>young person</em>
+<strong><a href="../d/dissuri.html">dissuri</a></strong> <high-lulani>(D;zR)</high-lulani> <em>stranger</em>
+<strong><a href="../d/dissusa.html">dissusa</a></strong> <high-lulani>(D;zs)</high-lulani> <em>young person</em>
 [2]dissu&rsquo;ahati
 [3]High Lulani
 [4]<high-lulani>(D;zahT)</high-lulani>
 [5]<ipa>/&#x2cc;dis.s&#x289;.&#x294;&#x259;.&#x2c8;hat&#x2b0;.&#x268;/</ipa>
 [6]intransitive compound verb <div class="definition">to be happy</div>
+[2]dissu&rsquo;isili
+[3]High Lulani
+[4]<high-lulani>(D;ziSL)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x294;&#x268;.&#x2c8;sil.&#x268;/</ipa>
+[6]intransitive compound verb <div class="definition">to be sad</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>to feel</em> + <strong><a href="../i/'isili.html">&rsquo;isili</a></strong> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
+[2]dissu&rsquo;ulanu
+[3]High Lulani
+[4]<high-lulani>(D;zulI)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x294;&#x289;.&#x2c8;lan.&#x289;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to be aroused; to be horny</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>to feel</em> + <strong><a href="../u/'ulanu.html">&rsquo;ulanu</a></strong> <high-lulani>(ulI)</high-lulani> <em>arousal</em>
+[2]dissumalliju
+[3]High Lulani
+[4]<high-lulani>(D;zm;LY)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x2c8;ma&#x28e;.&#x28e;&#x268;.&#x25f;u/</ipa>
+[6]intransitive derived compound verb <div class="definition">to feel happiness in the moment</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>to feel</em> + <strong><a href="../m/malliju.html">malliju</a></strong> <high-lulani>(m;LY)</high-lulani> <em>happiness</em>
+[2]dissumici
+[3]High Lulani
+[4]<high-lulani>(D;zMC)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x2c8;mic&#x2b0;.&#x268;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to be peaceful</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>to feel</em> + <strong><a href="../m/mici.html">mici</a></strong> <high-lulani>(MC)</high-lulani> <em>peace</em>
+[2]dissuri
+[3]High Lulani
+[4]<high-lulani>(D;zR)</high-lulani>
+[5]<ipa>/&#x2c8;dis.s&#x289;.&#x279;i/</ipa>
+[6]animate derived noun <div class="definition">stranger</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <em>new</em> + <strong><a href="../r/ri.html">ri</a></strong> <small-caps>nmn</small-caps>
+[2]dissusa
+[3]High Lulani
+[4]<high-lulani>(D;zs)</high-lulani>
+[5]<ipa>/&#x2c8;dis.s&#x289;.sa/</ipa>
+[6]animate derived compound noun <div class="definition">young person; youth</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>young</em> + <strong><a href="../s/sa.html">sa</a></strong> <high-lulani>(s)</high-lulani> <small-caps>nmn</small-caps>
+[2]dissusamma
+[3]High Lulani
+[4]<high-lulani>(D;zsm)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x2c8;sam.m&#x259;/</ipa>
+[6]intransitive derived compound noun <div class="definition">to romantically love; to truly love; to inconditionally love</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>feel</em> + <strong><a href="../s/samma.html">samma</a></strong> <high-lulani>(s;m)</high-lulani> <em>true-love</em>
+[2]dissusutti
+[3]High Lulani
+[4]<high-lulani>(D;zz;T)</high-lulani>
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x2c8;sut.t&#x268;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to be afraid; to feel fear</div>
+[7]Etymology
+<strong><a href="../d/dissu.html">dissu</a></strong> <high-lulani>(D;z)</high-lulani> <em>to feel</em> + <strong><a href="../s/sutti.html">sutti</a></strong> <high-lulani>(z;T)</high-lulani> <em>fear</em>
 [2]dixxa
 [3]High Lulani
 [4]<high-lulani>(D;x)</high-lulani>
@@ -2712,8 +2872,8 @@ usually used compounded
 [7]Usage Notes
 tends to mean &lsquo;beyond&rsquo; when the area can be seen, &lsquo;opposite&rsquo; otherwise.
 [7]Examples
-<strong><a href="../d/du'imusa.html">du&rsquo;imusa</a></strong> <high-lulani>(EiUs)</high-lulani> <em>away from the sun</em>
-<strong><a href="../d/du'icica.html">du&rsquo;icica</a></strong> <high-lulani>(EiCc)</high-lulani> <em>on the other side of the fence</em>
+<strong>du&rsquo;i<a href="../m/musa.html">musa</a></strong> <high-lulani>(EiUs)</high-lulani> <em>away from the sun</em>
+<strong>du&rsquo;i<a href="../c/cica.html">cica</a></strong> <high-lulani>(EiCc)</high-lulani> <em>on the other side of the fence</em>
 [2]duci
 [3]High Lulani
 [4]<high-lulani>(EC)</high-lulani>
@@ -2766,6 +2926,15 @@ When used with ablative promotion, gives nuance of <em>encouraged</em>.
 <high-lulani>(.AV / &gt;pJ / dSp;k / MV / EM.)</high-lulani>
 <em><small-caps>3tra dat</small-caps>-fruit eat-<small-caps>abp</small-caps> 3int try.</em>
 &ldquo;She encouraged him to eat fruit.&rdquo;
+[2]duluri
+[3]High Lulani
+[4]<high-lulani>(EWR)</high-lulani>
+[5]<ipa>/d&#x289;.&#x2c8;lu&#x279;.&#x268;/</ipa>
+[6]inanimate stem noun <div class="definition"><a href="../t/tsar.html">tsar</a>; akashic record</div>
+[7]Definition
+a compendium of all knowledge, capable of revealing the answer to any question asked
+[7]Derived Terms
+<strong><a href="../x/xaraduluri.html">xaraduluri</a></strong> <high-lulani>(xrEWR)</high-lulani> <em>tsarship</em>
 [2]dura
 [3]High Lulani
 [4]<high-lulani>(Er)</high-lulani>
@@ -2833,7 +3002,7 @@ rare
 [6]abstract stem noun <div class="definition">romance</div>
 [7]Derived Terms
 <strong><a href="../l/lu'ica'i.html">lu&rsquo;ica&rsquo;i</a></strong> <high-lulani>(Wici)</high-lulani> <em>to love</em>
-<a href="../s/sannaca'i.html">sannaca&rsquo;i</a> <high-lulani>(s;nci)</high-lulani> <em>jealousy</em>
+<strong><a href="../s/sannaca'i.html">sannaca&rsquo;i</a></strong> <high-lulani>(s;nci)</high-lulani> <em>jealousy</em>
 [2]capuha
 [3]High Lulani
 [4]<high-lulani>(coh)</high-lulani>
@@ -2859,6 +3028,19 @@ an outer wall or boundary
 <strong><a href="../g/gupicadi.html">gupicadi</a></strong> <high-lulani>(&lt;PcD)</high-lulani> <em>to guard</em>
 [7]See Also
 <strong><a href="../l/lukku.html">lukku</a></strong> <high-lulani>(W;&gt;)</high-lulani> <em>wall</em>
+[2]cakaru
+[3]High Lulani
+[4]<high-lulani>(ckw)</high-lulani>
+[5]<ipa>/c&#x259;.&#x2c8;k&#x2b0;a&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">to finish doing; <small-caps>prs;dyn-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../c/cani.html">cani</a></strong> <small-caps>prs;dyn</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <strong>cakaru</strong> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]cakassu
 [3]High Lulani
 [4]<high-lulani>(ck;z)</high-lulani>
@@ -2957,7 +3139,7 @@ One of ten directions in which something can be measured, or one of four ways in
 [5]<ipa>/&#x2c8;ca&#x279;.&#x268;/</ipa>
 [6]stem adjective <div class="definition">remaining; rest</div>
 [7]Examples
-<a href="../m/musacari.html">musacari</a> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
+<strong><a href="../m/musa.html">musa</a>cari</strong> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
 [2]cahuri
 [3]High Lulani
 [4]<high-lulani>(cVR)</high-lulani>
@@ -3163,7 +3345,14 @@ poetic
 [6]intransitive derived compound verb <div class="definition">to be hot</div>
 [7]Etymology
 <a href="../c/cussi.html">cussi</a> <high-lulani>(y;S)</high-lulani> <em>feel</em> + <a href="../a/'ala.html">&rsquo;ala</a> <high-lulani>(al)</high-lulani> <em>heat</em>
-[7]
+[2]cussidicci
+[3]High Lulani
+[4]<high-lulani>(y;SD;C)</high-lulani>
+[5]<ipa>/&#x2cc;cus.s&#x268;.&#x2c8;dic.c&#x268;/</ipa>
+[6]intranstive derived compound verb <div class="definition">to be cold; to feel cold</div>
+[7]Etymology
+<strong><a href="../c/cussi.html">cussi</a></strong> <em>touch</em> + <strong><a href="../d/dicci.html">dicci</a></strong> <em>cold</em>
+
 [1]J
 [2]ja
 [3]High Lulani
@@ -3208,6 +3397,7 @@ used when the experience was somewhat surprising
 [6]abstract stem noun <div class="definition">absorption</div>
 [7]Derived Terms
 <strong><a href="../p/pajagaru.html">pajagaru</a></strong> <high-lulani>(pjgw)</high-lulani> <em>to assess a situation</em>
+
 [2]jami
 [3]High Lulani
 [4]<high-lulani>(jM)</high-lulani>
@@ -3246,6 +3436,13 @@ used when the experience was somewhat surprising
 [6]derived compound verb <div class="definition">to slide; to move through parallel worlds</div>
 [7]Etymology
 <strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong><a href="../u/'u'ili.html">&rsquo;u&rsquo;ili</a></strong> <high-lulani>(uiL)</high-lulani> <em>reality</em>
+[2]jannibitta
+[3]High Lulani
+[4]<high-lulani>(j;NB;t)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.&#x2c8;bit.t&#x259;/</ipa>
+[6]intransitive derived compound noun <div class="definition">to travel through time</div>
+[7]Etymology
+<strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>to move</em> + <strong><a href="../b/bitta.html">bitta</a></strong> <high-lulani>(B;t)</high-lulani> <em>time</em>
 [2]jannitiqaxi
 [3]High Lulani
 [4]<high-lulani>(j;NTqX)</high-lulani>
@@ -3255,6 +3452,13 @@ used when the experience was somewhat surprising
 <strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong>tiqaxi</strong> <high-lulani>(TqX)</high-lulani> <em>tilt</em>
 [7]Usage notes
 movement of one&rsquo;s head in this way can denote disbelief or exasperation
+[2]jannija
+[3]High Lulani
+[4]<high-lulani>(j;Nj)</high-lulani>
+[5]<ipa>/&#x2c8;&#x25f;a&#x272;.&#x272;&#x268;.&#x25f;!a/</ipa>
+[6]intransitive derived verb <div class="definition">to move across</div>
+[7]Etymology
+<strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>to move</em> + <strong><a href="../j/ja.html">ja</a></strong> <high-lulani>(j)</high-lulani> <em>across</em>
 [2]jannigata
 [3]High Lulani
 [4]<high-lulani>(j;Ngt)</high-lulani>
@@ -3262,6 +3466,13 @@ movement of one&rsquo;s head in this way can denote disbelief or exasperation
 [6]derived compound verb <div class="definition">to swing</div>
 [7]Etymology
 <strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong><a href="../g/gata.html">gata</a></strong> <high-lulani>(gt)</high-lulani> <em>swing</em>
+[2]janninika
+[3]High Lulani
+[4]<high-lulani>(j;NNk)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.&#x2c8;nik&#x2b0;.&#x259;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to travel</div>
+[7]Etymology
+<strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>to move</em> + <strong><a href="../n/nika.html">nika</a></strong> <high-lulani>(Nk)</high-lulani> <em>travel</em>
 [2]jala
 [3]High Lulani
 [4]<high-lulani>(jl)</high-lulani>
@@ -3284,6 +3495,13 @@ movement of one&rsquo;s head in this way can denote disbelief or exasperation
 [6]inanimate stem noun <div class="definition">spice</div>
 [7]Derived Terms
 <strong><a href="../j/jaffaracani.html">jaffaracani</a></strong> <high-lulani>(j;frcN)</high-lulani> <em>spicy</em>
+[2]jaffaracani
+[3]High Lulani
+[4]<high-lulani>(j;frcN)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;af.f&#x259;.&#x279;&#x259;.&#x2c8;c&#x2b0;an.&#x268;/</ipa>
+[6]derived attributive phrase <div class="definition">spicy</div>
+[7]Etymology
+<strong><a href="../j/jaffara.html">jaffara</a></strong> <em>spices</em> + <strong><a href="../c/cani.html">cani</a></strong> <em>having</em>
 [2]jaha
 [3]High Lulani
 [4]<high-lulani>(jh)</high-lulani>
@@ -3358,6 +3576,19 @@ gnomic
 <high-lulani>(.uz / pF;L / Ji.)</high-lulani>
 <small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>taste.</em>
 &ldquo;I smelt towards you.&rdquo;
+[2]jikaru
+[3]High Lulani
+[4]<high-lulani>(Jkw)</high-lulani>
+[5]<ipa>/&#x25f;&#x268;.&#x2c8;k&#x2b0;a&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">isn&rsquo;t stopping; is not stopping; <small-caps>prs;neg-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../j/ji.html">ji</a></strong> <small-caps>prs;neg</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <strong>jikaru</strong> | <a href="../n/nakaru.html">nakaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]jiqu
 [3]High Lulani
 [4]<high-lulani>(JA)</high-lulani>
@@ -3426,6 +3657,20 @@ a group of people brought together for common purpose
 [6]transitive derived compound verb <div class="definition">to marry</div>
 [7]Etymology
 <a href="../j/ju'i.html">ju&rsquo;i</a> <high-lulani>(Yi)</high-lulani> <em>link</em> + <a href="../d/duku.html">duku</a> <high-lulani>(E&gt;)</high-lulani> <em>body</em>
+[2]ju&rsquo;isatadu
+[3]High Lulani
+[4]<high-lulani>(YistE)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;u&#x294;.&#x268;.s&#x259;.&#x2c8;tad.&#x289;/</ipa>
+[6]transitive derived compound verb <div class="definition">to meet</div>
+[7]Etymology
+<strong><a href="../j/ju'i.html">ju&rsquo;i</a></strong> <high-lulani>(Yi)</high-lulani> <high-lulani>(Yi)</high-lulani> <em>to join</em> + <strong><a href="../s/satadu.html">satadu</a></strong> <high-lulani>(stE)</high-lulani> <em>conversation</em>
+[2]ju&rsquo;ulu
+[3]High Lulani
+[4]<high-lulani>(YuW)</high-lulani>
+[5]<ipa>/&#x25f;&#x289;.&#x2c8;&#x294;ul.&#x289;/</ipa>
+[6]transitive derived verb <div class="definition">to take off; to undress</div>
+[7]Etymology
+<strong><a href="../j/ju'i.html">ju&rsquo;i</a></strong> <high-lulani>(Yi)</high-lulani> <em>to link</em> + <strong><a href="../u/-ulu.html">-ulu</a></strong> <high-lulani>(/uW)</high-lulani> <em>undo</em>
 [2]julliga
 [3]High Lulani
 [4]<high-lulani>(Y;Lg)</high-lulani>
@@ -3533,6 +3778,7 @@ Not used with possessives.
 <high-lulani>(.uz / ku.)</high-lulani>
 <small-caps>1int</small-caps> <em>jump.</em>
 &ldquo;I jumped.&rdquo;
+
 [2]kaba
 [3]High Lulani
 [4]<high-lulani>(kb)</high-lulani>
@@ -3551,6 +3797,13 @@ Not used with possessives.
 [7]See Also
 <a href="../k/kasa.html">kasa</a> <high-lulani>(ks)</high-lulani> <em>male</em>
 <a href="../q/qi.html">qi</a> <high-lulani>(Q)</high-lulani> <em>female</em>
+[2]katinna
+[3]High Lulani
+[4]<high-lulani>(kT;n)</high-lulani>
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;t&#x2b0;i&#x272;.&#x272;&#x259;/</ipa>
+[6]derived adverb <div class="definition">increasingly</div>
+[7]Etymology
+<strong><a href="../k/ki.html">ki</a></strong> <em>to be big</em> + <strong><a href="../a/-atinna.html">-atinna</a></strong> <small-caps>adv</small-caps>
 [2]katiru
 [3]High Lulani
 [4]<high-lulani>(kTw)</high-lulani>
@@ -3696,6 +3949,7 @@ refers to an individual leg, or each leg individually
 <a href="../d/duku.html">duku</a> <high-lulani>(E&gt;)</high-lulani> <em>body</em>
 [7]Hypernym
 <a href="../l/lahha.html">lahha</a> <high-lulani>(l;h)</high-lulani> <em>body</em>
+
 [2]karra
 [3]High Lulani
 [4]<high-lulani>(k;r)</high-lulani>
@@ -3955,7 +4209,7 @@ state
 [5]<ipa>/k&#x2b0;&#x268;/</ipa>
 [6]mathematics derivational suffix (numeral &rarr; fraction) <div class="definition">forms fractions</div>
 [7]Example
-<strong><a href="../k/kifiki.html">kifiki</a> <a href="../s/salumi.html">salumi</a></strong> <high-lulani>(KFK / sWM)</high-lulani> <em>three sevenths</em>
+<strong><a href="../k/kifi.html">kifi</a>ki <a href="../s/salumi.html">salumi</a></strong> <high-lulani>(KFK / sWM)</high-lulani> <em>three sevenths</em>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">forms an inanimate agentive noun</div>
 [7]Examples
 <a href="../b/bumaki.html">bumaki</a> <high-lulani>(OmK)</high-lulani> <em>screen</em>
@@ -4050,6 +4304,7 @@ state
 [6]animate stem noun <div class="definition">king</div>
 [7]See Also
 <strong><a href="../l/lulani.html">lulani</a></strong> <high-lulani>(WlN)</high-lulani> <em>queen</em>
+
 [2]kilatu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Klei)</high-lulani>
@@ -4063,6 +4318,13 @@ state
 <a href="../k/kipu.html">kipu</a> <high-lulani>(Ko)</high-lulani> <em>ox</em>
 <a href="../q/qasa.html">qasa</a> <high-lulani>(qs)</high-lulani> <em>fish</em>
 <a href="../x/xu'a.html">xu&rsquo;a</a> <high-lulani>(Za)</high-lulani> <em>bird</em>
+[2]kiladi
+[3]High Lulani
+[4]<high-lulani>(KlD)</high-lulani>
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;lad.&#x268;/</ipa>
+[6]intransitive derived compound noun <div class="definition">to spread out</div>
+[7]Etymology
+<strong><a href="../k/ki.html">ki</a></strong> <high-lulani>(K)</high-lulani> <em>to be big</em> + <strong><a href="../l/ladi.html">ladi</a></strong> <high-lulani>(lD)</high-lulani> <em>spreading</em>
 [2]kiluqu
 [3]High Lulani
 [4]<high-lulani>(KWA)</high-lulani>
@@ -4098,6 +4360,22 @@ state
 <strong>&larr; <a href="../r/ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em>
 <strong>&rarr; <a href="../n/nuru.html">nuru</a></strong> <high-lulani>(Iw)</high-lulani> <em>four</em>
 <strong>&mdash; <a href="../b/bila.html">bila</a></strong> <high-lulani>(Bl)</high-lulani> <em>ree</em>
+
+
+[2]kifissiji
+[3]High Lulani
+[4]<high-lulani>(KF;SJ)</high-lulani>
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;fis.s&#x268;.&#x25f;i/</ipa>
+[6]inanimate derived noun <div class="definition">triangle</div>
+[7]Etymology
+<strong><a href="../k/kifi.html">kifi</a></strong> <em>three</em> + <strong><a href="../s/-ssiji.html">-ssiji</a></strong> <em>shape</em>
+[2]kifuju
+[3]High Lulani
+[4]<high-lulani>(KvY)</high-lulani>
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;fu&#x25f;.&#x289;/</ipa>
+[6]mathematics derived ordinal numeral <div class="definition">third, 3<sup>rd</sup></div>
+[7]Etymology
+<strong><a href="../k/kifi.html">kifi</a></strong> <em>three</em> + <strong><a href="../u/-uju.html">-uju</a></strong> <small-caps>ord</small-caps>
 [2]kissa
 [3]High Lulani
 [4]<high-lulani>(K;s)</high-lulani>
@@ -4239,6 +4517,13 @@ with discrete aspects: in many different ways
 <a href="../c/cissa.html">cissa</a> <high-lulani>(C;s)</high-lulani> <em>air</em>
 <a href="../k/kunaqi.html">kunaqi</a> <high-lulani>(&gt;nQ)</high-lulani> <em>earth</em>
 <a href="../i/'ima.html">&rsquo;ima</a> <high-lulani>(im)</high-lulani> <em>void</em>
+[2]kunubitu&rsquo;afu
+[3]High Lulani
+[4]<high-lulani>(&gt;IBeav)</high-lulani>
+[5]<ipa>/k&#x2b0;&#x289;.&#x2cc;nub.&#x268;.t&#x2b0;&#x289;.&#x2c8;&#x294;af.&#x289;/</ipa>
+[6]inanimate derived compound noun <div class="definition">flatlands</div>
+[7]Etymology
+<strong><a href="../k/kunubi.html">kunubi</a></strong> <em>earth</em> + <strong><a href="../t/tu'afu.html">tu&rsquo;afu</a></strong> <em>plain</em>
 [2]kuli
 [3]High Lulani
 [4]<high-lulani>(&gt;L)</high-lulani>
@@ -4260,9 +4545,16 @@ with discrete aspects: in many different ways
 [3]High Lulani
 [4]<high-lulani>(&gt;La)</high-lulani>
 [5]<ipa>/k&#x2b0;&#x289;.&#x2c8;li&#x294;.&#x259;/</ipa>
-[6]derived abstract noun <div class="definition">acquaintance; the act of being acquainted; friendship</div>
+[6]abstract derived noun <div class="definition">acquaintance; the act of being acquainted; friendship</div>
 [7]See Also
-<a href="../a/'asilari.html">&rsquo;asilari</a> <high-lulani>(aSlR)</high-lulani> <em>friend</em>
+<strong><a href="../a/'asila.html">&rsquo;asila</a></strong> <high-lulani>(aSlR)</high-lulani> <em>friendship</em>
+[2]kuli&rsquo;anaci
+[3]High Lulani
+[4]<high-lulani>(&gt;LanC)</high-lulani>
+[5]<ipa>/&#x2cc;k&#x2b0;ul.&#x268;.&#x294;&#x259;.&#x2c8;nac&#x2b0;.&#x268;/</ipa>
+[6]derived noun phrase <div class="definition">acquaintance</div>
+[7]Etymology
+<strong><a href="../k/kuli'a.html">kuli&rsquo;a</a></strong> <em>friendship</em> + <strong><a href="../n/naci.html">naci</a></strong> <em>somewhat</em>
 [2]kulu
 [3]High Lulani
 [4]<high-lulani>(&gt;W)</high-lulani>
@@ -4427,6 +4719,15 @@ used to give further information
 [4]<high-lulani>(GC;R)</high-lulani>
 [5]<ipa>/g&#x268;.&#x2c8;cir.r&#x268;/</ipa>
 [6]stem adverb <div class="definition">instead</div>
+[2]gingla
+[3]English
+[4]
+[5]<ipa>/&#x2c8;gi&#x14b;.gl&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">planes of existence; ghostly realms</div>
+[7]Definition
+there are four ginglaic dimensions. These correspond to the seven planes in some esoteric systems, or to otherworldly realms, <em>i.e.:</em> in order to explain paranormal events.
+[7]Translations
+<strong>HL:</strong> <em><a href="../m/ma''u.html">ma&#x294;u</a></em> <high-lulani>(m;u)</high-lulani>
 [2]girammi
 [3]High Lulani
 [4]<high-lulani>(Gr;M)</high-lulani>
@@ -4481,6 +4782,13 @@ Means &lsquo;to guard&rsquo; with a causative argument, else &lsquo;to remain&rs
 [4]<high-lulani>(&lt;;Rz)</high-lulani>
 [5]<ipa>/&#x2c8;gur.r&#x268;.s&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">door</div>
+[2]gurrisucica
+[3]High Lulani
+[4]<high-lulani>(&lt;;RzCc)</high-lulani>
+[5]<ipa>/&#x2cc;gur.r&#x268;.s&#x289;.&#x2c8;c&#x2b0;ic&#x2b0;.&#x259;/</ipa>
+[6]inanimate derived compound noun <div class="definition">gate</div>
+[7]Etymology
+<strong><a href="../g/gurrisu.html">gurrisu</a></strong> <high-lulani>(&lt;;Rz)</high-lulani> <em>door</em> + <strong><a href="../c/cica.html">cica</a></strong> <high-lulani>(Cc)</high-lulani> <em>fence</em>
 [2]gufu&rsquo;iri
 [3]High Lulani
 [4]<high-lulani>(&lt;viR)</high-lulani>
@@ -4536,9 +4844,9 @@ the &ldquo;soul&rdquo; is the part of a person that has beliefs, faith, trust, m
 [3]High Lulani
 [4]<high-lulani>(m;u)</high-lulani>
 [5]<ipa>/&#x2c8;ma&#x294;.j&#x289;/</ipa>
-[6]inanimate stem noun <div class="definition">gingla</div>
+[6]inanimate stem noun <div class="definition"><a href="../g/gingla.html">gingla</a></div>
 [7]Definition
-the four ginglaic dimensions.
+the four ginglaic dimensions
 [7]See Also
 <a href="../u/'u'ili.html">&rsquo;u&rsquo;ili</a> <high-lulani>(uiL)</high-lulani> <em>reality</em>
 <a href="../b/bitta.html">bitta</a> <high-lulani>(B;t)</high-lulani> <em>time</em>
@@ -4711,6 +5019,13 @@ state
 [7]Derived Terms
 <a href="../m/malaki.html">malaki</a> <high-lulani>(mlK)</high-lulani> <em>mirror</em>
 [6]stem mathematics <div class="definition">denotes a mirrored repeating infinite digit string</div>
+[2]maladu
+[3]High Lulani
+[4]<high-lulani>(mlE)</high-lulani>
+[5]<ipa>/m&#x259;.&#x2c8;lad.&#x289;/</ipa>
+[6]inanimate derived noun <div class="definition">reflection</div>
+[7]Etymology
+<strong><a href="../m/mala.html">mala</a></strong> <em>to reflect</em> + <strong><a href="../d/du.html">du</a></strong> <small-caps>nmn</small-caps>
 [2]malaki
 [3]High Lulani
 [4]<high-lulani>(mlK)</high-lulani>
@@ -4952,6 +5267,13 @@ state
 [4]<high-lulani>(M;&gt;;E)</high-lulani>
 [5]<ipa>/m&#x268;k.&#x2c8;kud&#x2b1;.d&#x2b1;&#x289;/</ipa>
 [6]animate, inanimate stem noun <div class="definition">annoyance</div>
+[2]mikumulu
+[3]High Lulani
+[4]<high-lulani>(M&gt;UW)</high-lulani>
+[5]<ipa>/&#x2cc;mik&#x2b0;.&#x289;.&#x2c8;mul.&#x289;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to be crimson</div>
+[7]Etymology
+<strong><a href="../m/miku.html">miku</a></strong> <high-lulani>(M&gt;)</high-lulani> <em>to be red</em> + <strong><a href="../m/mulu.html">mulu</a></strong> <high-lulani>(UW)</high-lulani> <em>blood</em>
 [2]mimu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(MUi)</high-lulani>
@@ -4986,11 +5308,18 @@ state
 <em>soil brown.</em>
 &ldquo;The earth is brown.&rdquo;
 [7]See Also
-<a href="../m/miku.html">miku</a> <high-lulani>(M&gt;)</high-lulani> <em>red</em>
-<a href="../b/baju.html">baju</a> <high-lulani>(bY)</high-lulani> <em>brown</em>
-<a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>yellow</em>
-<a href="../g/ga.html">ga</a> <high-lulani>(g)</high-lulani> <em>black</em>
-<a href="../k/ki''a.html">ki&#x294;a</a> <high-lulani>(K;a)</high-lulani> <em>white</em>
+<strong><a href="../m/miku.html">miku</a></strong> <high-lulani>(M&gt;)</high-lulani> <em>red</em>
+<strong><a href="../b/baju.html">baju</a></strong> <high-lulani>(bY)</high-lulani> <em>brown</em>
+<strong><a href="../s/sa.html">sa</a></strong> <high-lulani>(s)</high-lulani> <em>yellow</em>
+<strong><a href="../g/ga.html">ga</a></strong> <high-lulani>(g)</high-lulani> <em>black</em>
+<strong><a href="../k/ki''a.html">ki&#x294;a</a></strong> <high-lulani>(K;a)</high-lulani> <em>white</em>
+[2]millucula
+[3]High Lulani
+[4]<high-lulani>(M;Wyl)</high-lulani>
+[5]<ipa>/&#x2cc;mi&#x28e;.&#x28e;&#x289;.&#x2c8;c&#x2b0;ul.&#x259;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to be light brown</div>
+[7]Etymology
+<strong><a href="../m/millu.html">millu</a></strong> <high-lulani>(M;W)</high-lulani> <em>to be brown</em> + <strong><a href="../c/cula.html">cula</a></strong> <high-lulani>(yl)</high-lulani> <em>egg</em>
 [2]miru
 [3]High Lulani
 [4]<high-lulani>(Mw)</high-lulani>
@@ -5127,7 +5456,7 @@ refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani
 [3]High Lulani
 [4]<high-lulani>(Us)</high-lulani>
 [5]<ipa>/&#x2c8;mus.&#x259;/</ipa>
-[6]inanimate stem noun <div class="definition">sun; day</div>
+[6]inanimate stem noun <div class="definition">sun; day; star</div>
 [7]See Also
 <a href="../l/luna.html">luna</a> <high-lulani>(Wn)</high-lulani> <em>moon</em>
 <a href="../n/nuku.html">nuku</a> <high-lulani>(I&gt;)</high-lulani> <em>planet</em>
@@ -5138,6 +5467,16 @@ refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani
 [6]abstract stem noun <div class="definition">exoticism</div>
 [7]Derived Terms
 <strong><a href="../x/ximussa.html">ximussa</a></strong> <high-lulani>(XU;s)</high-lulani> <em>to be exotic</em>
+
+[2]musaqapi
+[3]High Lulani
+[4]<high-lulani>(UsqP)</high-lulani>
+[5]<ipa>/&#x2cc;mus.&#x259;.&#x2c8;&#x14b;ap&#x2b0;.&#x268;/</ipa>
+[6]abstract derived compound noun <div class="definition">week</div>
+[7]Etymology
+<strong><a href="../m/musa.html">musa</a></strong> <high-lulani>(Us)</high-lulani> <em>day</em> + <strong><a href="../q/qapi.html">qapi</a></strong> <high-lulani>(qP)</high-lulani> <em>chain</em>
+[7]Notes
+while the week of native High Lulani speakers consisted of nine days, this word is used to refer to any similar period of time
 [2]musaqu
 [3]High Lulani
 [4]<high-lulani>(UsA)</high-lulani>
@@ -5280,6 +5619,29 @@ most usually used as a verbal prefix
 &larr; <a href="../i/'i'ami.html">&rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
 &rarr; <a href="../n/na'ipa.html">na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
 &uarr; <a href="../n/natu.html">natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
+[2]nakalu
+[3]High Lulani
+[4]<high-lulani>(nkW)</high-lulani>
+[5]<ipa>/n&#x259;.&#x2c8;kal.&#x289;/</ipa>
+[6]transitive derived compound verb <div class="definition">to face</div>
+[7]Etymology
+<strong><a href="../n/na.html">na</a></strong> <high-lulani>(n)</high-lulani> <em>to face</em> + <strong><a href="../k/kalu.html">kalu</a></strong> <high-lulani>(kW)</high-lulani> <em>body</em>
+[2]nakaru
+[3]High Lulani
+[4]<high-lulani>(nkw)</high-lulani>
+[5]<ipa>/n&#x259;.&#x2c8;k&#x2b0;a&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">to finish doing; <small-caps>prs;itr-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../n/na.html">na</a></strong> <small-caps>prs;itr</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <small-caps>trm</small-caps>
+[6]derived auxiliary <div class="definition">will stop being; will finish being; <small-caps>fut;sta-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../n/nagi.html">nagi</a></strong> <small-caps>fut;sta</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <strong>nakaru</strong> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <a href="../l/lakaru.html">lakaru</a> | <strong>nakaru</strong> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]naku
 [3]High Lulani
 [4]<high-lulani>(n&gt;)</high-lulani>
@@ -5335,6 +5697,9 @@ gnomic
 <high-lulani>(ZCnG / yl)</high-lulani>
 <em>feather-becoming egg</em>
 &ldquo;hatching egg&rdquo;
+
+
+
 [2]nama
 [3]High Lulani
 [4]<high-lulani>(nm)</high-lulani>
@@ -5364,6 +5729,13 @@ gnomic
 &ldquo;I need you.&rdquo;
 [7]Derived Terms
 <strong><a href="../n/naqanaludu.html">naqanaludu</a></strong> <high-lulani>(nqnWE)</high-lulani> <em>physically need</em>
+[2]naqanaludu
+[3]High Lulani
+[4]<high-lulani>(nqnWE)</high-lulani>
+[5]<ipa>/&#x2cc;na&#x14b;.&#x259;.n&#x259;.&#x2c8;lud.&#x289;/</ipa>
+[6]transitive derived compound noun <div class="definition">to physically need</div>
+[7]Etymology
+<strong><a href="../n/naqa.html">naqa</a></strong> <em>to need</em> + <strong><a href="../n/naludu.html">naludu</a></strong> <em>physical plane</em>
 [2]naqi
 [3]High Lulani
 [4]<high-lulani>(nQ)</high-lulani>
@@ -5448,6 +5820,13 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 &rarr; <a href="../f/fula.html">fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
 &uarr; <a href="../a/'a.html">&rsquo;a</a><high-lulani>(a/)</high-lulani>  <em>iron</em>
 &darr; <a href="../s/supu.html">supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
+[2]nahusabi
+[3]High Lulani
+[4]<high-lulani>(nVsB)</high-lulani>
+[5]<ipa>/&#x2cc;nah.&#x289;.&#x2c8;sab.&#x268;/</ipa>
+[6]transitive derived compound verb <div class="definition">to point out</div>
+[7]Etymology
+<strong><a href="../n/na.html">na</a></strong> <high-lulani>(n)</high-lulani> <em>to point</em> + <strong><a href="../h/husabi.html">husabi</a></strong> <high-lulani>(VsB)</high-lulani> <em>finger</em>
 [2]ni
 [3]High Lulani
 [4]<high-lulani>(N)</high-lulani>
@@ -5515,7 +5894,14 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [5]<ipa>/&#x2c8;nig.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">guide; protection</div>
 [7]Derived Phrase
-<strong><a href="../n/nigataku.html">nigataku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(Ngt&gt; / K;b)</high-lulani> <em>cane</em>
+<strong><a href="../n/nigataku kibba.html">nigataku kibba</a></strong> <high-lulani>(Ngt&gt; / K;b)</high-lulani> <em>cane</em>
+[2]nigataku kibba
+[3]High Lulani
+[4]<high-lulani>(Ngt&gt; / K;b)</high-lulani>
+[5]<ipa>/&#x2cc;nig.&#x259;.&#x2c8;t&#x2b0;ak&#x2b0;.&#x289;.&#x2c8;k&#x2b0;ib.b&#x259;/</ipa>
+[6]inanimate derived compound noun phrase <div class="definition">walking stick; cane</div>
+[7]Etymology
+<strong><a href="../n/niga.html">niga</a></strong> <high-lulani>(Ng)</high-lulani> <em>guide</em> + <strong><a href="../t/taku.html">taku</a></strong> <high-lulani>(t&gt;)</high-lulani> <em>for</em> + <strong><a href="../k/kibba.html">kibba</a></strong> <high-lulani>(K;b)</high-lulani> <em>stick</em>
 [2]nigi
 [3]High Lulani
 [4]<high-lulani>(NG)</high-lulani>
@@ -5906,15 +6292,15 @@ Activity is the surest path to doing something.
 [5]<ipa>/&#x2c8;&#x14b;as.&#x259;/</ipa>
 [6]animate stem noun <div class="definition">fish</div>
 [7]Derived Terms
-<strong><a href="../d/dasuni.html">dasuni</a><a href="../k/kifi.html">kifi</a><a href="../c/cani.html">cani</a> qasa</strong> <em>coelacanth</em>
+<strong><a href="../d/daxuni.html">daxuni</a><a href="../k/kifi.html">kifi</a><a href="../c/cani.html">cani</a> qasa</strong> <high-lulani>(dZNKFcN / qs)</high-lulani> <em>coelacanth</em>
 [7]See Also
-<a href="../q/qikanni.html">qikanni</a> <high-lulani>(Qk;N)</high-lulani> <em>dog</em>
-<a href="../h/hannaku.html">hannaku</a> <high-lulani>(h;n&gt;)</high-lulani> <em>cat</em>
-<a href="../s/sula.html">sula</a> <high-lulani>(zl)</high-lulani> <em>goat</em>
-<a href="../n/nasi''u.html">nasi&#x294;u</a> <high-lulani>(nS;u)</high-lulani> <em>sheep</em>
-<a href="../k/kipu.html">kipu</a> <high-lulani>(Ko)</high-lulani> <em>ox</em>
-<a href="../k/kilatu'i.html">kilatu&rsquo;i</a> <high-lulani>(Klei)</high-lulani> <em>deer</em>
-<a href="../x/xu'a.html">xu&rsquo;a</a> <high-lulani>(Za)</high-lulani> <em>bird</em>
+<strong><a href="../q/qikanni.html">qikanni</a></strong> <high-lulani>(Qk;N)</high-lulani> <em>dog</em>
+<strong><a href="../h/hannaku.html">hannaku</a></strong> <high-lulani>(h;n&gt;)</high-lulani> <em>cat</em>
+<strong><a href="../s/sula.html">sula</a></strong> <high-lulani>(zl)</high-lulani> <em>goat</em>
+<strong><a href="../n/nasi''u.html">nasi&#x294;u</a></strong> <high-lulani>(nS;u)</high-lulani> <em>sheep</em>
+<strong><a href="../k/kipu.html">kipu</a></strong> <high-lulani>(Ko)</high-lulani> <em>ox</em>
+<strong><a href="../k/kilatu'i.html">kilatu&rsquo;i</a></strong> <high-lulani>(Klei)</high-lulani> <em>deer</em>
+<strong><a href="../x/xu'a.html">xu&rsquo;a</a></strong> <high-lulani>(Za)</high-lulani> <em>bird</em>
 [2]qaxa
 [3]High Lulani
 [4]<high-lulani>(qx)</high-lulani>
@@ -6231,6 +6617,8 @@ gnomic
 [4]<high-lulani>(lT)</high-lulani>
 [5]<ipa>/&#x2c8;lat&#x2b0;.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">chance; opportunity</div>
+
+
 [2]ladi
 [3]High Lulani
 [4]<high-lulani>(lD)</high-lulani>
@@ -6281,6 +6669,20 @@ gnomic
 &larr; <a href="../p/paraba.html">paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
 &rarr; <a href="../k/kari.html">kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
 &uarr; <a href="../r/ra''asa.html">ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
+
+[2]lakaru
+[3]High Lulani
+[4]<high-lulani>(lkw)</high-lulani>
+[5]<ipa>/l&#x259;.&#x2c8;k&#x2b0;a&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">will finish doing; <small-caps>fut;dyn-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../l/labu.html">labu</a></strong> <small-caps>fut;dyn</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <strong>lakaru</strong> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]lagi
 [3]High Lulani
 [4]<high-lulani>(lG)</high-lulani>
@@ -6490,9 +6892,7 @@ state
 [3]High Lulani
 [4]<high-lulani>(LW)</high-lulani>
 [5]<ipa>/&#x2c8;lil.&#x289;/</ipa>
-[6]inanimate stem noun <div class="definition">stairs</div>
-[7]Derived Terms
-<strong><a href="../l/liluxita.html">liluxita</a></strong> <high-lulani>(LWXt)</high-lulani> <em>stair</em>
+[6]inanimate mass stem noun <div class="definition">stairs</div>
 [2]liffa
 [3]High Lulani
 [4]<high-lulani>(L;f)</high-lulani>
@@ -6529,6 +6929,13 @@ a public speaking session
 &rarr; <a href="../x/xaki.html">xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
 &uarr; <a href="../p/pini.html">pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
 &darr; <a href="../d/dina.html">dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
+[2]lu&rsquo;atinna
+[3]High Lulani
+[4]<high-lulani>(WaT;n)</high-lulani>
+[5]<ipa>/&#x2cc;lu&#x294;.&#x259;.&#x2c8;t&#x2b0;i&#x272;.&#x272;&#x259;/</ipa>
+[6]derived adverb <div class="definition">lovingly</div>
+[7]Etymology
+<strong><a href="../l/lu'i.html">lu&rsquo;i</a></strong> <em>to love</em> + <strong><a href="../a/-atinna.html">-atinna</a></strong> <small-caps>adv</small-caps>
 [2]lu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Wi)</high-lulani>
@@ -6543,6 +6950,20 @@ a public speaking session
 <small-caps>1int</small-caps> <em>love</em> <small-caps>2tra.</small-caps>
 &ldquo;I love you.&rdquo;
 [6]abstract stem noun <div class="definition">love</div>
+[2]lu&rsquo;ipu&rsquo;a
+[3]High Lulani
+[4]<high-lulani>(Wioa)</high-lulani>
+[5]<ipa>/&#x2cc;lu&#x294;.&#x268;.&#x2c8;p&#x2b0;u&#x294;.&#x259;/</ipa>
+[6]animate derived noun <div class="definition">someone who is loved; lover</div>
+[7]Etymology
+<strong><a href="../l/lu'i.html">lu&rsquo;i</a></strong> <em>to love</em> + <strong><a href="../p/pu'a.html">pu&rsquo;a</a></strong> <small-caps>nmn</small-caps>
+[2]lu&rsquo;ica&rsquo;i
+[3]High Lulani
+[4]<high-lulani>(Wici)</high-lulani>
+[5]<ipa>/&#x2cc;lu&#x294;.&#x268;.&#x2c8;ca&#x294;.&#x268;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to love romantically</div>
+[7]Etymology
+<strong><a href="../l/lu'i.html">lu&rsquo;i</a></strong> <em>to love</em> + <strong><a href="../c/ca'i.html">ca&rsquo;i</a></strong> <em>romance</em>
 [2]lu&rsquo;iki
 [3]High Lulani
 [4]<high-lulani>(WiK)</high-lulani>
@@ -6557,6 +6978,13 @@ a public speaking session
 <a href="../d/duku.html">duku</a> <high-lulani>(E&gt;)</high-lulani> <em>body</em>
 [7]Hypernym
 <a href="../l/lahha.html">lahha</a> <high-lulani>(l;h)</high-lulani> <em>body</em>
+[2]lu&rsquo;isamma
+[3]High Lulani
+[4]<high-lulani>(Wis;m)</high-lulani>
+[5]<ipa>/&#x2cc;lu&#x294;.&#x268;.&#x2c8;sam.m&#x259;/</ipa>
+[6]intransitive derived compound verb <div class="definition">to love unconditionally</div>
+[7]Etymology
+<strong><a href="../l/lu'i.html">lu&rsquo;i</a></strong> <em>to love</em> + <strong><a href="../s/samma.html">samma</a></strong> <em>unconditional love</em>
 [2]lupumma
 [3]High Lulani
 [4]<high-lulani>(Wo;m)</high-lulani>
@@ -6607,27 +7035,35 @@ the wall of a building, especially viewed from inside
 [7]See Also
 <strong><a href="../k/kimilli.html">kimilli</a></strong> <high-lulani>(KM;L)</high-lulani> <em>king</em>
 [6]proper stem noun (capitalised) <div class="definition">Lulani (language)</div>
+
+[2]lulu
+[3]High Lulani
+[4]<high-lulani>(WW)</high-lulani>
+[5]<ipa>/&#x2c8;lul.&#x289;/</ipa>
+[6]transitive derived verb <div class="definition">to undo; to repeal</div>
+[7]Etymology
+<strong><a href="../l/la.html">la</a></strong> <em>to do</em> + <strong><a href="../u/-ulu.html">-ulu</a></strong> <em>undo</em>
 [2]luffu
 [3]High Lulani
 [4]<high-lulani>(W;v)</high-lulani>
 [5]<ipa>/&#x2c8;luf.f&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">eye(s)</div>
-[2]luffuxita
-[3]High Lulani
-[4]<high-lulani>(W;vXt)</high-lulani>
-[5]<ipa>/&#x2cc;luf.f&#x289;.&#x2c8;&#x255;it.&#x259;/</ipa>
-[6]inanimate derived noun <div class="definition">eye</div>
 [2]luxi
 [3]High Lulani
 [4]<high-lulani>(WX)</high-lulani>
 [5]<ipa>/&#x2c8;lu&#x255;.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">multiple birth</div>
 [7]Derived Terms
-<strong><a href="../l/luxira.html">luxira</a></strong> <high-lulani>(WXr)</high-lulani> <em>birth of twins</em>
-<strong><a href="../l/luxirasa.html">luxirasa</a></strong> <high-lulani>(WXrs)</high-lulani> <em>one of a set of twins</em>
-<strong><a href="../l/luxira'uxxi.html">luxira&rsquo;uxxi</a></strong> <high-lulani>(WXru;X)</high-lulani> <em>set of twins</em>
+<strong>luxi<a href="../r/ra.html">ra</a></strong> <high-lulani>(WXr)</high-lulani> <em>birth of twins</em>
+<strong>luxi<a href="../r/ra.html">ra</a><a href="../s/sa.html">sa</a></strong> <high-lulani>(WXrs)</high-lulani> <em>one of a set of twins</em>
+<strong>luxi<a href="../r/ra.html">ra</a><a href="../u/'uxxi.html">&rsquo;uxxi</a></strong> <high-lulani>(WXru;X)</high-lulani> <em>set of twins</em>
 [7]Notes
 Words dealing with twins are usually dictionary words, anything with greater are often nonce
+[2]luxira
+[3]High Lulani
+[4]<high-lulani>(WXr)</high-lulani>
+[5]<ipa>//</ipa>
+[6]
 [1]R
 [2]ra
 [3]High Lulani
@@ -6635,8 +7071,8 @@ Words dealing with twins are usually dictionary words, anything with greater are
 [5]<ipa>/&#x279;&#x259;/</ipa>
 [6]derivational mathematics suffix (noun) <div class="definition">denotes a pair of something</div>
 [7]Examples
-<strong><a href="../l/luffura.html">luffura</a></strong> <em>eyes</em>
-<strong><a href="../i/'itikkura.html">&rsquo;itikkura</a></strong> <em>breasts</em>
+<strong><a href="../l/luffu.html">luffu</a>ra</strong> <em>eyes</em>
+<strong><a href="../i/'itikku.html">&rsquo;itikku</a>ra</strong> <em>breasts</em>
 [5]<ipa>/&#x279;a&#x2d0;/</ipa>
 [6]stem mathematics cardinal <div class="definition">2; two</div>
 [7]See Also
@@ -6724,6 +7160,20 @@ gnomic
 proper, <em>i.e.:</em> of language
 [7]See Also
 <strong><a href="../d/difi.html">difi</a></strong> <high-lulani>(DF)</high-lulani> <em>formality</em>
+[2]rakka
+[3]High Lulani
+[4]<high-lulani>(r;k)</high-lulani>
+[5]<ipa>/&#x2c8;&#x279;ak.k&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">island</div>
+[7]Derived Terms
+<strong><a href="../r/rakkamusa.html">rakkamusa</a></strong> <high-lulani>(r;kUs)</high-lulani> <em>galaxy</em>
+[2]rakkamusa
+[3]High Lulani
+[4]<high-lulani>(r;kUs)</high-lulani>
+[5]<ipa>/&#x2cc;&#x279;ak.k&#x259;.&#x2c8;mus.&#x259;/</ipa>
+[6]inanimate derived compound noun <div class="definition">galaxy</div>
+[7]Etymology
+<strong><a href="../r/rakka.html">rakka</a></strong> <high-lulani>(r;k)</high-lulani> <em>island</em> + <strong><a href="../m/musa.html">musa</a></strong> <high-lulani>(Us)</high-lulani> <em>star</em>
 [2]rana
 [3]High Lulani
 [4]<high-lulani>(rn)</high-lulani>
@@ -6781,8 +7231,8 @@ the posterior side of the body
 [5]<ipa>/&#x279;&#x268;/</ipa>
 [6]derivational suffix (noun: abstract &rarr; animate) <div class="definition">derives an animate noun from an abstract noun</div>
 [7]Examples
-<a href="../a/'axasiri.html">&rsquo;axasiri</a> <high-lulani>(axSR)</high-lulani> <em>adult</em>
-<a href="../a/'asilari.html">&rsquo;asilari</a> <high-lulani>(aSlR)</high-lulani> <em>friend</em>
+<strong><a href="../a/'axasiri.html">&rsquo;axasiri</a></strong> <high-lulani>(axSR)</high-lulani> <em>adult</em>
+<strong><a href="../a/'asilari.html">&rsquo;asilari</a></strong> <high-lulani>(aSlR)</high-lulani> <em>friend</em>
 <strong>&#x294;irri&rsquo;ari</strong> <high-lulani>(i;RaR)</high-lulani> <em>person from Ir&igrave;a</em>
 [2]ri&rsquo;i
 [3]High Lulani
@@ -6846,7 +7296,7 @@ the posterior side of the body
 <strong>Sa&rsquo;imiru dattusa</strong> <em>goddess named Caemi</em>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives a gerund from a verb</div>
 [7]Example
-<strong><a href="../d/dasiru.html">dasiru</a></strong> <high-lulani>(dSw)</high-lulani> <em>eating</em>
+<strong><a href="../d/dasi.html">dasi</a>ru</strong> <high-lulani>(dSw)</high-lulani> <em>eating</em>
 <strong>&rsquo;itiqa dasiru</strong> <high-lulani>(iTq / dSw)</high-lulani> <em>drinking milk</em>
 [5]<ipa>/&#x279;u/</ipa>
 [6]stem auxiliary <div class="definition">present gnomic</div>
@@ -6999,6 +7449,13 @@ gnomic
 [4]<high-lulani>(fak)</high-lulani>
 [5]<ipa>/f&#x259;.&#x2c8;&#x294;ak&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">gorge; valley; canyon</div>
+[2]fa&#x294;afi
+[3]High Lulani
+[4]<high-lulani>(f;aF)</high-lulani>
+[5]<ipa>/&#x2c8;fa&#x294;.j&#x259;.fi/</ipa>
+[6]abstract derived noun <div class="definition">sacred language</div>
+[7]Etymology
+<strong><a href="../f/fa''a.html">fa&#x294;a</a></strong> <em>language</em> + <strong><a href="../f/-fi.html">-fi</a></strong> <em>sacred</em>
 [2]fa&rsquo;ida
 [3]High Lulani
 [4]<high-lulani>(fid)</high-lulani>
@@ -7149,8 +7606,8 @@ state
 [5]<ipa>/f&#x268;/</ipa>
 [6]stem suffix (noun &rarr; noun) <div class="definition">honoured; exalted; sacred</div>
 [7]Examples
-<a href="../k/karafi.html">karafi</a> <high-lulani>(krF)</high-lulani> <em>enlightenment</em>
-<strong><a href="../l/lulanifi.html">lulanifi</a></strong> <high-lulani>(WlNF)</high-lulani> <em>honoured queen</em>
+<strong><a href="../k/karafi.html">karafi</a></strong> <high-lulani>(krF)</high-lulani> <em>enlightenment</em>
+<strong><a href="../l/lulani.html">lulani</a>fi</strong> <high-lulani>(WlNF)</high-lulani> <em>honoured queen</em>
 <strong><a href="../f/fa''afi.html">fa&#x294;afi</a></strong> <high-lulani>(f;aF)</high-lulani> <em>sacred language</em>
 [2]-ffi
 [3]High Lulani
@@ -7158,8 +7615,8 @@ state
 [5]<ipa>/f.f&#x268;/</ipa>
 [6]stem derivational suffix (verb &rarr; noun) <div class="definition">instrument; tool</div>
 [7]Example
-<a href="../s/sikuffi.html">sikuffi</a> <high-lulani>(S&gt;;F)</high-lulani> <em>spear</em>
-<a href="../d/dasiffi.html">dasiffi</a> <high-lulani>(dS;F)</high-lulani> <em>cutlery</em>
+<strong><a href="../s/sikuffi.html">sikuffi</a></strong> <high-lulani>(S&gt;;F)</high-lulani> <em>spear</em>
+<strong><a href="../d/dasiffi.html">dasiffi</a></strong> <high-lulani>(dS;F)</high-lulani> <em>cutlery</em>
 [2]fi&rsquo;atu
 [3]High Lulani
 [4]<high-lulani>(Fae)</high-lulani>
@@ -7292,6 +7749,19 @@ state
 <high-lulani>(.uz / ru / sy / dS / vc.)</high-lulani>
 <em><small-caps>1int prs;dyn 2abl</small-caps> eat can.</em>
 &ldquo;I can eat now that you're here.&rdquo;
+[2]fukaru
+[3]High Lulani
+[4]<high-lulani>(vkw)</high-lulani>
+[5]<ipa>/f&#x289;.&#x2c8;k&#x2b0;.a&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">will not stop; won&rsquo;t stop; <small-caps>fut;neg-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../f/funi.html">funi</a></strong> <high-lulani>(vN)</high-lulani> <small-caps>fut;neg</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <high-lulani>(kw)</high-lulani> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <strong>fukaru</strong> | <a href="../h/hukaru.html">hukaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]funi
 [3]High Lulani
 [4]<high-lulani>(vN)</high-lulani>
@@ -7489,7 +7959,7 @@ state
 [5]<ipa>/s&#x259;.&#x2c8;t&#x2b0;ad.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">conversation</div>
 [7]Derived Terms
-<strong><a href="../j/ju'isatadu.html">ju&rsquo;isatadu</a></strong> <high-lulani>(YistE)</high-lulani> <em>meet</em>
+<strong><a href="../j/ju'isatadu.html">ju&rsquo;isatadu</a></strong> <high-lulani>(YistE)</high-lulani> <em>to meet</em>
 [2]sadadu
 [3]High Lulani
 [4]<high-lulani>(sdE)</high-lulani>
@@ -7575,7 +8045,7 @@ state
 &ldquo;I shared it with you.&rdquo;
 [7]Derived Terms
 <strong><a href="../s/sakimica.html">sakimica</a></strong> <high-lulani>(sKMc)</high-lulani> <em>to give permission</em>
-[6]stem mathematics <div class="definition">1. divided by</div>
+[6]stem mathematics <div class="definition">divided by</div>
 [7]Example
 <strong>Saqikka saki kifi &rsquo;anu guhi.</strong>
 <high-lulani>(.sQ;k / sK / KF / aI / &lt;H.)</high-lulani>
@@ -7586,7 +8056,7 @@ state
 <a href="../j/ju'i.html">ju&rsquo;i</a> <high-lulani>(Yi)</high-lulani> <em>plus</em>
 <a href="../t/tali.html">tali</a> <high-lulani>(tL)</high-lulani> <em>minus</em>
 <a href="../b/batu.html">batu</a> <high-lulani>(be)</high-lulani> <em>multiply</em>
-2. denotes a fraction that is the reciprocal of an integer
+[6]<div class="definition">denotes a fraction that is the reciprocal of an integer</div>
 [7]Examples
 <strong>saki <a href="../r/ra.html">ra</a></strong> <em>half</em>
 <strong>saki <a href="../k/kifi.html">kifi</a></strong> <em>third</em>
@@ -7828,27 +8298,7 @@ state
 &rarr; <a href="../n/nudda.html">nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
 &uarr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
 &darr; <a href="../f/fasami.html">fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
-[2]si
-[3]High Lulani
-[4]<high-lulani>(S)</high-lulani>
-[5]<ipa>/s&#x268;/</ipa>
-[6]derivational suffix (auxiliary) <div class="definition">inceptive</div>
-[7]Usage Notes
-Only used with stative and iterative auxiliaries.
-[7]Derived Terms
-[t]
-stative
-iterative
-[r]past
-<a href="../p/pisi.html">pisi</a>
-<a href="../t/takusi.html">takusi</a>
-[r]present
-<a href="../r/ra'usi.html">ra&rsquo;usi</a>
-<a href="../n/nasi.html">nasi</a>
-[r]future
-<a href="../n/nagisi.html">nagisi</a>
-<a href="../h/husi.html">husi</a>
-[/t]
+
 [2]si&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(Sa)</high-lulani>
@@ -8071,7 +8521,7 @@ replaces third-person pronouns, if necessary, to refer to the subject of the sen
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
-<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>passion</em>
+<a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>zeal</em>
 [2]sutti&rsquo;ima
 [3]High Lulani
 [4]<high-lulani>(z;Tim)</high-lulani>
@@ -8105,9 +8555,9 @@ a fear stemming from lack of knowledge of the future
 [5]<ipa>/&#x2cc;suk.k&#x268;/</ipa>
 [6]stem adjective <div class="definition">entire; whole; all</div>
 [7]Examples
-<strong><a href="../k/kalusukki.html">kalusukki</a></strong> <high-lulani>(kWz;K)</high-lulani> <em>entire body</em>
+<strong><a href="../k/kalu.html">kalu</a>sukki</strong> <high-lulani>(kWz;K)</high-lulani> <em>entire body</em>
 [7]See Also
-<a href="../a/'aba.html">&rsquo;aba</a> <high-lulani>(ab)</high-lulani> <em>every</em>
+<strong><a href="../a/'aba.html">&rsquo;aba</a></strong> <high-lulani>(ab)</high-lulani> <em>every</em>
 [2]suma
 [3]High Lulani
 [4]<high-lulani>(zm)</high-lulani>
@@ -8298,6 +8748,22 @@ the three spatial dimensions
 <a href="../s/silu.html">silu</a> <high-lulani>(SW)</high-lulani> <em>husband</em>
 [7]Restrictions
 not used with possessives
+[2]xara
+[3]High Lulani
+[4]<high-lulani>(xr)</high-lulani>
+[5]<ipa>/&#x2c8;&#x255;a&#x279;.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">rocket; starship</div>
+[7]Derived Terms
+<strong><a href="../x/xaraduluri.html">xaraduluri</a></strong> <high-lulani>(xrEWR)</high-lulani> <em>tsarship</em>
+[2]xaraduluri
+[3]High Lulani
+[4]<high-lulani>(xrEWR)</high-lulani>
+[5]<ipa>/&#x2cc;&#x255;a&#x279;.&#x259;.d&#x289;.&#x2c8;lu&#x279;.&#x268;/</ipa>
+[6]inanimate derived compound noun <div class="definition"><a href="../t/tsar.html">tsar</a>ship</div>
+[7]Definition
+a vessel piloted by gods or other divine forces, able to move through time, space, reality and <a href="../g/gingla.html">gingla</a>
+[7]Etymology
+<strong><a href="../x/xara.html">xara</a></strong> <high-lulani>(xr)</high-lulani> <em>starship</em> + <strong><a href="../d/duluri.html">duluri</a></strong> <high-lulani>(EWR)</high-lulani> <em><a href="../t/tsar.html">tsar</a></em>
 [2]xasagi
 [3]High Lulani
 [4]<high-lulani>(xsG)</high-lulani>
@@ -8350,9 +8816,11 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high
 &rarr; <a href="../r/ra.html">ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
 &mdash; <a href="../m/mullu.html">mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
 [6]mathematics suffix <div class="definition">one particle of a mass</div>
+[7]Usage Notes
+used as a suffix to mass nouns
 [7]Example
-<strong><a href="../j/jagaruxita.html">jagaruxita</a></strong> <high-lulani>(jgwXt)</high-lulani> <em>grain of sand</em>
-<strong><a href="../i/'itixita.html">&rsquo;itixita</a></strong> <high-lulani>(iTXt)</high-lulani> <em>drop of milk</em>
+<strong><a href="../j/jagaru.html">jagaru</a>xita</strong> <high-lulani>(jgwXt)</high-lulani> <em>grain of sand</em>
+<strong><a href="../i/'iti.html">&rsquo;iti</a>xita</strong> <high-lulani>(iTXt)</high-lulani> <em>drop of milk</em>
 [2]xidu
 [3]High Lulani
 [4]<high-lulani>(XE)</high-lulani>
@@ -8506,16 +8974,8 @@ Denotes a beneficiary
 [3]High Lulani
 [4]<high-lulani>(hf)</high-lulani>
 [5]<ipa>/&#x2c8;haf.&#x259;/</ipa>
-[6]inanimate stem noun <div class="definition">race of people</div>
-[7]Derived Terms
-<strong><a href="../h/hafaxita.html">hafaxita</a></strong> <high-lulani>(hfXt)</high-lulani> <em>a member of a race</em>
-[2]hafaxita
-[3]High Lulani
-[4]<high-lulani>(hfXt)</high-lulani>
-[5]<ipa>/&#x2cc;haf.&#x259;.&#x2c8;&#x255;it&#x2b0;.&#x259;/</ipa>
-[6]derived compound noun <div class="definition">a member of a specific race</div>
-[7]Etymology
-<strong><a href="../h/hafa.html">hafa</a></strong> <high-lulani>(hf)</high-lulani> <em>race</em> + <strong><a href="../x/xita.html">xita</a></strong> <high-lulani>(Xt)</high-lulani> <em>one</em>
+[6]inanimate mass stem noun <div class="definition">race of people</div>
+
 [2]hafi
 [3]High Lulani
 [4]<high-lulani>(hF)</high-lulani>
@@ -8599,6 +9059,13 @@ Denotes a beneficiary
 <high-lulani>(.WlN / Hz / mnf.)</high-lulani>
 <em>queen rule country.</em>
 &ldquo;The queen rules this country.&rdquo;
+[2]hisuba
+[3]High Lulani
+[4]<high-lulani>(Hzb)</high-lulani>
+[5]<ipa>/h&#x268;.&#x2c8;sub.&#x259;/</ipa>
+[6]animate derived noun <div class="definition">administrator; minister</div>
+[7]Etymology
+<strong><a href="../h/hisu.html">hisu</a></strong> <high-lulani>(Hz)</high-lulani> <em>to administer</em> + <strong><a href="../b/ba.html">ba</a></strong> <high-lulani>(b)</high-lulani> <small-caps>nmn</small-caps>
 [2]hisubajana
 [3]High Lulani
 [4]<high-lulani>(Hzbjn)</high-lulani>
@@ -8666,6 +9133,19 @@ gnomic
 [7]Derived Terms
 <strong><a href="../x/xihuba.html">xihuba</a></strong> <high-lulani>(XVb)</high-lulani> <em>to be important</em>
 <strong><a href="../d/daruhuba.html">daruhuba</a></strong> <high-lulani>(dwVb)</high-lulani> <em>main street</em>
+[2]hukaru
+[3]High Lulani
+[4]<high-lulani>(Vkw)</high-lulani>
+[5]<ipa>/h&#x289;.&#x2c8;ka&#x279;.&#x289;/</ipa>
+[6]derived auxiliary <div class="definition">will discontinue; <small-caps>fut;itr-trm</small-caps></div>
+[7]Etymology
+<strong><a href="../h/hu.html">hu</a></strong> <high-lulani>(V)</high-lulani> <small-caps>fut;itr</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <high-lulani>(kw)</high-lulani> <small-caps>trm</small-caps>
+[7]See Also
+[t] | dynamic | stative | negative | iterative | gnomic
+[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../r/rukaru.html">rukaru</a>
+[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <strong>hukaru</strong> | <a href="../r/rukaru.html">rukaru</a>
+[/t]
 [2]hulla
 [3]High Lulani
 [4]<high-lulani>(V;l)</high-lulani>
@@ -8673,6 +9153,13 @@ gnomic
 [6]intransitive stem verb <div class="definition">to have sex</div>
 [7]Thematic Relations
 <strong>agent, patient</strong> <em>subject</em>
+[2]hullasisa
+[3]High Lulani
+[4]<high-lulani>(V;lSs)</high-lulani>
+[5]<ipa>/&#x2cc;hu&#x28e;.&#x28e;&#x259;.&#x2c8;sis.&#x259;/</ipa>
+[6]transitive derived compound verb <div class="definition">to have sex-play with someone</div>
+[7]Etymology
+<strong><a href="../h/hulla.html">hulla</a></strong> <high-lulani>(V;l)</high-lulani> <em>to have sex</em> + <strong><a href="../s/sisa.html">sisa</a></strong> <high-lulani>(Ss)</high-lulani> <em>nudity</em>
 [2]hulu
 [3]High Lulani
 [4]<high-lulani>(VW)</high-lulani>
@@ -8706,6 +9193,13 @@ gnomic
 [4]<high-lulani>(VsB)</high-lulani>
 [5]<ipa>/hu.&#x2c8;sab.&#x268;/</ipa>
 [6]inanimate stem noun bodypart <div class="definition">finger</div>
+[2]husi
+[3]High Lulani
+[4]<high-lulani>(VS)</high-lulani>
+[5]<ipa>/&#x2c8;hus.&#x268;/</ipa>
+[6]derived auxiliary <div class="definition">will start doing; <small-caps>fut;itr&#x268;nc</small-caps></div>
+[7]Etymology
+<strong><a href="../h/hu.html">hu</a></strong> <small-caps>fut;itr</small-caps> + <strong><a href="../s/si.html">si</a></strong> <small-caps>inc</small-caps>
 [2]hussu
 [3]High Lulani
 [4]<high-lulani>(V;z)</high-lulani>

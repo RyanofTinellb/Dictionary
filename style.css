@@ -8,16 +8,21 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 h1 {
-	font-weight: normal;
-	padding-left: 10%
+	font-weight: bold;
+	padding-bottom: 0.5em;
+	padding-left: 10%;
+	font-family: serif;
 }
 
 h2 {
-	font-family: arial;
+	font-family: serif;
 	padding-left: 10%;
+	font-weight: normal;
+	text-decoration: overline;
 }
 
 h3 {
+	
 	font-weight: normal;
 	padding-left: 15%;
 	font-size: x-large;
@@ -32,15 +37,18 @@ h4 {
 h5 {
 	font-size: large;
 	font-style: italic;
+	font-family: serif;
 	font-weight: normal;
 	padding-left: 10%;
 	margin-bottom: 0.5em;
 }
 
 h6 {
-	text-decoration: underline;
 	line-height: 4;
+	text-decoration: overline;	
 	padding-left: 12%;
+	font-variant: small-caps;
+	font-family: serif;
 	font-size: medium;
 	font-weight: normal;
 	margin: 0;
@@ -48,7 +56,6 @@ h6 {
 
 a {
 	color: black;
-	font-weight: bold;
 	text-decoration: none;
 }
 
@@ -63,7 +70,7 @@ p.example {
 }
 
 p.search-box {
-	padding-top: 1em;
+	padding-top: 2em;
 	padding-left: 10%;
 }
 
@@ -101,6 +108,7 @@ div.justify a {
 span.normal {
 	letter-spacing: 0;
 	text-decoration: underline;
+	font-weight: bold;
 	color: powderblue;
 }
 
@@ -191,7 +199,7 @@ th:first-child {
 
 high-lulani {
 	direction: rtl;
-	font-family: high-lulani, lulani;
+	font-family: lulani, high-lulani;
 }
 
 high-lulani:before {
@@ -220,6 +228,7 @@ span.hidden {
 h5 div.definition {
 	font-style: normal;
 	font-size: medium;
+	font-family: sans-serif;
 	padding-left: 5%;
 	padding-top: 2em;
 	
