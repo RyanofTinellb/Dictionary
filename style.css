@@ -258,6 +258,10 @@ ul li {
 	font-family: sans-serif;
 }
 
+span.dots {
+	font-size: xx-large;
+}
+
 @media screen and (max-width: 900px) {
 	body {
 		background-color: lightgoldenrodyellow;
