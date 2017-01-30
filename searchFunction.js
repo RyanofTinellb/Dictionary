@@ -9,7 +9,7 @@ function dictionarysearch() {
 		x = text.charCodeAt(i)
 		console.log(x)
 	}
-	if (text.startsWith("'")) {
+	if (text.startsWith("'")||text.startsWith("-")) {
 	folder = text.charAt(1);
 	} else {
 	folder = text.charAt(0); }
