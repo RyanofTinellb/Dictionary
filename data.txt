@@ -2,11 +2,6 @@
 [2]&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(a)</high-lulani>
-[5]<ipa>/&#x294;&#x259;/</ipa>
-[6]stem derivational suffix (verb &rarr; noun) <div class="definition">derives an abstract noun from a verb</div>
-[7]Derived Terms
-<strong><a href="../c/cura'a.html">cura&rsquo;a</a></strong> <high-lulani>(yra)</high-lulani> <em>time</em>
-<strong><a href="../q/qacca'a.html">qacca&rsquo;a</a></strong> <high-lulani>(q;ca)</high-lulani> <em>choice</em>
 [5]<ipa>/&#x294;a/</ipa>
 [6]inanimate stem noun element <div class="definition">iron</div>
 [7]See Also
@@ -14,6 +9,14 @@
 &larr; <strong><a href="../q/qumalli.html">qumalli</a></strong> <high-lulani>(Am;L)</high-lulani> <em>manganese</em>
 &rarr; <strong><a href="../g/gaxiki.html">gaxiki</a></strong> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
 &darr; <strong><a href="../n/nasufi.html">nasufi</a></strong> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
+[2]-&rsquo;a
+[3]High Lulani
+[4]<high-lulani>(a)</high-lulani>
+[5]<ipa>/&#x294;&#x259;/</ipa>
+[6]stem derivational suffix (verb &rarr; noun) <div class="definition">derives an abstract noun from a verb</div>
+[7]Derived Terms
+<strong><a href="../c/cura'a.html">cura&rsquo;a</a></strong> <high-lulani>(yra)</high-lulani> <em>time</em>
+<strong><a href="../q/qacca'a.html">qacca&rsquo;a</a></strong> <high-lulani>(q;ca)</high-lulani> <em>choice</em>
 [2]&rsquo;a&rsquo;ami
 [3]High Lulani
 [4]<high-lulani>(aaM)</high-lulani>
@@ -1246,7 +1249,7 @@ to have a though slowly rise in one&rsquo;s mind
 [2]pi
 [3]High Lulani
 [4]<high-lulani>(P)</high-lulani>
-[5]<ipa>/p&#x2b0;i/</ipa>
+[5]<ipa>/p&#x2&#x2800;;i/</ipa>
 [6]stem auxiliary <div class="definition">past stative; <small-caps>pst;sta;</small-caps> was; were</div>
 [7]Derived Terms
 <strong><a href="../p/pikaru.html">pikaru</a></strong> <high-lulani>(Pkw)</high-lulani> <em>stopped being</em>
@@ -1256,9 +1259,6 @@ to have a though slowly rise in one&rsquo;s mind
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive <div class="definition">giving</div>
-[7]Examples
-<strong><a href="../a/'alla.html">&rsquo;alla</a>pi <a href="../t/taka.html">taka</a><a href="../j/ji'a.html">ji&rsquo;a</a></strong> <high-lulani>(a;lP / tkJa)</high-lulani> <em>unfamiliar sound</em>
 [2]piba
 [3]High Lulani
 [4]<high-lulani>(Pb)</high-lulani>
@@ -1999,7 +1999,7 @@ a meaningful oscillation of medium
 [2]taku
 [3]High Lulani
 [4]<high-lulani>(t&gt;)</high-lulani>
-[5]<ipa>/&#x2c8;t&#x2b0;ak&#x2b0;.&#x289;/</ipa>
+[5]<ipa>/&#x2c8;t&#x2&#x2800;;ak&#x2&#x2800;;.&#x289;/</ipa>
 [6]stem auxiliary <div class="definition">past iterative; <small-caps>pst;itr</small-caps>; did over and over; did repeatedly</div>
 [7]Derived Terms
 <strong><a href="../t/takaru.html">takaru</a></strong> <high-lulani>(tkw)</high-lulani> <em>stopped doing</em>
@@ -2009,9 +2009,6 @@ a meaningful oscillation of medium
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive adjective <div class="definition">for; as a</div>
-[7]Examples
-<strong><a href="../n/nigatakukibba.html">nigataku kibba</a></strong> <high-lulani>(nGt&gt; / K;b)</high-lulani> <em>cane</em>
 [2]takkulu
 [3]High Lulani
 [4]<high-lulani>(t;&gt;W)</high-lulani>
@@ -2021,10 +2018,20 @@ a meaningful oscillation of medium
 <strong><a href="../i/'itikku.html">&rsquo;itikku</a></strong> <high-lulani>(iT;&gt;)</high-lulani> <em>breast</em>
 <strong><a href="../s/sabi.html">sabi</a></strong> <high-lulani>(sB)</high-lulani> <em>flank</em>
 <strong><a href="../r/rali.html">rali</a></strong> <high-lulani>(rL)</high-lulani> <em>back</em>
+
+[2]tama
+[3]High Lulani
+[4]<high-lulani>(tm)</high-lulani>
+[5]<ipa>/&#x2c8;tam.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">assent; yes</div>
+[7]Definition
+an affirmative answer given to an asked question
+[7]See Also
+<strong><a href="../m/migina.html">migina</a></strong> <high-lulani>(MGn)</high-lulani> <em>denial</em>
 [2]tamu
 [3]High Lulani
 [4]<high-lulani>(tU)</high-lulani>
-[5]<ipa>/&#x2c8;t&#x2b0;am.&#x289;/</ipa>
+[5]<ipa>/&#x2c8;t&#x2&#x2800;;am.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">answer; reply</div>
 [7]Definition
 a communicated reply to a question
@@ -3083,7 +3090,7 @@ an outer wall or boundary
 [2]cani
 [3]High Lulani
 [4]<high-lulani>(cN)</high-lulani>
-[5]<ipa>/&#x2c8;c&#x2b0;an.&#x268;/</ipa>
+[5]<ipa>/&#x2c8;c&#x2&#x2800;;an.&#x268;/</ipa>
 [6]stem auxiliary <div class="definition">present dynamic; <small-caps>prs;dyn;</small-caps> is</div>
 [7]Derived Terms
 <strong><a href="../c/cakaru.html">cakaru</a></strong> <high-lulani>(ckw)</high-lulani> <em>to stop doing</em>
@@ -3093,11 +3100,6 @@ an outer wall or boundary
 [r]present | <strong>cani</strong> | <strong><a href="../r/ra'u.html">ra&rsquo;u</a></strong> | <strong><a href="../j/ji.html">ji</a></strong> | <strong><a href="../n/na.html">na</a></strong> | <strong><a href="../r/ru.html">ru</a></strong>
 [r]future | <strong><a href="../l/labu.html">labu</a></strong> | <strong><a href="../n/nagi.html">nagi</a></strong> | <strong><a href="../f/funi.html">funi</a></strong> | <strong><a href="../h/hu.html">hu</a></strong> | <strong><a href="../r/ruku.html">ruku</a></strong>
 [/t]
-[6]stem attributive suffix <div class="definition">to have</div>
-[7]Examples
-<strong><a href="../t/tu.html">tu</a>cani</strong> <strong><a href="../u/'usu.html">&rsquo;usu</a></strong> <high-lulani>(ecN / uz)</high-lulani> <em>I who have a child</em>
-<strong><a href="../d/daxuni.html">daxuni</a><a href="../k/kifi.html">kifi</a>cani <a href="../q/qasa.html">qasa</a></strong> <high-lulani>(dzNKFcN / qs)</high-lulani> <em>coelacanth</em>
-<strong><a href="../j/jaffaracani.html">jaffaracani</a></strong> <high-lulani>(j;frcN)</high-lulani> <em>spicy</em>
 [2]caqara
 [3]High Lulani
 [4]<high-lulani>(cqr)</high-lulani>
@@ -3514,13 +3516,6 @@ movement of one&rsquo;s head in this way can denote disbelief or exasperation
 [6]inanimate stem noun <div class="definition">spice</div>
 [7]Derived Terms
 <strong><a href="../j/jaffaracani.html">jaffaracani</a></strong> <high-lulani>(j;frcN)</high-lulani> <em>spicy</em>
-[2]jaffaracani
-[3]High Lulani
-[4]<high-lulani>(j;frcN)</high-lulani>
-[5]<ipa>/&#x2cc;&#x25f;af.f&#x259;.&#x279;&#x259;.&#x2c8;c&#x2b0;an.&#x268;/</ipa>
-[6]derived attributive phrase <div class="definition">spicy</div>
-[7]Etymology
-<strong><a href="../j/jaffara.html">jaffara</a></strong> <em>spices</em> + <strong><a href="../c/cani.html">cani</a></strong> <em>having</em>
 [2]jaha
 [3]High Lulani
 [4]<high-lulani>(jh)</high-lulani>
@@ -3529,13 +3524,6 @@ movement of one&rsquo;s head in this way can denote disbelief or exasperation
 [2]ji
 [3]High Lulani
 [4]<high-lulani>(J)</high-lulani>
-[5]<ipa>/&#x25f;&#x268;/</ipa>
-[6]stem <div class="definition">needing; requiring</div>
-[7]Example
-<strong>&rsquo;ita&rsquo;iji &rsquo;usu</strong>
-<high-lulani>(itiJ / uz)</high-lulani>
-<em>car-need <small-caps>1int</small-caps></em>
-&ldquo;I who need a car&rdquo;
 [5]<ipa>/&#x25f;i/</ipa>
 [6]stem auxiliary <div class="definition">present negative; <small-caps>prs;neg;</small-caps> is not; isn&rsquo;t</div>
 [7]Derived Terms
@@ -3589,6 +3577,13 @@ movement of one&rsquo;s head in this way can denote disbelief or exasperation
 [r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <strong>jikaru</strong> | <a href="../n/nakaru.html">nakaru</a>
 [r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a>
 [/t]
+[2]jimuli
+[3]High Lulani
+[4]<high-lulani>(JUL)</high-lulani>
+[5]<ipa>/&#x25f;&#x268;.&#x2c8;mul.&#x268;/</ipa>
+[6]stem adposition <div class="definition">outside</div>
+[7]Antonym
+<strong><a href="../q/qu'u.html">qu&rsquo;u</a></strong> <high-lulani>(Au)</high-lulani> <em>inside</em>
 [2]jiqu
 [3]High Lulani
 [4]<high-lulani>(JA)</high-lulani>
@@ -3910,7 +3905,7 @@ refers to an individual leg, or each leg individually
 [2]kalu
 [3]High Lulani
 [4]<high-lulani>(kW)</high-lulani>
-[5]<ipa>/&#x2c8;k&#x2b0;al.&#x289;/</ipa>
+[5]<ipa>/&#x2c8;k&#x2&#x2800;;al.&#x289;/</ipa>
 [6]stem pronoun <div class="definition">third person inanimate ablative; 3<small-caps>ina;abl;</small-caps> because of it; from it<em></em></div>
 [7]See Also
 [t] | 1st person | 2nd person | 3rd person animate | 3rd person inanimate
@@ -5247,6 +5242,15 @@ state
 [6]intransitive derived compound verb <div class="definition">to be crimson</div>
 [7]Etymology
 <strong><a href="../m/miku.html">miku</a></strong> <high-lulani>(M&gt;)</high-lulani> <em>to be red</em> + <strong><a href="../m/mulu.html">mulu</a></strong> <high-lulani>(UW)</high-lulani> <em>blood</em>
+[2]migina
+[3]High Lulani
+[4]<high-lulani>(MGn)</high-lulani>
+[5]<ipa>/m&#x268;.&#x2c8;gin.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">denial; no</div>
+[7]Definition
+a negative answer to a question asked
+[7]See Also
+<strong><a href="../t/tama.html">tama</a></strong> <em>assent</em>
 [2]mimu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(MUi)</high-lulani>
@@ -5478,13 +5482,6 @@ a dense, heavy metal. Element 82
 [2]na
 [3]High Lulani
 [4]<high-lulani>(n)</high-lulani>
-[5]<ipa>/n&#x259;/</ipa>
-[6]stem attributive <div class="definition">going to</div>
-[7]Examples
-<strong>&#x294;irri&rsquo;ana gusu</strong>
-<high-lulani>(i;Ran / &lt;z)</high-lulani>
-<em>Ir&igrave;a-going_to person</em>
-&ldquo;person going to Ir&igrave;a.&rdquo;
 [5]<ipa>/na/</ipa>
 [6]stem auxiliary <div class="definition">present iterative; <small-caps>prs;itr;</small-caps> is</div>
 [7]Derived Terms
@@ -5640,13 +5637,6 @@ most usually used as a verbal prefix
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <strong>nagi</strong> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive <div class="definition">become</div>
-[7]Examples
-<strong>lulaninagi qumu</strong>
-<high-lulani>(WlNnG / AU)</high-lulani>
-<em>queen-become woman</em>
-&ldquo;the woman who&rsquo;s becoming a queen&rdquo;
-[f]<strong><a href="../x/xuci.html">xuci</a>nagi <a href="../c/cula.html">cula</a></strong> <high-lulani>(ZCnG / yl)</high-lulani> <em>hatching egg</em>
 [2]nama
 [3]High Lulani
 [4]<high-lulani>(nm)</high-lulani>
@@ -5806,6 +5796,8 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 <strong><a href="../d/ducinibasa.html">ducinibasa</a></strong> <high-lulani>(ECNbs)</high-lulani> <em>to steal</em>
 [5]<ipa>/ni/</ipa>
 [6]stem adposition <div class="definition">at; in</div>
+[7]See Also
+<strong><a href="../q/qu'u.html">qu&rsquo;u</a></strong> <high-lulani>(Au)</high-lulani> <em>inside</em>
 [6]inanimate stem noun element <div class="definition">silver</div>
 [7]See Also
 &larr; <strong><a href="../q/qala.html">qala</a></strong><high-lulani>(ql/)</high-lulani>  <em>palladium</em>
@@ -6401,12 +6393,6 @@ to believe oneself to be mature
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive <div class="definition">receiving</div>
-[7]Example
-<strong>pu&rsquo;ibaqilu xa&#x294;u</strong>
-<high-lulani>(oibQW / x;u)</high-lulani>
-<em>ball-receiving child</em>
-child who&rsquo;s getting a ball
 [2]qira
 [3]High Lulani
 [4]<high-lulani>(Qr)</high-lulani>
@@ -6432,16 +6418,6 @@ child who&rsquo;s getting a ball
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive <div class="definition">doing</div>
-[7]Examples
-<strong>nuhuqixa mihu</strong>
-<high-lulani>(IVQx / MV)</high-lulani>
-<em>origami-doing</em> <small-caps>3ani;int</small-caps>
-&ldquo;performer of origami&rdquo;
-[f]<strong>kassuruqixa musa</strong>
-<high-lulani>(k;zwQx / Us)</high-lulani>
-<em>buy-</em><small-caps>ger-</small-caps><em>doing day</em>
-&ldquo;market day&rdquo;
 [2]qu
 [3]High Lulani
 [4]<high-lulani>(A)</high-lulani>
@@ -6451,7 +6427,11 @@ child who&rsquo;s getting a ball
 [3]High Lulani
 [4]<high-lulani>(Au)</high-lulani>
 [5]<ipa>/&#x2c8;&#x14b;u&#x294;.&#x289;/</ipa>
-[6]stem adposition <div class="definition">inside</div>
+[6]stem adposition <div class="definition">in; inside</div>
+[7]Antonym
+<strong><a href="../j/jimuli.html">jimuli</a></strong> <high-lulani>(JUL)</high-lulani> <em>outside</em>
+[7]See Also
+<strong><a href="../n/ni.html">ni</a></strong> <high-lulani>(N)</high-lulani> <em>in</em>
 [2]qumalli
 [3]High Lulani
 [4]<high-lulani>(Am;L)</high-lulani>
@@ -6603,12 +6583,6 @@ A snow-capped mountain or volcano
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <strong>labu</strong> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive <div class="definition">resembling</div>
-[7]Example
-<strong>Qikannilabu hannaku</strong>
-<high-lulani>(Qk;NlO / h;n&gt;)</high-lulani>
-<em>dog-resemble cat</em>
-&ldquo;the cat that looks like a dog&rdquo;
 [2]lati
 [3]High Lulani
 [4]<high-lulani>(lT)</high-lulani>
@@ -7114,9 +7088,6 @@ blend of <em>reverse seven</em>
 [r]present | <a href="../c/cani.html">cani</a> | <strong>ra&rsquo;u</strong> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a> 
 [/t]
-[6]stem attributive suffix <div class="definition">being in</div>
-[7]Example
-<strong>&#x294;irri&rsquo;ara&rsquo;u gusu</strong> <em>people in Ir&igrave;a</em>
 [2]rabaci
 [3]High Lulani
 [4]<high-lulani>(rbC)</high-lulani>
@@ -7307,9 +7278,6 @@ the posterior side of the body
 [3]High Lulani
 [4]<high-lulani>(w)</high-lulani>
 [5]<ipa>/&#x279;&#x289;/</ipa>
-[6]stem attributive suffix <div class="definition">to be called</div>
-[7]Example
-<strong>Sa&rsquo;imiru dattusa</strong> <em>goddess named Caemi</em>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives a gerund from a verb</div>
 [7]Examples
 <strong><a href="../n/nina.html">nina</a><a href="../d/dasi.html">dasi</a></strong>ru</strong> <high-lulani>(dSw)</high-lulani> <em>for eating</em>
@@ -7371,7 +7339,7 @@ the posterior side of the body
 [2]ruku
 [3]High Lulani
 [4]<high-lulani>(w&gt;)</high-lulani>
-[5]<ipa>/&#x2c8;&#x279;uk&#x2b0;.&#x289;/</ipa>
+[5]<ipa>/&#x2c8;&#x279;uk&#x2&#x2800;;.&#x289;/</ipa>
 [6]stem auxiliary <div class="definition">future gnomic; <small-caps>fut;gno;</small-caps> will be</div>
 [7]See Also
 [t] | dynamic | stative | negative | iterative | gnomic
@@ -7379,9 +7347,6 @@ the posterior side of the body
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <strong>ruku</strong>
 [/t]
-[6]stem attributive suffix <div class="definition">made of</div>
-[7]Examples
-<strong><a href="../u/'u'a.html">&rsquo;u&rsquo;a</a>ruku <a href="../i/'i'uja.html">&rsquo;i&rsquo;uja</a></strong> <high-lulani>(uaw&gt; / iuj)</high-lulani> <em>wooden table</em>
 [2]ruga
 [3]High Lulani
 [4]<high-lulani>(wg)</high-lulani>
@@ -7400,12 +7365,6 @@ the posterior side of the body
 [r]present | <a href="../c/cani.html">cani</a> | <a href="../r/ra'u.html">ra&rsquo;u</a> | <a href="../j/ji.html">ji</a> | <a href="../n/na.html">na</a> | <a href="../r/ru.html">ru</a>
 [r]future | <a href="../l/labu.html">labu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <a href="../r/ruku.html">ruku</a>
 [/t]
-[6]stem attributive suffix <div class="definition">coming from</div>
-[7]Example
-<strong>&#x294;irri&rsquo;arusa Ra&rsquo;ani</strong> <em>Ryan from Ir&igrave;a</em>
-[7]See Also
-<strong><a href="../n/na.html">na</a></strong> <high-lulani>(n)</high-lulani> <em>going to</em>
-<strong><a href="../r/ra'u.html">ra&rsquo;u</a></strong> <high-lulani>(ru)</high-lulani> <em>being in</em>
 [1]F
 [2]fa
 [3]High Lulani
@@ -9204,10 +9163,6 @@ A person chosen to lead because of their old age and wisdom.
 [2]hu
 [3]High Lulani
 [4]<high-lulani>(V)</high-lulani>
-[5]<ipa>/h&#x289;/</ipa>
-[6]stem attributive suffix <div class="definition">wanting</div>
-[7]Example
-<strong><a href="../n/nukki.html">nukki</a>hu <a href="../n/nimalu.html">nimalu</a></strong> <high-lulani>(I;KV / NmW)</high-lulani> <em>the bear that wants a strawberry</em>
 [5]<ipa>/hu/</ipa>
 [6]stem auxiliary <div class="definition">future iterative; will; <small-caps>fut;itr</small-caps></div>
 [7]Derived Terms
