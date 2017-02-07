@@ -135,7 +135,7 @@ em {
 }
 
 div.nav-header {
-	width: 10%;
+	width: 15%;
 	float: left;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
@@ -159,9 +159,10 @@ div.nav-footer a {
 
 div.content {
 	width: 80%;
+	min-height: 35em;
 	padding-top: 2em;
 	padding-bottom: 2em;
-	margin-left: 11%;
+	margin-left: 15%;
 	background-color: lightgoldenrodyellow;	
 }
 
@@ -183,18 +184,19 @@ table {
 
 td {
 	text-align: center;
-	width: 5em;
+	width: 6em;
 	padding: 0;
 	font-family: sans-serif;
 }
 
-th {
-	padding: 0;
-	font-family: sans-serif;
+tr:first-child {
+	font-weight: bold;
 }
 
-th:first-child {
+td:first-child {
 	text-align: right;
+	width: 12em;
+	font-weight: bold;
 }
 
 high-lulani {
@@ -231,7 +233,6 @@ h5 div.definition {
 	font-family: sans-serif;
 	padding-left: 5%;
 	padding-top: 2em;
-	
 }
 
 ol {
@@ -258,6 +259,22 @@ ul li {
 	font-family: sans-serif;
 }
 
+div.nav-header ul {
+	padding: 0;
+	list-style-type: none;
+	list-style-position: inside;
+}
+
+li.normal {
+	color: powderblue;
+	font-weight: bold;
+}
+
+li.normal a {
+	color: powderblue;
+	font-weight: bold;
+}
+
 span.dots {
 	font-size: xx-large;
 }
@@ -269,12 +286,11 @@ span.dots {
 	
 	div.nav-header {
 		width: 100%;
-		letter-spacing: 1em;
 		float: none;
 		background-color: lightslategray;
 	}
 	
-	div.nav-header a {
+	div.nav-header a only{
 		color: white;
 		display: inline;
 		letter-spacing: normal;

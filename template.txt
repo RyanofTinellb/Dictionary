@@ -9,7 +9,7 @@
 <script src="../searchFunction.js"></script>
 </head>
 <div class="nav-header">
-{nav-header}
+{elder-links}
 </div>
 <div class="content">
 {content}
