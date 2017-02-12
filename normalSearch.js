@@ -24,8 +24,8 @@ function search() {
 
 // returns array of terms
 function getTerms() {
-	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "\u0157", ",r",	"%20", "+", "%24", "$", "%25", "%",
-	"%3b", " "];
+	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
+	"%3b", " ", "%2cr", ",r"];
 	var url = window.location.href;
 	url  = url.split("?");
 	var searchString = url[1].split("&");
@@ -57,9 +57,9 @@ function orSearch(arr, terms) {
 		if (output[i][0] == output[i+1][0]) {
 			output[i][1] = output[i][1].concat(output[i+1][1]).sort(function (a,b) {
 				return a < b;}).filter(function(item, pos, ary) {
-			return !pos || item != ary[pos - 1];
+			return !pos || !equal(item, ary[pos - 1]);
 				})
-			output = output.filter(function(item, pos, ary) {return pos != (i+1);});
+			output = output.filter(function(item, pos, ary) {return pos != i;});
 		} else {i++;}
 	}
 	return output;
