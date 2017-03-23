@@ -391,11 +391,7 @@ a mood of joy or supreme contentment
 <strong>experiencer</strong> <em>dative, object</em>
 <strong>topic</strong> <small-caps>pa</small-caps>
 <strong>speech</strong> <em>object</em>
-[7]Aspectual Meanings
-<strong>dynamic</strong> <em>to say</em>
-<strong>stative</strong> <em>to give a speech</em>
-<strong>iterative</strong> <em>to chat</em>
-<strong>gnomic</strong> <em>to be talkative</em>
+<strong>language, medium</strong> <em>ablative</em>
 [7]Examples
 [e]<strong>&#x294;usu jusi &rsquo;i li lu&rsquo;i fu ra&rsquo;u.</strong>
 <high-lulani>(.uz / YS / i / L / Wi / v / ru .)</high-lulani>
@@ -1539,13 +1535,14 @@ to have a though slowly rise in one&rsquo;s mind
 [5]<ipa>/b&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives an animate agentive noun from a verb</div>
 [7]Example
-<strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
-<strong><a href="../b/bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
 <strong><a href="../u/'ussaba.html">&rsquo;ussaba</a></strong> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
+<strong><a href="bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
+<strong><a href="../c/caba.html">caba</a></strong> <high-lulani>(cb)</high-lulani> <em>helper</em>
+<strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
 [5]<ipa>/ba/</ipa>
 [6]stem personal pronoun <div class="definition">second person genitive; <small-caps>2gen</small-caps>; your; yours</div>
 [7]Derived Terms
-<strong><a href="../b/baqa.html">baqa</a></strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
+<strong><a href="baqa.html">baqa</a></strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
 [7]Examples
 <strong><a href="../s/sabba.html">sabba</a>ba</strong> <high-lulani>(s;bb)</high-lulani> <em>your father</em>
 [7]See Also
@@ -1553,7 +1550,7 @@ to have a though slowly rise in one&rsquo;s mind
 [r]intranstitive (abs / nom) | <a href="../u/'usu.html">&rsquo;usu</a> | <a href="../f/filli.html">filli</a> | <a href="../m/mihu.html">mihu</a> | <a href="../p/pa.html">pa</a>
 [r]transitive (erg / acc) | <a href="../s/suma.html">suma</a> | <a href="../f/fu.html">fu</a> | <a href="../q/quhu.html">quhu</a> | <a href="../i/'iffa.html">&rsquo;iffa</a>
 [r]ablative | <a href="../p/puttu.html">puttu</a> | <a href="../s/sacu.html">sacu</a> | <a href="../k/kassi.html">kassi</a> | <a href="../k/kalu.html">kalu</a>
-[r]dative | <a href="../p/pixi.html">pixi</a> | <a href="../b/ba'u.html">ba&rsquo;u</a> | <a href="../j/jusi.html">jusi</a> | <a href="../k/ku.html">ku</a>
+[r]dative | <a href="../p/pixi.html">pixi</a> | <a href="ba'u.html">ba&rsquo;u</a> | <a href="../j/jusi.html">jusi</a> | <a href="../k/ku.html">ku</a>
 [r]genitive | <a href="../p/pagu.html">pagu</a> | <strong>ba</strong> | <a href="../d/disi.html">disi</a> | <a href="../q/qa.html">qa</a>
 [/t]
 [2]ba&rsquo;u
@@ -3088,6 +3085,8 @@ rare
 <high-lulani>(.uz / &gt;dSw / cv.)</high-lulani>
 <small-caps>1int dat-</small-caps><em>eat-</em><small-caps>ger</small-caps> <em>help-</em><small-caps>2tra.</small-caps>
 &ldquo;I help you eat.&rdquo;
+[7]Derived Terms
+<strong><a href="caba.html">caba</a></strong> <high-lulani>(cb)</high-lulani> <em>helper</em>
 [2]ca&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(ca)</high-lulani>
@@ -3115,6 +3114,13 @@ rare
 [4]<high-lulani>(coh)</high-lulani>
 [5]<ipa>/c&#x2b0;&#x259;.&#x2c8;p&#x2b0;uh.!a/</ipa>
 [6]inanimate stem noun <div class="definition">directory; manifest; album</div>
+[2]caba
+[3]High Lulani
+[4]<high-lulani>(cb)</high-lulani>
+[5]<ipa>/&#x2c8;c&#x2b0;ab.&#x259;/</ipa>
+[6]derived animate noun <div class="definition">helper; assistant</div>
+[7]Etymology
+<strong><a href="ca.html">ca</a></strong> <high-lulani>(c)</high-lulani> <em>to help</em> + <strong><a href="../b/ba.html">ba</a></strong> <high-lulani>(b)</high-lulani> <small-caps>nmn</small-caps>
 [2]cabahi
 [3]High Lulani
 [4]<high-lulani>(cbH)</high-lulani>
@@ -4776,6 +4782,8 @@ modifies verbs
 &ldquo;I took it from Ir&igrave;a to Zholt.&rdquo;
 [7]Derived Terms
 <strong><a href="../p/pagi.html">pagi</a></strong> <high-lulani>(pG)</high-lulani> <em>to understand</em>
+
+<strong>gi&rsquo;i</strong> <high-lulani>(Gi)</high-lulani> <em>to understand</em>
 [2]gi&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(Ga)</high-lulani>
@@ -4783,6 +4791,13 @@ modifies verbs
 [6]subordinating stem conjunction <div class="definition">and; that is</div>
 [7]Notes
 used to give further information
+[2]gi&rsquo;i
+[3]High Lulani
+[4]<high-lulani>(Gi)</high-lulani>
+[5]<ipa>/&#x2c8;gi&#x294;.&#x268;/</ipa>
+[6]derived compound verb <div class="definition">to understand communication</div>
+[7]Etymology
+<strong><a href="gi.html">gi</a></strong> <high-lulani>(G)</high-lulani> <em>to hold</em> + <strong><a href="../i/'i.html">&rsquo;i</a></strong> <high-lulani>(i)</high-lulani> <em>to speak</em>
 [2]gi&rsquo;ika
 [3]High Lulani
 [4]<high-lulani>(Gik)</high-lulani>
