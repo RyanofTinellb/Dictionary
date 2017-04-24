@@ -215,9 +215,10 @@ Three plus four is seven.
 [5]<ipa>/&#x2c8;&#x294;al.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">heat</div>
 [7]Derived Terms
-<strong><a href="../a/'alamusa.html">&rsquo;alamusa</a></strong> <high-lulani>(alUs)</high-lulani> <em>sun&rsquo;s heat</em>
-<strong><a href="../a/'alaxuhha.html">&rsquo;alaxuhha</a></strong> <high-lulani>(alZ;h)</high-lulani> <em>heat of the fire</em>
+<strong><a href="'alamusa.html">&rsquo;alamusa</a></strong> <high-lulani>(alUs)</high-lulani> <em>sun&rsquo;s heat</em>
+<strong><a href="'alaxuhha.html">&rsquo;alaxuhha</a></strong> <high-lulani>(alZ;h)</high-lulani> <em>heat of the fire</em>
 <strong><a href="../c/cussi'ala.html">cussi&rsquo;ala</a></strong> <high-lulani>(y;Sal)</high-lulani> <em>to feel hot</em>
+<strong><a href="../j/japa'ala.html">japa&rsquo;ala</a></strong> <high-lulani>(jpal)</high-lulani> <em>haze</em>
 [7]Usage Notes
 these are just about the only terms of this type. Anything else uses the genitive.
 [7]Examples
@@ -2382,6 +2383,13 @@ to rotate on one&rsquo;s own axis
 &ldquo;I live in Ir&igrave;a.&rdquo;
 [7]Derived Terms
 <strong><a href="../t/tujatihu.html">tujatihu</a></strong> <high-lulani>(ejTV)</high-lulani> <em>home</em>
+[2]tihura
+[3]High Lulani
+[4]<high-lulani>(TVr)</high-lulani>
+[5]<ipa>/&#x2c8;t&#x2b0;&#x268;.&#x2c8;hu&#x279;.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">astonishment</div>
+[7]Derived Terms
+<strong>dissutihura</strong> <high-lulani>(D;zTVr)</high-lulani> <em>to be astonished</em>
 [2]tu
 [3]High Lulani
 [4]<high-lulani>(e)</high-lulani>
@@ -3092,7 +3100,8 @@ usually used compounded
 [6]stem derivational suffix (verb &rarr; noun) <div class="definition">derives a patientive inanimate noun from a verb</div>
 [7]Examples
 <strong>dasidu</strong> <high-lulani>(dSE)</high-lulani> <em>food</em>
-<strong><a href="../m/maladu.html">maladu</a></strong> <high-lulani>(mlE)</high-lulani> <em>reflection</em>
+<strong>{kassudu</strong> <em>trade goods</em>
+<strong>{maladu}</strong> <high-lulani>(mlE)</high-lulani> <em>reflection</em>
 [2]du&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Ei)</high-lulani>
@@ -3200,6 +3209,7 @@ rare
 [3]High Lulani
 [4]<high-lulani>(c)</high-lulani>
 [5]<ipa>/c&#x2b0;a/</ipa>
+[6]stem adposition <div class="definition">around; encircling</div>
 [6]transitive stem verb <div class="definition">to help</div>
 [7]Thematic Relations
 <strong>agent</strong> <em>subject</em>
@@ -3622,6 +3632,20 @@ poetic
 [6]inanimate stem noun <div class="definition">end</div>
 [7]Definition
 the end of something passed through, <em>i.e.:</em> a corridor
+[2]japa
+[3]High Lulani
+[4]<high-lulani>(jp)</high-lulani>
+[5]<ipa>/&#x2c8;jap&#x2b0;.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">haze; mist</div>
+[7]Derived Terms
+<strong><a href="japa'ala.html">japa&rsquo;ala</a></strong> <high-lulani>(jpal)</high-lulani> <em>haze</em>
+[2]japa&rsquo;ala
+[3]High Lulani
+[4]<high-lulani>(jpal)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;ap&#x2b0;.&#x259;.&#x2c8;&#x294;al.&#x259;/</ipa>
+[6]inanimate derived compound noun <div class="definition">haze</div>
+[7]Etymology
+<strong><a href="japa.html">japa</a></strong> <high-lulani>(jp)</high-lulani> <em>haze</em> + <strong><a href="../a/'ala.html">&rsquo;ala</a></strong> <high-lulani>(al)</high-lulani> <em>heat</em>
 [2]japu
 [3]High Lulani
 [4]<high-lulani>(jo)</high-lulani>
@@ -4231,6 +4255,7 @@ used for auxiliaries. Replaces final syllable for disyllabic auxiliaries
 [r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a>
 [r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a>
 [/t]
+[6]stem adverb <div class="definition">usually; commonly</div>
 [2]kasa
 [3]High Lulani
 [4]<high-lulani>(ks)</high-lulani>
@@ -4910,6 +4935,11 @@ modifies verbs
 <high-lulani>(iWp&lt; / gNBu)</high-lulani>
 <em>heart-1<small-caps>gen</small-caps> very-hurt</em>
 &ldquo;I&rsquo;m, like, so heartsick.&rdquo;
+[2]gaqqu
+[3]High Lulani
+[4]<high-lulani>(g;A)</high-lulani>
+[5]<ipa>/&#x2c8;ga&#x14b;.&#x14b;&#x289;/</ipa>
+[6]stem adverb <div class="definition">not surprising; usual; common</div>
 [2]galaffidu
 [3]High Lulani
 [4]<high-lulani>(gl;FE)</high-lulani>
@@ -6221,8 +6251,6 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [4]<high-lulani>(Ng)</high-lulani>
 [5]<ipa>/&#x2c8;nig.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">guide; protection</div>
-[7]Derived Phrase
-<strong><a href="../n/nigatakukibba.html">nigataku kibba</a></strong> <high-lulani>(Ngt&gt; / K;b)</high-lulani> <em>cane</em>
 [2]nigi
 [3]High Lulani
 [4]<high-lulani>(NG)</high-lulani>
@@ -6564,6 +6592,13 @@ state
 Activity is the surest path to doing something.
 [7]See Also
 <strong><a href="../b/batu.html">batu</a></strong> <high-lulani>(be)</high-lulani> <em>collection</em>
+[2]qapura
+[3]High Lulani
+[4]<high-lulani>(qor)</high-lulani>
+[5]<ipa>/&#x14b;&#x259;.&#x2c8;p&#x2b0;u&#x279;.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">business</div>
+[7]Definition
+being busy; having something to do
 [2]qaca
 [3]High Lulani
 [4]<high-lulani>(qc)</high-lulani>
@@ -7425,6 +7460,11 @@ Words dealing with twins are usually dictionary words, anything with greater are
 <strong><a href="../s/salura.html">salura</a></strong> <high-lulani>(sWr)</high-lulani> <em>12</em>
 <strong><a href="../r/ranira.html">ranira</a></strong> <high-lulani>(rNr)</high-lulani> <em>22</em>
 [6]inanimate stem noun <div class="definition">metal</div>
+[2]-rra
+[3]High Lulani
+[4]<high-lulani>(;r)</high-lulani>
+[5]<ipa>/r.r&#x259;/</ipa>
+[6]stem derivational suffix (noun) <div class="definition">derives an animate noun from an inanimate noun</div>
 [2]ra&#x294;asa
 [3]High Lulani
 [4]<high-lulani>(r;as)</high-lulani>
@@ -7556,6 +7596,11 @@ proper, <em>i.e.:</em> of language
 [6]derived mathematics cardinal <div class="definition">22; twenty-two; (34)</div>
 [7]Etymology
 <strong><a href="../r/ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em> + <strong>ni</strong> <high-lulani>(N)</high-lulani> <em>linking morpheme</em> + <strong><a href="../r/ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em>
+[2]raqa
+[3]High Lulani
+[4]<high-lulani>(rq)</high-lulani>
+[5]<ipa>/&#x2c8;&#x279;a&#x14b;.&#x259;/</ipa>
+[6]stem modal adverb <div class="definition">obviously; from clear evidence</div>
 [2]raqi
 [3]High Lulani
 [4]<high-lulani>(rQ)</high-lulani>
@@ -7624,6 +7669,11 @@ blend of <em>reverse seven</em>
 [4]<high-lulani>(R;p)</high-lulani>
 [5]<ipa>/&#x2c8;&#x279;ip.p&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">shock; surprise</div>
+[2]ritada
+[3]High Lulani
+[4]<high-lulani>(Rtd)</high-lulani>
+[5]<ipa>/&#x279;&#x268;.&#x2c8;t&#x2b0;ad.&#x259;/</ipa>
+[6]stem adverb <div class="definition">by fate; fated</div>
 [2]rida
 [3]High Lulani
 [4]<high-lulani>(Rd)</high-lulani>
