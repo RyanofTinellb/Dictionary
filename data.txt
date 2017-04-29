@@ -233,9 +233,6 @@ these are just about the only terms of this type. Anything else uses the genitiv
 [6]abstract stem noun <div class="definition">familiarity</div>
 [7]Definition
 a feeling of recognition
-[7]Examples
-<strong>&rsquo;alla<a href="../p/pi.html">pi</a> <a href="../t/taka.html">taka</a></strong> <high-lulani>(a;lP / tk)</high-lulani> <em>familiar sound</em>
-<strong>&rsquo;alla<a href="../p/pi.html">pi</a> <a href="../t/taka.html">taka</a><a href="../j/ji'a.html">ji&rsquo;a</a></strong> <high-lulani>(a;lP / tkJa)</high-lulani> <em>unfamiliar sound</em>
 [2]&rsquo;alamusa
 [3]High Lulani
 [4]<high-lulani>(alUs)</high-lulani>
@@ -529,6 +526,8 @@ a mood of joy or supreme contentment
 <high-lulani>(.uz / hwua / iE / iti.)</high-lulani>
 [e]<small-caps>1int</small-caps> <em>with-wood make car.</em>
 [e]&ldquo;I built a car from wood.&rdquo;
+[7]See Also
+<strong><a href="../p/pifa.html">pifa</a></strong> <high-lulani>(Pf)</high-lulani> <em>to make</em>
 [2]&rsquo;icipu
 [3]High Lulani
 [4]<high-lulani>(iCo)</high-lulani>
@@ -617,7 +616,9 @@ a mood of joy or supreme contentment
 [3]High Lulani
 [4]<high-lulani>(iL)</high-lulani>
 [5]<ipa>/&#x2c8;&#x294;il.&#x268;/</ipa>
-[6]adverb <div class="definition">truly; really; actually; literally</div>
+[6]stem modal adverb <div class="definition">truly; really; actually; literally</div>
+[7]Definition
+Against expectations.
 [7]Examples
 <strong>&ldquo;&#x294;ili ra&rsquo;u?&rdquo;</strong>
 <high-lulani>(.iL / ru.)</high-lulani>
@@ -1190,7 +1191,7 @@ Something done for another.
 [6]inanimate derived compound noun <div class="definition">olive</div>
 [7]Etymology
 <strong><a href="../p/paji.html">paji</a></strong> <high-lulani>(pJ)</high-lulani> <em>fruit</em> + <strong><a href="../g/ga.html">ga</a></strong> <high-lulani>(g)</high-lulani> <em>black</em>
-[2]pakicu
+[[2]pakicu
 [3]High Lulani
 [4]<high-lulani>(pKy)</high-lulani>
 [5]<ipa>/p&#x2b0;&#x259;.&#x2c8;k&#x2b0;ic&#x2b0;.&#x289;/</ipa>
@@ -1235,9 +1236,9 @@ Something done for another.
 [5]<ipa>/p&#x2b0;&#x259;.&#x2c8;man.&#x259;/</ipa>
 [6]intransitive derived compound verb <div class="definition">to realise</div>
 [7]Definition
-to have a though slowly rise in one&rsquo;s mind
+To have a thought slowly rise in one&rsquo;s mind.
 [7]Etymology
-<strong><a href="../p/pa.html">pa</a></strong> <high-lulani>(p)</high-lulani> <em>to think</em> + <strong><a href="../m/mana.html">mana</a></strong> <high-lulani>(mn)</high-lulani> <em>realisation</em>
+<strong><a href="pa.html">pa</a></strong> <high-lulani>(p)</high-lulani> <em>to think</em> + <strong><a href="../m/mana.html">mana</a></strong> <high-lulani>(mn)</high-lulani> <em>realisation</em>
 [2]pamasi
 [3]High Lulani
 [4]<high-lulani>(pmS)</high-lulani>
@@ -1402,6 +1403,8 @@ to have a though slowly rise in one&rsquo;s mind
 <high-lulani>(PF;WQx / f;a)</high-lulani>
 <em>create-<small-caps>psv-pst;dyn</small-caps> language</em>
 &ldquo;conlang&rdquo;
+[7]See Also
+<strong><a href="../i/'idu.html">&rsquo;idu</a></strong> <high-lulani>(iE)</high-lulani> <em>to make</em>
 [2]pixi
 [3]High Lulani
 [4]<high-lulani>(PX)</high-lulani>
@@ -1998,6 +2001,7 @@ to have the same vowels and placement of geminates
 &rarr; <strong><a href="../l/limma.html">limma</a></strong> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
 &uarr; <strong><a href="../s/sa.html">sa</a></strong> <high-lulani>(s)</high-lulani> <em>oxygen</em>
 &darr; <strong><a href="../m/matirra.html">matirra</a></strong> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
+[6]interjection <div class="definition">well; um</div>
 [2]ta&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(ti)</high-lulani>
@@ -2068,7 +2072,7 @@ seeks confirmation from the listener
 [2]tajihu
 [3]High Lulani
 [4]<high-lulani>(tJV)</high-lulani>
-[5]<ipa>/t&#x2b0;!a.&#x2c8;&#x25f;ih.&#x289;/</ipa>
+[5]<ipa>/t&#x2b0;&#x259;.&#x2c8;&#x25f;ih.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">ability; magic power</div>
 [2]taka
 [3]High Lulani
@@ -3448,6 +3452,13 @@ One of ten directions in which something can be measured, or one of four ways in
 [4]<high-lulani>(C;j)</high-lulani>
 [5]<ipa>/&#x2c8;c&#x2b0;i&#x25f;.&#x25f;&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">alcohol</div>
+[2]ciju
+[3]High Lulani
+[4]<high-lulani>(CY)</high-lulani>
+[5]<ipa>/&#x2c8;ci&#x25f;.&#x289;/</ipa>
+[6]inanimate stem noun <div class="definition">tug</div>
+[7]Derived Terms
+<strong>janniciju</strong> <high-lulani>(j;NCY)</high-lulani> <em>to be tugged</em>
 [2]cikki
 [3]High Lulani
 [4]<high-lulani>(C;K)</high-lulani>
@@ -4089,7 +4100,7 @@ Not used with possessives.
 [3]High Lulani
 [4]<high-lulani>(kb)</high-lulani>
 [5]<ipa>/k&#x2b0;ab.&#x259;/</ipa>
-[6]inanimate stem noun <div class="definition">verb</div>
+[6]abstract stem noun <div class="definition">verb</div>
 [2]kata
 [3]High Lulani
 [4]<high-lulani>(kt)</high-lulani>
@@ -5583,6 +5594,7 @@ state
 [6]abstract stem noun <div class="definition">permission</div>
 [7]Derived Terms
 <strong><a href="../s/sakimica.html">sakimica</a></strong> <high-lulani>(sKMc)</high-lulani> <em>to give permission</em>
+[6]stem modal adverb <div class="definition">to be allowed to; may</div>
 [2]mici
 [3]High Lulani
 [4]<high-lulani>(MC)</high-lulani>
@@ -6473,14 +6485,14 @@ This is a dative verb for volitional separation, ablative for non-volitional sep
 [5]<ipa>/n&#x289;.fi&#x279;.&#x259;/</ipa>
 [6]modal adverb <div class="definition">optative; want</div>
 [7]Usage Notes
-Only used in first person
+Only used in first person, or second person questions.
 [7]Example Sentences
 <strong>&#x294;usu ra&rsquo;u dihuri nufira.</strong>
 <high-lulani>(.uz / ru / DVR / IFr.)</high-lulani>
 <small-caps>1int prs;sta</small-caps> <em>down-sea want.</em>
 &ldquo;I want to be under the sea.&rdquo;
 [7]Derived Terms
-<strong><a href="../n/nufirahi.html">nufirahi</a></strong> <high-lulani>(IFrH)</high-lulani> <em>expectation</em>
+<strong><a href="nufirahi.html">nufirahi</a></strong> <high-lulani>(IFrH)</high-lulani> <em>expectation</em>
 [2]nufirahi
 [3]High Lulani
 [4]<high-lulani>(IFrH)</high-lulani>
@@ -7987,6 +7999,13 @@ state
 &larr; <strong><a href="../d/dihiqa.html">dihiqa</a></strong> <high-lulani>(DHq)</high-lulani> <em>americium</em>
 &rarr; <strong><a href="../s/saxxuru.html">saxxuru</a></strong> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
 &uarr; <strong><a href="../t/tacala.html">tacala</a></strong> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
+[2]faru
+[3]High Lulani
+[4]<high-lulani>(fw)</high-lulani>
+[5]<ipa>/&#x2c8;fa&#x279;.&#x289;/</ipa>
+[6]abstract stem noun <div class="definition">certainty</div>
+[7]Definition
+A feeling of certainty about something.
 [2]fasa
 [3]High Lulani
 [4]<high-lulani>(fs)</high-lulani>
@@ -8052,6 +8071,11 @@ state
 [4]<high-lulani>(Fp)</high-lulani>
 [5]<ipa>/&#x2c8;fip&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">storey; level</div>
+[2]fippa
+[3]High Lulani
+[4]<high-lulani>(F;p)</high-lulani>
+[5]<ipa>/&#x2c8;fip.p&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">sleeve</div>
 [2]fipu
 [3]High Lulani
 [4]<high-lulani>(Fo)</high-lulani>
@@ -9267,6 +9291,13 @@ a prediction made on available evidence
 &larr; <strong><a href="../b/baca.html">baca</a></strong> <high-lulani>(bc)</high-lulani> <em>barium</em>
 &rarr; <strong><a href="../a/'a'ami.html">&rsquo;a&rsquo;ami</a></strong> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
 &darr; <strong><a href="../n/na'a.html">na&rsquo;a</a></strong> <high-lulani>(na)</high-lulani> <em>actinium</em>
+[2]xani
+[3]High Lulani
+[4]<high-lulani>(xN)</high-lulani>
+[5]<ipa>/&#x2c8;&#x255;an&#x268;/</ipa>
+[6]stem modal adverb <div class="definition">unwillingly</div>
+[7]Usage Notes
+When one sees the necessity for something.
 [2]xalli
 [3]High Lulani
 [4]<high-lulani>(x;L)</high-lulani>
@@ -9665,10 +9696,11 @@ denotes a beneficiary
 [3]High Lulani
 [4]<high-lulani>(H)</high-lulani>
 [5]<ipa>/hi/</ipa>
-[6]abtract stem noun <div class="definition">solid</div>
+[6]inanimate stem noun <div class="definition">1. solid</div>
 [7]See Also
 <strong><a href="../m/munika.html">munika</a></strong> <em>liquid</em>
 <strong><a href="../x/xa''a.html">xa&#x294;a</a></strong> <em>gas</em>
+[6]<div class="definition">2. shirt; tunic</div>
 [2]hiputi
 [3]High Lulani
 [4]<high-lulani>(HoT)</high-lulani>
@@ -9719,16 +9751,17 @@ denotes a beneficiary
 [3]High Lulani
 [4]<high-lulani>(Hr)</high-lulani>
 [5]<ipa>/&#x2c8;hi&#x279;.&#x259;/</ipa>
-[6]interjection <div class="definition">thank-you</div>
+[6]interjection <div class="definition">please; thank-you</div>
 [7]See Also
-<strong><a href="../h/hiru.html">hiru</a></strong> <high-lulani>(Hw)</high-lulani> <em>gratitude</em>
+<strong><a href="hiru.html">hiru</a></strong> <high-lulani>(Hw)</high-lulani> <em>gratitude</em>
 [2]hiru
 [3]High Lulani
 [4]<high-lulani>(Hw)</high-lulani>
 [5]<ipa>/&#x2c8;hi&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">gratitude</div>
 [7]See Also
-<strong><a href="../h/hira.html">hira</a></strong> <high-lulani>(Hr)</high-lulani> <em>thank-you</em>
+<strong><a href="hira.html">hira</a></strong> <high-lulani>(Hr)</high-lulani> <em>thank-you</em>
+[6]stem modal adverb <div class="definition">on the other hand; contrariwise</div>
 [2]hifa
 [3]High Lulani
 [4]<high-lulani>(Hf)</high-lulani>
