@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>
+      {title}
+    </title>
+    {stylesheet}
+    <script src="../searchFunction.js"></script>
+  </head>
+  <body>
+    <div class="flex">
+      <div class="nav-header">
+        {elder-links}
+      </div>
+      <div class="content">
+        {content}
+        <p class="search-box"><input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}" >
+          <input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Word Search">
+          <noscript><br>Unfortunately, this search box will not function unless JavaScript is <a href="http://enable-javascript.com/">enabled</a>. Go to <a href="http://enable-javascript.com/">http://enable-javascript.com/</a> to enable Javascript.</noscript>
+        </p>
+        <br>
+        <div class="toc">
+          {toc}
+        </div>
+      </div>
+    </div>
+  </body>
