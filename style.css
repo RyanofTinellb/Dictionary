@@ -284,6 +284,10 @@ span.dots {
 		background-color: lightgoldenrodyellow;
 	}
 
+	h1, h2, h3, h4, h5, h6, p {
+		padding-left: 5%;
+	}
+
 	div.flex {
 		display: flex;
 		flex-direction: column-reverse;
