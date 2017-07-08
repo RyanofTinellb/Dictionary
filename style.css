@@ -285,7 +285,7 @@ span.dots {
 	}
 
 	h1, h2, h3, h4, h5, h6, p {
-		padding-left: 5%;
+		padding-left: 0;
 	}
 
 	div.flex {
@@ -308,18 +308,8 @@ span.dots {
 	div.content {
 		float: none;
 		width: 70%;
-<<<<<<< HEAD
-		margin-left: 0%;
-		margin-right: 0%;
-=======
-<<<<<<< HEAD
-		margin-left: 0%;
-		margin-right: 0%;
-=======
 		margin-left: 10%;
-		margin-right: 15%;
->>>>>>> fa3094606a926f9e071ba90170772b1dcb2b89fb
->>>>>>> 4127c73fef77bfb0f64a438b12eb7a982017c05c
+		margin-right: 0%;
 	}
 
 	div.toc {
