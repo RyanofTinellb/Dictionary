@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 @font-face {
     font-family: high-lulani;
-    src: url('http://www.tinellb.com/Lulani.ttf'); 
+    src: url('http://www.tinellb.com/Lulani.ttf');
 }
 
 h1 {
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-	
+
 	font-weight: normal;
 	padding-left: 15%;
 	font-size: xx-large;
@@ -47,7 +47,7 @@ h5 {
 
 h6 {
 	line-height: 4;
-	text-decoration: overline;	
+	text-decoration: overline;
 	padding-left: 12%;
 	font-variant: small-caps;
 	font-family: serif;
@@ -77,10 +77,6 @@ p.search-box {
 }
 
 div.centre {
-	text-align: center;
-}
-
-div.nav-header {
 	text-align: center;
 }
 
@@ -137,11 +133,18 @@ em {
 }
 
 div.nav-header {
+	text-align: center;
 	width: 15%;
 	float: left;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
 	color: white;
+}
+
+div.nav-header ul {
+	padding: 0;
+	list-style-type: none;
+	list-style-position: inside;
 }
 
 div.nav-header a {
@@ -165,7 +168,7 @@ div.content {
 	padding-top: 2em;
 	padding-bottom: 2em;
 	margin-left: 15%;
-	background-color: lightgoldenrodyellow;	
+	background-color: lightgoldenrodyellow;
 }
 
 div.content a {
@@ -262,12 +265,6 @@ ul li {
 	font-family: sans-serif;
 }
 
-div.nav-header ul {
-	padding: 0;
-	list-style-type: none;
-	list-style-position: inside;
-}
-
 li.normal {
 	color: powderblue;
 	font-weight: bold;
@@ -286,25 +283,25 @@ span.dots {
 	body {
 		background-color: lightgoldenrodyellow;
 	}
-	
+
 	div.nav-header {
 		width: 100%;
 		float: none;
 		background-color: lightslategray;
 	}
-	
+
 	div.nav-header a only{
 		color: white;
 		display: inline;
 		letter-spacing: normal;
 	}
-	
+
 	div.content {
 		float: none;
 		width: 100%;
 		margin-left: 0;
 	}
-	
+
 	div.toc {
 		-webkit-column-count: 3; /* Chrome, Safari, Opera */
 		-moz-column-count: 3; /* Firefox */
@@ -318,7 +315,7 @@ span.dots {
 		-moz-column-count: 2; /* Firefox */
 		column-count: 2;
 	}
-	
+
 	span.no-space {
 		display: block;
 	}
