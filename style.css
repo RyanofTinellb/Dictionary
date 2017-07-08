@@ -304,8 +304,13 @@ span.dots {
 	div.content {
 		float: none;
 		width: 70%;
+<<<<<<< HEAD
 		margin-left: 0%;
 		margin-right: 0%;
+=======
+		margin-left: 10%;
+		margin-right: 15%;
+>>>>>>> fa3094606a926f9e071ba90170772b1dcb2b89fb
 	}
 
 	div.toc {
