@@ -1,51 +1,147 @@
-h1, h2, h3, h4, h5, h6, p {
-	font-family: sans-serif;
-}
-
 @font-face {
     font-family: high-lulani;
     src: url('http://www.tinellb.com/Lulani.ttf');
 }
 
-h1 {
-	font-weight: bold;
-	padding-bottom: 0.5em;
-	padding-left: 10%;
-	font-family: serif;
+small-caps {	/* Remove italics when applying small-caps */
+	font-variant: small-caps;
+	font-style: normal;
 }
 
-h2 {
-	font-family: serif;
-	padding-left: 10%;
-	font-weight: normal;
+overline {	/* Used for negative numbers in balanced bases */
 	text-decoration: overline;
 }
 
-h3 {
+high-lulani {
+	direction: rtl;
+	font-family: lulani, high-lulani;
+}
 
-	font-weight: normal;
+high-lulani:before {	/* Turns on rtl */
+	content: "\202e"
+}
+
+high-lulani:after {	/* Turns off rtl */
+	content: "\202c"
+}
+
+body {
+	background-color: lightslategray;
+	font-family: sans-serif;
+}
+
+.flex {
+	display: flex;
+}
+
+.content {
+	flex-grow: 1;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: lightgoldenrodyellow;
+	overflow: auto;
+}
+
+.content p {
 	padding-left: 15%;
-	font-size: xx-large;
+	padding-right: 10%;
+	margin: 0;
+	font-family: sans-serif;
 }
 
-h4 {
-	font-family: segoe ui;
-	font-weight: normal;
-	padding-left: 12%;
+.content p.example { /* Specific .content p.example-no-lines _not_ required in Dictionary */
 	padding-top: 1em;
-	font-size: large;
 }
 
-h5 {
-	font-size: large;
-	font-style: normal;
+.content p.search-box { /* The Word Search box at the bottom of pages */
+	padding-top: 2em;
+	padding-left: 10%;
+}
+
+.content a {
+	color: black;
+	text-decoration: underline;
+}
+
+.content form {
+	margin-left: 15%;
+	margin-bottom: 2em;
+}
+
+.content li {
+	font-family: sans-serif;
+}
+
+.content li a {
+	font-weight: bold;
+}
+
+.content ul {
+	list-style-position: inside;
+	margin-left: 10%;
+	list-style-type: none;
+}
+
+.content ol {
+	padding-left: 15%;
+	padding-right: 10%;
+	margin:0;
+	line-height: 1.5;
+}
+
+.content ol li {
+	padding-left: 1%;
+	font-family: sans-serif;
+}
+
+.content h1 /* Headword */ {
 	font-family: serif;
 	font-weight: bold;
 	padding-left: 10%;
-	margin-bottom: 0.5em;
+	padding-bottom: 0.5em;
 }
 
-h6 {
+.content h2 /* Language name */ {
+	font-family: serif;
+	font-weight: normal;
+	text-decoration: overline;
+	padding-left: 10%;
+}
+
+.content h3 /* Tinellbian script */ {
+	font-size: xx-large;
+	font-weight: normal;
+	padding-left: 15%;
+}
+
+.content h4 /* Pronunciation */ {
+	font-family: segoe ui, monospace;
+	font-size: large;
+	font-weight: normal;
+	letter-spacing: 1.5px;
+	padding-left: 12%;
+	padding-top: 1em;
+}
+
+.content h5 /* Part of speech */ {
+	font-family: serif;
+	font-size: large;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	padding-left: 10%;
+}
+
+.content h5 .definition {
+	font-style: normal;
+	font-size: medium;
+	font-family: sans-serif;
+	font-weight: normal;
+	padding-left: 5%;
+	padding-top: 2em;
+}
+
+.content h6 /* Subheadings */ {
+	font-family: sans-serif;
 	line-height: 4;
 	text-decoration: overline;
 	padding-left: 12%;
@@ -56,293 +152,82 @@ h6 {
 	margin: 0;
 }
 
-a {
-	color: black;
-	text-decoration: none;
-}
-
-p {
+.content table {
 	padding-left: 15%;
-	padding-right: 10%;
-	margin: 0;
 }
 
-p.example {
-	padding-top: 1em;
-}
-
-p.search-box {
-	padding-top: 2em;
-	padding-left: 10%;
-}
-
-div.centre {
-	text-align: center;
-}
-
-div.right a {
-	text-align: right;
-	margin-right: 1em;
-}
-
-div.left a {
-	text-align: left;
-}
-
-div.justify {
-	text-align: center;
-	margin-top: 2em;
-	margin-bottom: 1em;
-	margin-left: 15%;
-	letter-spacing: 2em;
-	font-weight: bold;
-	font-size: large;
-}
-
-div.justify a {
-	letter-spacing: 0;
-}
-
-span.normal {
-	letter-spacing: 0;
-	text-decoration: underline;
-	font-weight: bold;
-	color: powderblue;
-}
-
-div.nav-header span.normal a {
-	color: powderblue;
-}
-
-small-caps {
-	font-variant: small-caps;
-	font-weight: none;
-	font-style: normal;
-}
-
-overline {
-	text-decoration: overline;
-}
-
-body {
-	background-color: lightslategray;
-}
-
-em {
-	font-weight: none;
-}
-
-div.nav-header {
-	text-align: center;
-	width: 15%;
-	float: left;
-	padding-top: 10pt;
-	padding-bottom: 10pt;
-	color: white;
-}
-
-div.nav-header ul {
-	padding: 0;
-	list-style-type: none;
-	list-style-position: inside;
-}
-
-div.nav-header a {
-	color: white;
-	display: block;
-}
-
-div.nav-footer {
-	padding-top: 10pt;
-	padding-bottom: 10pt;
-	color: white;
-}
-
-div.nav-footer a {
-	color: white;
-}
-
-div.content {
-	width: 80%;
-	min-height: 35em;
-	padding-top: 2em;
-	padding-bottom: 2em;
-	margin-left: 15%;
-	background-color: lightgoldenrodyellow;
-}
-
-div.content a {
-	text-decoration: underline;
-}
-
-div.toc a {
-	text-align: left;
-}
-
-td a {
-	font-weight: normal;
-}
-
-table {
-	padding-left: 10%;
-}
-
-td {
+.content td {
 	text-align: center;
 	width: 6em;
 	padding: 0;
 	font-family: sans-serif;
+	white-space: nowrap;
 }
 
-tr:first-child {
-	font-weight: bold;
+.content td a { /* Only bold the _current_ element in a table */
+	font-weight: normal;
 }
 
-td:first-child {
+.content td:first-child { /* To mimic <th> tags */
 	text-align: right;
-	width: 12em;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.content tr:first-child { /* To mimic <th> tags */
 	font-weight: bold;
 }
 
-high-lulani {
-	direction: rtl;
-	font-family: lulani, high-lulani;
+.results ol {
+	margin-left: 5em;
+	list-style-position: inside;
 }
 
-high-lulani:before {
-	content: "\202e"
+.results li {
+	text-indent: -5em;
 }
 
-high-lulani:after {
-	content: "\202c"
-}
-
-div.jump {
-	margin-left: 50%;
-}
-
-div.toc {
+.toc {
+	margin-left: 10%;
 	-webkit-column-count: 4; /* Chrome, Safari, Opera */
-    -moz-column-count: 4; /* Firefox */
-    column-count: 4;
+  -moz-column-count: 4; /* Firefox */
+  column-count: 4;
 }
 
-span.hidden {
-	display: none;
+.nav-header {
+	min-width: 12em;
+	color: white;
+	text-align: center;
+	white-space: nowrap;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	padding-left: 0em;
+	padding-right: 1em;
+}
+
+.nav-header p {
+	font-family: sans-serif;
+	margin: 0;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.nav-header a {
+	color: white;
 	text-decoration: none;
 }
 
-h5 div.definition {
-	font-style: normal;
-	font-size: medium;
-	font-family: sans-serif;
-	font-weight: normal;
-	padding-left: 5%;
-	padding-top: 2em;
-}
-
-.content form {
-	margin-left: 15%;
-	margin-bottom: 2em;
-}
-
-ol {
+.nav-header ul {
+	list-style-type: none;
+	list-style-position: inside;
 	padding-left: 15%;
 	padding-right: 10%;
-	margin:0;
 	line-height: 1.5;
 }
 
-ol li {
-	padding-left: 1%;
-	font-family: sans-serif;
-}
-
-ul {
-	padding-left: 15%;
-	padding-right: 10%;
-	margin:0;
-	line-height: 1.5;
-}
-
-ul li {
-	padding-left: 1%;
-	font-family: sans-serif;
-}
-
-li.normal {
-	color: powderblue;
+.nav-header li.normal, .nav-header li.normal a { /* Top-level folder of current page */
 	font-weight: bold;
-}
-
-li.normal a {
 	color: powderblue;
-	font-weight: bold;
-}
-
-span.dots {
-	font-size: xx-large;
-}
-
-@media screen and (max-width: 900px) {
-	body {
-		background-color: lightgoldenrodyellow;
-	}
-
-	h1, h2, h3, h4, h5, h6, p {
-		padding-left: 0;
-		padding-right: 0;
-		margin-left: 0;
-		margin-right: 0;
-	}
-
-	div.flex {
-		display: flex;
-		flex-direction: column-reverse;
-	}
-
-	div.nav-header {
-		width: 100%;
-		float: none;
-		background-color: lightslategray;
-	}
-
-	div.nav-header a only{
-		color: white;
-		display: inline;
-		letter-spacing: normal;
-	}
-
-	div.content {
-		float: none;
-		width: 70%;
-		margin-left: 5%;
-		margin-right: 0%;
-	}
-
-	div.toc {
-		-webkit-column-count: 3; /* Chrome, Safari, Opera */
-		-moz-column-count: 3; /* Firefox */
-		column-count: 3;
-	}
-}
-
-@media screen and (max-width: 700px) {
-	div.toc {
-		-webkit-column-count: 2; /* Chrome, Safari, Opera */
-		-moz-column-count: 2; /* Firefox */
-		column-count: 2;
-	}
-
-	span.no-space {
-		display: block;
-	}
-}
-
-@media screen and (max-width: 500px) {
-	div.toc {
-		-webkit-column-count: 1; /* Chrome, Safari, Opera */
-		-moz-column-count: 1; /* Firefox */
-		column-count: 1;
-	}
+	letter-spacing: 0;
+	text-decoration: underline;
 }
