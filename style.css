@@ -216,8 +216,8 @@ body {
 .nav-header ul {
 	list-style-type: none;
 	list-style-position: inside;
-	padding-left: 15%;
-	padding-right: 10%;
+  text-align: center;
+  padding: 0;
 	line-height: 1.5;
 }
 
@@ -226,4 +226,19 @@ body {
 	color: powderblue;
 	letter-spacing: 0;
 	text-decoration: underline;
+}
+
+@media screen and (max-width: 800px) {
+
+  .flex {
+    flex-direction: column;
+  }
+
+	.content {
+    order: 2;
+  }
+
+  .nav-header {
+    order: 1;
+  }
 }
