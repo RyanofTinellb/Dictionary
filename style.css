@@ -38,6 +38,7 @@ body {
 	flex-grow: 1;
 	padding-top: 2em;
 	padding-bottom: 2em;
+  min-width: 20em;
 	background-color: lightgoldenrodyellow;
 	overflow: auto;
 }
@@ -178,13 +179,8 @@ body {
 	font-weight: bold;
 }
 
-.results ol {
-	margin-left: 5em;
-	list-style-position: inside;
-}
-
-.results li {
-	text-indent: -5em;
+.content .results a {
+  font-weight: normal;
 }
 
 .toc {
