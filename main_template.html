@@ -1,56 +1,72 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-Tinellbian Languages Dictionary
-</title>
-<link rel="stylesheet" type="text/css" href="main_style.css">
-<link rel="icon" type="image/png" href="favicon.png">
-<script>
-function dictionarysearch() {
-	var text;
-	var folder;
-	text = document.getElementById("search").value.toLowerCase();
-	if (text.startsWith("'")) {
-	folder = text.charAt(1);
-	} else {
-	folder = text.charAt(0); }
-	window.location.href = folder + "/" + text + ".html";
-}
-</script>
-</head>
-<body>
-<div class="welcome">Welcome to the Tinellbian Languages Dictionary!</div>
-<div class="justify">
-<a href="a/index.html">A</a> 
-<a href="i/index.html">I</a> 
-<a href="u/index.html">U</a> 
-<a href="p/index.html">P</a> 
-<a href="b/index.html">B</a> 
-<a href="t/index.html">T</a> 
-<a href="d/index.html">D</a> 
-<a href="c/index.html">C</a> 
-<a href="j/index.html">J</a> 
-<a href="k/index.html">K</a> 
-<a href="g/index.html">G</a> 
-<a href="m/index.html">M</a> 
-<a href="n/index.html">N</a> 
-<a href="q/index.html">Q</a> 
-<a href="l/index.html">L</a> 
-<a href="r/index.html">R</a> 
-<a href="f/index.html">F</a> 
-<a href="s/index.html">S</a> 
-<a href="x/index.html">X</a> 
-<a href="h/index.html">H</a></div>
-<div class="content">
-<p class="return"><a href="http://www.tinellb.com">&#x2191; Return to Main Menu</a></p>
-<p class="forward"><a href="http://grammar.tinellb.com">Grammar &#x2192;</a></p>
-<p class="forward"><a href="http://story.tinellb.com">Story &#x2192;</a></p>
-<p>Type a word into the searchbox on any Dictionary page, and go straight to that entry:</p>
-<input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
-<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Search">
-{toc}
-</div>
-</body>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>
+			Tinellbian Languages Dictionary
+		</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/png" href="favicon.png">
+		<script>
+		function dictionarysearch() {
+			var text;
+			var folder;
+			text = document.getElementById("search").value.toLowerCase();
+			if (text.startsWith("'")) {
+				folder = text.charAt(1);
+			} else {
+				folder = text.charAt(0); }
+				window.location.href = folder + "/" + text + ".html";
+			}
+			</script>
+	</head>
+	<body>
+		<div class="flex">
+      <div class="nav-header">
+        <ul>
+					<li class="normal">Dictionary</a></li>
+					<ul>
+						<li><a href="a/index.html">A</a></li>
+						<li><a href="i/index.html">I</a></li>
+						<li><a href="u/index.html">U</a></li>
+						<li><a href="p/index.html">P</a></li>
+						<li><a href="b/index.html">B</a></li>
+						<li><a href="t/index.html">T</a></li>
+						<li><a href="d/index.html">D</a></li>
+						<li><a href="c/index.html">C</a></li>
+						<li><a href="j/index.html">J</a></li>
+						<li><a href="k/index.html">K</a></li>
+						<li><a href="g/index.html">G</a></li>
+						<li><a href="m/index.html">M</a></li>
+						<li><a href="n/index.html">N</a></li>
+						<li><a href="q/index.html">Q</a></li>
+						<li><a href="l/index.html">L</a></li>
+						<li><a href="r/index.html">R</a></li>
+						<li><a href="f/index.html">F</a></li>
+						<li><a href="s/index.html">S</a></li>
+						<li><a href="x/index.html">X</a></li>
+						<li><a href="h/index.html">H</a></li>
+					</ul>
+					<li class="up-arrow"><a href="http://tinellb.com">Go up one level &uarr;</a></li>
+					<li class="link"><a href="search.html">Search</a></li>
+					<li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
+					<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
+				</ul>
+      </div>
+			<div class="content">
+				<h1>Welcome to the Tinellbian Languages Dictionary!</h1>
+				<h2>About</h2>
+				<p class="introduction">This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p>
+				<p class="introduction">The dictionary forms a background source for <a href="thecoelacanthquartet.tinellb.com">The Coelacanth Quartet</a>, in conjunction with the <a href="grammar.tinellb.com">Grammar Guide</a>.</p>
+				<h2>Searching</h2>
+				<p class="introduction">Use the search function at the bottom of the navigation pane to perform a general search.</p>
+				<p class="search-box">
+					Type any Tinellbian word into this box to jump directly to its page:
+					<input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
+					<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Search">
+					<noscript><br>Unfortunately, this search box will not function unless JavaScript is <a href="http://enable-javascript.com/">enabled</a>. Go to <a href="http://enable-javascript.com/">http://enable-javascript.com/</a> to enable Javascript.</noscript>
+				</p>
+			</div>
+		</div>
+	</body>
 </html>

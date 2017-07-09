@@ -2,7 +2,7 @@ if (window.location.href.indexOf("?") != -1) {
 	search();
 }
 function search() {
-	document.getElementById("results").innerHTML = "Searching...";
+	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
 	var url = "searching.json";
 	var xmlhttp = new XMLHttpRequest();
 	var andButton = document.getElementById("and")

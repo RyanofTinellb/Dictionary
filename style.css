@@ -54,9 +54,20 @@ body {
 	padding-top: 1em;
 }
 
+.content p.introduction {
+  line-height: 1.5em;
+  font-size: larger;
+  font-family: serif;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-indent: 2em;
+}
+
 .content p.search-box { /* The Word Search box at the bottom of pages */
-	padding-top: 2em;
-	padding-left: 10%;
+  font-size: larger;
+  font-family: serif;
+  text-indent: 2em;
+  padding-top: 1em;
 }
 
 .content a {
