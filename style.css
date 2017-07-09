@@ -235,10 +235,16 @@ body {
   }
 
 	.content {
-    order: 2;
+    order: 1;
+  }
+
+  .toc {
+    -webkit-columns: 2; /* Chrome, Safari, Opera */
+    -moz-columns: 2; /* Firefox */
+    columns: 2;
   }
 
   .nav-header {
-    order: 1;
+    order: 2;
   }
 }
