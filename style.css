@@ -241,6 +241,11 @@ h5 div.definition {
 	padding-top: 2em;
 }
 
+.content form {
+	margin-left: 15%;
+	margin-bottom: 2em;
+}
+
 ol {
 	padding-left: 15%;
 	padding-right: 10%;
