@@ -80,10 +80,6 @@ body {
 	margin-bottom: 2em;
 }
 
-.content li {
-	font-family: sans-serif;
-}
-
 .content li a {
 	font-weight: bold;
 }
@@ -102,8 +98,7 @@ body {
 }
 
 .content ol li {
-	padding-left: 1%;
-	font-family: sans-serif;
+	padding-left: 1em;
 }
 
 .content h1 /* Headword */ {
@@ -188,6 +183,11 @@ body {
 
 .content tr:first-child { /* To mimic <th> tags */
 	font-weight: bold;
+}
+
+.content .results li {
+  text-indent: -3em;
+  padding-left: 3em;
 }
 
 .content .results a {
