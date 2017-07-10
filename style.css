@@ -248,6 +248,10 @@ body {
     order: 1;
   }
 
+  .content p.search-box {
+    text-indent: 0;
+  }
+
   .toc {
     -webkit-columns: 2; /* Chrome, Safari, Opera */
     -moz-columns: 2; /* Firefox */
