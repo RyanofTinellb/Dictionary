@@ -1,28 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Search</title>
-</head>
-<body>
-<form>
-<input type="text" id="term" name="term">
-</form>
-<script>
-	var text;
-	var folder;
-	var x;
-	text = window.location.href;
-	text = text.split("?")[1].split("=")[1];
-	text = text.trim().replace("%27", "'");
-	for (var i = 0; i < text.length; i++) {
-		x = text.charCodeAt(i)
-	}
-	if (text.startsWith("'")||text.startsWith("-")) {
-	folder = text.charAt(1);
-	} else {
-	folder = text.charAt(0); }
-	window.location.href = folder + "/" + text + ".html";
-</script>
-</body>
-</head>
+	<head>
+		<title>Search</title>
+		<script src="word_search.js"></script>
+	</head>
+	<body>
+		<input type="text" id="term" name="term" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+	</body>
 </html>

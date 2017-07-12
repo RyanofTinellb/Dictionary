@@ -54,6 +54,11 @@ body {
 	padding-top: 1em;
 }
 
+.content p.note {
+  padding-top: 2rem;
+  font-size: smaller;
+}
+
 .content p.introduction {
   line-height: 1.5em;
   font-size: larger;

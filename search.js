@@ -1,11 +1,14 @@
+
+
 if (window.location.href.indexOf("?") != -1) {
 	search();
 }
+
 function search() {
 	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
 	var url = "searching.json";
 	var xmlhttp = new XMLHttpRequest();
-	var andButton = document.getElementById("and")
+	var andButton = document.getElementById("and");
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
