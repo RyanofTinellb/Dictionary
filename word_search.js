@@ -4,7 +4,8 @@ function wordsearch() {
 	var text;
 	var folder;
 	var first_letter;
-	text = document.getElementById("search").value.toLowerCase();
+	text = document.getElementById("wordsearch").value.toLowerCase();
+	if (text == "") {return;}
 	text = text.trim().replace(/[\u2019]/g, "'")
 	text = text.replace(/[\u0294\u0660]/g, "''")
 	for (var i = 0; i < text.length; i++) {

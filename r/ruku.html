@@ -7,22 +7,31 @@
       ruku &lt; R &lt; Dictionary
     </title>
     <link rel="stylesheet" type="text/css" href="../style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
-
-    <script src="../word_search.js"></script>
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
+    <script src="../word_search.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="flex">
-      <div class="nav-header">
-        <ul><li><a href="../index.html">Dictionary</a></li>
-<ul><li><a href="../a/index.html">A</a></li><li><a href="../i/index.html">I</a></li><li><a href="../u/index.html">U</a></li><li><a href="../p/index.html">P</a></li><li><a href="../b/index.html">B</a></li><li><a href="../t/index.html">T</a></li><li><a href="../d/index.html">D</a></li><li><a href="../c/index.html">C</a></li><li><a href="../j/index.html">J</a></li><li><a href="../k/index.html">K</a></li><li><a href="../g/index.html">G</a></li><li><a href="../m/index.html">M</a></li><li><a href="../n/index.html">N</a></li><li><a href="../q/index.html">Q</a></li><li><a href="../l/index.html">L</a></li><li class="normal"><a href="../r/index.html">R</a></li><li><a href="../f/index.html">F</a></li><li><a href="../s/index.html">S</a></li><li><a href="../x/index.html">X</a></li><li><a href="../h/index.html">H</a></li></ul>
-<li class="up-arrow"><a href="../r/index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+      <div class="nav-pane">
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../index.html">Dictionary</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul><li><a href="../a/index.html">A</a></li><li><a href="../i/index.html">I</a></li><li><a href="../u/index.html">U</a></li><li><a href="../p/index.html">P</a></li><li><a href="../b/index.html">B</a></li><li><a href="../t/index.html">T</a></li><li><a href="../d/index.html">D</a></li><li><a href="../c/index.html">C</a></li><li><a href="../j/index.html">J</a></li><li><a href="../k/index.html">K</a></li><li><a href="../g/index.html">G</a></li><li><a href="../m/index.html">M</a></li><li><a href="../n/index.html">N</a></li><li><a href="../q/index.html">Q</a></li><li><a href="../l/index.html">L</a></li><li class="normal"><a href="../r/index.html">R</a></li><li><a href="../f/index.html">F</a></li><li><a href="../s/index.html">S</a></li><li><a href="../x/index.html">X</a></li><li><a href="../h/index.html">H</a></li></ul>
+                </ul>
       </div>
       <div class="content">
         <h1 id="ruku">ruku</h1>
@@ -52,14 +61,17 @@
 <td><a href="../f/funi.html">funi</a></td>
 <td><a href="../h/hu.html">hu</a></td>
 <td><strong>ruku</strong></td></tr></table></p>
-        <p class="search-box"><input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
-          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Word Search">
-          <noscript><br>Unfortunately, this search box will not function unless JavaScript is <a href="http://enable-javascript.com/">enabled</a>. Go to <a href="http://enable-javascript.com/">http://enable-javascript.com/</a> to enable Javascript.</noscript>
-        </p>
+        <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
+          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+        </div>
         <br>
         <div class="toc">
           
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('word-search-box').style.display = "block";
+      document.getElementById('search').style.display = 'list-item';
+    </script>
   </body>

@@ -1,0 +1,269 @@
+@font-face {
+    font-family: high-lulani;
+    src: url('http://www.tinellb.com/highlulani.ttf');
+}
+
+small-caps {	/* Remove italics when applying small-caps */
+	font-variant: small-caps;
+	font-style: normal;
+}
+
+overline {	/* Used for negative numbers in balanced bases */
+	text-decoration: overline;
+}
+
+high-lulani {
+	direction: rtl;
+	font-family: lulani, high-lulani;
+}
+
+high-lulani:before {	/* Turns on rtl */
+	content: "\202e"
+}
+
+high-lulani:after {	/* Turns off rtl */
+	content: "\202c"
+}
+
+body {
+	background-color: lightslategray;
+	font-family: sans-serif;
+}
+
+.flex {
+	display: flex;
+}
+
+.content {
+	flex-grow: 1;
+	padding-top: 2em;
+	padding-bottom: 2em;
+  min-width: 20em;
+	background-color: lightgoldenrodyellow;
+	overflow: auto;
+}
+
+.content p {
+	padding-left: 15%;
+	padding-right: 10%;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.content p.example { /* Specific .content p.example-no-lines _not_ required in Dictionary */
+	padding-top: 1em;
+}
+
+.content p.note {
+  padding-top: 2rem;
+  font-size: smaller;
+}
+
+.content p.introduction {
+  line-height: 1.5em;
+  font-size: larger;
+  font-family: serif;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-indent: 2em;
+}
+
+.content p.search-box { /* The Word Search box at the bottom of pages */
+  font-size: larger;
+  font-family: serif;
+  text-indent: 2em;
+  padding-top: 1em;
+}
+
+.content a {
+	color: black;
+	text-decoration: underline;
+}
+
+.content form {
+	margin-left: 15%;
+	margin-bottom: 2em;
+}
+
+.content li a {
+	font-weight: bold;
+}
+
+.content ul {
+	list-style-position: inside;
+	margin-left: 10%;
+	list-style-type: none;
+}
+
+.content ol {
+	padding-left: 15%;
+	padding-right: 10%;
+	margin:0;
+	line-height: 1.5;
+}
+
+.content ol li {
+	padding-left: 1em;
+}
+
+.content h1 /* Headword */ {
+	font-family: serif;
+	font-weight: bold;
+	padding-left: 10%;
+	padding-bottom: 0.5em;
+}
+
+.content h2 /* Language name */ {
+	font-family: serif;
+	font-weight: normal;
+	text-decoration: overline;
+	padding-left: 10%;
+}
+
+.content h3 /* Tinellbian script */ {
+	font-size: xx-large;
+	font-weight: normal;
+	padding-left: 15%;
+}
+
+.content h4 /* Pronunciation */ {
+	font-family: segoe ui, monospace;
+	font-size: large;
+	font-weight: normal;
+	letter-spacing: 1.5px;
+	padding-left: 12%;
+}
+
+.content h5 /* Part of speech */ {
+	font-family: serif;
+	font-size: large;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	padding-left: 10%;
+}
+
+.content h5 .definition {
+	font-style: normal;
+	font-size: medium;
+	font-family: sans-serif;
+	font-weight: normal;
+	padding-left: 5%;
+	padding-top: 2em;
+}
+
+.content h6 /* Subheadings */ {
+	font-family: sans-serif;
+	line-height: 4;
+	text-decoration: overline;
+	padding-left: 12%;
+	font-variant: small-caps;
+	font-family: serif;
+	font-size: medium;
+	font-weight: normal;
+	margin: 0;
+}
+
+.content table {
+	padding-left: 15%;
+}
+
+.content td {
+	text-align: center;
+	width: 6em;
+	padding: 0;
+	font-family: sans-serif;
+	white-space: nowrap;
+}
+
+.content td a { /* Only bold the _current_ element in a table */
+	font-weight: normal;
+}
+
+.content td:first-child { /* To mimic <th> tags */
+	text-align: right;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.content tr:first-child { /* To mimic <th> tags */
+	font-weight: bold;
+}
+
+.content .results li {
+  text-indent: -3em;
+  padding-left: 3em;
+}
+
+.content .results a {
+  font-weight: normal;
+}
+
+.toc {
+	margin-left: 10%;
+	-webkit-column-count: 4; /* Chrome, Safari, Opera */
+  -moz-column-count: 4; /* Firefox */
+  column-count: 4;
+}
+
+.nav-header {
+	min-width: 12em;
+	color: white;
+	text-align: center;
+	white-space: nowrap;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	padding-left: 0em;
+	padding-right: 1em;
+}
+
+.nav-header p {
+	font-family: sans-serif;
+	margin: 0;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.nav-header a {
+	color: white;
+	text-decoration: none;
+}
+
+.nav-header ul {
+	list-style-type: none;
+	list-style-position: inside;
+  text-align: center;
+  padding: 0;
+	line-height: 1.5;
+}
+
+.nav-header li.normal, .nav-header li.normal a { /* Top-level folder of current page */
+	font-weight: bold;
+	color: powderblue;
+	letter-spacing: 0;
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 800px) {
+
+  .flex {
+    flex-direction: column;
+  }
+
+	.content {
+    order: 1;
+  }
+
+  .content p.search-box {
+    text-indent: 0;
+  }
+
+  .toc {
+    -webkit-columns: 2; /* Chrome, Safari, Opera */
+    -moz-columns: 2; /* Firefox */
+    columns: 2;
+  }
+
+  .nav-header {
+    order: 2;
+  }
+}

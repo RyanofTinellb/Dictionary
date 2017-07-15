@@ -7,34 +7,46 @@
       J &lt; Dictionary
     </title>
     <link rel="stylesheet" type="text/css" href="../style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
-
-    <script src="../word_search.js"></script>
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <script type="text/javascript">
+        if (window.location.href.indexOf("?") != -1) {
+            window.location.href = "../search.html" +
+            window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
+        }
+    </script>
+    <script src="../word_search.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="flex">
-      <div class="nav-header">
-        <ul><li><a href="../index.html">Dictionary</a></li>
-<ul><li><a href="../a/index.html">A</a></li><li><a href="../i/index.html">I</a></li><li><a href="../u/index.html">U</a></li><li><a href="../p/index.html">P</a></li><li><a href="../b/index.html">B</a></li><li><a href="../t/index.html">T</a></li><li><a href="../d/index.html">D</a></li><li><a href="../c/index.html">C</a></li><li class="normal">J</li><li><a href="../k/index.html">K</a></li><li><a href="../g/index.html">G</a></li><li><a href="../m/index.html">M</a></li><li><a href="../n/index.html">N</a></li><li><a href="../q/index.html">Q</a></li><li><a href="../l/index.html">L</a></li><li><a href="../r/index.html">R</a></li><li><a href="../f/index.html">F</a></li><li><a href="../s/index.html">S</a></li><li><a href="../x/index.html">X</a></li><li><a href="../h/index.html">H</a></li></ul>
-<li class="up-arrow"><a href="../index.html">Go up one level &uarr;</a></li>
-<li class="link"><a href="../search.html">Search</a></li>
-<li class="link"><a href="http://www.tinellb.com">Tinellb</a></li>
-<li class="link"><a href="http://grammar.tinellb.com">Grammar</a></li>
-<li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a></li>
-</ul>
-
+      <div class="nav-pane">
+        <ul>
+                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
+                  <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
+                  <li class="link"><a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet &rarr;</a></li>
+                </ul>
+                <ul><li><a href="../index.html">Dictionary</a></li>
+                  <form id="search">
+                    <li class="search">
+                      <input type="text" name="term"></input> <button type="submit">Search</button>
+                    </li>
+                  </form>
+                <ul><li><a href="../a/index.html">A</a></li><li><a href="../i/index.html">I</a></li><li><a href="../u/index.html">U</a></li><li><a href="../p/index.html">P</a></li><li><a href="../b/index.html">B</a></li><li><a href="../t/index.html">T</a></li><li><a href="../d/index.html">D</a></li><li><a href="../c/index.html">C</a></li><li class="normal">J</li><li><a href="../k/index.html">K</a></li><li><a href="../g/index.html">G</a></li><li><a href="../m/index.html">M</a></li><li><a href="../n/index.html">N</a></li><li><a href="../q/index.html">Q</a></li><li><a href="../l/index.html">L</a></li><li><a href="../r/index.html">R</a></li><li><a href="../f/index.html">F</a></li><li><a href="../s/index.html">S</a></li><li><a href="../x/index.html">X</a></li><li><a href="../h/index.html">H</a></li></ul>
+                </ul>
       </div>
       <div class="content">
         <h1 id="j">J</h1>
 
-        <p class="search-box"><input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
-          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Word Search">
-          <noscript><br>Unfortunately, this search box will not function unless JavaScript is <a href="http://enable-javascript.com/">enabled</a>. Go to <a href="http://enable-javascript.com/">http://enable-javascript.com/</a> to enable Javascript.</noscript>
-        </p>
+        <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
+          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+        </div>
         <br>
         <div class="toc">
           <p><a href="ja.html">ja</a></p><p><a href="japa.html">japa</a></p><p><a href="japa'ala.html">japa&rsquo;ala</a></p><p><a href="japu.html">japu</a></p><p><a href="jati.html">jati</a></p><p><a href="jakki.html">jakki</a></p><p><a href="jagaru.html">jagaru</a></p><p><a href="jami.html">jami</a></p><p><a href="jana.html">jana</a></p><p><a href="janni.html">janni</a></p><p><a href="janni'u'ili.html">janni&rsquo;u&rsquo;ili</a></p><p><a href="jannibitta.html">jannibitta</a></p><p><a href="jannitiqaxi.html">jannitiqaxi</a></p><p><a href="jannidifi.html">jannidifi</a></p><p><a href="jannija.html">jannija</a></p><p><a href="jannigata.html">jannigata</a></p><p><a href="janninika.html">janninika</a></p><p><a href="jala.html">jala</a></p><p><a href="jalla.html">jalla</a></p><p><a href="jaffara.html">jaffara</a></p><p><a href="jaha.html">jaha</a></p><p><a href="ji.html">ji</a></p><p><a href="ji'a.html">ji&rsquo;a</a></p><p><a href="ji'i.html">ji&rsquo;i</a></p><p><a href="jikaru.html">jikaru</a></p><p><a href="jimuli.html">jimuli</a></p><p><a href="jiqu.html">jiqu</a></p><p><a href="jifadi.html">jifadi</a></p><p><a href="jifiru'i.html">jifiru&rsquo;i</a></p><p><a href="jisuka.html">jisuka</a></p><p><a href="jixu.html">jixu</a></p><p><a href="ju'i.html">ju&rsquo;i</a></p><p><a href="ju'ipu'a.html">ju&rsquo;ipu&rsquo;a</a></p><p><a href="ju'iduku.html">ju&rsquo;iduku</a></p><p><a href="ju'isatadu.html">ju&rsquo;isatadu</a></p><p><a href="ju'ulu.html">ju&rsquo;ulu</a></p><p><a href="julliga.html">julliga</a></p><p><a href="jusi.html">jusi</a></p><p><a href="jusiti.html">jusiti</a></p>
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      document.getElementById('word-search-box').style.display = "block";
+      document.getElementById('search').style.display = 'list-item';
+    </script>
   </body>

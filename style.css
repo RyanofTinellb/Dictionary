@@ -26,7 +26,6 @@ high-lulani:after {	/* Turns off rtl */
 }
 
 body {
-	background-color: lightslategray;
 	font-family: sans-serif;
 }
 
@@ -39,7 +38,6 @@ body {
 	padding-top: 2em;
 	padding-bottom: 2em;
   min-width: 20em;
-	background-color: lightgoldenrodyellow;
 	overflow: auto;
 }
 
@@ -68,11 +66,15 @@ body {
   text-indent: 2em;
 }
 
-.content p.search-box { /* The Word Search box at the bottom of pages */
-  font-size: larger;
+.content div.search-box { /* The Word Search box at the bottom of pages */
+  display: none;
   font-family: serif;
-  text-indent: 2em;
+  text-indent: 0;
   padding-top: 1em;
+}
+
+.content div.search-box input#wordsearch {
+  margin-left: 12%;
 }
 
 .content a {
@@ -205,9 +207,8 @@ body {
   column-count: 4;
 }
 
-.nav-header {
+.nav-pane {
 	min-width: 12em;
-	color: white;
 	text-align: center;
 	white-space: nowrap;
 	padding-top: 10pt;
@@ -216,19 +217,19 @@ body {
 	padding-right: 1em;
 }
 
-.nav-header p {
+.nav-pane p {
 	font-family: sans-serif;
 	margin: 0;
 	padding-left: 15%;
 	padding-right: 15%;
 }
 
-.nav-header a {
-	color: white;
+.nav-pane a {
+  color: black;
 	text-decoration: none;
 }
 
-.nav-header ul {
+.nav-pane ul {
 	list-style-type: none;
 	list-style-position: inside;
   text-align: center;
@@ -236,11 +237,20 @@ body {
 	line-height: 1.5;
 }
 
-.nav-header li.normal, .nav-header li.normal a { /* Top-level folder of current page */
+.nav-pane li.normal, .nav-pane li.normal a { /* Top-level folder of current page */
 	font-weight: bold;
-	color: powderblue;
 	letter-spacing: 0;
 	text-decoration: underline;
+}
+
+.nav-pane button {
+  display: block;
+  margin: auto;
+}
+
+.nav-pane form#search {
+  display: none;
+  margin-top: 1em;
 }
 
 @media screen and (max-width: 800px) {
@@ -263,7 +273,7 @@ body {
     columns: 2;
   }
 
-  .nav-header {
+  .nav-pane {
     order: 2;
   }
 }
