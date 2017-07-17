@@ -253,6 +253,13 @@ body {
   margin-top: 1em;
 }
 
+.copyright {
+  text-align: left;
+  padding-left: 12%;
+  font-size: smaller;
+  font-family: serif;
+}
+
 @media screen and (max-width: 800px) {
 
   .flex {
