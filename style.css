@@ -144,6 +144,14 @@ body {
 	padding-left: 10%;
 }
 
+.content h5 a {
+  text-decoration-style: dotted;
+}
+
+.content h5 a:hover {
+  text-decoration-style: solid;
+}
+
 .content h5 .definition {
 	font-style: normal;
 	font-size: medium;
