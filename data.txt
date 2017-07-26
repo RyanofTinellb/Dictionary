@@ -1,5 +1,5 @@
 [1]A
-&date=20170716
+&date=20170726
 [2]&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(a)</high-lulani>
@@ -252,8 +252,8 @@ these are just about the only terms of this type. Anything else uses the genitiv
 [7]Notes*
 This temperature scale is set with <strong>0</strong> <em>0</em> at absolute zero, and <strong>495</strong> <em>230</em> at the triple point of water.
 In ordinary use, temperatures between <strong>450</strong> <em>200</em> and <strong>675</strong> <em>300</em> are given without the hundreds place.
-<p class="note">*Numbers in <strong>bold</strong> are in decimal, numbers in <em>italics</em> are in <a href="../s/sesquidecimal.html">sesquidecimal</a>.</p>
-&date=20170716
+<p class="note">*Numbers in <strong>bold</strong> are in decimal, numbers in <em>italics</em> are in balanced <a href="../s/sesquidecimal.html">sesquidecimal</a>.</p>
+&date=20170726
 [2]&rsquo;alla
 [3]High Lulani
 [4]<high-lulani>(a;l)</high-lulani>
@@ -3608,7 +3608,7 @@ rare
 <strong><a href="../g/gusuli.html">gusuli</a></strong> <high-lulani>(&lt;zL)</high-lulani> <em>person</em>
 &date=20170716
 [1]C
-&date=20170725
+&date=20170726
 [2]ca
 [3]High Lulani
 [4]<high-lulani>(c)</high-lulani>
@@ -3631,9 +3631,14 @@ rare
 [7]Derived Terms
 <strong><a href="caba.html">caba</a></strong> <high-lulani>(cb)</high-lulani> <em>helper</em>
 [6]stem determiner <div class="definition">only</div>
+[7]Example
+<strong>&#x294;usu-ca jannimufa mica.</strong>
+<high-lulani>.uzc / j;NUf / Mc.</high-lulani>
+<em><small-caps>1int</small-caps>-only dance allowed</em>
+&ldquo;Only I may dance.&rdquo;
 [7]See Also
 <strong><a href="../n/nisa.html">nisa</a></strong> <high-lulani>(Ns)</high-lulani> <em>sole</em>
-&date=20170716
+&date=20170726
 [2]ca&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(ca)</high-lulani>
@@ -4185,14 +4190,15 @@ used when the experience was somewhat surprising
 <small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>move.</em>
 &ldquo;I came towards you.&rdquo;
 [7]Derived Terms
-<strong><a href="janninika.html">janninika</a></strong> <high-lulani>(j;NNk)</high-lulani> <em>to travel</em>
 <strong><a href="janni'u'ili.html">janni&rsquo;u&rsquo;ili</a></strong> <high-lulani>(j;NuiL)</high-lulani> <em>to slide</em>
 <strong><a href="jannibitta.html">jannibitta</a></strong> <high-lulani>(j;NbB;t)</high-lulani> <em>to time-travel</em>
 <strong><a href="jannigata.html">jannigata</a></strong> <high-lulani>(j;Ngt)</high-lulani> <em>to swing</em>
 <strong><a href="jannitiqaxi.html">jannitiqaxi</a></strong> <high-lulani>(j;NTqX)</high-lulani> <em>to tilt</em>
 <strong><a href="jannidifi.html">jannidifi</a></strong> <high-lulani>(j;NDF)</high-lulani> <em>to nod</em>
 <strong><a href="jannija.html">jannija</a></strong> <high-lulani>(j;Nj)</high-lulani> <em>to move across</em>
-&date=20170716
+<strong><a href="jannimufa.html">jannimufa</a></strong> <high-lulani>(j;NUf)</high-lulani> <em>to dance</em>
+<strong><a href="janninika.html">janninika</a></strong> <high-lulani>(j;NNk)</high-lulani> <em>to travel</em>
+&date=20170726
 [2]janni&rsquo;u&rsquo;ili
 [3]High Lulani
 [4]<high-lulani>(j;NuiL)</high-lulani>
@@ -4247,6 +4253,14 @@ such movement of one&rsquo;s head denotes a negative
 [7]Etymology
 <strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong><a href="../g/gata.html">gata</a></strong> <high-lulani>(gt)</high-lulani> <em>swing</em>
 &date=20170716
+[2]jannimufa
+[3]High Lulani
+[4]<high-lulani>(j;NUf)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x25f;a&#x272;.&#x272;&#x268;.&#x2cc;muf.&#x259;/</a></ipa>
+[6]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to dance</div>
+[7]Etymology
+<strong><a href="janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>to move</em> + <strong><a href="../m/mufa.html">mufa</a></strong> <high-lulani>(Uf)</high-lulani> <em>dance</em>
+&date=20170726
 [2]janninika
 [3]High Lulani
 [4]<high-lulani>(j;NNk)</high-lulani>
@@ -6555,6 +6569,14 @@ refers to the physical organ. Cf: <strong><a href="../s/sida.html">sida</a></str
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;mu&#x27e;.&#x289;/</a></ipa>
 [6]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">pile; cairn</div>
 &date=20170716
+[2]mufa
+[3]High Lulani
+[4]<high-lulani>(Uf)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;muf.&#x259;/</a></ipa>
+[6]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">dance</div>
+[7]Derived Terms
+<strong><a href="../j/jannimufa.html">jannimufa</a></strong> <high-lulani>(j;NUf)</high-lulani> <em>to dance</em>
+&date=20170726
 [2]musa
 [3]High Lulani
 [4]<high-lulani>(Us)</high-lulani>
@@ -6605,7 +6627,7 @@ a dense, heavy metal. Element 82
 &darr; <strong><a href="../x/xa'a.html">xa&rsquo;a</a></strong> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
 &date=20170716
 [1]N
-&date=20170724
+&date=20170726
 [2]na
 [3]High Lulani
 [4]<high-lulani>(n)</high-lulani>
@@ -6663,6 +6685,12 @@ most usually used as a verbal prefix
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/n&#x259;.p&#x2b0;u&#x255;.&#x268;/</a></ipa>
 [6]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">fur; hair</div>
 &date=20170716
+[2]nata
+[3]High Lulani
+[4]<high-lulani>(nt)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;nat&#x2b0;.&#x259;/</a></ipa>
+[6]stem <a href="http://grammar.tinellb.com/highlulani/morphology/determiners.html">determiner</a> <div class="definition">complete; utter</div>
+&date=20170726
 [2]natiha
 [3]High Lulani
 [4]<high-lulani>(nTh)</high-lulani>
