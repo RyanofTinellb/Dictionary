@@ -136,6 +136,10 @@ body {
 	padding-left: 12%;
 }
 
+.content h4 a {
+  text-decoration: none;
+}
+
 .content h5 /* Part of speech */ {
 	font-family: serif;
 	font-size: large;
