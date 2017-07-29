@@ -14,7 +14,7 @@ function searchForTerm() {
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
-			var terms = [getTermfrom404()];
+			var terms = getTermfrom404().split(" ");
 			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
 			else {
 				if (andButton.checked) {arr = andSearch(text, terms);}
@@ -170,7 +170,6 @@ function markdown(arr) {
 function display(arr, data, id, terms) {
 	terms = markdown(terms);
 	if (arr.length == 0) {
-		console.log(arr)
 		document.getElementById(id).innerHTML = "<ul><li>Search term(s) not found</li></ul>";
 		return;
 	}
