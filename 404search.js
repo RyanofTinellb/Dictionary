@@ -12,7 +12,7 @@ function searchForTerm() {
 	var terms = url.split("/");
 	var term = terms[terms.length - 1]
 	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?term=" + term
-}
+} /**/
 
 function search() {
 	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
