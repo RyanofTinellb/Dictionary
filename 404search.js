@@ -7,16 +7,35 @@ if (window.location.href.indexOf("?") != -1) {
 }
 
 function searchForTerm() {
+	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
+	var url = "/searching.json";
+	var xmlhttp = new XMLHttpRequest();
+	var andButton = document.getElementById("and");
+	xmlhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			var text = JSON.parse(this.responseText);
+			var terms = getTermfrom404();
+			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
+			else {
+				if (andButton.checked) {arr = andSearch(text, terms);}
+				else {arr = orSearch(text, terms);}
+			}
+			display(arr, text, "results", terms);
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+}
+
+function getTermfrom404() {
 	/* searches for the term after the final slash of the url, without the .html ending */
 	var url = window.location.href;
 	var terms = url.split("/");
 	var term = terms[terms.length - 1]
 	try {
-		console.log(term)
 		term = term.split(".html")[0];
-		console.log(term)
 	} catch (err) { }
-	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term
+	return term
 }
 
 function search() {
