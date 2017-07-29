@@ -170,6 +170,7 @@ function markdown(arr) {
 function display(arr, data, id, terms) {
 	terms = markdown(terms);
 	if (arr.length == 0) {
+		console.log(arr)
 		document.getElementById(id).innerHTML = "<ul><li>Search term(s) not found</li></ul>";
 		return;
 	}
