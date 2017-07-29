@@ -4,6 +4,17 @@ if (window.location.href.indexOf("?") != -1) {
 	search();
 } else {
 	searchForTerm();
+<<<<<<< HEAD
+=======
+}
+
+function searchForTerm() {
+	/* searches for the term after the final slash of the url */
+	var url = window.location.href;
+	var terms = url.split("/");
+	var term = terms[terms.length - 1]
+	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term
+>>>>>>> c5419f57d55a8d0b9d1b89a7ed259589e7f0a4ff
 }
 
 function searchForTerm() {
