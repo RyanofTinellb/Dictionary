@@ -50,7 +50,11 @@ function getTerms() {
 	var url = window.location.href;
 	url  = url.split("?");
 	var searchString = url[1].split("&");
-	var andOr = searchString[1].split("=")[1];
+	try {
+		andOr = searchString[1].split("=")[1];
+	} catch (err) {
+		andOr = "and"
+	}
 	if (andOr == "or") {document.getElementById("or").checked = true}
 	var text = searchString[0].split("=")[1];
 	for (i = 0; i < markup.length; i += 2) {
