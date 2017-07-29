@@ -34,11 +34,11 @@ strong a {
 }
 
 a:link {
-  color: #5555FF;
+  color: #5555FF; /* light blue */
 }
 
 a:visited {
-  color: #9955AA;
+  color: #9955AA; /* light violet */
 }
 
 .flex {
@@ -99,10 +99,6 @@ a:visited {
 	margin-bottom: 2em;
 }
 
-.content li a {
-	font-weight: bold;
-}
-
 .content ul {
 	list-style-position: inside;
 	margin-left: 10%;
@@ -149,6 +145,7 @@ a:visited {
 }
 
 .content h4 a {
+  color: black;
   text-decoration: none;
 }
 
@@ -220,15 +217,25 @@ a:visited {
   padding-left: 3em;
 }
 
-.content .results a {
+.contents .results a {
+  color: black;
+  text-decoration: none;
   font-weight: normal;
 }
 
-.toc {
+.contents .toc {
 	margin-left: 10%;
 	-webkit-column-count: 4; /* Chrome, Safari, Opera */
   -moz-column-count: 4; /* Firefox */
   column-count: 4;
+}
+
+.contents .toc a:link {
+  color: #4444EE; /* dark blue */
+}
+
+.contents .toc a:visited {
+  color: #9955AA; /* dark violet */
 }
 
 .nav-pane {
@@ -241,16 +248,23 @@ a:visited {
 	padding-right: 1em;
 }
 
+.nav-pane a {
+  text-decoration: none;
+}
+
+.nav-pane a:link {
+  color: #4444EE; /* dark blue */
+}
+
+.nav-pane a:visited {
+  color: #9955AA; /* dark violet */
+}
+
 .nav-pane p {
 	font-family: sans-serif;
 	margin: 0;
 	padding-left: 15%;
 	padding-right: 15%;
-}
-
-.nav-pane a {
-  /* color: black; */
-	text-decoration: none;
 }
 
 .nav-pane ul {
@@ -265,6 +279,10 @@ a:visited {
 	font-weight: bold;
 	letter-spacing: 0;
 	text-decoration: underline;
+}
+
+.nav-pane li.link a {
+  text-decoration: none;
 }
 
 .nav-pane button {
