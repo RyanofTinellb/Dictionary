@@ -224,10 +224,10 @@ a:visited {
 }
 
 .contents .toc {
-	margin-left: 10%;
-	-webkit-column-count: 4; /* Chrome, Safari, Opera */
-  -moz-column-count: 4; /* Firefox */
-  column-count: 4;
+  margin-left: 10%;
+  -webkit-columns: 4; /* Chrome, Safari, Opera */
+  -moz-columns: 4; /* Firefox */
+  columns: 4;
 }
 
 .contents .toc a:link {
