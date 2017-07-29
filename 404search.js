@@ -2,6 +2,16 @@
 
 if (window.location.href.indexOf("?") != -1) {
 	search();
+} else {
+	searchForTerm();
+}
+
+function searchForTerm() {
+	/* searches for the term after the final slash of the url */
+	var url = window.location.href;
+	var terms = url.split("/");
+	var term = terms[terms.length - 1]
+	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?term=" + term
 }
 
 function search() {
