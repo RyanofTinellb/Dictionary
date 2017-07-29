@@ -14,7 +14,7 @@ function searchForTerm() {
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
-			var terms = getTermfrom404();
+			var terms = [getTermfrom404()];
 			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
 			else {
 				if (andButton.checked) {arr = andSearch(text, terms);}
