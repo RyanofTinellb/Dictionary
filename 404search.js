@@ -16,7 +16,7 @@ function searchForTerm() {
 		term = term.split(".html")[0];
 		console.log(term)
 	} catch (err) { }
-	/*window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term*/
+	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term
 }
 
 function search() {
