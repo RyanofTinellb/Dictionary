@@ -17,8 +17,7 @@ function searchForTerm() {
 			var terms = getTermfrom404().split(" ");
 			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
 			else {
-				if (andButton.checked) {arr = andSearch(text, terms);}
-				else {arr = orSearch(text, terms);}
+				arr = andSearch(text, terms);
 			}
 			display(arr, text, "results", terms);
 		}
@@ -170,7 +169,7 @@ function markdown(arr) {
 function display(arr, data, id, terms) {
 	terms = markdown(terms);
 	if (arr.length == 0) {
-		document.getElementById(id).innerHTML = "<ul><li>Search term(s) not found</li></ul>";
+		document.getElementById(id).innerHTML = "<ul><li>" + terms.join(" ") + " not found</li></ul>";
 		return;
 	}
 	var text = "<ol>"
