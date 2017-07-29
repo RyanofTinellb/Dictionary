@@ -7,25 +7,15 @@ if (window.location.href.indexOf("?") != -1) {
 }
 
 function searchForTerm() {
-	/* searches for the term after the final slash of the url */
+	/* searches for the term after the final slash of the url, without the .html ending */
 	var url = window.location.href;
 	var terms = url.split("/");
 	var term = terms[terms.length - 1]
 	try {
-		console.log(term);
 		term = term.split(".html")[0];
-		console.log(term);
 	} catch (err) { }
-	/*window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term */
+	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?terms=" + term
 }
-
-function searchForTerm() {
-	/* searches for the term after the final slash of the url */
-	var url = window.location.href;
-	var terms = url.split("/");
-	var term = terms[terms.length - 1]
-	window.location.href = terms.slice(0, terms.length - 1).join("/") + "?term=" + term
-} /**/
 
 function search() {
 	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
