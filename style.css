@@ -29,6 +29,18 @@ body {
 	font-family: sans-serif;
 }
 
+strong a {
+  font-weight: normal;
+}
+
+a:link {
+  color: #5555FF;
+}
+
+a:visited {
+  color: #9955AA;
+}
+
 .flex {
 	display: flex;
 }
@@ -78,7 +90,7 @@ body {
 }
 
 .content a {
-	color: black;
+	/* color: black; */
 	text-decoration: underline;
 }
 
@@ -237,7 +249,7 @@ body {
 }
 
 .nav-pane a {
-  color: black;
+  /* color: black; */
 	text-decoration: none;
 }
 
