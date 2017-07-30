@@ -60,7 +60,7 @@ function search() {
 
 // returns array of terms
 function getTerms() {
-	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
+	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%28", "(", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
 	"%3b", " ", "%2cr", ",r"];
 	var url = window.location.href;
 	url  = url.split("?");

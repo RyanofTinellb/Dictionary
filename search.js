@@ -30,7 +30,7 @@ function getTerms() {
 	var markup;
 	var searchString;
 	var text;
-	markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
+	markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%28", "(", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%", "%c3%a8", ")e",
 	"%3b", " ", "%2cr", ",r"];
 	url = window.location.href;
 	url  = url.split("?");
@@ -139,7 +139,7 @@ function markdown(arr) {
 function display(arr, data, id, terms) {
 	terms = markdown(terms);
 	if (arr.length == 0) {
-		document.getElementById(id).innerHTML = "Search term(s) not found";
+		document.getElementById(id).innerHTML = "<ul><li>" + terms.join(" ") + " not found</li></ul>";
 		return;
 	}
 	var text = "<ol>"
