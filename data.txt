@@ -1,6 +1,6 @@
 [1]A
-&date=20170730
-[2]&rsquo;a
+
+&date=20170907[2]&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(a)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x294;a/</a></ipa>
@@ -11,36 +11,6 @@
 &rarr; <strong><a href="../g/gaxiki.html">gaxiki</a></strong> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
 &darr; <strong><a href="../n/nasufi.html">nasufi</a></strong> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
 &date=20170716
-[2]&rsquo;abala
-[3]High Lulani
-[4]<high-lulani>(abl)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;.&#x2c8;bal.&#x259;/</a></ipa>
-[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do everything; universal action</div>
-[7]See Also
-[t] | object | place | action | manner | state
-[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
-[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <link>kalisa</link> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
-[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
-[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
-[r]universal | <a href="'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <strong>&rsquo;abala</strong> | - | -
-[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <a href="'amila.html">&rsquo;amila</a> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
-[/t]
-&date=20170730
-[2]&rsquo;amila
-[3]High Lulani
-[4]<high-lulani>(aMl)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;.&#x2c8;mil.&#x259;/</a></ipa>
-[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do something; existential action</div>
-[7]See Also
-[t] | object | place | action | manner | state
-[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
-[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <link>kalisa</link> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
-[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
-[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
-[r]universal | <a href="'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <link>&rsquo;abala</link> | - | -
-[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <strong>&rsquo;amila</strong> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
-[/t]
-&date=20170730
 [2]-&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(a)</high-lulani>
@@ -105,6 +75,21 @@ only used with possessives or in compounds
 [r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <&rsquo;amila> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
 [/t]
 &date=20170729
+[2]&rsquo;abala
+[3]High Lulani
+[4]<high-lulani>(abl)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;.&#x2c8;bal.&#x259;/</a></ipa>
+[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do everything; universal action</div>
+[7]See Also
+[t] | object | place | action | manner | state
+[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
+[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <link>kalisa</link> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
+[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
+[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
+[r]universal | <a href="'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <strong>&rsquo;abala</strong> | - | -
+[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <a href="'amila.html">&rsquo;amila</a> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
+[/t]
+&date=20170730
 [2]-atinna
 [3]High Lulani
 [4]<high-lulani>(;aT;n)</high-lulani>
@@ -208,6 +193,21 @@ a collection of rules for a society
 &uarr; <strong><a href="../x/xu.html">xu</a></strong> <high-lulani>(Z)</high-lulani> <em>carbon</em>
 &darr; <strong><a href="../x/xuhhi.html">xuhhi</a></strong> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
 &date=20170716
+[2]&rsquo;amila
+[3]High Lulani
+[4]<high-lulani>(aMl)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;.&#x2c8;mil.&#x259;/</a></ipa>
+[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do something; existential action</div>
+[7]See Also
+[t] | object | place | action | manner | state
+[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
+[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <link>kalisa</link> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
+[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
+[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
+[r]universal | <a href="'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <link>&rsquo;abala</link> | - | -
+[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <strong>&rsquo;amila</strong> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
+[/t]
+&date=20170730
 [2]&rsquo;anni
 [3]High Lulani
 [4]<high-lulani>(a;N)</high-lulani>
@@ -249,8 +249,7 @@ Three plus four is seven.
 <strong><a href="../t/tali.html">tali</a></strong> <high-lulani>(tL)</high-lulani> <em>subtract</em>
 <strong><a href="../b/batu.html">batu</a></strong> <high-lulani>(be)</high-lulani> <em>multiply</em>
 <strong><a href="../s/saki.html">saki</a></strong> <high-lulani>(sK)</high-lulani> <em>divide</em>
-&date=20170716
-[2]&rsquo;aqqixi
+&date=20170907[2]&rsquo;aqqixi
 [3]High Lulani
 [4]<high-lulani>(a;QX)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x294;a&#x14b;.&#x14b;&#x268;.&#x255;&#x268;/</a></ipa>
@@ -452,29 +451,6 @@ a mood of joy or supreme contentment
 <strong><a href="../n/nufirahi.html">nufirahi</a></strong> <high-lulani>(IFrH)</high-lulani> <em>desire</em>
 &date=20170716
 [1]I
-&date=20170730
-[2]-ilu
-[3]High Lulani
-[4]<high-lulani>(\/iW)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x268;.l&#x289;/</a></ipa>
-[6]inflectional <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a>) <div class="definition">passive; <small-caps>psv</small-caps></div>
-[7]Notes
-This suffix is attached to verbs ending with a geminate consonant.
-&date=20170730
-[2]-&rsquo;illu
-[3]High Lulani
-[4]<high-lulani>(i;W)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x294;i&#x28e;.&#x28e;&#x289;/</a></ipa>
-[6]stem inflectional <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> <div class="definition">passive</div>
-[7]Notes
-Used with monosyllabic verbs.
-&date=20170730
-[2]ir&igrave;a
-[3]English
-[5]/&#x268;.<sup>2</sup>ri&#x2d0;.&#x259;/
-[6]stem proper noun (capitalised) <div class="definition">Ir&igrave;a, the capital city of Brequ&eacute;</div>
-[7]Translations
-High Lulani: <a href="'irri'a.html">&#x294;irri&rsquo;a</a>
 &date=20170730
 [2]&rsquo;i
 [3]High Lulani
@@ -749,6 +725,14 @@ Against expectations.
 &ldquo;<em>really <small-caps>prs;gno</small-caps>?</em>&rdquo;
 &lsquo;&ldquo;Really?&rdquo;&rsquo;
 &date=20170716
+[2]-ilu
+[3]High Lulani
+[4]<high-lulani>(\/iW)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x268;.l&#x289;/</a></ipa>
+[6]inflectional <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a>) <div class="definition">passive; <small-caps>psv</small-caps></div>
+[7]Notes
+This suffix is attached to verbs ending with a geminate consonant.
+&date=20170730
 [2]&rsquo;ilu
 [3]High Lulani
 [4]<high-lulani>(iW)</high-lulani>
@@ -775,6 +759,14 @@ the part of the self that feels emotions
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;i&#x28e;.&#x28e;&#x289;/</a></ipa>
 [6]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a>) <div class="definition">passive</div>
 &date=20170716
+[2]-&rsquo;illu
+[3]High Lulani
+[4]<high-lulani>(i;W)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x294;i&#x28e;.&#x28e;&#x289;/</a></ipa>
+[6]stem inflectional <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> <div class="definition">passive</div>
+[7]Notes
+Used with monosyllabic verbs.
+&date=20170730
 [2]&rsquo;irri&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(i;Ra)</high-lulani>
@@ -782,6 +774,13 @@ the part of the self that feels emotions
 [6]stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns">proper</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">Ir&igrave;a, the capital city of Brequ&egrave;</div>
 [7]Translations
 English: <a href="ir)ia.html">Ir&igrave;a</a>
+&date=20170730
+[2]ir&igrave;a
+[3]English
+[5]<ipa>/&#x268;.<sup>2</sup>ri&#x2d0;.&#x259;/</ipa>
+[6]stem proper noun (capitalised) <div class="definition">Ir&igrave;a, the capital city of Brequ&eacute;</div>
+[7]Translations
+High Lulani: <a href="'irri'a.html">&#x294;irri&rsquo;a</a>
 &date=20170730
 [2]&rsquo;iffa
 [3]High Lulani
@@ -1191,8 +1190,8 @@ one point on this axis, <em>i.e.:</em> a world, a reality
 [6]stem determiner <div class="definition">many</div>
 &date=20170716
 [1]P
-&date=20170730
-[2]pa
+
+&date=20170907[2]pa
 [3]High Lulani
 [4]<high-lulani>(p)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;a/</a></ipa>
@@ -1202,7 +1201,7 @@ one point on this axis, <em>i.e.:</em> a world, a reality
 <high-lulani>.pr / j;NLW.</high-lulani>
 <em>towards-two move-stairs</em>
 &ldquo;Take the stairs two at a time.&rdquo;
-[6]stem personal <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">third person inanimate intransitive; <small-caps>3ina;int;</small-caps> it</div>
+[6]stem personal <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">third person inanimate <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a>; <small-caps>3ina;int;</small-caps> it</div>
 [7]See Also
 [t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
 [r]intranstitive (abs / nom) | <a href="../u/'usu.html">&rsquo;usu</a> | <a href="../f/filli.html">filli</a> | (<a href="../s/su'a.html">su&rsquo;a</a>) | <a href="../m/mihu.html">mihu</a> | <strong>pa</strong>
@@ -1241,38 +1240,7 @@ one point on this axis, <em>i.e.:</em> a world, a reality
 <strong><a href="pahini.html">pahini</a></strong> <high-lulani>(pHN)</high-lulani> <em>to find one&rsquo;s way</em>
 [f]<strong><a href="pagi.html">pagi</a></strong> <high-lulani>(pG)</high-lulani> <em>to understand</em>
 <strong><a href="pa'usa.html">pa&rsquo;usa</a></strong> <high-lulani>(pus)</high-lulani> <em>to notice</em>
-[6]stem derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a>) <div class="definition">index marker; &#xd7;10<sup>4<em>n</em></sup></div>
-&date=20170730
-[2]pa&rsquo;illu
-[3]High Lulani
-[4]<high-lulani>(pi;W)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x259;.&#x2c8;&#x294;i&#x28e;.&#x28e;&#x289;/</a></ipa>
-[6]derived inflected <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be thought</div>
-[7]Notes
-Passive of <strong><a href="pa.html">pa</a></strong> <high-lulani>(p)</high-lulani> <em>to think</em>
-&date=20170730
-[2]pihaba
-[3]High Lulani
-[4]<high-lulani>(Phb)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x268;.&#x2c8;hab.&#x259;/</a></ipa>
-[6]animate derived possessive <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">your mother</div>
-[7]Etymology
-<strong><a href="piha.html">piha</a></strong> <high-lulani>(Ph)</high-lulani> <em>mother</em> + <strong><a href="../b/ba.html">ba</a></strong> <high-lulani>(b)</high-lulani> <em>your</em>
-&date=20170730
-[2]pihasu&rsquo;a
-[3]High Lulani
-[4]<high-lulani>(Phza)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;p&#x2b0;ih.&#x259;.&#x2c8;su&#x294;.&#x259;/</a></ipa>
-[6]animate derived possessive <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">kinship</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">his mother; her mother</div>
-[7]Etymology
-<strong>piha</strong> <high-lulani>(Ph)</high-lulani> <em>mother</em> + <strong>su&rsquo;a</strong> <high-lulani>(za)</high-lulani> <em>self</em>
-[7]See Also
-<strong><link>sassu&rsquo;a</link></strong> <high-lulani>(s;za)</high-lulani> <em>her father</em>
-[f]<strong><link>pi&rsquo;apagu</link></strong> <high-lulani>(Pap&lt;)</high-lulani> <em>my mother</em>
-<strong><a href="pihaba.html">pihaba</a></strong> <high-lulani>(Phb)</high-lulani> <strong>your mother</strong>
-<strong><link>pi&rsquo;adisi</link></strong> <high-lulani>(PaDS)</high-lulani> <strong>her mother</strong>
-&date=20170730
-[2]-ppa
+&date=20170904[2]-ppa
 [3]High Lulani
 [4]<high-lulani>(;p)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p.p&#x259;/</a></ipa>
@@ -1289,6 +1257,14 @@ Passive of <strong><a href="pa.html">pa</a></strong> <high-lulani>(p)</high-lula
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x259;.&#x294;ak&#x2b0;.&#x259;/</a></ipa>
 [6]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">shoulder</div>
 &date=20170716
+[2]pa&rsquo;illu
+[3]High Lulani
+[4]<high-lulani>(pi;W)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x259;.&#x2c8;&#x294;i&#x28e;.&#x28e;&#x289;/</a></ipa>
+[6]derived inflected <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be thought</div>
+[7]Notes
+Passive of <strong><a href="pa.html">pa</a></strong> <high-lulani>(p)</high-lulani> <em>to think</em>
+&date=20170730
 [2]pa&rsquo;usa
 [3]High Lulani
 [4]<high-lulani>(pus)</high-lulani>
@@ -1646,7 +1622,28 @@ To have a thought slowly rise in one&rsquo;s mind.
 <strong><a href="../k/kica.html">kica</a></strong> <high-lulani>(Kc)</high-lulani> <em>younger sibling</em>
 <strong><a href="../k/kaqqa.html">kaqqa</a></strong> <high-lulani>(k;q)</high-lulani> <em>elder sibling</em>
 &date=20170716
-[2]pu&rsquo;a
+[2]pihaba
+[3]High Lulani
+[4]<high-lulani>(Phb)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x268;.&#x2c8;hab.&#x259;/</a></ipa>
+[6]animate derived possessive <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">your mother</div>
+[7]Etymology
+<strong><a href="piha.html">piha</a></strong> <high-lulani>(Ph)</high-lulani> <em>mother</em> + <strong><a href="../b/ba.html">ba</a></strong> <high-lulani>(b)</high-lulani> <em>your</em>
+&date=20170730
+[2]pihasu&rsquo;a
+[3]High Lulani
+[4]<high-lulani>(Phza)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;p&#x2b0;ih.&#x259;.&#x2c8;su&#x294;.&#x259;/</a></ipa>
+[6]animate derived possessive <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">kinship</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">his mother; her mother</div>
+[7]Etymology
+<strong>piha</strong> <high-lulani>(Ph)</high-lulani> <em>mother</em> + <strong>su&rsquo;a</strong> <high-lulani>(za)</high-lulani> <em>self</em>
+[7]See Also
+<strong><link>sassu&rsquo;a</link></strong> <high-lulani>(s;za)</high-lulani> <em>her father</em>
+[f]<strong><link>pi&rsquo;apagu</link></strong> <high-lulani>(Pap&lt;)</high-lulani> <em>my mother</em>
+<strong><a href="pihaba.html">pihaba</a></strong> <high-lulani>(Phb)</high-lulani> <strong>your mother</strong>
+<strong><link>pi&rsquo;adisi</link></strong> <high-lulani>(PaDS)</high-lulani> <strong>her mother</strong>
+&date=20170730
+[2]-pu&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(oa)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x289;.&#x294;&#x259;/</a></ipa>
@@ -1655,8 +1652,7 @@ To have a thought slowly rise in one&rsquo;s mind.
 <strong><a href="../j/ju'ipu'a.html">ju&rsquo;ipu&rsquo;a</a></strong> <high-lulani>(Yioa)</high-lulani> <em>group</em>
 <strong><a href="../l/lu'ipu'a.html">lu&rsquo;ipu&rsquo;a</a></strong> <high-lulani>(Wioa)</high-lulani> <em>lover</em>
 <strong><a href="../c/cikkipu'a.html">cikkipu&rsquo;a</a></strong> <high-lulani>(C;Koa)</high-lulani> <em>telepath</em>
-&date=20170716
-[2]pu&rsquo;i
+&date=20170907[2]pu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(oi)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;p&#x2b0;u&#x294;.&#x268;/</a></ipa>
@@ -1761,17 +1757,10 @@ To have a thought slowly rise in one&rsquo;s mind.
 [6]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">message</div>
 &date=20170716
 [1]B
-&date=20170729
-[2]ba
+
+&date=20170907[2]ba
 [3]High Lulani
 [4]<high-lulani>(b)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/b&#x259;/</a></ipa>
-[6]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> &rarr; <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a>) <div class="definition">derives an animate agentive noun from a verb</div>
-[7]Example
-<strong><a href="../u/'ussaba.html">&rsquo;ussaba</a></strong> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
-<strong><a href="bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
-<strong><a href="../c/caba.html">caba</a></strong> <high-lulani>(cb)</high-lulani> <em>helper</em>
-<strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/ba/</a></ipa>
 [6]stem personal <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">second person genitive; <small-caps>2gen</small-caps>; your; yours</div>
 [7]Derived Terms
@@ -1786,8 +1775,17 @@ To have a thought slowly rise in one&rsquo;s mind.
 [r]dative | <a href="../p/pixi.html">pixi</a> | <a href="ba'u.html">ba&rsquo;u</a> | <a href="../d/datu.html">datu</a> | <a href="../j/jusi.html">jusi</a> | <a href="../k/ku.html">ku</a>
 [r]genitive | <a href="../p/pagu.html">pagu</a> | <strong>ba</strong> | <a href="../s/su'a.html">su&rsquo;a</a> | <a href="../d/disi.html">disi</a> | <a href="../q/qa.html">qa</a>
 [/t]
-&date=20170729
-[2]ba&rsquo;u
+&date=20170907[2]-ba
+[3]High Lulani
+[4]<high-lulani>(b)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/b&#x259;/</a></ipa>
+[6]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> &rarr; <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a>) <div class="definition">derives an animate agentive noun from a verb</div>
+[7]Example
+<strong><a href="../u/'ussaba.html">&rsquo;ussaba</a></strong> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
+<strong><a href="bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
+<strong><a href="../c/caba.html">caba</a></strong> <high-lulani>(cb)</high-lulani> <em>helper</em>
+<strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
+&date=20170907[2]ba&rsquo;u
 [3]High Lulani
 [4]<high-lulani>(bu)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ba&#x294;.&#x289;/</a></ipa>
@@ -2209,8 +2207,8 @@ to have the same vowels and placement of geminates
 [6]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">colour</div>
 &date=20170716
 [1]T
-&date=20170730
-[2]ta
+
+&date=20170907[2]ta
 [3]High Lulani
 [4]<high-lulani>(t)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/t&#x2b0;&#x259;/</a></ipa>
@@ -2718,7 +2716,7 @@ to rotate on one&rsquo;s own axis
 [7]Derived Terms
 <strong><a href="../k/kunubitu'afu.html">kunubitu&rsquo;afu</a></strong> <high-lulani>(&gt;IBeav)</high-lulani> <em>flatlands</em>
 &date=20170716
-[2]tu&rsquo;i
+[2]-tu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(ei)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;tu&#x294;.&#x268;/</a></ipa>
@@ -2726,11 +2724,10 @@ to rotate on one&rsquo;s own axis
 [7]Derived Terms
 <strong><a href="../d/dasatu'i.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
 <strong><a href="../i/'isilitu'i.html">&rsquo;isilitu&rsquo;i</a></strong> <high-lulani>(iSLei)</high-lulani> <em>pensiveness</em>
-<strong><a href="../t/ta'itu'i.html">ta&rsquo;itu&rsquo;i</a></strong> <high-lulani>(tiei)</high-lulani> <em>scent</em>
+<strong><a href="ta'itu'i.html">ta&rsquo;itu&rsquo;i</a></strong> <high-lulani>(tiei)</high-lulani> <em>scent</em>
 [7]Antonym
 <strong><a href="../d/da.html">da</a></strong> <high-lulani>(d)</high-lulani> <em>negative aspect</em>
-&date=20170716
-[2]tu&rsquo;uci
+&date=20170907[2]tu&rsquo;uci
 [3]High Lulani
 [4]<high-lulani>(euC)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/t&#x2b0;&#x289;.&#x2c8;&#x294;uc&#x2b0;.&#x268;/</a></ipa>
@@ -2922,8 +2919,8 @@ High Lulani: <strong><a href="../d/duluri.html">duluri</a></strong> <high-lulani
 <strong><a href="../x/xaraduluri.html">xaraduluri</a></strong> <em>tsarship</em>
 &date=20170716
 [1]D
-&date=20170730
-[2]da
+
+&date=20170907[2]da
 [3]High Lulani
 [4]<high-lulani>(d)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/d&#x259;/</a></ipa>
@@ -2933,7 +2930,7 @@ High Lulani: <strong><a href="../d/duluri.html">duluri</a></strong> <high-lulani
 <strong><a href="dasada.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
 <strong><a href="../t/ta'ida.html">ta&rsquo;ida</a></strong> <high-lulani>(tid)</high-lulani> <em>stink</em>
 [7]See Also
-<strong><a href="../t/tu'i.html">tu&rsquo;i</a></strong> <high-lulani>(ei)</high-lulani> <em>positive</em>
+<strong><link>tu&rsquo;i</link></strong> <high-lulani>(ei)</high-lulani> <em>positive</em>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/da/</a></ipa>
 [6]stem modal <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">obviously; clearly</div>
 [7]Definition
@@ -2952,8 +2949,7 @@ used to signify shared information.
 <strong><a href="../k/kunubi.html">kunubi</a></strong> <high-lulani>(&gt;IB)</high-lulani> <em>sky</em>
 <strong><a href="../i/'ima.html">&rsquo;ima</a></strong> <high-lulani>(im)</high-lulani> <em>void</em>
 [6]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">palm of the hand</div>
-&date=20170716
-[2]da&rsquo;aru
+&date=20170907[2]da&rsquo;aru
 [3]High Lulani
 [4]<high-lulani>(daw)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/d&#x259;.&#x2c8;&#x294;a&#x27e;.&#x289;/</a></ipa>
@@ -3232,14 +3228,6 @@ Ablato-passive of <strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS
 [7]Etymology
 <strong><a href="../d/dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong><a href="../f/-ffi.html">-ffi</a></strong> <high-lulani>(;F)</high-lulani> <em>instrument</em>
 &date=20170716
-[2]das&middot;sippa
-[3]High Lulani
-[4]<high-lulani>(dSS;p)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;das.&#x2cc;sip.p&#x259;/</a></ipa>
-[6]abstract derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">mealtime</div>
-[7]Etymology
-<strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong>sippa</strong> <high-lulani>(S;p)</high-lulani> <em>time</em>
-&date=20170716
 [2]dasu
 [3]High Lulani
 [4]<high-lulani>(dz)</high-lulani>
@@ -3255,6 +3243,14 @@ Ablato-passive of <strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS
 [6]derived animate <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">mollusc</div>
 [7]Etymology
 <strong><a href="../d/dasu.html">dasu</a></strong> <high-lulani>(dz)</high-lulani> <em>animal</em> + <strong><a href="../t/tila.html">tila</a></strong> <high-lulani>(Tl)</high-lulani> <em>shell</em>
+&date=20170716
+[2]das&middot;sippa
+[3]High Lulani
+[4]<high-lulani>(dSS;p)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;das.&#x2cc;sip.p&#x259;/</a></ipa>
+[6]abstract derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">mealtime</div>
+[7]Etymology
+<strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong>sippa</strong> <high-lulani>(S;p)</high-lulani> <em>time</em>
 &date=20170716
 [2]daxa&#x294;a
 [3]High Lulani
@@ -4581,32 +4577,7 @@ Not used with possessives.
 <strong><a href="../p/piba.html">piba</a></strong> <high-lulani>(Pb)</high-lulani> <em>comparative</em>
 [6]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">state</div>
 &date=20170716
-[[2]kalisa
-[3]High Lulani
-[4]<high-lulani>(kLs)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.&#x2c8;lis.&#x259;/</a></ipa>
-[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do that; distal action</div>
-[7]See Also
-[t] | object | place | action | manner | state
-[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
-[r]distal | <a href="kasi.html">kasi</a> | <a href="kasuja.html">kasuja</a> | <strong>kalisa</strong> | <a href="kadusi.html">kadusi</a> | <a href="kasika.html">kasika</a>
-[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
-[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
-[r]universal | <a href="../a/'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <a href="../a/'abala.html">&rsquo;abala</a> | - | -
-[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <a href="../a/'amila.html">&rsquo;amila</a> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
-[/t]
-&date=20170730
-[2]kuffiluxa
-[3]High Lulani
-[4]<high-lulani>(&gt;;FWx)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;k&#x2b0;uf.f&#x268;.&#x2cc;lu&#x255;.&#x259;/</a></ipa>
-[6]transitive derived inflected <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be given; to be handed over</div>
-[7]Definition
-Dato-passive of <strong>kuffa</strong> <high-lulani>(&gt;;f)</high-lulani> <em>to give</em>
-[7]Etymology
-<strong><a href="kuffa.html">kuffa</a></strong> <high-lulani>(&gt;;f)</high-lulani> <em>to give</em> + <strong><a href="../i/-ilu.html">-ilu</a></strong> <high-lulani>(\W)</high-lulani> <small-caps>psv</small-caps> + <strong><a href="../x/xa.html">xa</a></strong> <high-lulani>(x)</high-lulani> <small-caps>dat</small-caps>
-&date=20170730
-[2]-ka
+[[2]-ka
 [3]High Lulani
 [4]<high-lulani>(k)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x259;/</a></ipa>
@@ -4798,6 +4769,21 @@ refers to an individual leg, or each leg individually
 <strong><a href="../s/sabba.html">sabba</a></strong> <high-lulani>(s;b)</high-lulani> <em>father</em>
 <strong><a href="../t/tu.html">tu</a></strong> <high-lulani>(e)</high-lulani> <em>child</em>
 &date=20170716
+[2]kalisa
+[3]High Lulani
+[4]<high-lulani>(kLs)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.&#x2c8;lis.&#x259;/</a></ipa>
+[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do that; distal action</div>
+[7]See Also
+[t] | object | place | action | manner | state
+[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <a href="../m/marila.html">marila</a> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
+[r]distal | <a href="kasi.html">kasi</a> | <a href="kasuja.html">kasuja</a> | <strong>kalisa</strong> | <a href="kadusi.html">kadusi</a> | <a href="kasika.html">kasika</a>
+[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
+[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <link>buni</link> | - | -
+[r]universal | <a href="../a/'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <a href="../a/'abala.html">&rsquo;abala</a> | - | -
+[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <a href="../a/'amila.html">&rsquo;amila</a> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
+[/t]
+&date=20170730
 [2]kalu
 [3]High Lulani
 [4]<high-lulani>(kW)</high-lulani>
@@ -5460,6 +5446,16 @@ Tsarin: K&#x14d;la
 <small-caps>1int 3ina;int</small-caps> <em>give</em> <small-caps>2tra.</small-caps>
 &ldquo;I gave it to you.&rdquo;
 &date=20170730
+[2]kuffiluxa
+[3]High Lulani
+[4]<high-lulani>(&gt;;FWx)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;k&#x2b0;uf.f&#x268;.&#x2cc;lu&#x255;.&#x259;/</a></ipa>
+[6]transitive derived inflected <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be given; to be handed over</div>
+[7]Definition
+Dato-passive of <strong>kuffa</strong> <high-lulani>(&gt;;f)</high-lulani> <em>to give</em>
+[7]Etymology
+<strong><a href="kuffa.html">kuffa</a></strong> <high-lulani>(&gt;;f)</high-lulani> <em>to give</em> + <strong><a href="../i/-ilu.html">-ilu</a></strong> <high-lulani>(\W)</high-lulani> <small-caps>psv</small-caps> + <strong><a href="../x/xa.html">xa</a></strong> <high-lulani>(x)</high-lulani> <small-caps>dat</small-caps>
+&date=20170730
 [2]kuxalu
 [3]High Lulani
 [4]<high-lulani>(&gt;xW)</high-lulani>
@@ -5809,8 +5805,8 @@ refers to people of a nearby tribe
 &mdash; <strong><a href="../l/laffi.html">laffi</a></strong> <high-lulani>(l;F)</high-lulani> <em>rive</em>
 &date=20170716
 [1]M
-&date=20170730
-[2]ma
+
+&date=20170904[2]ma
 [3]High Lulani
 [4]<high-lulani>(m)</high-lulani>
 [5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/m&#x259;/</a></ipa>
@@ -6634,14 +6630,6 @@ a dense, heavy metal. Element 82
 [7]Usage Notes
 most usually used as a verbal prefix
 &date=20170716
-[2]naengi
-[3]English
-[4]
-[5]<ipa>/&#x2c8;na&#x25b;&#x14b;.g&#x26a;/</ipa>
-[6]stem proper noun (capitalised) <div class="definition">(name of Loren&rsquo;s home planet)</div>
-[7]See Also
-<strong><a href="../n/nuobi.html">Nuobi</a></strong> <em>the Heavens</em>
-&date=20170716
 [2]na&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(na)</high-lulani>
@@ -6651,6 +6639,14 @@ most usually used as a verbal prefix
 &larr; <strong><a href="../i/'ilasa.html">&rsquo;ilasa</a></strong> <high-lulani>(ils)</high-lulani> <em>radium</em>
 &rarr; <strong><a href="../p/paraba.html">paraba</a></strong> <high-lulani>(prb)</high-lulani> <em>thorium</em>
 &uarr; <strong><a href="../x/xanaki.html">xanaki</a></strong> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
+&date=20170716
+[2]naengi
+[3]English
+[4]
+[5]<ipa>/&#x2c8;na&#x25b;&#x14b;.g&#x26a;/</ipa>
+[6]stem proper noun (capitalised) <div class="definition">(name of Loren&rsquo;s home planet)</div>
+[7]See Also
+<strong><a href="../n/nuobi.html">Nuobi</a></strong> <em>the Heavens</em>
 &date=20170716
 [2]na&rsquo;ipa
 [3]High Lulani
@@ -7110,16 +7106,6 @@ a wild forest animal
 [7]Antonym
 <strong><a href="../t/tara.html">tara</a></strong> <high-lulani>(tr)</high-lulani> <em>to begin</em>
 &date=20170716
-[2]nuobi
-[3]English
-[4]
-[5]<ipa>/&#x2c8;nu.wo.b&#x26a;/</ipa>
-[6]stem proper noun (capitalised) <div class="definition">(name given to Loren&rsquo;s home reality)</div>
-[7]Notes
-does not include the actual planet <a href="../n/naengi.html">Naengi</a>.
-[7]Translations
-High Lulani: <a href="../n/nubi.html">Nubi</a> <high-lulani>(IB)</high-lulani>
-&date=20170716
 [2]nu&rsquo;ifi
 [3]High Lulani
 [4]<high-lulani>(IiF)</high-lulani>
@@ -7132,6 +7118,16 @@ High Lulani: <a href="../n/nubi.html">Nubi</a> <high-lulani>(IB)</high-lulani>
 <high-lulani>(.uz / IiFp;k / NmW.)</high-lulani>
 <small-caps>1int</small-caps> <em>hide-</em><small-caps>abp</small-caps> <em>bear.</em>
 &ldquo;I hid the bear.&rdquo;
+&date=20170716
+[2]nuobi
+[3]English
+[4]
+[5]<ipa>/&#x2c8;nu.wo.b&#x26a;/</ipa>
+[6]stem proper noun (capitalised) <div class="definition">(name given to Loren&rsquo;s home reality)</div>
+[7]Notes
+does not include the actual planet <a href="../n/naengi.html">Naengi</a>.
+[7]Translations
+High Lulani: <a href="../n/nubi.html">Nubi</a> <high-lulani>(IB)</high-lulani>
 &date=20170716
 [2]nubi
 [3]High Lulani
@@ -8345,48 +8341,6 @@ Words dealing with twins are usually dictionary words, anything with greater are
 <strong><a href="ranira.html">ranira</a></strong> <high-lulani>(rNr)</high-lulani> <em>22</em>
 [6]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">metal</div>
 &date=20170724
-[2]raja
-[3]High Lulani
-[4]<high-lulani>(rj)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x27e;a&#x25f;.&#x259;/</a></ipa>
-[6]stem personal <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">from her; from him; <small-caps>3top;abl</small-caps></div>
-[7]See Also
-[t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
-[r]intranstitive (abs / nom) | <a href="../u/'usu.html">&rsquo;usu</a> | <a href="../f/filli.html">filli</a> | (<a href="../s/su'a.html">su&rsquo;a</a>) | <a href="../m/mihu.html">mihu</a> | <a href="../p/pa.html">pa</a>
-[r]transitive (erg / acc) | <a href="../s/suma.html">suma</a> | <a href="../f/fu.html">fu</a> | (<a href="../s/su'a.html">su&rsquo;a</a>) | <a href="../q/quhu.html">quhu</a> | <a href="../i/'iffa.html">&rsquo;iffa</a>
-[r]ablative | <a href="../p/puttu.html">puttu</a> | <a href="../s/sacu.html">sacu</a> | <strong>raja</strong> | <a href="../k/kassi.html">kassi</a> | <a href="../k/kalu.html">kalu</a>
-[r]dative | <a href="../p/pixi.html">pixi</a> | <a href="../b/ba'u.html">ba&rsquo;u</a> | <a href="../d/datu.html">datu</a> | <a href="../j/jusi.html">jusi</a> | <a href="../k/ku.html">ku</a>
-[r]genitive | <a href="../p/pagu.html">pagu</a> | <a href="../b/ba.html">ba</a> | <a href="../s/su'a.html">su&rsquo;a</a> | <a href="../d/disi.html">disi</a> | <a href="../q/qa.html">qa</a>
-[/t]
-&date=20170729
-[2]rahha
-[3]High Lulani
-[4]<high-lulani>(r;h)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&rsquo;-&#x27e;a&#xe7;.&#xe7;&#x259;/</a></ipa>
-[6]derived compound mathematics <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">20; <em>30</em></div>
-[7]Etymology
-<strong><a href="ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em> + <strong><a href="../h/-hha.html">-hha</a></strong> <high-lulani>(;h)</high-lulani> <em>ten</em>
-&date=20170729
-[2]runihi
-[3]High Lulani
-[4]<high-lulani>(wNH)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x27e;&#x289;.&#x2c8;nih.&#x268;/</a></ipa>
-[6]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be similar to</div>
-[7]Thematic Relations
-<strong>theme</strong> <em>subject</em>
-<strong>stimulus</strong> <em>dative,</em> <small-caps>haru, &rsquo;adi</small-caps>
-[7]Examples
-<strong>&#x294;usu ba&rsquo;u tina.</strong>
-<high-lulani>.uz / bu / Tn.</high-lulani>
-<small-caps>1int 2abl</small-caps> <em>same.</em>
-&ldquo;I&rsquo;m you.&rdquo;
-[f]<strong>&#x294;usu &rsquo;adifilli tina.</strong>
-<high-lulani>.;uz / aDF;L / Tn.</high-lulani>
-<small-caps>1int</small-caps> <em>close-</em><small-caps>2int</small-caps> <em>same.</em>
-&ldquo;I&rsquo;m similar to you.&rdquo;
-[7]Antonym
-<strong><a href="../t/tina.html">tina</a></strong> <high-lulani>(Tn)</high-lulani> <em>to differ from</em>
-&date=20170727
 [2]-rra
 [3]High Lulani
 [4]<high-lulani>(;r)</high-lulani>
@@ -8463,6 +8417,20 @@ proper, <em>i.e.:</em> of language
 [7]See Also
 <strong><a href="../d/difi.html">difi</a></strong> <high-lulani>(DF)</high-lulani> <em>formality</em>
 &date=20170716
+[2]raja
+[3]High Lulani
+[4]<high-lulani>(rj)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x27e;a&#x25f;.&#x259;/</a></ipa>
+[6]stem personal <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">from her; from him; <small-caps>3top;abl</small-caps></div>
+[7]See Also
+[t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
+[r]intranstitive (abs / nom) | <a href="../u/'usu.html">&rsquo;usu</a> | <a href="../f/filli.html">filli</a> | (<a href="../s/su'a.html">su&rsquo;a</a>) | <a href="../m/mihu.html">mihu</a> | <a href="../p/pa.html">pa</a>
+[r]transitive (erg / acc) | <a href="../s/suma.html">suma</a> | <a href="../f/fu.html">fu</a> | (<a href="../s/su'a.html">su&rsquo;a</a>) | <a href="../q/quhu.html">quhu</a> | <a href="../i/'iffa.html">&rsquo;iffa</a>
+[r]ablative | <a href="../p/puttu.html">puttu</a> | <a href="../s/sacu.html">sacu</a> | <strong>raja</strong> | <a href="../k/kassi.html">kassi</a> | <a href="../k/kalu.html">kalu</a>
+[r]dative | <a href="../p/pixi.html">pixi</a> | <a href="../b/ba'u.html">ba&rsquo;u</a> | <a href="../d/datu.html">datu</a> | <a href="../j/jusi.html">jusi</a> | <a href="../k/ku.html">ku</a>
+[r]genitive | <a href="../p/pagu.html">pagu</a> | <a href="../b/ba.html">ba</a> | <a href="../s/su'a.html">su&rsquo;a</a> | <a href="../d/disi.html">disi</a> | <a href="../q/qa.html">qa</a>
+[/t]
+&date=20170729
 [2]rakka
 [3]High Lulani
 [4]<high-lulani>(r;k)</high-lulani>
@@ -8598,6 +8566,14 @@ the posterior side of the body
 <strong><a href="../a/'adda.html">&rsquo;adda</a></strong> <high-lulani>(a;d)</high-lulani> <em>the past</em>
 <strong><a href="../f/fa'ida.html">fa&rsquo;ida</a></strong> <high-lulani>(fid)</high-lulani> <em>the present</em>
 &date=20170716
+[2]rahha
+[3]High Lulani
+[4]<high-lulani>(r;h)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&rsquo;-&#x27e;a&#xe7;.&#xe7;&#x259;/</a></ipa>
+[6]derived compound mathematics <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">20; <em>30</em></div>
+[7]Etymology
+<strong><a href="ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em> + <strong><a href="../h/-hha.html">-hha</a></strong> <high-lulani>(;h)</high-lulani> <em>ten</em>
+&date=20170729
 [2]reven
 [3]English
 [4]
@@ -8783,6 +8759,26 @@ High Lulani: <a href="../h/haki.html">haki</a> <high-lulani>(hK)</high-lulani>
 [r]future | <a href="../l/lanu.html">lanu</a> | <a href="../n/nagi.html">nagi</a> | <a href="../f/funi.html">funi</a> | <a href="../h/hu.html">hu</a> | <strong>ruku</strong>
 [/t]
 &date=20170716
+[2]runihi
+[3]High Lulani
+[4]<high-lulani>(wNH)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x27e;&#x289;.&#x2c8;nih.&#x268;/</a></ipa>
+[6]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be similar to</div>
+[7]Thematic Relations
+<strong>theme</strong> <em>subject</em>
+<strong>stimulus</strong> <em>dative,</em> <small-caps>haru, &rsquo;adi</small-caps>
+[7]Examples
+<strong>&#x294;usu ba&rsquo;u tina.</strong>
+<high-lulani>.uz / bu / Tn.</high-lulani>
+<small-caps>1int 2abl</small-caps> <em>same.</em>
+&ldquo;I&rsquo;m you.&rdquo;
+[f]<strong>&#x294;usu &rsquo;adifilli tina.</strong>
+<high-lulani>.;uz / aDF;L / Tn.</high-lulani>
+<small-caps>1int</small-caps> <em>close-</em><small-caps>2int</small-caps> <em>same.</em>
+&ldquo;I&rsquo;m similar to you.&rdquo;
+[7]Antonym
+<strong><a href="../t/tina.html">tina</a></strong> <high-lulani>(Tn)</high-lulani> <em>to differ from</em>
+&date=20170727
 [2]rusa
 [3]High Lulani
 [4]<high-lulani>(ws)</high-lulani>
@@ -9498,14 +9494,6 @@ state
 <strong>saki ra</strong> <em>half</em>
 <strong>saki kifi</strong> <em>third</em>
 &date=20170716
-[2]saki salumi
-[3]High Lulani
-[4]<high-lulani>(sK / sWM)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;sak&#x2b0;.&#x268;.s&#x259;.&#x2c8;lum.&#x268;/</a></ipa>
-[6]derived mathematics number <div class="definition">one seventh</div>
-[7]Synonyms
-<strong>tuni ra</strong> <em>0.(2)</em>
-&date=20170716
 [2]sakimica
 [3]High Lulani
 [4]<high-lulani>(sKMc)</high-lulani>
@@ -9531,6 +9519,14 @@ state
 <strong><a href="../s/sa.html">sa</a></strong> <high-lulani>(s)</high-lulani> <em>one</em> + <strong><a href="../k/kifi.html">kifi</a></strong> <high-lulani>(KF)</high-lulani> <em>three</em>
 [7]Derived Terms
 <strong><a href="../x/xu.html">xu</a><a href="../s/sahaki.html">sahaki</a></strong> <strong><a href="../l/la.html">la</a>sakifi</strong> <high-lulani>(ZshK / lsKF)</high-lulani> <em>octane</em>
+&date=20170716
+[2]saki salumi
+[3]High Lulani
+[4]<high-lulani>(sK / sWM)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;sak&#x2b0;.&#x268;.s&#x259;.&#x2c8;lum.&#x268;/</a></ipa>
+[6]derived mathematics number <div class="definition">one seventh</div>
+[7]Synonyms
+<strong>tuni ra</strong> <em>0.(2)</em>
 &date=20170716
 [2]saggi
 [3]High Lulani
@@ -9725,21 +9721,6 @@ state
 [7]Etymology
 <strong><a href="../s/sa.html">sa</a></strong> <em>solitude</em> + <strong><a href="../s/sa.html">sa</a></strong> <small-caps>drv</small-caps>
 &date=20170716
-[2]sulla
-[3]High Lulani
-[4]<high-lulani>(z;l)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;su&#x28e;.&#x28e;&#x259;/</a></ipa>
-[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do what?; interrogative action</div>
-[7]See Also
-[t] | object | place | action | manner | state
-[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <marila> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
-[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <kalisa> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
-[r]interrogative | <a href="sama.html">sama</a> | <a href="satta.html">satta</a> | <strong>sulla</strong> | <a href="../l/lara.html">lara</a> | <a href="saqqa.html">saqqa</a>
-[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <buni> | - | -
-[r]universal | <a href="../a/'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <&rsquo;abala> | - | -
-[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <&rsquo;amila> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
-[/t]
-&date=20170729
 [2]-ssasu
 [3]High Lulani
 [4]<high-lulani>(;sz)</high-lulani>
@@ -10224,6 +10205,21 @@ the patient must be inanimate.
 &uarr; <strong><a href="../f/fada.html">fada</a></strong> <high-lulani>(fd)</high-lulani> <em>chromium</em>
 &darr; <strong><a href="../m/mina''i.html">mina&#x294;i</a></strong> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
 &date=20170730
+[2]sulla
+[3]High Lulani
+[4]<high-lulani>(z;l)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;su&#x28e;.&#x28e;&#x259;/</a></ipa>
+[6]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">to do what?; interrogative action</div>
+[7]See Also
+[t] | object | place | action | manner | state
+[r]proximate | <a href="../m/mari.html">mari</a> | <a href="../m/majja.html">majja</a> | <marila> | <a href="../m/madusi.html">madusi</a> | <a href="../m/marika.html">marika</a>
+[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <kalisa> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
+[r]interrogative | <a href="sama.html">sama</a> | <a href="satta.html">satta</a> | <strong>sulla</strong> | <a href="../l/lara.html">lara</a> | <a href="saqqa.html">saqqa</a>
+[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <buni> | - | -
+[r]universal | <a href="../a/'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <&rsquo;abala> | - | -
+[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="../m/mituja.html">mituja</a> | <&rsquo;amila> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
+[/t]
+&date=20170729
 [2]surra
 [3]High Lulani
 [4]<high-lulani>(z;r)</high-lulani>
@@ -10692,6 +10688,14 @@ used for physical themes. Cf: <strong><a href="xi.html">xi</a></strong> <high-lu
 [7]Definition
 denotes a beneficiary
 &date=20170716
+[2]-hha
+[3]High Lulani
+[4]<high-lulani>(;h)</high-lulani>
+[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#xe7;.&#xe7;&#x259;/</a></ipa>
+[6]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a>) <div class="definition">ten</div>
+[7]Etymology
+<strong><qihha></strong> <high-lulani>(Q;h)</high-lulani> <em>zero</em>
+&date=20170729
 [2]hapi
 [3]High Lulani
 [4]<high-lulani>(hP)</high-lulani>
@@ -11093,11 +11097,3 @@ A person chosen to lead because of their old age and wisdom.
 [7]Etymology
 <strong><a href="hussu.html">hussu</a></strong> <high-lulani>(V;z)</high-lulani> <em>to fall</em> + <strong><a href="../d/diccaha.html">diccaha</a></strong> <high-lulani>(D;ch)</high-lulani> <em>obstacle</em>
 &date=20170716
-[2]-hha
-[3]High Lulani
-[4]<high-lulani>(;h)</high-lulani>
-[5]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#xe7;.&#xe7;&#x259;/</a></ipa>
-[6]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a>) <div class="definition">ten</div>
-[7]Etymology
-<strong><qihha></strong> <high-lulani>(Q;h)</high-lulani> <em>zero</em>
-&date=20170729
