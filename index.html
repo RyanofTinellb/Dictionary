@@ -1,35 +1,28 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>
-			Tinellbian Languages Dictionary
-		</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>
+      Dictionary - The Tinellbian Languages Dictionary
+    </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="icon" type="image/png" href="favicon.png">
-		<script type="text/javascript">
+    <script type="text/javascript">
         if (window.location.href.indexOf("?") != -1) {
             window.location.href = "search.html" +
             window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
         }
     </script>
-		<script>
-		function dictionarysearch() {
-			var text;
-			var folder;
-			text = document.getElementById("wordsearch").value.toLowerCase();
-			if (text.startsWith("'")) {
-				folder = text.charAt(1);
-			} else {
-				folder = text.charAt(0); }
-				window.location.href = folder + "/" + text + ".html";
-			}
-			</script>
-	</head>
-	<body>
-		<div class="flex">
+    <script src="../word_search.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="flex">
       <div class="nav-pane">
-				<ul>
+        <div class="random">
+          <a href="../random_entry.html">Random Entry</a>
+        </div>
+        <ul>
                   <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
                   <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
                 </ul>
@@ -42,21 +35,30 @@
                 <ul><li><a href="a/index.html">A</a></li><li><a href="i/index.html">I</a></li><li><a href="u/index.html">U</a></li><li><a href="p/index.html">P</a></li><li><a href="b/index.html">B</a></li><li><a href="t/index.html">T</a></li><li><a href="d/index.html">D</a></li><li><a href="c/index.html">C</a></li><li><a href="j/index.html">J</a></li><li><a href="k/index.html">K</a></li><li><a href="g/index.html">G</a></li><li><a href="m/index.html">M</a></li><li><a href="n/index.html">N</a></li><li><a href="q/index.html">Q</a></li><li><a href="l/index.html">L</a></li><li><a href="r/index.html">R</a></li><li><a href="f/index.html">F</a></li><li><a href="s/index.html">S</a></li><li><a href="x/index.html">X</a></li><li><a href="h/index.html">H</a></li></ul>
                 </ul>
       </div>
-			<div class="content">
-				<h1>Welcome to the Tinellbian Languages Dictionary!</h1>
-				<h2>About</h2>
-				<p class="introduction">This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p>
-				<div class="search-box" id="word-search-box">
-					<h2>Searching</h2>
-					<input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
-					<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Jump to Entry">
-				<p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>
-				</div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			document.getElementById('word-search-box').style.display = "block";
-			document.getElementById('search').style.display = 'list-item';
-		</script>
-	</body>
-</html>
+      <div class="content">
+        <h1 id="thetinellbianlanguagesdictionary">The Tinellbian Languages Dictionary</h1>
+<p><h2>About</h2></p>
+<p>    <p class="introduction">This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p></p>
+<p>    <div class="search-box" id="word-search-box"></p>
+<p>      <h2>Searching</h2></p>
+<p>      <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}"></p>
+<p>      <input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Jump to Entry"></p>
+<p>    <p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p></p>
+
+        <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
+          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+        </div>
+        <div class="toc">
+          
+        </div>
+        <br>
+        <div class="copyright">
+          
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      document.getElementById('word-search-box').style.display = "block";
+      document.getElementById('search').style.display = 'list-item';
+    </script>
+  </body>
