@@ -1,1 +1,24 @@
-{"files": {"searchjson": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"}, "random words": {"geminate": 3, "number": 20}, "site": {"destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", "name": "Dictionary", "leaf_level": 2}, "links": [{"type": "InternalDictionary"}, {"resource": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.glk", "type": "ExternalGrammar"}]}
+{
+  "files": {
+    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
+    "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
+    "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
+  }, 
+  "random words": {
+    "geminate": 3, 
+    "number": 20
+  }, 
+  "site": {
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+    "name": "Dictionary"
+  }, 
+  "links": [
+    {
+      "type": "InternalDictionary"
+    }, 
+    {
+      "type": "ExternalGrammar", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.glk"
+    }
+  ]
+}
