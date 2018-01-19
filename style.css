@@ -142,8 +142,7 @@ a:visited {
 }
 
 .content h4 /* Pronunciation */ {
-	font-family: android-ipa;
-  /* segoe ui, , monospace; */
+	font-family: segoe ui, android-ipa, monospace;
 	font-size: large;
 	font-weight: normal;
 	letter-spacing: 1.5px;
