@@ -3,6 +3,11 @@
     src: url('http://www.tinellb.com/highlulani.ttf');
 }
 
+@font-face {
+  font-family: android-ipa;
+  src: url('http://openfontlibrary.org/content/RebeccaRGB/412/Constructium.ttf') format('truetype');
+}
+
 small-caps {	/* Remove italics when applying small-caps */
 	font-variant: small-caps;
 	font-style: normal;
@@ -137,7 +142,7 @@ a:visited {
 }
 
 .content h4 /* Pronunciation */ {
-	font-family: segoe ui, monospace;
+	font-family: segoe ui, android-ipa, monospace;
 	font-size: large;
 	font-weight: normal;
 	letter-spacing: 1.5px;

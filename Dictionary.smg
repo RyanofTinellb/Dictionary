@@ -17,8 +17,8 @@
       "type": "InternalDictionary"
     }, 
     {
-      "type": "ExternalGrammar", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.glk"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.glk", 
+      "type": "ExternalGrammar"
     }
   ]
 }
