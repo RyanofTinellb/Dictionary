@@ -5,7 +5,8 @@
 
 @font-face {
   font-family: android-ipa;
-  src: url('http://openfontlibrary.org/content/rebeccargb/412/constructium.ttf') format('truetype');
+  src: url('http://www.tinellb.com/thisone.ttf');
+  /* src: url('http://openfontlibrary.org/content/rebeccargb/412/constructium.ttf') format('truetype'); */
 }
 
 small-caps {	/* Remove italics when applying small-caps */
