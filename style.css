@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: android-ipa;
-  src: url('http://openfontlibrary.org/content/RebeccaRGB/412/Constructium.ttf') format('truetype');
+  src: url('http://openfontlibrary.org/content/rebeccargb/412/constructium.ttf') format('truetype');
 }
 
 small-caps {	/* Remove italics when applying small-caps */
@@ -142,7 +142,8 @@ a:visited {
 }
 
 .content h4 /* Pronunciation */ {
-	font-family: segoe ui, android-ipa, monospace;
+	font-family: android-ipa
+  /* segoe ui, , monospace; */
 	font-size: large;
 	font-weight: normal;
 	letter-spacing: 1.5px;
