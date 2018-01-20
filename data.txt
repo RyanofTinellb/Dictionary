@@ -1,12 +1,11 @@
-[0]The Tinellbian Languages Dictionary
-<h2>About</h2>
+[1]The Tinellbian Languages Dictionary
+[2]About[2]
     <p class="introduction">This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p>
     <div class="search-box" id="word-search-box">
-      <h2>Searching</h2>
-      <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
-      <input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Jump to Entry">
-    <p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>
---------------------------------------------------1
+[2]Searching[2]
+<input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
+<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Jump to Entry">
+    <p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>&date=20180121--------------------------------------------------1
 [1]A
 &date=20180118--------------------------------------------------2
 [1]&rsquo;a
@@ -2436,8 +2435,8 @@ to have the same vowels and placement of geminates
 &date=20170716
 --------------------------------------------------1
 [1]T
-&date=20171204
---------------------------------------------------2
+
+&date=20180121--------------------------------------------------2
 [1]ta
 [2]High Lulani
 [3]<high-lulani>(t)</high-lulani>
@@ -2503,6 +2502,20 @@ to have the same vowels and placement of geminates
 seeks confirmation from the listener
 &date=20170716
 --------------------------------------------------2
+1]tapu
+[2]High Lulani
+[3]<high-lulani>\(to\)</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;t&#x2b0;ap&#x2b0;.&#x289;/</a></ipa>
+[5]transitive stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to like; to enjoy</div>
+[6]Derived Terms
+<a href="../t/tapucijja.html#highlulani">tapucijja</a> <high-lulani>\(toC;j\)</high-lulani> <em>to be drunk</em>&date=20180121--------------------------------------------------2
+1]tapucijja
+[2]High Lulani
+[3]<high-lulani>\(toC;j\)</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;t&#x2b0;ap&#x2b0;.&#x289;.&#x2cc;ci&#x25f;.&#x25f;&#x259;/</a></ipa>
+[5] <div class="definition">to be drunk</div>
+[6]Etymology
+<a href="../t/tapu.html#highlulani">tapu</a> <high-lulani>\(to\)</high-lulani> <em>to enjoy</em> + <a href="../c/cijja.html#highlulani">cijja</a> <high-lulani>\(C;j\)</high-lulani> <em>alcohol</em>&date=20180121--------------------------------------------------2
 [1]taddi
 [2]High Lulani
 [3]<high-lulani>(t;D)</high-lulani>
@@ -4088,8 +4101,8 @@ rare
 &date=20170716
 --------------------------------------------------1
 [1]C
-&date=20170729
---------------------------------------------------2
+
+&date=20180121--------------------------------------------------2
 [1]ca
 [2]High Lulani
 [3]<high-lulani>(c)</high-lulani>
@@ -4367,8 +4380,8 @@ One of ten directions in which something can be measured, or one of four ways in
 [3]<high-lulani>(C;j)</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;c&#x2b0;i&#x25f;.&#x25f;&#x259;/</a></ipa>
 [5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">alcohol</div>
-&date=20170716
---------------------------------------------------2
+[6]Derived Terms
+<a href="../t/tapucijja.html#highlulani">tapucijja</a> <high-lulani>\(toC;j\)</high-lulani> <em>to be drunk</em>&date=20180121--------------------------------------------------2
 [1]ciju
 [2]High Lulani
 [3]<high-lulani>(CY)</high-lulani>
