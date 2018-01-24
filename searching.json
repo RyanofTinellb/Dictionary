@@ -11062,8 +11062,6 @@
         2356
       ], 
       "843": [
-        7681, 
-        7685, 
         7690
       ]
     }, 
@@ -24037,7 +24035,9 @@
         2361
       ], 
       "843": [
-        7674
+        7674, 
+        7681, 
+        7685
       ]
     }, 
     "ni''irri'a": {
@@ -51103,6 +51103,9 @@
       ]
     }, 
     "live": {
+      "1061": [
+        9548
+      ], 
       "262": [
         2422
       ]
@@ -81519,11 +81522,11 @@
     "theme subject", 
     "stimulus dative haru &rsquo;adi", 
     "Examples", 
-    "&#x294;usu ba&rsquo;u tina", 
+    "&#x294;usu ba&rsquo;u runihi", 
     "1int 2abl same", 
     "&ldquo;I&rsquo;m you", 
     "&rdquo;", 
-    " &#x294;usu &rsquo;adifilli tina", 
+    " &#x294;usu &rsquo;adifilli runihi", 
     "1int close- 2int same", 
     "&ldquo;I&rsquo;m similar to you", 
     "&rdquo;", 
@@ -83386,7 +83389,7 @@
     "inanimate stem noun painting; portrait", 
     "huba", 
     "High Lulani", 
-    "intransitive stem verb to breathe", 
+    "intransitive stem verb to live; to breathe", 
     "Thematic Relations", 
     "agent subject", 
     "instrument ablative; bi; haru", 
