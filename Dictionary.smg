@@ -8,7 +8,8 @@
     "geminate": 3, 
     "number": 20
   }, 
-  "current position": "7.82", 
+  "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
+  "current position": "5.30", 
   "links": [
     {
       "type": "InternalDictionary"
@@ -16,14 +17,18 @@
     {
       "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
       "type": "ExternalGrammar"
+    }, 
+    {
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }
   ], 
-  "current language": "", 
+  "current language": "hl", 
   "site": {
     "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
     "name": "Dictionary"
   }, 
   "current page": [
-    "tapu"
+    "lasida"
   ]
 }

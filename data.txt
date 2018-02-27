@@ -3252,8 +3252,8 @@ High Lulani: <strong><a href="../d/duluri.html">duluri</a></strong> <high-lulani
 &date=20170716
 --------------------------------------------------1
 [1]D
-&date=20171204
---------------------------------------------------2
+
+&date=20180228--------------------------------------------------2
 [1]da
 [2]High Lulani
 [3]<high-lulani>(d)</high-lulani>
@@ -3542,6 +3542,12 @@ A one-way street, if travelled in the incorrect direction.
 <link>ryan</link>
 &date=20170730
 --------------------------------------------------2
+[1]das.sippa
+[2]High Lulani
+[3]<high-lulani>dS;p</high-lulani>
+[4][p hl]//[/p]
+[5]
+--------------------------------------------------2
 [1]dasidu
 [2]High Lulani
 [3]<high-lulani>(dSE)</high-lulani>
@@ -3615,11 +3621,9 @@ Ablato-passive of <strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS
 [2]High Lulani
 [3]<high-lulani>(dSS;p)</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;das.&#x2cc;sip.p&#x259;/</a></ipa>
-[5]abstract derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">mealtime</div>
+[5]<a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> derived <a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">mealtime</div>
 [6]Etymology
-<strong><a href="dasi.html">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong>sippa</strong> <high-lulani>(S;p)</high-lulani> <em>time</em>
-&date=20170716
---------------------------------------------------2
+<strong><a href="../d/dasi.html#highlulani">dasi</a></strong> <high-lulani>(dS)</high-lulani> <em>to eat</em> + <strong>sippa</strong> <high-lulani>(S;p)</high-lulani> <em>time</em>&date=20180228--------------------------------------------------2
 [1]daxa&#x294;a
 [2]High Lulani
 [3]<high-lulani>(dx;a)</high-lulani>
@@ -6068,8 +6072,8 @@ Dato-passive of <strong>kuffa</strong> <high-lulani>(&gt;;f)</high-lulani> <em>t
 &date=20170716
 --------------------------------------------------1
 [1]G
-&date=20170716
---------------------------------------------------2
+
+&date=20180228--------------------------------------------------2
 [1]ga
 [2]High Lulani
 [3]<high-lulani>(g)</high-lulani>
@@ -6348,6 +6352,11 @@ Means &lsquo;to guard&rsquo; with a causative argument, else &lsquo;to remain&rs
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be bad</div>
 &date=20170716
 --------------------------------------------------2
+[1]guli
+[2]High Lulani
+[3]<high-lulani>&lt;L</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;gul.&#x268;/</a></ipa>
+[5]<a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> stem <a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">blind person</div>&date=20180228--------------------------------------------------2
 [1]gurrisu
 [2]High Lulani
 [3]<high-lulani>(&lt;;Rz)</high-lulani>
@@ -8576,8 +8585,8 @@ A snow-capped mountain or volcano
 &date=20170729
 --------------------------------------------------1
 [1]L
-&date=20171231
---------------------------------------------------2
+
+&date=20180228--------------------------------------------------2
 [1]la
 [2]High Lulani
 [3]<high-lulani>(l)</high-lulani>
@@ -8847,6 +8856,11 @@ organ for digestion, located inside the body
 <strong><a href="../b/bada.html">bada</a></strong> <em>baby</em>
 &date=20170716
 --------------------------------------------------2
+[1]lasida
+[2]High Lulani
+[3]<high-lulani>lSd</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/l&#x259;.&#x2c8;sid.&#x259;/</a></ipa>
+[5]<a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> stem <a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">secret</div>&date=20180228--------------------------------------------------2
 [1]lasu
 [2]High Lulani
 [3]<high-lulani>(lz)</high-lulani>
@@ -11779,8 +11793,8 @@ used for physical themes. Cf: <strong><a href="xi.html">xi</a></strong> <high-lu
 &date=20170716
 --------------------------------------------------1
 [1]H
-&date=20171204
---------------------------------------------------2
+
+&date=20180228--------------------------------------------------2
 [1]ha
 [2]High Lulani
 [3]<high-lulani>(h)</high-lulani>
@@ -12099,6 +12113,22 @@ A person chosen to lead because of their old age and wisdom.
 <strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>leader</em> + <strong><a href="../j/jana.html">jana</a></strong> <high-lulani>(jn)</high-lulani> <em>elder</em>
 &date=20170716
 --------------------------------------------------2
+[1]hisutu
+[2]High Lulani
+[3]<high-lulani>Hze</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/h&#x268;.&#x2c8;sut&#x2b0;.&#x289;/</a></ipa>
+[5]derived <a href="grammar.tinellb.com/highlulani/morphology/verbs.html#transitiveverbs">transitive</a> compound <a href="grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to babysit</div>
+[6]Etymology
+<a href="../h/hisu.html#highlulani">hisu</a> <high-lulani>Hz</high-lulani> <em>to administer</em> + <a href="../t/tu.html#highlulani">tu</a> <high-lulani>e</high-lulani> <em>child</em>
+[6]Derived Terms
+<a href="../h/hisutuba.html#highlulani">hisutuba</a> <high-lulani>Hzbe</high-lulani> <em>babysitter</em>&date=20180228--------------------------------------------------2
+[1]hisutuba
+[2]High Lulani
+[3]<high-lulani>Hzeb</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;his.&#x289;.&#x2c8;t&#x2b0;ub.&#x259;/</a></ipa>
+[5]<a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> derived <a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">babysitter</div>
+[6]Etymology
+<a href="../h/hisutu.html#highlulani">hisutu</a> <high-lulani>Hze</high-lulani> <em>to babysit</em> + <a href="../b/-ba.html#highlulani">-ba</a> <high-lulani>b</high-lulani> <span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>&date=20180228--------------------------------------------------2
 [1]hu
 [2]High Lulani
 [3]<high-lulani>(V)</high-lulani>

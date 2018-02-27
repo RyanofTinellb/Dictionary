@@ -245,6 +245,26 @@ a:visited {
   color: #9955AA; /* dark violet */
 }
 
+.tooltip-text {
+  display: none;
+}
+
+.tooltip-text::before {
+  content: " ("
+}
+
+.tooltip-text::after {
+  content: ")"
+}
+
+.tooltip:hover .tooltip-text {
+  display: inline;
+}
+
+.tooltip .tooltip-text:hover {
+  display: inline;
+}
+
 .nav-pane {
 	min-width: 12em;
 	text-align: center;
