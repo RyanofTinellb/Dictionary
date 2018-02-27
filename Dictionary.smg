@@ -8,17 +8,22 @@
     "geminate": 3, 
     "number": 20
   }, 
-  "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
-    "name": "Dictionary"
-  }, 
+  "current position": "7.82", 
   "links": [
     {
       "type": "InternalDictionary"
     }, 
     {
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionarylinks.glk", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
       "type": "ExternalGrammar"
     }
+  ], 
+  "current language": "", 
+  "site": {
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+    "name": "Dictionary"
+  }, 
+  "current page": [
+    "tapu"
   ]
 }
