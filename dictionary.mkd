@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<ipa><a | [p | <br>
+href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
+</a></ipa> | [/p] | <br>
+<div class="definition"> | {{ | <br>
+</div> | }} | <br>
+' | &quot; | <br>
+" | "" | <br>
+&rsquo; | ' | <br>
+&rdquo; | '" | <br>
+&ldquo; | " | <br>
+&#x2c8; | -' | <br> <!-- primary stress -->
+&#x2cc; | _' | <br> <!-- secondary stress -->
+&#x259; | !e | <br> <!-- schwa -->
+&#x268; | -i | <br> <!-- barred i -->
+&#x289; | -u | <br> <!-- barred u -->
+&#x2b0; | +h | <br> <!-- aspiration -->
+&#x14b; | ,g | <br> <!-- eng -->
+&#x27e; | $r | <br> <!-- flap -->

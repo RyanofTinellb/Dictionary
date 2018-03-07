@@ -7,7 +7,7 @@
 <input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Jump to Entry">
     <p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>&date=20180121--------------------------------------------------1
 [1]A
-&date=20180118--------------------------------------------------2
+&date=201801182
 [1]&rsquo;a
 [2]High Lulani
 [3]<high-lulani>(a)</high-lulani>
@@ -1943,8 +1943,8 @@ To have a thought slowly rise in one&rsquo;s mind.
 &date=20170716
 --------------------------------------------------1
 [1]B
-&date=20171231
---------------------------------------------------2
+
+&date=20180301--------------------------------------------------2
 [1]ba
 [2]High Lulani
 [3]<high-lulani>(b)</high-lulani>
@@ -2352,6 +2352,13 @@ The second dimension is objective: if one time-travels into the past, then one's
 <strong><a href="../b/buma.html">buma</a></strong> <high-lulani>(Om)</high-lulani> <em>to draw</em> + <strong><a href="../k/ki.html">ki</a></strong> <high-lulani>(K)</high-lulani> <small-caps>nmn</small-caps>
 &date=20170716
 --------------------------------------------------2
+[1]bumakigifiru'i
+[2]High Lulani
+[3]<high-lulani>OmKGFwi</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">//</a></ipa>
+[5]derived compound <a href="grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">television</div>
+[6]Etymology
+<a href="../b/bumaki.html#highlulani">bumaki</a> <high-lulani>OmK</high-lulani> <em>screen</em> + <a href="../g/gufurui.html#highlulani">gufuru'i</a> <high-lulani>&lt;vwi</high-lulani> <em>radio receiver</em>&date=20180301--------------------------------------------------2
 [1]bumissi
 [2]High Lulani
 [3]<high-lulani>(OM;S)</high-lulani>
@@ -6438,8 +6445,8 @@ refers to people of a nearby tribe
 &date=20170716
 --------------------------------------------------1
 [1]M
-&date=20171204
---------------------------------------------------2
+
+&date=20180308--------------------------------------------------2
 [1]ma
 [2]High Lulani
 [3]<high-lulani>(m)</high-lulani>
@@ -7267,21 +7274,19 @@ refers to the physical organ. Cf: <strong><a href="../s/sida.html">sida</a></str
 [2]High Lulani
 [3]<high-lulani>(Us)</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;mus.&#x259;/</a></ipa>
-[5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">sun; day; daylight hours; star</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">sun; day; daylight hours; star</div>
 [6]Examples
-<strong>musa<a href="../c/cari.html">cari</a></strong> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
-[f]<strong><a href="../d/du'i.html">du&rsquo;i</a>musa</strong> <high-lulani>(EiUs)</high-lulani> <em>opposite the sun</em>
+<strong>musa</strong><a href="../c/cari.html#highlulani">cari</a> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
+[f]<a href="../d/du'i.html#highlulani">du&rsquo;i</a><strong>musa</strong> <high-lulani>(EiUs)</high-lulani> <em>opposite the sun</em>
 [6]Derived Terms
-<strong><a href="musaqapi.html">musaqapi</a></strong> <high-lulani>(UsqP)</high-lulani> <em>week</em>
-[f]<strong><a href="../a/'alamusa.html">&rsquo;alamusa</a></strong> <high-lulani>(alUs)</high-lulani> <em>sunlight</em>
-<strong><a href="../n/nuhumusa.html">nuhumusa</a></strong> <high-lulani>(IVUs)</high-lulani> <em>diary</em>
-<strong><a href="../r/rakkamusa.html">rakkamusa</a></strong> <high-lulani>(r;kUs)</high-lulani> <em>galaxy</em>
+<a href="../m/musaqapi.html#highlulani">musaqapi</a> <high-lulani>(UsqP)</high-lulani> <em>week</em>
+[f]<a href="../a/'alamusa.html#highlulani">&rsquo;alamusa</a> <high-lulani>(alUs)</high-lulani> <em>sunlight</em>
+<a href="../n/nuhumusa.html#highlulani">nuhumusa</a> <high-lulani>(IVUs)</high-lulani> <em>diary</em>
+<a href="../r/rakkamusa.html#highlulani">rakkamusa</a> <high-lulani>(r;kUs)</high-lulani> <em>galaxy</em>
 [6]See Also
-<strong><a href="../l/luna.html">luna</a></strong> <high-lulani>(Wn)</high-lulani> <em>moon</em>
-<strong><a href="../n/nuku.html">nuku</a></strong> <high-lulani>(I&gt;)</high-lulani> <em>planet</em>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">today</div>
-&date=20170716
---------------------------------------------------2
+<a href="../l/luna.html#highlulani">luna</a> <high-lulani>(Wn)</high-lulani> <em>moon</em>
+<a href="../n/nuku.html#highlulani">nuku</a> <high-lulani>(I&gt;)</high-lulani> <em>planet</em>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">today</div>&date=20180308--------------------------------------------------2
 [1]mussa
 [2]High Lulani
 [3]<high-lulani>(U;s)</high-lulani>
@@ -7317,8 +7322,8 @@ a dense, heavy metal. Element 82
 &date=20170716
 --------------------------------------------------1
 [1]N
-&date=20170730
---------------------------------------------------2
+
+&date=20180301--------------------------------------------------2
 [1]na
 [2]High Lulani
 [3]<high-lulani>(n)</high-lulani>
@@ -7485,20 +7490,18 @@ most usually used as a verbal prefix
 [2]High Lulani
 [3]<high-lulani>(n&gt;)</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;nak&#x2b0;.&#x289;/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">together</div>
+[5]stem <a href="grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">together</div>
 [6]Examples
-<strong>&#x294;usupa pi kiluqu naku.</strong>
-<high-lulani>(.uzp / P / KWA / n&gt;.)</high-lulani>
-<em>we</em> <small-caps>prs;sta</small-caps> <em>walk together.</em>
+<strong>&#x294;usupa pi jannikiluqu naku.</strong>
+<high-lulani>(.uzp / P / j;NKWA / n&gt;.)</high-lulani>
+<em>we</em> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span> <em>move-walk together.</em>
 &ldquo;We were walking together.&rdquo;
 [f]<strong>&#x294;asilaripagu ra&rsquo;u dasinaku.</strong>
 <high-lulani>(.aSlRp&lt; / ru / dSn&gt;.)</high-lulani>
 <em>friend-my are eat-together.</em>
 &ldquo;My friends are eating as a group.&rdquo;
 [6]Derived Terms
-<strong><a href="../i/'ifuhhanaku.html">&rsquo;ifuhhanaku</a></strong> <high-lulani>(iv;hn&gt;)</high-lulani> <em>to agree</em>
-&date=20170716
---------------------------------------------------2
+<strong><a href="../i/'ifuhhanaku.html#highlulani">&rsquo;ifuhhanaku</a></strong> <high-lulani>(iv;hn&gt;)</high-lulani> <em>to agree</em>&date=20180301--------------------------------------------------2
 [1]nagi
 [2]High Lulani
 [3]<high-lulani>(nG)</high-lulani>
@@ -8088,8 +8091,8 @@ Also used to refer to a letter for someone
 &date=20170716
 --------------------------------------------------1
 [1]Q
-&date=20170730
---------------------------------------------------2
+
+&date=20180304--------------------------------------------------2
 [1]qa
 [2]High Lulani
 [3]<high-lulani>(q)</high-lulani>
@@ -8443,20 +8446,27 @@ to believe oneself to be mature
 --------------------------------------------------2
 [1]qira
 [2]High Lulani
-[3]<high-lulani>(Qr)</high-lulani>
+[3]<high-lulani>Qr</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x14b;i&#x27e;.&#x259;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be rough; to be coarse; to be difficult</div>
+[5]<a href="grammar.tinellb.com/highlulani/morphology/verbs.html#intransitiveverbs">intransitive</a> stem <a href="grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be rough; to be coarse; to be difficult</div>
 [6]Thematic Relations
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <strong>Pa qira.</strong>
-<high-lulani>(.p / Qr.)</high-lulani>
-<small-caps>3ina;int</small-caps> <em>rough.</em>
-&ldquo;It&rsquo;s difficult.&rdquo;
+<high-lulani>.p / Qr.</high-lulani>
+<span class="tooltip"><small-caps>3ina;int</small-caps><span class="tooltip-text">inanimate third person intransitive</span></span> <em>rough.</em>
+&ldquo;It&rsquo;s difficult.&rsquo;&ldquo;
 [6]Antonym
-<strong><a href="../r/ri.html">ri</a></strong> <high-lulani>(R)</high-lulani> <em>to be smooth</em>
-&date=20170716
---------------------------------------------------2
+<strong><a href="../r/ri.html#highlulani">ri</a></strong> <high-lulani>(R)</high-lulani> <em>to be smooth</em>
+[6]Derived Terms
+<a href="../q/qirakunaqi.html#highlulani">qirakunaqi</a> <high-lulani>Qr&gt;nQ</high-lulani> <em>to be dirty</em>&date=20180304--------------------------------------------------2
+[1]qirakunaqi
+[2]High Lulani
+[3]<high-lulani>Qr&gt;nQ</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;&#x14b;i&#x27e;.&#x259;.k&#x2b0;&#x289;.&#x2c8;na&#x14b;.&#x268;/</a></ipa>
+[5]derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#intransitiveverbs">intransitive</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#adjectivalverbs">adjectival</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to be dirty</div>
+[6]Etymology
+<a href="../q/qira.html#highlulani">qira</a> <high-lulani>Qr</high-lulani> <em>to be rough</em> + <a href="../k/kunaqi.html#highlulani">kunaqi</a> <high-lulani>&gt;nQ</high-lulani> <em>dirt</em>&date=20180304--------------------------------------------------2
 [1]qiriji
 [2]High Lulani
 [3]<high-lulani>(QRJ)</high-lulani>

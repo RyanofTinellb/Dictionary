@@ -9,18 +9,18 @@
     "number": 20
   }, 
   "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
-  "current position": "5.30", 
+  "current position": "4.15", 
   "links": [
     {
       "type": "InternalDictionary"
     }, 
     {
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
-      "type": "ExternalGrammar"
+      "type": "ExternalGrammar", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
     }, 
     {
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
     }
   ], 
   "current language": "hl", 
@@ -29,6 +29,6 @@
     "name": "Dictionary"
   }, 
   "current page": [
-    "lasida"
+    "musa"
   ]
 }
