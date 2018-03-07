@@ -1,6 +1,6 @@
 /* Goes directly to an inputted word*/
 
-function wordsearch() {
+function search() {
 	var text;
 	var folder;
 	var first_letter;
@@ -16,5 +16,13 @@ function wordsearch() {
 	} else {
 		folder = text.charAt(0);
 	}
-		window.location.href = "../" + folder + "/" + text + ".html";
+		return folder + "/" + text + ".html"
+}
+
+function wordsearch() {
+	window.location.href = "../" + search();
+}
+
+function toplevelwordsearch() {
+	window.location.href = search();
 }

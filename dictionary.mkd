@@ -11,6 +11,7 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 &rsquo; | ' | <br>
 &rdquo; | '" | <br>
 &ldquo; | " | <br>
+&#x294; | '' | <br> <!-- glottal stop -->
 &#x2c8; | -' | <br> <!-- primary stress -->
 &#x2cc; | _' | <br> <!-- secondary stress -->
 &#x259; | !e | <br> <!-- schwa -->
