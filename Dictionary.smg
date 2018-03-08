@@ -4,31 +4,34 @@
     "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
   }, 
+  "current": {
+    "position": "3.11", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
+    "fontsize": 19, 
+    "page": [
+      "mala"
+    ], 
+    "language": "hl"
+  }, 
   "random words": {
     "geminate": 3, 
     "number": 20
   }, 
-  "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
-  "current position": "3.5", 
+  "site": {
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+    "name": "Dictionary"
+  }, 
   "links": [
     {
       "type": "InternalDictionary"
     }, 
     {
-      "type": "ExternalGrammar", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
+      "type": "ExternalGrammar"
     }, 
     {
-      "type": "Glossary", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }
-  ], 
-  "current language": "hl", 
-  "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
-    "name": "Dictionary"
-  }, 
-  "current page": [
-    "mala"
   ]
 }
