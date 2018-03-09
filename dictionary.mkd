@@ -7,7 +7,8 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 <div class="definition"> | {{ | <br>
 </div> | }} | <br>
 ' | &quot; | <br>
-" | "" | <br>
+" | &dquot; | <br>
+- | &hyph; | <br>
 &rsquo; | ' | <br>
 &rdquo; | '" | <br>
 &ldquo; | " | <br>
@@ -18,5 +19,11 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 &#x268; | -i | <br> <!-- barred i -->
 &#x289; | -u | <br> <!-- barred u -->
 &#x2b0; | +h | <br> <!-- aspiration -->
+&#x2b1; | ++h | <br> <!-- breathy voice -->
 &#x14b; | ,g | <br> <!-- eng -->
 &#x27e; | $r | <br> <!-- flap -->
+&rarr; | ==> | <br>
+&hyph; | \- | <br>
+&dquot; | "" | <br>
+<high\-lulani> | <high-lulani> | <br>
+</high\-lulani> | </high-lulani> | <br>
