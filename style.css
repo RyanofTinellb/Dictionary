@@ -205,18 +205,8 @@ a:visited {
 	white-space: nowrap;
 }
 
-.content td a { /* Only bold the _current_ element in a table */
-	font-weight: normal;
-}
-
-.content td:first-child { /* To mimic <th> tags */
-	text-align: right;
-	font-weight: bold;
-	white-space: nowrap;
-}
-
-.content tr:first-child { /* To mimic <th> tags */
-	font-weight: bold;
+.content tr th:first-child {
+  text-align: right;
 }
 
 .content .results li {
