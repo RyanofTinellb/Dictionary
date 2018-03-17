@@ -11,11 +11,10 @@ function search() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
 			var terms = getTerms();
-			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
-			else {
-				if (andButton.checked) {arr = andSearch(text, terms);}
-				else {arr = orSearch(text, terms);}
-			}
+      if (!terms.length) {arr = [];}
+			else if (terms.length == 1) {arr = oneTermSearch(text, terms);}
+			else if (andButton.checked) {arr = andSearch(text, terms);}
+			else {arr = orSearch(text, terms);}
 			display(arr, text, "results", terms);
 		}
 	};
@@ -41,8 +40,8 @@ function getTerms() {
 	}
 	if (andOr == "or") {document.getElementById("or").checked = true}
 	text = searchString[0].split("=")[1];
-	for (i = 0; i < markup.length; i += 2) {
-		text = text.split(markup[i]).join(markup[i+1]).toLowerCase();
+	for (i = 0; i < MARKUP.length; i += 2) {
+		text = text.split(MARKUP[i]).join(MARKUP[i+1]).toLowerCase();
 	}
 	document.getElementById("term").value = text.split("+").join(" ");
 	return text.split("+").filter(i => i != "");
@@ -128,7 +127,6 @@ function markdown(arr) {
 	}
 	return terms;
 }
-
 
 // displays results as list
 // @param Array arr: results array

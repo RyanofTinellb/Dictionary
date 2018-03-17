@@ -1,8 +1,3 @@
-@font-face {
-  font-family: high-lulani;
-  src: url('http://www.tinellb.com/highlulani.ttf');
-}
-
 small-caps {	/* Remove italics when applying small-caps */
 	font-variant: small-caps;
 	font-style: normal;

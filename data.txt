@@ -9,7 +9,7 @@
 --------------------------------------------------1
 [1]A
 
-&date=20180316--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]&rsquo;a
 [2]High Lulani
 [3]<high-lulani>a</high-lulani>
@@ -246,7 +246,7 @@ h existential | <a href="../u/'umi.html#highlulani">&rsquo;umi</a> | <a href="..
 <a href="../a/'aka.html#highlulani">&rsquo;aka</a> <high-lulani>ak</high-lulani> <em>spiritual plane</em>
 <a href="../f/fara.html#highlulani">fara</a> <high-lulani>fr</high-lulani> <em>subtle planes</em>
 <a href="../i/'ihafi.html#highlulani">&rsquo;ihafi</a> <high-lulani>ihF</high-lulani> <em>four planes</em>
-[/d]&date=20180316--------------------------------------------------2
+[/d]&date=20180317--------------------------------------------------2
 [1]&rsquo;anu
 [2]High Lulani
 [3]<high-lulani>aI</high-lulani>
@@ -5043,7 +5043,7 @@ Not used with possessives.
 --------------------------------------------------1
 [1]K
 
-&date=20180309--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]ka
 [2]High Lulani
 [3]<high-lulani>k</high-lulani>
@@ -5174,46 +5174,16 @@ Used after verbs with non-geminate final consonants.
 [2]High Lulani
 [3]<high-lulani>kES</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.&#x2c8;dus.&#x268;/</a></ipa>
-[5]indefinite stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">that way; in that manner; distal manner</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/deixis.html#indefinitepro-forms">indefinite</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">that way; in that manner; distal manner</div>
 [6]See Also
-[t]
-object
-place
-manner
-state
-[r]proximate
-<strong><a href="../m/mari.html">mari</a></strong>
-<strong><a href="../m/majja.html">majja</a></strong>
-<strong><a href="../m/madusi.html">madusi</a></strong>
-<strong><a href="../m/marika.html">marika</a></strong>
-[r]distal
-<strong><a href="../k/kasi.html">kasi</a></strong>
-<strong><a href="../k/kasuja.html">kasuja</a></strong>
-<strong>kadusi</strong>
-<strong><a href="../k/kasika.html">kasika</a></strong>
-[r]interrogative
-<strong><a href="../s/sama.html">sama</a></strong>
-<strong><a href="../s/satta.html">satta</a></strong>
-<strong><a href="../l/lara.html">lara</a></strong>
-<strong><a href="../s/saqqa.html">saqqa</a></strong>
-[r]negative
-<strong><a href="../c/cu'i.html">cu&rsquo;i</a></strong>
-<strong><a href="../q/qa'i.html">qa&rsquo;i</a></strong>
--
--
-[r]universal
-<strong><a href="../a/'aba.html">&rsquo;aba</a></strong>
-<strong><a href="../b/batuja.html">batuja</a></strong>
--
--
-[r]existential
-<strong><a href="../u/'umi.html">&rsquo;umi</a></strong>
-<strong><a href="../m/mituja.html">mituja</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-[/t]
-&date=20170716
---------------------------------------------------2
+[t]|h object |h place |h action |h manner |h state
+h proximate | <a href="../m/mari.html#highlulani">mari</a> | <a href="../m/majja.html#highlulani">majja</a> | <a href="../m/marila.html#highlulani">marila</a> | <a href="../m/madusi.html#highlulani">madusi</a> | <a href="../m/marika.html#highlulani">marika</a>
+h distal | <a href="../k/kasi.html#highlulani">kasi</a> | <a href="../k/kasuja.html#highlulani">kasuja</a> | <a href="../k/kalisa.html#highlulani">kalisa</a> | <strong>kadusi</strong> | <a href="../k/kasika.html#highlulani">kasika</a>
+h interrogative | <a href="../s/sama.html#highlulani">sama</a> | <a href="../s/satta.html#highlulani">satta</a> | <a href="../s/sulla.html#highlulani">sulla</a> | <a href="../l/lara.html#highlulani">lara</a> | <a href="../s/saqqa.html#highlulani">saqqa</a>
+h negative | <a href="../c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a> | <a href="../b/buni.html#highlulani">buni</a> |r2c2   
+h universal | <a href="../a/'aba.html#highlulani">&rsquo;aba</a> | <a href="../b/batuja.html#highlulani">batuja</a> | <a href="../a/'abala.html#highlulani">&rsquo;abala</a>
+h existential | <a href="../u/'umi.html#highlulani">&rsquo;umi</a> | <a href="../m/mituja.html#highlulani">mituja</a> | <a href="../a/'amila.html#highlulani">&rsquo;amila</a> |c2 <a href="../f/fana.html#highlulani">fana</a>
+[/t]&date=20180317--------------------------------------------------2
 [1]kaca
 [2]High Lulani
 [3]<high-lulani>kc</high-lulani>
@@ -5409,46 +5379,16 @@ used for auxiliaries. Replaces final syllable for disyllabic auxiliaries
 [2]High Lulani
 [3]<high-lulani>kSk</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.&#x2c8;sik&#x2b0;.&#x259;/</a></ipa>
-[5]indefinite stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">that way; in that state; distal state</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/deixis.html#indefinitepro-forms">indefinite</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">that way; in that state; distal state</div>
 [6]See Also
-[t]
-object
-place
-manner
-state
-[r]proximate
-<strong><a href="../m/mari.html">mari</a></strong>
-<strong><a href="../m/majja.html">majja</a></strong>
-<strong><a href="../m/madusi.html">madusi</a></strong>
-<strong><a href="../m/marika.html">marika</a></strong>
-[r]distal
-<strong><a href="../k/kasi.html">kasi</a></strong>
-<strong><a href="../k/kasuja.html">kasuja</a></strong>
-<strong><a href="../k/kadusi.html">kadusi</a></strong>
-<strong>kasika</strong>
-[r]interrogative
-<strong><a href="../s/sama.html">sama</a></strong>
-<strong><a href="../s/satta.html">satta</a></strong>
-<strong><a href="../l/lara.html">lara</a></strong>
-<strong><a href="../s/saqqa.html">saqqa</a></strong>
-[r]negative
-<strong><a href="../c/cu'i.html">cu&rsquo;i</a></strong>
-<strong><a href="../q/qa'i.html">qa&rsquo;i</a></strong>
--
--
-[r]universal
-<strong><a href="../a/'aba.html">&rsquo;aba</a></strong>
-<strong><a href="../b/batuja.html">batuja</a></strong>
--
--
-[r]existential
-<strong><a href="../u/'umi.html">&rsquo;umi</a></strong>
-<strong><a href="../m/mituja.html">mituja</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-[/t]
-&date=20170716
---------------------------------------------------2
+[t]|h object |h place |h action |h manner |h state
+h proximate | <a href="../m/mari.html#highlulani">mari</a> | <a href="../m/majja.html#highlulani">majja</a> | <a href="../m/marila.html#highlulani">marila</a> | <a href="../m/madusi.html#highlulani">madusi</a> | <a href="../m/marika.html#highlulani">marika</a>
+h distal | <a href="../k/kasi.html#highlulani">kasi</a> | <a href="../k/kasuja.html#highlulani">kasuja</a> | <a href="../k/kalisa.html#highlulani">kalisa</a> | <a href="../k/kadusi.html#highlulani">kadusi</a> | <strong>kasika</strong>
+h interrogative | <a href="../s/sama.html#highlulani">sama</a> | <a href="../s/satta.html#highlulani">satta</a> | <a href="../s/sulla.html#highlulani">sulla</a> | <a href="../l/lara.html#highlulani">lara</a> | <a href="../s/saqqa.html#highlulani">saqqa</a>
+h negative | <a href="../c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a> | <a href="../b/buni.html#highlulani">buni</a> |r2c2   
+h universal | <a href="../a/'aba.html#highlulani">&rsquo;aba</a> | <a href="../b/batuja.html#highlulani">batuja</a> | <a href="../a/'abala.html#highlulani">&rsquo;abala</a>
+h existential | <a href="../u/'umi.html#highlulani">&rsquo;umi</a> | <a href="../m/mituja.html#highlulani">mituja</a> | <a href="../a/'amila.html#highlulani">&rsquo;amila</a> |c2 <a href="../f/fana.html#highlulani">fana</a>
+[/t]&date=20180317--------------------------------------------------2
 [1]kassu
 [2]High Lulani
 [3]<high-lulani>k;z</high-lulani>
@@ -5482,46 +5422,16 @@ state
 [2]High Lulani
 [3]<high-lulani>kzj</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.&#x2c8;su&#x25f;.&#x259;/</a></ipa>
-[5]indefinite stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">there; distal place</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/deixis.html#indefinitepro-forms">indefinite</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">there; distal place</div>
 [6]See Also
-[t]
-object
-place
-manner
-state
-[r]proximate
-<strong><a href="../m/mari.html">mari</a></strong>
-<strong><a href="../m/majja.html">majja</a></strong>
-<strong><a href="../m/madusi.html">madusi</a></strong>
-<strong><a href="../m/marika.html">marika</a></strong>
-[r]distal
-<strong><a href="../k/kasi.html">kasi</a></strong>
-<strong>kasuja</strong>
-<strong><a href="../k/kadusi.html">kadusi</a></strong>
-<strong><a href="../k/kasika.html">kasika</a></strong>
-[r]interrogative
-<strong><a href="../s/sama.html">sama</a></strong>
-<strong><a href="../s/satta.html">satta</a></strong>
-<strong><a href="../l/lara.html">lara</a></strong>
-<strong><a href="../s/saqqa.html">saqqa</a></strong>
-[r]negative
-<strong><a href="../c/cu'i.html">cu&rsquo;i</a></strong>
-<strong><a href="../q/qa'i.html">qa&rsquo;i</a></strong>
--
--
-[r]universal
-<strong><a href="../a/'aba.html">&rsquo;aba</a></strong>
-<strong><a href="../b/batuja.html">batuja</a></strong>
--
--
-[r]existential
-<strong><a href="../u/'umi.html">&rsquo;umi</a></strong>
-<strong><a href="../m/mituja.html">mituja</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-<strong><a href="../f/fana.html">fana</a></strong>
-[/t]
-&date=20170716
---------------------------------------------------2
+[t]|h object |h place |h action |h manner |h state
+h proximate | <a href="../m/mari.html#highlulani">mari</a> | <a href="../m/majja.html#highlulani">majja</a> | <a href="../m/marila.html#highlulani">marila</a> | <a href="../m/madusi.html#highlulani">madusi</a> | <a href="../m/marika.html#highlulani">marika</a>
+h distal | <a href="../k/kasi.html#highlulani">kasi</a> | <strong>kasuja</strong> | <a href="../k/kalisa.html#highlulani">kalisa</a> | <a href="../k/kadusi.html#highlulani">kadusi</a> | <a href="../k/kasika.html#highlulani">kasika</a>
+h interrogative | <a href="../s/sama.html#highlulani">sama</a> | <a href="../s/satta.html#highlulani">satta</a> | <a href="../s/sulla.html#highlulani">sulla</a> | <a href="../l/lara.html#highlulani">lara</a> | <a href="../s/saqqa.html#highlulani">saqqa</a>
+h negative | <a href="../c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a> | <a href="../b/buni.html#highlulani">buni</a> |r2c2   
+h universal | <a href="../a/'aba.html#highlulani">&rsquo;aba</a> | <a href="../b/batuja.html#highlulani">batuja</a> | <a href="../a/'abala.html#highlulani">&rsquo;abala</a>
+h existential | <a href="../u/'umi.html#highlulani">&rsquo;umi</a> | <a href="../m/mituja.html#highlulani">mituja</a> | <a href="../a/'amila.html#highlulani">&rsquo;amila</a> |c2 <a href="../f/fana.html#highlulani">fana</a>
+[/t]&date=20180317--------------------------------------------------2
 [1]kahi
 [2]High Lulani
 [3]<high-lulani>kH</high-lulani>
@@ -6403,7 +6313,7 @@ refers to people of a nearby tribe
 --------------------------------------------------1
 [1]M
 
-&date=20180309--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]ma
 [2]High Lulani
 [3]<high-lulani>m</high-lulani>
@@ -6703,18 +6613,16 @@ being happy in the moment
 [2]High Lulani
 [3]<high-lulani>mR</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ma&#x27e;.&#x268;/</a></ipa>
-[5]stem indefinite <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#pronouns">pronoun</a> <div class="definition">proximate objective pronoun; this</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/deixis.html#indefinitepro-forms">indefinite</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">proximate objective pronoun; this</div>
 [6]See Also
 [t] | object | place | action | manner | state
-[r]proximate | <strong>mari</strong> | <a href="majja.html">majja</a> | <marila> | <a href="madusi.html">madusi</a> | <a href="marika.html">marika</a>
-[r]distal | <a href="../k/kasi.html">kasi</a> | <a href="../k/kasuja.html">kasuja</a> | <kalisa> | <a href="../k/kadusi.html">kadusi</a> | <a href="../k/kasika.html">kasika</a>
-[r]interrogative | <a href="../s/sama.html">sama</a> | <a href="../s/satta.html">satta</a> | <a href="../s/sulla.html">sulla</a> | <a href="../l/lara.html">lara</a> | <a href="../s/saqqa.html">saqqa</a>
-[r]negative | <a href="../c/cu'i.html">cu&rsquo;i</a> | <a href="../q/qa'i.html">qa&rsquo;i</a> | <buni> | - | -
-[r]universal | <a href="../a/'aba.html">&rsquo;aba</a> | <a href="../b/batuja.html">batuja</a> | <&rsquo;abala> | - | -
-[r]existential | <a href="../u/'umi.html">&rsquo;umi</a> | <a href="mituja.html">mituja</a> | <&rsquo;amila> | <a href="../f/fana.html">fana</a> | <a href="../f/fana.html">fana</a>
-[/t]
-&date=20170729
---------------------------------------------------2
+h proximate | <strong>mari</strong> | <a href="../m/majja.html#highlulani">majja</a> | <marila> | <a href="../m/madusi.html#highlulani">madusi</a> | <a href="../m/marika.html#highlulani">marika</a>
+h distal | <a href="../k/kasi.html#highlulani">kasi</a> | <a href="../k/kasuja.html#highlulani">kasuja</a> | <kalisa> | <a href="../k/kadusi.html#highlulani">kadusi</a> | <a href="../k/kasika.html#highlulani">kasika</a>
+h interrogative | <a href="../s/sama.html#highlulani">sama</a> | <a href="../s/satta.html#highlulani">satta</a> | <a href="../s/sulla.html#highlulani">sulla</a> | <a href="../l/lara.html#highlulani">lara</a> | <a href="../s/saqqa.html#highlulani">saqqa</a>
+h negative | <a href="../c/cu'i.html#highlulani">cu&rsquo;i</a> | <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a> | <buni> | - | -
+h universal | <a href="../a/'aba.html#highlulani">&rsquo;aba</a> | <a href="../b/batuja.html#highlulani">batuja</a> | <&rsquo;abala> | - | -
+h existential | <a href="../u/'umi.html#highlulani">&rsquo;umi</a> | <a href="../m/mituja.html#highlulani">mituja</a> | <&rsquo;amila> | <a href="../f/fana.html#highlulani">fana</a> | <a href="../f/fana.html#highlulani">fana</a>
+[/t]&date=20180317--------------------------------------------------2
 [1]marika
 [2]High Lulani
 [3]<high-lulani>mRk</high-lulani>
@@ -11765,7 +11673,7 @@ used for physical themes. Cf: <strong><a href="xi.html">xi</a></strong> <high-lu
 --------------------------------------------------1
 [1]H
 
-&date=20180228--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]ha
 [2]High Lulani
 [3]<high-lulani>h</high-lulani>
@@ -12155,15 +12063,13 @@ A person chosen to lead because of their old age and wisdom.
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/h&#x289;.&#x2c8;ka&#x27e;.&#x289;/</a></ipa>
 [5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/auxiliaries.html">auxiliary</a> <div class="definition">will discontinue; <small-caps>fut;itr-trm</small-caps></div>
 [6]Etymology
-<strong><a href="../h/hu.html">hu</a></strong> <high-lulani>V</high-lulani> <small-caps>fut;itr</small-caps> + <strong><a href="../k/karu.html">karu</a></strong> <high-lulani>kw</high-lulani> <small-caps>trm</small-caps>
+<a href="../h/hu.html#highlulani">hu</a> <high-lulani>V</high-lulani> <small-caps>fut;itr</small-caps> + <a href="../k/karu.html#highlulani">karu</a> <high-lulani>kw</high-lulani> <small-caps>trm</small-caps>
 [6]See Also
-[t] | dynamic | stative | negative | iterative | gnomic
-[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
-[r]present | <a href="../c/cakaru.html">cakaru</a> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a>
-[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <strong>hukaru</strong>
-[/t]
-&date=20170716
---------------------------------------------------2
+[t] |h dynamic |h stative |h negative |h iterative |h gnomic
+h past | <a href="../q/qikaru.html#highlulani">qikaru</a> | <a href="../p/pikaru.html#highlulani">pikaru</a> | <a href="../q/qikaru.html#highlulani">qikaru</a> | <a href="../t/takaru.html#highlulani">takaru</a> | <a href="../r/rukaru.html#highlulani">rukaru</a>
+h present | <a href="../c/cakaru.html#highlulani">cakaru</a> | <a href="../r/rakaru.html#highlulani">rakaru</a> | <a href="../j/jikaru.html#highlulani">jikaru</a> | <a href="../n/nakaru.html#highlulani">nakaru</a>
+h future | <a href="../l/lakaru.html#highlulani">lakaru</a> | <a href="../n/nakaru.html#highlulani">nakaru</a> | <a href="../f/fukaru.html#highlulani">fukaru</a> | <strong>hukaru</strong>
+[/t]&date=20180317--------------------------------------------------2
 [1]hulla
 [2]High Lulani
 [3]<high-lulani>V;l</high-lulani>
