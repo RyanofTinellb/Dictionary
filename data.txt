@@ -1,12 +1,13 @@
 [1]The Tinellbian Languages Dictionary
 [2]About
-    <p class="introduction">This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p>
-    <div class="search-box" id="word-search-box">
+[d introduction]
+This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.
+[/d]
+[d javascript]
+[d introduction]
 [2]Searching
-<input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {toplevelwordsearch()}">
-<input type="button" name="dictionary" id="dictionary" onClick="toplevelwordsearch()" value="Jump to Entry"></div>
-    <p class="introduction">The search box directly above allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>&date=20180121
---------------------------------------------------1
+The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.
+[/d][/d]&date=20180320--------------------------------------------------1
 [1]A
 
 &date=20180317--------------------------------------------------2

@@ -1,30 +1,31 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <title>
-      huri - The Tinellbian Languages Dictionary
-    </title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>
+    huri - The Tinellbian Languages Dictionary
+  </title>
+  <link rel="stylesheet" type="text/css" href="../style.css">
                     <link rel="stylesheet" type="text/css" href="../basic_style.css">
-                    <link rel="icon" type="image/png" href="../favicon.png">
-    <script type="text/javascript">
+                    <link rel="icon" type="image/png" href="../favicon.png"> <script type="text/javascript">
         if (window.location.href.indexOf("?") != -1) {
             window.location.href = "../search.html" +
             window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
         }
     </script>
-    <script src="../word_search.js" charset="utf-8"></script>
-    <script src="word_search.js" charset="utf-8"></script>
-  </head>
-  <body>
-    <div class="flex">
-      <div class="nav-pane">
-        <div class="random">
-          <a href="../random_entry.html">Random Entry</a>
-        </div>
-        <ul><li><a href="../index.html">Dictionary</a></li>
+  <script src="../word_search.js" charset="utf-8"></script>
+  <script src="word_search.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <div class="flex">
+    <div class="nav-pane">
+      <div class="random">
+        <a href="../random_entry.html">Random Entry</a>
+      </div>
+      <ul><li><a href="../index.html">Dictionary</a></li>
                   <form id="search">
                     <li class="search">
                       <input type="text" name="term"></input> <button type="submit">Search</button>
@@ -52,29 +53,32 @@
 <li class="normal"><a href="../h/index.html">H</a></li>
 </ul>
                 </ul>
-      </div>
-      <div class="content">
-        <h1 id="huri">huri</h1>
+    </div>
+    <div class="content">
+      <h1 id="huri">huri</h1>
 <h2 id="highlulani">High Lulani</h2>
 <h3 id="vr"><high-lulani>VR</high-lulani></h3>
 <h4><ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;hu&#x27e;.&#x268;/</a></ipa></h4>
 <h5 id="inanimatestemnoun">inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">ocean; sea</div></h5>
 <p></p>
 
-        <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}" >
-          <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
-        </div>
-        <div class="toc">
-          
-        </div>
-        <br>
-        <div class="copyright">
-          <span class="no-breaks">&copy;2017 Ryan Eakins.</span> <span class="no-breaks">Last updated: Sunday, July 16th, 2017.
-        </div>
+      <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+        <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+      </div>
+      <div class="toc">
+        
+      </div>
+      <br>
+      <div class="copyright">
+        <span class="no-breaks">&copy;2017 Ryan Eakins.</span> <span class="no-breaks">Last updated: Sunday, July 16th, 2017.
       </div>
     </div>
-    <script type="text/javascript">
-      document.getElementById('word-search-box').style.display = "block";
-      document.getElementById('search').style.display = 'list-item';
-    </script>
-  </body>
+  </div>
+  <script type="text/javascript">
+    for (elt of document.getElementsByClassName('javascript')) {
+      elt.style.display = "block";
+    }
+    document.getElementById('word-search-box').style.display = "block";
+    document.getElementById('search').style.display = 'list-item';
+  </script>
+</body>
