@@ -7,26 +7,6 @@ overline {	/* Used for negative numbers in balanced bases */
 	text-decoration: overline;
 }
 
-high-lulani {
-	direction: rtl;
-	font-family: lulani, high-lulani;
-  font-size: larger;
-}
-
-high-lulani:hover, vulgar-lulani:hover {
-  font-size: xx-large;
-  font-weight: normal;
-  padding: 0em 0.5em;
-}
-
-high-lulani:before {	/* Turns on rtl */
-	content: "\202e"
-}
-
-high-lulani:after {	/* Turns off rtl */
-	content: "\202c"
-}
-
 body {
 	font-family: sans-serif;
 }

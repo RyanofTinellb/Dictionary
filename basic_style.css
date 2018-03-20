@@ -1,6 +1,6 @@
 @font-face {
   font-family: high-lulani;
-  src: local('highlulani.ttf');
+  src: url('highlulani.ttf');
 }
 
 ipa {

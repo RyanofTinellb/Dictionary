@@ -1940,7 +1940,7 @@ To have a thought slowly rise in one&rsquo;s mind.
 --------------------------------------------------1
 [1]B
 
-&date=20180316--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]ba
 [2]High Lulani
 [3]<high-lulani>b</high-lulani>
@@ -2253,18 +2253,16 @@ The second dimension is objective: if one time-travels into the past, then one's
 <strong><a href="../u/-uju.html">-uju</a></strong> <high-lulani>uY</high-lulani> <em>ordinal</em>
 &date=20170716
 --------------------------------------------------2
-[1]billa
+[1]bila
 [2]High Lulani
-[3]<high-lulani>B;l</high-lulani>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;bi&#x28e;.&#x28e;&#x259;/</a></ipa>
-[5]stem mathematics <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">-3; <overline>3</overline>; ree; negative three</div>
+[3]<high-lulani>Bl</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;bil.&#x259;/</a></ipa>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">-3; <overline>3</overline>; ree; negative three</div>
 [6]See Also
-&larr; <strong><a href="../m/missu.html">missu</a></strong> <high-lulani>M;z</high-lulani> <em>rour</em>
-&rarr; <strong><a href="../k/kannu.html">kannu</a></strong> <high-lulani>K;I</high-lulani> <em>rwo</em>
-&mdash; <strong><a href="../k/kifi.html">kifi</a></strong> <high-lulani>KF</high-lulani> <em>three</em>
-<strong><a href="../s/sabilla.html">sabilla</a></strong> <high-lulani>sB;l</high-lulani> <em>rirteen</em>
-&date=20170724
---------------------------------------------------2
+&larr; <a href="../m/missu.html#highlulani">missu</a> <high-lulani>M;z</high-lulani> <em>rour</em>
+&rarr; <a href="../k/kannu.html#highlulani">kannu</a> <high-lulani>K;I</high-lulani> <em>rwo</em>
+&mdash; <a href="../k/kifi.html#highlulani">kifi</a> <high-lulani>KF</high-lulani> <em>three</em>
+<a href="../s/sabila.html#highlulani">sabila</a> <high-lulani>sB;l</high-lulani> <em>rirteen</em>&date=20180317--------------------------------------------------2
 [1]bixaca
 [2]High Lulani
 [3]<high-lulani>Bxc</high-lulani>
@@ -2409,7 +2407,7 @@ to have the same vowels and placement of geminates
 --------------------------------------------------1
 [1]T
 
-&date=20180121--------------------------------------------------2
+&date=20180317--------------------------------------------------2
 [1]ta
 [2]High Lulani
 [3]<high-lulani>t</high-lulani>
@@ -2670,29 +2668,27 @@ a belief in something someone else is saying
 [2]High Lulani
 [3]<high-lulani>tL</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;t&#x2b0;al.&#x268;/</a></ipa>
-[5]transitive stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to take away from someone</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitiveverbs">transitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to take away from someone</div>
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>source</strong> <em>ablative,</em> <small-caps>bi</small-caps>
 <strong>theme</strong> <em>object</em>
-[6]Example<em></em>
+[6]Example
 <strong>Suma sacu tali &rsquo;iffa.</strong>
 <high-lulani>.zm / sy / tL / i;f.</high-lulani>
 <small-caps>1tra 2abl</small-caps> <em>take</em> <small-caps>3ina;int.</small-caps>
-&ldquo;I took it from you.&rdquo;
-[5]stem mathematics <div class="definition">subtract; minus</div>
+&ldquo;I took it from you.&rsquo;&ldquo;
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <div class="definition">subtract; minus</div>
 [6]Example
-<strong>qihha tali billa &rsquo;anu kifi.</strong>
+<strong>qihha tali bila &rsquo;anu kifi.</strong>
 <high-lulani>.Q;h / tL / Bl / aI / KF.</high-lulani>
 <em>Zero take ree equal three.</em>
-&ldquo;Zero subtract minus three equals three.&rdquo;
+&ldquo;Zero subtract minus three equals three.&rsquo;&ldquo;
 [6]See Also
-<strong><a href="../a/'anu.html">&rsquo;anu</a></strong> <high-lulani>aI</high-lulani> <em>equal</em>
-<strong><a href="../j/ju'i.html">ju&rsquo;i</a></strong> <high-lulani>Yi</high-lulani> <em>plus</em>
-<strong><a href="../b/batu.html">batu</a></strong> <high-lulani>be</high-lulani> <em>multiply</em>
-<strong><a href="../s/saki.html">saki</a></strong> <high-lulani>sK</high-lulani> <em>divide</em>
-&date=20170716
---------------------------------------------------2
+<a href="../a/'anu.html#highlulani">&rsquo;anu</a> <high-lulani>aI</high-lulani> <em>equal</em>
+<a href="../j/ju'i.html#highlulani">ju&rsquo;i</a> <high-lulani>Yi</high-lulani> <em>plus</em>
+<a href="../b/batu.html#highlulani">batu</a> <high-lulani>be</high-lulani> <em>multiply</em>
+<a href="../s/saki.html#highlulani">saki</a> <high-lulani>sK</high-lulani> <em>divide</em>&date=20180317--------------------------------------------------2
 [1]talida
 [2]High Lulani
 [3]<high-lulani>tLd</high-lulani>
@@ -4558,8 +4554,8 @@ poetic
 &date=20170725
 --------------------------------------------------1
 [1]J
-&date=20171231
---------------------------------------------------2
+
+&date=20180319--------------------------------------------------2
 [1]ja
 [2]High Lulani
 [3]<high-lulani>j</high-lulani>
@@ -5015,6 +5011,11 @@ All the physical body below the neck.
 Not used with possessives.
 &date=20170716
 --------------------------------------------------2
+[1]juffila
+[2]High Lulani
+[3]<high-lulani>Y;Fl</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x25f;uf.f&#x268;.l&#x259;/</a></ipa>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">dragon</div>&date=20180319--------------------------------------------------2
 [1]jusi
 [2]High Lulani
 [3]<high-lulani>YS</high-lulani>
@@ -5226,13 +5227,11 @@ refers to an individual leg, or each leg individually
 [2]High Lulani
 [3]<high-lulani>K;I</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x289;/</a></ipa>
-[5]stem mathematics <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">-2; <overline>2</overline>, rwo, minus two</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">-2; <overline>2</overline>, rwo, minus two</div>
 [6]See Also
-&larr; <strong><a href="../b/billa.html">billa</a></strong> <high-lulani>B;l</high-lulani> <em>ree</em>
-&rarr; <strong><a href="../m/mullu.html">mullu</a></strong> <high-lulani>U;W</high-lulani> <em>ron</em>
-&mdash; <strong><a href="../r/ra.html">ra</a></strong> <high-lulani>r</high-lulani> <em>two</em>
-&date=20170724
---------------------------------------------------2
+&larr; <a href="../b/bila.html#highlulani">bila</a> <high-lulani>Bl</high-lulani> <em>ree</em>
+&rarr; <a href="../m/mullu.html#highlulani">mullu</a> <high-lulani>U;W</high-lulani> <em>ron</em>
+&mdash; <a href="../r/ra.html#highlulani">ra</a> <high-lulani>r</high-lulani> <em>two</em>&date=20180317--------------------------------------------------2
 [1]kaqqa
 [2]High Lulani
 [3]<high-lulani>k;q</high-lulani>
@@ -5647,22 +5646,20 @@ spouse of the <em>lulani</em>
 [2]High Lulani
 [3]<high-lulani>KF</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;k&#x2b0;if.&#x268;/</a></ipa>
-[5]stem mathematics <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">3; three</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">numeral</a> <div class="definition">3; three</div>
 [6]Derived Terms
-<strong><a href="../s/sakifi.html">sakifi</a></strong> <high-lulani>sKF</high-lulani> <em>13</em>
-<strong><a href="kifuju.html">kifuju</a></strong> <high-lulani>KvY</high-lulani> <em>third in order</em>
-<strong><a href="../s/sa.html">sa</a><a href="ki.html">ki</a> kifi</strong> <high-lulani>sK / KF</high-lulani> <em>one third</em>
-<strong><a href="kifissiji.html">kifissiji</a></strong> <high-lulani>KF;SJ</high-lulani> <em>triangle</em>
-<strong><a href="../d/daxuni.html">daxuni</a>kifi<a href="../c/cani.html">cani</a> <a href="../q/qasa.html">qasa</a></strong> <high-lulani>dZNKFcN / qs</high-lulani> <em>coelacanth</em>
+<a href="../s/sakifi.html#highlulani">sakifi</a> <high-lulani>sKF</high-lulani> <em>13</em>
+<a href="../k/kifuju.html#highlulani">kifuju</a> <high-lulani>KvY</high-lulani> <em>third in order</em>
+<a href="../s/saki.html#highlulani">saki</a><strong> kifi</strong> <high-lulani>sK / KF</high-lulani> <em>one third</em>
+<a href="../k/kifissiji.html#highlulani">kifissiji</a> <high-lulani>KF;SJ</high-lulani> <em>triangle</em>
+<a href="../d/daxunikificaniqasa.html#highlulani">daxuni<strong>kificani </strong>qasa</a> <high-lulani>dZNKFcN / qs</high-lulani> <em>coelacanth</em>
 [6]Examples
-<strong><a href="../d/diru.html">diru</a>kifi</strong> <high-lulani>DwKF</high-lulani> <em>three-dollar coin</em>
-<strong>kifi<a href="ki.html">ki</a> <a href="../s/salumi.html">salumi</a></strong> <high-lulani>KFK / sWM</high-lulani> <em>three sevenths</em>
+<a href="../d/diru.html#highlulani">diru</a><strong>kifi</strong> <high-lulani>DwKF</high-lulani> <em>three-dollar coin</em>
+<strong>kifiki </strong><a href="../s/salumi.html#highlulani">salumi</a> <high-lulani>KFK / sWM</high-lulani> <em>three sevenths</em>
 [6]See Also
-&larr; <strong><a href="../r/ra.html">ra</a></strong> <high-lulani>r</high-lulani> <em>two</em>
-&rarr; <strong><a href="../n/nuru.html">nuru</a></strong> <high-lulani>Iw</high-lulani> <em>four</em>
-&mdash; <strong><a href="../b/billa.html">billa</a></strong> <high-lulani>B;l</high-lulani> <em>ree</em>
-&date=20170716
---------------------------------------------------2
+&larr; <a href="../r/ra.html#highlulani">ra</a> <high-lulani>r</high-lulani> <em>two</em>
+&rarr; <a href="../n/nuru.html#highlulani">nuru</a> <high-lulani>Iw</high-lulani> <em>four</em>
+&mdash; <a href="../b/bila.html#highlulani">bila</a> <high-lulani>Bl</high-lulani> <em>ree</em>&date=20180317--------------------------------------------------2
 [1]kifissiji
 [2]High Lulani
 [3]<high-lulani>KF;SJ</high-lulani>
@@ -6978,13 +6975,11 @@ a negative answer to a question asked
 [2]High Lulani
 [3]<high-lulani>M;z</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;mis.s&#x289;/</a></ipa>
-[5]stem mathematics ordinal <div class="definition">-4; <overline>4</overline>;rour; minus four</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers">ordinal</a> <div class="definition">-4; <overline>4</overline>;rour; minus four</div>
 [6]See Also
-&larr; <strong><a href="../l/laffi.html">laffi</a></strong> <high-lulani>l;F</high-lulani> <em>rive</em>
-&rarr; <strong><a href="../b/billa.html">billa</a></strong> <high-lulani>B;l</high-lulani> <em>ree</em>
-&mdash; <strong><a href="../n/nuru.html">nuru</a></strong> <high-lulani>Iw</high-lulani> <em>four</em>
-&date=20170716
---------------------------------------------------2
+&larr; <a href="../l/laffi.html#highlulani">laffi</a> <high-lulani>l;F</high-lulani> <em>rive</em>
+&rarr; <a href="../b/bila.html#highlulani">bila</a> <high-lulani>Bl</high-lulani> <em>ree</em>
+&mdash; <a href="../n/nuru.html#highlulani">nuru</a> <high-lulani>Iw</high-lulani> <em>four</em>&date=20180317--------------------------------------------------2
 [1]mixi
 [2]High Lulani
 [3]<high-lulani>MX</high-lulani>
@@ -10058,8 +10053,8 @@ the ratio between the circumference and radius of a circle
 &date=20170716
 --------------------------------------------------1
 [1]S
-&date=20170730
---------------------------------------------------2
+
+&date=20180317--------------------------------------------------2
 [1]sa
 [2]High Lulani
 [3]<high-lulani>s</high-lulani>
@@ -10178,16 +10173,14 @@ Obsolete when used alone. Only used with possessives.
 <strong><a href="../r/rali.html">rali</a></strong> <high-lulani>rL</high-lulani> <em>back</em>
 &date=20170716
 --------------------------------------------------2
-[1]sabilla
+[1]sabila
 [2]High Lulani
-[3]<high-lulani>sB;l</high-lulani>
+[3]<high-lulani>sBl</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/s&#x259;.bi&#x28e;.&#x28e;&#x259;/</a></ipa>
-[5]derived mathematics ordinal <div class="definition">1<overline>3</overline>; rirteen; (12)</div>
+[5]derived <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers">ordinal</a> <div class="definition">1<overline>3</overline>; rirteen; (12)</div>
 <span class="dots">&#x2059; &#x2059; &#x2234;</span>
 [6]Etymology
-<strong><a href="../s/sa.html">sa</a></strong> <high-lulani>s</high-lulani> <em>one</em> + <strong><a href="../b/billa.html">billa</a></strong> <high-lulani>B;l</high-lulani> <em>ree</em>
-&date=20170716
---------------------------------------------------2
+<a href="../s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>one</em> + <a href="../b/bila.html#highlulani">bila</a> <high-lulani>Bl</high-lulani> <em>ree</em>&date=20180317--------------------------------------------------2
 [1]sabufi
 [2]High Lulani
 [3]<high-lulani>sOF</high-lulani>
