@@ -2976,7 +2976,7 @@ to rotate on one&rsquo;s own axis
 [1]tu
 [2]High Lulani
 [3]<high-lulani>e</high-lulani>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/t&#x2b0;u/</a></ipa>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/t&#x2b0;u&#x2d0;/</a></ipa>
 [5]animate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">child; offspring; daughter; son</div>
 [6]Example
 <strong>tu<a href="../c/cani.html">cani</a> <a href="../u/'usu.html">&rsquo;usu</a></strong> <high-lulani>ecN / uz</high-lulani> <em>I who have a child</em>
@@ -4070,38 +4070,40 @@ rare
 --------------------------------------------------1
 [1]C
 
-&date=20180121--------------------------------------------------2
+&date=20180323--------------------------------------------------2
 [1]ca
 [2]High Lulani
 [3]<high-lulani>c</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;a/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions.html">adposition</a> <div class="definition">around; encircling</div>
-[5]transitive stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to help</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions">adposition</a> <div class="definition">around; encircling</div>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;a&#x2d0;/</a></ipa>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitiveverbs">transitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to help</div>
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>theme</strong><small-caps> nina;</small-caps> <em>dative</em>
 <strong>recipient</strong> <em>object</em>
 [6]Example
+[d folding]
 <strong>Suma nina&rsquo;issi cafilli.</strong>
 <high-lulani>.zm / Nni;S / cF;L.</high-lulani>
-<small-caps>1tra</small-caps> <em>for-song help</em><small-caps>-2int.</small-caps>
-&ldquo;I helped you with the song.&rdquo;
+<span class="tooltip"><small-caps>1tra</small-caps><span class="tooltip-text">first person transitive</span></span> <em>for-song help</em><small-caps>-2int.</small-caps>
+&ldquo;I helped you with the song.&rsquo;&ldquo;
+[/d][d folding]
 [f]<strong>&#x294;usu kudasiru cafu.</strong>
 <high-lulani>.uz / &gt;dSw / cv.</high-lulani>
-<small-caps>1int dat-</small-caps><em>eat-</em><small-caps>ger</small-caps> <em>help-</em><small-caps>2tra.</small-caps>
-&ldquo;I help you eat.&rdquo;
+<small-caps>1int dat-eat-ger</small-caps> <em>help-</em><small-caps>2tra.</small-caps>
+&ldquo;I help you eat.&rsquo;&ldquo;
+[/d]
 [6]Derived Terms
-<strong><a href="caba.html">caba</a></strong> <high-lulani>cb</high-lulani> <em>helper</em>
-[5]stem determiner <div class="definition">only</div>
+<a href="../c/caba.html#highlulani">caba</a> <high-lulani>cb</high-lulani> <em>helper</em>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/determiners.html">determiner</a> <div class="definition">only</div>
 [6]Example
 <strong>&#x294;usu-ca jannimufa mica.</strong>
 <high-lulani>.uzc / j;NUf / Mc.</high-lulani>
-<em><small-caps>1int</small-caps>-only dance allowed</em>
-&ldquo;Only I may dance.&rdquo;
+<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span><em>-only dance allowed</em>
+&ldquo;Only I may dance.&rsquo;&ldquo;
 [6]See Also
-<strong><a href="../n/nisa.html">nisa</a></strong> <high-lulani>Ns</high-lulani> <em>sole</em>
-&date=20170726
---------------------------------------------------2
+<a href="../n/nisa.html#highlulani">nisa</a> <high-lulani>Ns</high-lulani> <em>sole</em>&date=20180323--------------------------------------------------2
 [1]ca&rsquo;a
 [2]High Lulani
 [3]<high-lulani>ca</high-lulani>

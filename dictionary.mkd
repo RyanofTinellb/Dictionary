@@ -13,6 +13,7 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 &#x294; | '' | <br> <!-- glottal stop -->
 &#x2c8; | -' | <br> <!-- primary stress -->
 &#x2cc; | _' | <br> <!-- secondary stress -->
+&#x2d0; | :: | <br> <!-- length mark -->
 &#x259; | !e | <br> <!-- schwa -->
 &#x268; | -i | <br> <!-- barred i -->
 &#x14b; | ,g | <br> <!-- eng -->
@@ -27,3 +28,5 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 &dquot; | "" | <br>
 <high\-lulani> | <high-lulani> | <br>
 </high\-lulani> | </high-lulani> | <br>
+<small\-caps> | <small-caps> | <br>
+</small\-caps> | </small-caps> | <br>
