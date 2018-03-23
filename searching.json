@@ -2679,6 +2679,11 @@
         3126
       ]
     }, 
+    "xucinagi": {
+      "1024": [
+        9327
+      ]
+    }, 
     "haze": {
       "414": [
         3597, 
@@ -28116,8 +28121,7 @@
     }, 
     "xuci": {
       "1024": [
-        9323, 
-        9327
+        9323
       ], 
       "403": [
         3505
@@ -45129,6 +45133,9 @@
     "juice": {
       "284": [
         2554
+      ], 
+      "350": [
+        3075
       ]
     }, 
     "solid": {
@@ -62776,9 +62783,6 @@
       "146": [
         1385
       ], 
-      "1024": [
-        9327
-      ], 
       "757": [
         6961
       ], 
@@ -77554,7 +77558,7 @@
     "dissu to feel + sutti fear", 
     "dixxa", 
     "High Lulani", 
-    "inanimate stem noun drink", 
+    "inanimate stem noun drink; juice", 
     "dixxi", 
     "High Lulani", 
     "abstract stem noun toleration", 
@@ -83806,7 +83810,7 @@
     "High Lulani", 
     "inanimate stem noun feather", 
     "Examples", 
-    "xuci nagi cula hatching egg", 
+    "xucinagi cula hatching egg", 
     "xuga", 
     "High Lulani", 
     "stem adverb suddenly", 

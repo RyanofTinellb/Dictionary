@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-[e] |           | <br>
-[f] | \n           | <br>
 <ipa><a | [p | <br>
 href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 </a></ipa> | [/p] | <br>
@@ -22,7 +20,7 @@ href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 &#x2b1; | ++h | <br> <!-- breathy voice -->
 &#x25f; | -j | <br> <!-- barred j -->
 &#x272; | ,n | <br> <!-- palatal n -->
-&#x27e; | $r | <br> <!-- flap -->
+&#x27d; | $r | <br> <!-- retroflex flap -->
 &#x289; | -u | <br> <!-- barred u -->
 &rarr; | ==> | <br>
 &hyph; | \- | <br>
