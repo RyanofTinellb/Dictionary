@@ -4,8 +4,6 @@ if (window.location.href.indexOf("?") != -1) {
   searchForTerm();
 }
 
-// This is a check comment
-
 function searchForTerm() {
   document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
   var url = "/searching.json";
