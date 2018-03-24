@@ -8947,8 +8947,8 @@ Words dealing with twins are usually dictionary words, anything with greater are
 &date=20170716
 --------------------------------------------------1
 [1]R
-&date=20171204
---------------------------------------------------2
+
+&date=20180325--------------------------------------------------2
 [1]ra
 [2]High Lulani
 [3]<high-lulani>r</high-lulani>
@@ -9130,11 +9130,11 @@ A number one less than a multiple of three
 [2]High Lulani
 [3]<high-lulani>rM;r</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x27d;&#x259;.&#x2c8;mir.r&#x259;/</a></ipa>
-[5]animate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">guest</div>
+[5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">guest</div>
+[6]Etymology
+<a href="../r/rami.html#highlulani">rami</a> <high-lulani>rM</high-lulani> <em>bed</em> + <a href="../r/-rra.html#highlulani">-rra</a> <high-lulani>;r</high-lulani> <span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>
 [6]Derived Terms
-<strong><a href="../t/tujaramirra.html">tujaramirra</a></strong> <high-lulani>ejrM;r</high-lulani> <em>hotel</em>
-&date=20170716
---------------------------------------------------2
+<a href="../t/tujaramirra.html#highlulani">tujaramirra</a> <high-lulani>ejrM;r</high-lulani> <em>hotel</em>&date=20180325--------------------------------------------------2
 [1]rana
 [2]High Lulani
 [3]<high-lulani>rn</high-lulani>
@@ -11457,7 +11457,7 @@ used for physical themes. Cf: <strong><a href="xi.html">xi</a></strong> <high-lu
 --------------------------------------------------1
 [1]H
 
-&date=20180317--------------------------------------------------2
+&date=20180325--------------------------------------------------2
 [1]ha
 [2]High Lulani
 [3]<high-lulani>h</high-lulani>
@@ -11906,6 +11906,11 @@ h future | <a href="../l/lakaru.html#highlulani">lakaru</a> | <a href="../n/naka
 [5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">ocean; sea</div>
 &date=20170716
 --------------------------------------------------2
+[1]hurru
+[2]High Lulani
+[3]<high-lulani>V;w</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;hur.r&#x289;/</a></ipa>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">yeast</div>&date=20180325--------------------------------------------------2
 [1]husabi
 [2]High Lulani
 [3]<high-lulani>VsB</high-lulani>

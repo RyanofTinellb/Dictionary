@@ -120,6 +120,14 @@ high-lulani::after, vulgar-lulani::after {
   margin-bottom: 1em;
 }
 
+.content div.wordlist div.folding p.example {
+  margin-top: 1em;
+}
+
+.content div.wordlist div.folding:first-child p.example {
+  margin-top: 0;
+}
+
 .content div.wordlist p.example {
   margin-top: 0;
 }
