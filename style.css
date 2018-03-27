@@ -90,7 +90,7 @@ body {
 
 .content .wordlist {
 	margin-left: 17%;
-	padding-bottom: 1em;
+	padding-bottom: 0.5em;
 }
 
 .content .wordlist p {
@@ -114,7 +114,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin: 1rem;
+	margin: 0.5rem;
 }
 
 h1 { /* headword */
@@ -184,7 +184,6 @@ h6 { /* subheadings */
 	.content div.mobile-table p:first-child::before {
 		content: "(Show All)\A";
 		white-space: pre;
-		font-weight: bold;
 		color: #5555FF;
 	}
 
@@ -194,6 +193,10 @@ h6 { /* subheadings */
 
 	.content div.mobile-table:hover p {
 		display: block;
+	}
+
+	.content div.mobile-table p.example_no_lines {
+		margin-left: 22%;
 	}
 
 	.content div.mobile-table:hover p:first-child::before {
