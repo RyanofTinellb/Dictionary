@@ -7,8 +7,8 @@
   <title>
     ta - The Tinellbian Languages Dictionary
   </title>
-  <link rel="stylesheet" type="text/css" href="../style.css">
-                    <link rel="stylesheet" type="text/css" href="../basic_style.css">
+  <link rel="stylesheet" type="text/css" href="../basic_style.css">
+                    <link rel="stylesheet" type="text/css" href="../style.css">
                     <link rel="icon" type="image/png" href="../favicon.png"> <script type="text/javascript">
         if (window.location.href.indexOf("?") != -1) {
             window.location.href = "../search.html" +
@@ -16,21 +16,19 @@
         }
     </script>
   <script src="../word_search.js" charset="utf-8"></script>
-  <script src="word_search.js" charset="utf-8"></script>
 </head>
 
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <div class="random">
-        <a href="../random_entry.html">Random Entry</a>
-      </div>
       <ul><li><a href="../index.html">Dictionary</a></li>
+                <div class="javascript">
                   <form id="search">
                     <li class="search">
                       <input type="text" name="term"></input> <button type="submit">Search</button>
                     </li>
                   </form>
+                </div>
                 <ul><li><a href="../a/index.html">A</a></li>
 <li><a href="../i/index.html">I</a></li>
 <li><a href="../u/index.html">U</a></li>
@@ -53,6 +51,11 @@
 <li><a href="../h/index.html">H</a></li>
 </ul>
                 </ul>
+      <div class="javascript">
+        <div class="random">
+          <a href="../random_entry.html">Random Entry</a>
+        </div>
+      </div>
     </div>
     <div class="content">
       <h1 id="ta">ta</h1>
@@ -66,8 +69,8 @@
 <p><em>queen king-and</em></p>
 <p>&ldquo;The queen and the king&rdquo;</p>
 <h4><ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/t&#x2b0;a/</a></ipa></h4>
-<h5 id="inanimatestemnoun">inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">bell</div></h5>
-<h5 id="inanimatestemnounelement">inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">sulphur</div></h5>
+<h5 id="inanimatestemnoun">inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">bell</div></h5>
+<h5 id="inanimatestemnounelement">inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">sulphur</div></h5>
 <h6 id="seealso">See Also</h6>
 <p>&larr; <strong><a href="../p/pibi.html">pibi</a></strong> <high-lulani>PB</high-lulani> <em>phosphorus</em></p>
 <p>&rarr; <strong><a href="../l/limma.html">limma</a></strong> <high-lulani>L;m</high-lulani> <em>chlorine</em></p>
@@ -76,7 +79,8 @@
 <h5 id="interjection">interjection <div class="definition">well; um</div></h5>
 <p></p>
 
-      <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+      <div class="javascript">
+        <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
       </div>
       <div class="toc">
@@ -92,7 +96,5 @@
     for (elt of document.getElementsByClassName('javascript')) {
       elt.style.display = "block";
     }
-    document.getElementById('word-search-box').style.display = "block";
-    document.getElementById('search').style.display = 'list-item';
   </script>
 </body>

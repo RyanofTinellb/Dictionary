@@ -7,8 +7,8 @@
   <title>
     kasika - The Tinellbian Languages Dictionary
   </title>
-  <link rel="stylesheet" type="text/css" href="../style.css">
-                    <link rel="stylesheet" type="text/css" href="../basic_style.css">
+  <link rel="stylesheet" type="text/css" href="../basic_style.css">
+                    <link rel="stylesheet" type="text/css" href="../style.css">
                     <link rel="icon" type="image/png" href="../favicon.png"> <script type="text/javascript">
         if (window.location.href.indexOf("?") != -1) {
             window.location.href = "../search.html" +
@@ -16,15 +16,11 @@
         }
     </script>
   <script src="../word_search.js" charset="utf-8"></script>
-  <script src="word_search.js" charset="utf-8"></script>
 </head>
 
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <div class="random">
-        <a href="../random_entry.html">Random Entry</a>
-      </div>
       <ul><li><a href="../index.html">Dictionary</a></li>
                   <form id="search">
                     <li class="search">
@@ -53,6 +49,11 @@
 <li><a href="../h/index.html">H</a></li>
 </ul>
                 </ul>
+      <div class="javascript">
+        <div class="random">
+          <a href="../random_entry.html">Random Entry</a>
+        </div>
+      </div>
     </div>
     <div class="content">
       <h1 id="kasika">kasika</h1>
@@ -157,10 +158,7 @@ negative
 <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a> 
 </td>
 <td>
-<a href="../b/buni.html#highlulani">buni</a> 
-</td>
-<td rowspan="2" colspan="2">
-
+<a href="../b/buni.html#highlulani">buni</a>
 </td>
 
 </tr>
@@ -198,8 +196,40 @@ existential
 
 </tr>
 </table>
-
-      <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+<div class="mobile-table"><p>proximate:</p>
+<p class="example_no_lines">object: <a href="../m/mari.html#highlulani">mari</a></p>
+<p class="example_no_lines">place: <a href="../m/majja.html#highlulani">majja</a></p>
+<p class="example_no_lines">action: <a href="../m/marila.html#highlulani">marila</a></p>
+<p class="example_no_lines">manner: <a href="../m/madusi.html#highlulani">madusi</a></p>
+<p class="example_no_lines">state: <a href="../m/marika.html#highlulani">marika</a></p>
+<p>distal:</p>
+<p class="example_no_lines">object: <a href="../k/kasi.html#highlulani">kasi</a></p>
+<p class="example_no_lines">place: <a href="../k/kasuja.html#highlulani">kasuja</a></p>
+<p class="example_no_lines">action: <a href="../k/kalisa.html#highlulani">kalisa</a></p>
+<p class="example_no_lines">manner: <a href="../k/kadusi.html#highlulani">kadusi</a></p>
+<p class="example_no_lines">state: <a href="../k/kasika.html#highlulani">kasika</a></p>
+<p>interrogative:</p>
+<p class="example_no_lines">object: <a href="../s/sama.html#highlulani">sama</a></p>
+<p class="example_no_lines">place: <a href="../s/satta.html#highlulani">satta</a></p>
+<p class="example_no_lines">action: <a href="../s/sulla.html#highlulani">sulla</a></p>
+<p class="example_no_lines">manner: <a href="../l/lara.html#highlulani">lara</a></p>
+<p class="example_no_lines">state: <a href="../s/saqqa.html#highlulani">saqqa</a></p>
+<p>negative:</p>
+<p class="example_no_lines">object: <a href="../c/cu'i.html#highlulani">cu&rsquo;i</a></p>
+<p class="example_no_lines">place: <a href="../q/qa'i.html#highlulani">qa&rsquo;i</a></p>
+<p class="example_no_lines">action: <a href="../b/buni.html#highlulani">buni</a></p>
+<p>universal:</p>
+<p class="example_no_lines">object: <a href="../a/'aba.html#highlulani">&rsquo;aba</a></p>
+<p class="example_no_lines">place: <a href="../b/batuja.html#highlulani">batuja</a></p>
+<p class="example_no_lines">action: <a href="../a/'abala.html#highlulani">&rsquo;abala</a></p>
+<p>existential:</p>
+<p class="example_no_lines">object: <a href="../u/'umi.html#highlulani">&rsquo;umi</a></p>
+<p class="example_no_lines">place: <a href="../m/mituja.html#highlulani">mituja</a></p>
+<p class="example_no_lines">action: <a href="../a/'amila.html#highlulani">&rsquo;amila</a></p>
+<p class="example_no_lines">manner / state: <a href="../f/fana.html#highlulani">fana</a></p>
+</div>
+      <div class="javascript">
+        <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
       </div>
       <div class="toc">
@@ -207,7 +237,7 @@ existential
       </div>
       <br>
       <div class="copyright">
-        <span class="no-breaks">&copy;2018 Ryan Eakins.</span> <span class="no-breaks">Last updated: Saturday, March 24th, 2018.
+        <span class="no-breaks">&copy;2018 Ryan Eakins.</span> <span class="no-breaks">Last updated: Tuesday, March 27th, 2018.
       </div>
     </div>
   </div>
@@ -215,7 +245,5 @@ existential
     for (elt of document.getElementsByClassName('javascript')) {
       elt.style.display = "block";
     }
-    document.getElementById('word-search-box').style.display = "block";
-    document.getElementById('search').style.display = 'list-item';
   </script>
 </body>

@@ -9,20 +9,22 @@
   </title>
   {stylesheet} {search-script}
   <script src="../word_search.js" charset="utf-8"></script>
-  <script src="word_search.js" charset="utf-8"></script>
 </head>
 
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <div class="random">
-        <a href="../random_entry.html">Random Entry</a>
-      </div>
       {elder-links}
+      <div class="javascript">
+        <div class="random">
+          <a href="../random_entry.html">Random Entry</a>
+        </div>
+      </div>
     </div>
     <div class="content">
       {content}
-      <div class="search-box" id=word-search-box><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+      <div class="javascript">
+        <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
       </div>
       <div class="toc">
@@ -38,7 +40,5 @@
     for (elt of document.getElementsByClassName('javascript')) {
       elt.style.display = "block";
     }
-    document.getElementById('word-search-box').style.display = "block";
-    document.getElementById('search').style.display = 'list-item';
   </script>
 </body>
