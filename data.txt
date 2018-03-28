@@ -10,7 +10,7 @@ The search box at the bottom of each page allows one to proceed directly to any 
 [/d][/d]&date=20180320--------------------------------------------------1
 [1]A
 
-&date=20180327--------------------------------------------------2
+&date=20180328--------------------------------------------------2
 [1]&rsquo;a
 [2]High Lulani
 [3]<high-lulani>a</high-lulani>
@@ -182,14 +182,14 @@ existential:
 [/d]&date=20180327--------------------------------------------------2
 [1]-atinna
 [2]High Lulani
-[3]<high-lulani>;aT;n</high-lulani>
+[3]<high-lulani>/aT;n</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;.&#x2cc;t&#x2b0;i&#x272;.&#x272;&#x259;/</a></ipa>
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (verb &rarr; adverb) <div class="definition">derives an adverb from a verb</div>
 [6]Derived Terms
 [d wordlist]
 [f]<a href="../u/'usatinna.html#highlulani">&rsquo;usatinna</a> <high-lulani>usT;n</high-lulani> <em>visibly</em>
 [e]<a href="../k/katinna.html#highlulani">katinna</a> <high-lulani>kT;n</high-lulani> <em>increasingly</em>
-[e]<a href="../l/lu'atinna.html#highlulani">lu&rsquo;atinna</a> <high-lulani>WaT;n</high-lulani> <em>lovingly</em>[/d]&date=20180327--------------------------------------------------2
+[e]<a href="../l/lu'atinna.html#highlulani">lu&rsquo;atinna</a> <high-lulani>WaT;n</high-lulani> <em>lovingly</em>[/d]&date=20180328--------------------------------------------------2
 [1]&rsquo;adda
 [2]High Lulani
 [3]<high-lulani>a;d</high-lulani>
@@ -633,7 +633,7 @@ a mood of joy or supreme contentment
 [d wordlist]
 [f]&larr; <a href="../c/cabahi.html#highlulani">cabahi</a> <high-lulani>cbH</high-lulani> <em>bohrium</em>
 [e]&rarr; <a href="../n/nakaku.html#highlulani">nakaku</a> <high-lulani>nk&gt;</high-lulani> <em>meitnerium</em>
-[e]&uarr; <a href="../s/supu.html#highlulani">supu</a> <high-lulani>zo</high-lulani> <em>osmium</em>[d/]&date=20180327--------------------------------------------------2
+[e]&uarr; <a href="../s/supu.html#highlulani">supu</a> <high-lulani>zo</high-lulani> <em>osmium</em>[/d]&date=20180328--------------------------------------------------2
 [1]&rsquo;i&rsquo;isata
 [2]High Lulani
 [3]<high-lulani>iist</high-lulani>
@@ -1196,22 +1196,20 @@ existential:
 [2]High Lulani
 [3]<high-lulani>ulI</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x294;&#x289;.&#x2c8;lan.&#x289;/</a></ipa>
-[5]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">horniness; arousal</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">horniness; arousal</div>
 [6]Derived Terms
-<a href="../d/dissu'ulanu.html">dissu&rsquo;ulanu</a> <high-lulani>D;zulI</high-lulani> <em>to be horny</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../d/dissu'ulanu.html#highlulani">dissu&rsquo;ulanu</a> <high-lulani>D;zulI</high-lulani> <em>to be horny</em>[/d]&date=20180328--------------------------------------------------2
 [1]-ulu
 [2]High Lulani
 [3]<high-lulani>/uW</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x289;.l&#x289;/</a></ipa>
-[5]derivational <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a>) <div class="definition">undo</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (verb) <div class="definition">undo</div>
 [6]Examples
-<a href="../l/lulu.html">lulu</a> <high-lulani>WW</high-lulani> <em>to undo</em>
-<a href="../j/ju'ulu.html">ju&rsquo;ulu</a> <high-lulani>YuW</high-lulani> <em>to undress</em>
-<a href="../t/turulu.html">turulu</a> <high-lulani>ewW</high-lulani> <em>to open</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../l/lulu.html#highlulani">lulu</a> <high-lulani>WW</high-lulani> <em>to undo</em>
+[e]<a href="../j/ju'ulu.html#highlulani">ju&rsquo;ulu</a> <high-lulani>YuW</high-lulani> <em>to undress</em>
+[e]<a href="../t/turulu.html#highlulani">turulu</a> <high-lulani>ewW</high-lulani> <em>to open</em>[/d]&date=20180328--------------------------------------------------2
 [1]&rsquo;usa
 [2]High Lulani
 [3]<high-lulani>us</high-lulani>
@@ -1239,48 +1237,47 @@ existential:
 [e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>towards-</em><span class="tooltip"><small-caps>2int</small-caps><span class="tooltip-text">second person intransitive</span></span> <em>see.</em>
 [e]&ldquo;I looked in your direction.&rdquo;[/d]
 [6]Derived Terms
+[d wordlist]
 [f]<a href="../u/'usaju'i.html#highlulani">&rsquo;usaju&rsquo;i</a> <high-lulani>usYi</high-lulani> <em>to find</em>
 [e]<a href="../u/'usapacca.html#highlulani">&rsquo;usapacca</a> <high-lulani>usp;c</high-lulani> <em>to count</em>
 [e]<a href="../u/'usadajabi.html#highlulani">&rsquo;usadajabi</a> <high-lulani>usdjB</high-lulani> <em>to read</em>
 [f]<a href="../p/pa'usa.html#highlulani">pa&rsquo;usa</a> <high-lulani>pus</high-lulani> <em>to notice</em>
-[f]<a href="../u/'usatinna.html#highlulani">&rsquo;usatinna</a> <high-lulani>usT;n</high-lulani> <em>visibly</em>
+[f]<a href="../u/'usatinna.html#highlulani">&rsquo;usatinna</a> <high-lulani>usT;n</high-lulani> <em>visibly</em>[/d]
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">mercury</div>
 [6]See Also
 [d wordlist]
 [f]&larr; <a href="../f/fi.html#highlulani">fi</a> <high-lulani>F</high-lulani> <em>gold</em>
 [e]&rarr; <a href="../s/silla.html#highlulani">silla</a> <high-lulani>S;l</high-lulani> <em>thallium</em>
 [e]&uarr; <a href="../k/kaca.html#highlulani">kaca</a> <high-lulani>kc</high-lulani> <em>cadmium</em>
-[e]&darr; <a href="../h/hatanu.html#highlulani">hatanu</a> <high-lulani>htI</high-lulani> <em>copernicium</em>[/d]&date=20180327--------------------------------------------------2
+[e]&darr; <a href="../h/hatanu.html#highlulani">hatanu</a> <high-lulani>htI</high-lulani> <em>copernicium</em>[/d]&date=20180328--------------------------------------------------2
 [1]&rsquo;ussa
 [2]High Lulani
 [3]<high-lulani>u;s</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x294;us.s&#x259;/</a></ipa>
-[5]transitive stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to follow; to obey</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitiveverbs">transitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to follow; to obey</div>
 [6]Definition
-1. to move behind in the same direction or path
-2. to do as ordered
+[n]to move behind in the same direction or path
+to do as ordered[/n]
 [6]Thematic Relations
-<strong>agent</strong> <em>subject</em>
-<strong>goal</strong> <em>dative</em>
-<strong>recipient</strong> <em>object</em>
+[f]<strong>agent</strong> <em>subject</em>
+[e]<strong>goal</strong> <em>dative</em>
+[e]<strong>recipient</strong> <em>object</em>
 [6]Examples
-[e]<strong>&#x294;usu ba&rsquo;u &rsquo;ussa.</strong>
-<high-lulani>.uz / bu / u;s.</high-lulani>
-[e]<small-caps>1int 2dat</small-caps> <em>follow.</em>
-[e]&ldquo;I followed you.&rdquo;
+[d folding]
+[f]<strong>&#x294;usu ba&rsquo;u &rsquo;ussa.</strong>
+[e]<high-lulani>.uz / bu / u;s.</high-lulani>
+[e]<a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../b/ba'u.html#highlulani">ba&rsquo;u</a> <a href="../u/'ussa.html#highlulani">&rsquo;ussa</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>2dat</small-caps><span class="tooltip-text">second person dative</span></span> <em>follow.</em>
+[e]&ldquo;I followed you.&rdquo;[/d]
+[d folding]
 [f]<strong>&#x294;usu &rsquo;ussa fu.</strong>
-<high-lulani>.uz / u;s / v.</high-lulani>
-[e]<small-caps>1int</small-caps> <em>follow</em> <small-caps>2tra.</small-caps>
-[e]&ldquo;I obey you.&rdquo;
-[6]Aspectual Meanings
-<strong>dynamic</strong> <em>to obey</em>
-<strong>stative</strong> <em>to be obedient</em>
-<strong>iterative</strong> <em>to often follow</em>
-<strong>gnomic</strong> <em>to be submissive</em>
+[e]<high-lulani>.uz / u;s / v.</high-lulani>
+[e]<a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../u/'ussa.html#highlulani">&rsquo;ussa</a> <a href="../f/fu.html#highlulani">fu</a>.
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>follow</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span>.
+[e]&ldquo;I obey you.&rdquo;[/d]
 [6]Derived Terms
-<a href="../u/'ussaba.html">&rsquo;ussaba</a> <high-lulani>u;sb</high-lulani> <em>follower</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../u/'ussaba.html#highlulani">&rsquo;ussaba</a> <high-lulani>u;sb</high-lulani> <em>follower</em>[/d]&date=20180328--------------------------------------------------2
 [1]&rsquo;usapacca
 [2]High Lulani
 [3]<high-lulani>usp;c</high-lulani>
