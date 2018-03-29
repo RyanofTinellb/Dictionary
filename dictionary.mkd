@@ -1,36 +1,36 @@
 <!DOCTYPE html>
+</link><link> | </link>:<link> | <br>
 <ipa><a | [p | <br>
 href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 </a></ipa> | [/p] | <br>
 <div class="definition"> | {{ | <br>
+[d wordlist] | [[w | <br>
+[d folding] | [[f | <br>
+[/d] | ]] | <br>
 </div> | }} | <br>
 ' | &quot; | <br>
 " | &dquot; | <br>
-- | &hyph; | <br>
+= | &eqls; | <br>
 &rsquo; | ' | <br>
 &rdquo; | " | <br>
 &ldquo; | '" | <br>
 &#x294; | '' | <br> <!-- glottal stop -->
-&#x2c8; | -' | <br> <!-- primary stress -->
+&#x2c8; | =' | <br> <!-- primary stress -->
 &#x2cc; | _' | <br> <!-- secondary stress -->
 &#x2d0; | :: | <br> <!-- length mark -->
 &#x259; | !e | <br> <!-- schwa -->
-&#x268; | -i | <br> <!-- barred i -->
+&#x268; | =i | <br> <!-- barred i -->
 &#x14b; | ,g | <br> <!-- eng -->
 &#x2b0; | +h | <br> <!-- aspiration -->
 &#x2b1; | ++h | <br> <!-- breathy voice -->
-&#x25f; | -j | <br> <!-- barred j -->
+&#x25f; | =j | <br> <!-- barred j -->
+&#x28e; | $l | <br> <!-- palatal l -->
 &#x272; | ,n | <br> <!-- palatal n -->
 &#x27d; | $r | <br> <!-- retroflex flap -->
 &#x255; | ,x | <br> <!-- curl-tailed c -->
-&#x289; | -u | <br> <!-- barred u -->
+&#x289; | =u | <br> <!-- barred u -->
+&eqls; | == | <br>
 &rarr; | ==> | <br>
-&hyph; | \- | <br>
 &dquot; | "" | <br>
-[/d] | [d/] | <br>
-[d/] | [/d] | <br>
-<high\-lulani> | <high-lulani> | <br>
-</high\-lulani> | </high-lulani> | <br>
-<small\-caps> | <small-caps> | <br>
-</small\-caps> | </small-caps> | <br>
+&middot; | (.) | <br>
