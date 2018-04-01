@@ -62,7 +62,8 @@ high-lulani::after {
 
 .content p {
   text-align: justify;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .content p.example {
