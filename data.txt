@@ -8068,7 +8068,7 @@ Also used to refer to a letter for someone
 <a href="../n/nuhu.html#highlulani">nuhu</a> <high-lulani>IV</high-lulani> <em>folded paper</em> + <a href="../m/musa.html#highlulani">musa</a> <high-lulani>Us</high-lulani> <em>day</em>&date=20180403--------------------------------------------------1
 [1]Q
 
-&date=20180401--------------------------------------------------2
+&date=20180404--------------------------------------------------2
 [1]qa
 [2]High Lulani
 [3]<high-lulani>q</high-lulani>
@@ -8325,30 +8325,17 @@ to believe oneself to be mature
 [2]High Lulani
 [3]<high-lulani>Qk;N</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x14b;&#x268;.&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x268;/</a></ipa>
-[5]animate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">dog</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">dog</div>
 [6]Derived Terms
-<a href="qikannini.html">qikannini</a> <high-lulani>Qk;NN</high-lulani> <em>puppy</em>
-[f]<strong>qikanni<a href="../a/'aba.html">&rsquo;aba</a> <high-lulani>Qk;Nab</high-lulani> <em>all the dogs</em>
-[6]See Also
-<a href="../h/hannaku.html">hannaku</a> <high-lulani>h;n&gt;</high-lulani> <em>cat</em>
-<a href="../s/sula.html">sula</a> <high-lulani>zl</high-lulani> <em>goat</em>
-<a href="../n/nasi''u.html">nasi&#x294;u</a> <high-lulani>nS;u</high-lulani> <em>sheep</em>
-<a href="../t/tadu.html">tadu</a> <high-lulani>tE</high-lulani> <em>pig</em>
-<a href="../k/kipu.html">kipu</a> <high-lulani>Ko</high-lulani> <em>ox</em>
-<a href="../k/kilatu'i.html">kilatu&rsquo;i</a> <high-lulani>Klei</high-lulani> <em>deer</em>
-<a href="qasa.html">qasa</a> <high-lulani>qs</high-lulani> <em>fish</em>
-<a href="../x/xu'a.html">xu&rsquo;a</a> <high-lulani>Za</high-lulani> <em>bird</em>
-&date=20170730
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../q/qikannini.html#highlulani">qikannini</a> <high-lulani>Qk;NN</high-lulani> <em>puppy</em>[/d]&date=20180404--------------------------------------------------2
 [1]qikannini
 [2]High Lulani
 [3]<high-lulani>Qk;NN</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x14b;&#x268;.&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x268;.ni/</a></ipa>
-[5]animate derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">puppy</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">puppy</div>
 [6]Etymology
-<a href="../q/qikanni.html">qikanni</a> <high-lulani>Qk;N</high-lulani> <em>dog</em> + <a href="../i/-ini.html">-ini</a> <high-lulani>/iN</high-lulani> <small-caps>dim</small-caps>
-&date=20170716
---------------------------------------------------2
+<a href="../q/qikanni.html#highlulani">qikanni</a> <high-lulani>Qk;N</high-lulani> <em>dog</em> + <a href="../i/-ini.html#highlulani">-ini</a> <high-lulani>/iN</high-lulani> <small-caps>dim</small-caps>&date=20180404--------------------------------------------------2
 [1]qikaru
 [2]High Lulani
 [3]<high-lulani>Qkw</high-lulani>
@@ -8685,8 +8672,8 @@ future:
 [f]<strong>Qarrilanu!</strong>
 [e]<high-lulani>.q;RlI.</high-lulani>
 [e]<a href="../q/qarri.html#highlulani">Qarri</a>-<a href="../l/lanu.html#highlulani">lanu</a>!
-[e]<em>open</em> <span class="tooltip"><small-caps>fut;dyn</small-caps><span class="tooltip-text">future dynamic</span></span>!
-[e]&ldquo;Open!&rdquo;
+[e]<em>Open</em> <span class="tooltip"><small-caps>fut;dyn</small-caps><span class="tooltip-text">future dynamic</span></span>!
+[e]&ldquo;Open!&rdquo;[/d]
 [6]Derived Terms
 [d wordlist]
 [f]<a href="../l/lanaru.html#highlulani">lanaru</a> <high-lulani>lnw</high-lulani> <em>will stop doing</em>[/d]
@@ -9058,7 +9045,7 @@ Any compound based on the verb <strong>lu&rsquo;i</strong> can also be used as a
 [f]&larr; <a href="../k/kaca.html#highlulani">kaca</a> <high-lulani>kc</high-lulani> <em>cadmium</em>
 [e]&rarr; <a href="../l/laji.html#highlulani">laji</a> <high-lulani>lJ</high-lulani>  <em>tin</em>
 [e]&uarr; <a href="../a/'ali.html#highlulani">&rsquo;ali</a> <high-lulani>aL</high-lulani> <em>gallium</em>
-[e]&darr; <a href="../s/silla.html#highlulani">silla</a> <high-lulani>S;l</high-lulani> <em>thallium</em>&date=20180404--------------------------------------------------2
+[e]&darr; <a href="../s/silla.html#highlulani">silla</a> <high-lulani>S;l</high-lulani> <em>thallium</em>[/d]&date=20180404--------------------------------------------------2
 [1]lukku
 [2]High Lulani
 [3]<high-lulani>W;&gt;</high-lulani>
