@@ -10,7 +10,12 @@ The search box at the bottom of each page allows one to proceed directly to any 
 [/d][/d]&date=20180330--------------------------------------------------1
 [1]A
 
-&date=20180328--------------------------------------------------2
+&date=20180403--------------------------------------------------2
+[1]-a
+[2]High Lulani
+[3]<high-lulani>/a</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x259;/</a></ipa>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> ( <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> / <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> &rarr; interjection ) <div class="definition">interjection marker; <span class="tooltip"><small-caps>inj</small-caps><span class="tooltip-text">interjection</span></span></div>&date=20180403--------------------------------------------------2
 [1]&rsquo;a
 [2]High Lulani
 [3]<high-lulani>a</high-lulani>
@@ -11811,7 +11816,7 @@ used for physical themes. Cf: <a href="xi.html">xi</a> <high-lulani>X</high-lula
 --------------------------------------------------1
 [1]H
 
-&date=20180330--------------------------------------------------2
+&date=20180403--------------------------------------------------2
 [1]ha
 [2]High Lulani
 [3]<high-lulani>h</high-lulani>
@@ -11860,68 +11865,55 @@ denotes a beneficiary
 [3]<high-lulani>h;c</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;hac.c&#x259;/</a></ipa>
 [5]interjection <div class="definition">good morning</div>
+[6]Etymology
+<a href="../h/hacci.html#highlulani">hacci</a> <high-lulani>h;C</high-lulani> <em>to awaken</em> + <a href="../a/-a.html#highlulani">-a</a> <high-lulani>/a</high-lulani> <span class="tooltip"><small-caps>inj</small-caps><span class="tooltip-text">interjection</span></span>
 [6]See Also
-<a href="../m/mica.html">mica</a> <high-lulani>Mc</high-lulani> <em>hello</em>
-<a href="../n/nara.html">nara</a> <high-lulani>nr</high-lulani> <em>good night</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../m/mica.html#highlulani">mica</a> <high-lulani>Mc</high-lulani> <em>hello</em>
+[e]<a href="../n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>good night</em>[/d]&date=20180403--------------------------------------------------2
 [1]hacci
 [2]High Lulani
 [3]<high-lulani>h;C</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;hac.c&#x268;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html#transitivity">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">to wake up from sleep</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to awaken</div>
+[6]Derived Terms
+<a href="../h/hacca.html#highlulani">hacca</a> <high-lulani>h;c</high-lulani> <em>good morning</em>
 [6]See Also
-<a href="../n/nara.html">nara</a> <high-lulani>nr</high-lulani> <em>to sleep</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../n/nara.html#highlulani">nara</a> <high-lulani>nr</high-lulani> <em>to sleep</em>[/d]&date=20180403--------------------------------------------------2
 [1]haki
 [2]High Lulani
 [3]<high-lulani>hK</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;hak&#x2b0;.&#x268;/</a></ipa>
-[5]stem mathematics ordinal <div class="definition">-7; <overline>7</overline>; <a href="../r/reven.html">reven</a>; minus seven</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html">mathematics</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers">ordinal</a> <div class="definition">-7; <overline>7</overline>; <a href="../r/reven.html#highlulani">reven</a>; minus seven</div>
 [6]See Also
-&rarr; <a href="../j/jusiti.html">jusiti</a> <high-lulani>YST</high-lulani> <em>rix</em>
-&mdash; <a href="../s/salumi.html">salumi</a> <high-lulani>sWM</high-lulani> <em>seven</em>
-[f]<a href="../s/sahaki.html">sahaki</a> <em>1<overline>7</overline></em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]&rarr; <a href="../j/jusiti.html#highlulani">jusiti</a> <high-lulani>YST</high-lulani> <em>rix</em>
+[e]&mdash; <a href="../s/salumi.html#highlulani">salumi</a> <high-lulani>sWM</high-lulani> <em>seven</em>
+[f]<a href="../s/sahaki.html#highlulani">sahaki</a> <high-lulani>shK</high-lulani> <em>eight</em>[/d]&date=20180403--------------------------------------------------2
 [1]hami
 [2]High Lulani
 [3]<high-lulani>hM</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ham.&#x268;/</a></ipa>
-[5]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">midnight</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">midnight</div>
 [6]See Also
-<a href="../t/tariti.html">tariti</a> <high-lulani>tRT</high-lulani> <em>midday</em>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">at midnight</div>
+[d wordlist]
+[f]<a href="../t/tariti.html#highlulani">tariti</a> <high-lulani>tRT</high-lulani> <em>midday</em>[/d]
 [6]Derived Terms
-<strong>hamitariti</strong> <high-lulani>hMtRT</high-lulani> <em>all the time</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<strong>hami</strong><a href="../t/tariti.html#highlulani">tariti</a> <high-lulani>hMtRT</high-lulani> <em>all the time</em>[/d]&date=20180403--------------------------------------------------2
 [1]hamitariti
 [2]High Lulani
 [3]<high-lulani>hMtRT</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;ham.&#x268;.t&#x2b0;&#x259;.&#x2c8;&#x27d;it&#x2b0;.&#x268;/</a></ipa>
 [5]derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">all the time; continually</div>
 [6]Etymology
-<a href="hami.html">hami</a> <high-lulani>hM</high-lulani> <em>at midnight</em> + <a href="../t/tariti.html">tariti</a> <high-lulani>tRT</high-lulani> <em>at noon</em>
-&date=20170716
---------------------------------------------------2
+<a href="../h/hami.html#highlulani">hami</a> <high-lulani>hM</high-lulani> <em>at midnight</em> + <a href="../t/tariti.html#highlulani">tariti</a> <high-lulani>tRT</high-lulani> <em>at noon</em>&date=20180403--------------------------------------------------2
 [1]hannaku
 [2]High Lulani
 [3]<high-lulani>h;n&gt;</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ha&#x272;.&#x272;&#x259;.k&#x289;/</a></ipa>
-[5]animate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">cat</div>
-[6]See Also
-<a href="../q/qikanni.html">qikanni</a> <high-lulani>Qk;N</high-lulani> <em>dog</em>
-<a href="../s/sula.html">sula</a> <high-lulani>zl</high-lulani> <em>goat</em>
-<a href="../n/nasi''u.html">nasi&#x294;u</a> <high-lulani>nS;u</high-lulani> <em>sheep</em>
-<a href="../t/tadu.html">tadu</a> <high-lulani>tE</high-lulani> <em>pig</em>
-<a href="../k/kipu.html">kipu</a> <high-lulani>Ko</high-lulani> <em>ox</em>
-<a href="../k/kilatu'i.html">kilatu&rsquo;i</a> <high-lulani>Klei</high-lulani> <em>deer</em>
-<a href="../q/qasa.html">qasa</a> <high-lulani>qs</high-lulani> <em>fish</em>
-<a href="../x/xu'a.html">xu&rsquo;a</a> <high-lulani>Za</high-lulani> <em>bird</em>
-&date=20170730
---------------------------------------------------2
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">cat</div>&date=20180403--------------------------------------------------2
 [1]halu
 [2]High Lulani
 [3]<high-lulani>hW</high-lulani>
