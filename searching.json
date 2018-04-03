@@ -5385,6 +5385,14 @@
         7289
       ]
     }, 
+    "diss.sutti": {
+      "352": [
+        3877
+      ], 
+      "343": [
+        3826
+      ]
+    }, 
     "munika": {
       "630": [
         6615
@@ -7995,12 +8003,6 @@
     "dissusutti": {
       "977": [
         9845
-      ], 
-      "352": [
-        3877
-      ], 
-      "343": [
-        3826
       ]
     }, 
     "dasippa": {
@@ -66948,9 +66950,6 @@
       ]
     }, 
     "dissusamma": {
-      "351": [
-        3872
-      ], 
       "927": [
         9452
       ]
@@ -69391,6 +69390,9 @@
       ]
     }, 
     "diss.samma": {
+      "351": [
+        3872
+      ], 
       "343": [
         3827
       ]
@@ -73934,8 +73936,8 @@
     "dissumalliju", 
     "dissumici", 
     "dissuri", 
-    "dissusamma", 
-    "dissusutti", 
+    "diss.sama", 
+    "diss.sutti", 
     "diss&middot;sa", 
     "dixxa", 
     "dixxi", 
@@ -75026,8 +75028,8 @@
     "d/dissumalliju", 
     "d/dissumici", 
     "d/dissuri", 
-    "d/dissusamma", 
-    "d/dissusutti", 
+    "d/disssama", 
+    "d/disssutti", 
     "d/diss.sa", 
     "d/dixxa", 
     "d/dixxi", 
@@ -79593,7 +79595,7 @@
     " dissu&rsquo;ulanu to be aroused", 
     " dissumalliju to be happy", 
     " dissumici to feel peace", 
-    " dissusutti to be afraid", 
+    " diss&middot;sutti to be afraid", 
     " diss&middot;samma to feel romantic ", 
     "abstract stem noun youth; newness", 
     "Derived Terms", 
@@ -79639,12 +79641,12 @@
     "animate derived noun stranger", 
     "Etymology", 
     "dissu new + -ri", 
-    "dissusamma", 
+    "diss&middot;samma", 
     "High Lulani", 
     "intransitive derived compound noun to romantically love; to truly love; to inconditionally love", 
     "Etymology", 
     "dissu feel + samma true-love", 
-    "dissusutti", 
+    "diss&middot;sutti", 
     "High Lulani", 
     "intransitive derived compound verb to be afraid; to feel fear", 
     "Etymology", 
