@@ -5,11 +5,11 @@
     "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
   }, 
   "current": {
-    "position": "2.0", 
+    "position": "7.29", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
     "page": [
-      "qikannini"
+      "hira"
     ], 
     "language": "hl"
   }, 
@@ -26,12 +26,12 @@
       "type": "InternalDictionary"
     }, 
     {
-      "type": "ExternalGrammar", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
+      "type": "ExternalGrammar"
     }, 
     {
-      "type": "Glossary", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }
   ]
 }
