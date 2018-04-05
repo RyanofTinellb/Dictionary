@@ -1409,7 +1409,7 @@ third person inanimate:
 [5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/determiners.html">determiner</a> <div class="definition">many</div>&date=20180328--------------------------------------------------1
 [1]P
 
-&date=20180403--------------------------------------------------2
+&date=20180405--------------------------------------------------2
 [1]pa
 [2]High Lulani
 [3]<high-lulani>p</high-lulani>
@@ -1757,14 +1757,14 @@ To have a thought slowly rise in one&rsquo;s mind.
 <a href="../p/pi.html#highlulani">pi</a> <span class="tooltip"><small-caps>pst;sta</small-caps><span class="tooltip-text">past stative</span></span> + <a href="../a/-ar-.html#highlulani">-ar-</a> <span class="tooltip"><small-caps>trm</small-caps><span class="tooltip-text">terminative</span></span>
 [6]See Also
 [t]|h dynamic |h stative |h negative |h habitual |h gnomic
-h past | <a href="../q/qixara.html#highlulani">qixara</a> | <strong>pari</strong> | <a href="../q/qilaru.html#highlulani">qilaru</a> | <a href="../t/takaru.html#highlulani">takaru</a> | <a href="../r/rusara.html#highlulani">rusara</a>
+h past | <a href="../q/qixara.html#highlulani">qixara</a> | pari | <a href="../q/qilaru.html#highlulani">qilaru</a> | <a href="../t/takaru.html#highlulani">takaru</a> | <a href="../r/rusara.html#highlulani">rusara</a>
 h present | <a href="../c/canari.html#highlulani">canari</a> | <a href="../r/ra'aru.html#highlulani">ra&rsquo;aru</a> | <a href="../j/jari.html#highlulani">jari</a> | <a href="../n/nara.html#highlulani">nara</a> | <a href="../r/rurru.html#highlulani">rurru</a>
 h future | <a href="../l/lanaru.html#highlulani">lanaru</a> | <a href="../n/nagari.html#highlulani">nagari</a> | <a href="../f/funari.html#highlulani">funari</a> | <a href="../h/haru.html#highlulani">haru</a> | <a href="../r/rukaru.html#highlulani">rukaru</a>
 [/t]
 [d mobile-table]
 past:
 [e]dynamic: <a href="../q/qixara.html#highlulani">qixara</a>
-[e]stative: <strong>pari</strong>
+[e]stative: pari
 [e]negative: <a href="../q/qilaru.html#highlulani">qilaru</a>
 [e]habitual: <a href="../t/takaru.html#highlulani">takaru</a>
 [e]gnomic: <a href="../r/rusara.html#highlulani">rusara</a>
@@ -1780,7 +1780,7 @@ future:
 [e]negative: <a href="../f/funari.html#highlulani">funari</a>
 [e]habitual: <a href="../h/haru.html#highlulani">haru</a>
 [e]gnomic: <a href="../r/rukaru.html#highlulani">rukaru</a>
-[/d]&date=20180403--------------------------------------------------2
+[/d]&date=20180405--------------------------------------------------2
 [1]paxici
 [2]High Lulani
 [3]<high-lulani>pXC</high-lulani>
@@ -4186,7 +4186,7 @@ rare
 [e]<a href="../g/gusuli.html#highlulani">gusuli</a> <high-lulani>&lt;zL</high-lulani> <em>person</em>[/d]&date=20180403--------------------------------------------------1
 [1]C
 
-&date=20180329--------------------------------------------------2
+&date=20180405--------------------------------------------------2
 [1]ca
 [2]High Lulani
 [3]<high-lulani>c</high-lulani>
@@ -4224,94 +4224,69 @@ rare
 [2]High Lulani
 [3]<high-lulani>ca</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ca&#x294;.&#x259;/</a></ipa>
-[5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">fluorine</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">fluorine</div>
 [6]See Also
-&larr; <a href="../s/sa.html">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em>
-&rarr; <a href="../k/kuxalu.html">kuxalu</a> <high-lulani>&gt;xW</high-lulani> <em>neon</em>
-&darr; <a href="../l/limma.html">limma</a> <high-lulani>L;m</high-lulani> <em>chlorine</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]&larr; <a href="../s/sa.html#highlulani">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em>
+[e]&rarr; <a href="../k/kuxalu.html#highlulani">kuxalu</a> <high-lulani>&gt;xW</high-lulani> <em>neon</em>
+[e]&darr; <a href="../l/limma.html#highlulani">limma</a> <high-lulani>L;m</high-lulani> <em>chlorine</em>[/d]&date=20180405--------------------------------------------------2
 [1]ca&rsquo;alla
 [2]High Lulani
 [3]<high-lulani>ca;l</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;&#x259;.&#x2c8;&#x294;a&#x28e;.&#x28e;&#x259;/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">have to; obligation; must</div>
-&date=20170716
---------------------------------------------------2
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adverbs.html">adverb</a> <div class="definition">have to; obligation; must</div>&date=20180405--------------------------------------------------2
 [1]ca&rsquo;i
 [2]High Lulani
 [3]<high-lulani>ci</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ca&#x294;.&#x268;/</a></ipa>
-[5]abstract stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">romance</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">romance</div>
 [6]Derived Terms
-<a href="../l/lu'ica'i.html">lu&rsquo;ica&rsquo;i</a> <high-lulani>Wici</high-lulani> <em>to love</em>
-<a href="../s/sannaca'i.html">sannaca&rsquo;i</a> <high-lulani>s;nci</high-lulani> <em>jealousy</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../l/lu'ica'i.html#highlulani">lu&rsquo;ica&rsquo;i</a> <high-lulani>Wici</high-lulani> <em>to love</em>
+[e]<a href="../s/sannaca'i.html#highlulani">sannaca&rsquo;i</a> <high-lulani>s;nci</high-lulani> <em>jealousy</em>[/d]&date=20180405--------------------------------------------------2
 [1]capi
 [2]High Lulani
 [3]<high-lulani>cP</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;c&#x2b0;ap&#x2b0;.&#x268;/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions.html">adposition</a> <div class="definition">after; behind</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions">adposition</a> <div class="definition">after; behind</div>
 [6]Usage Notes
-used for objective time
-&date=20170716
---------------------------------------------------2
+Used for objective time.&date=20180405--------------------------------------------------2
 [1]capuha
 [2]High Lulani
 [3]<high-lulani>coh</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;&#x259;.&#x2c8;p&#x2b0;uh.!a/</a></ipa>
-[5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">directory; manifest; album</div>
-&date=20170716
---------------------------------------------------2
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">directory; manifest; album</div>&date=20180405--------------------------------------------------2
 [1]caba
 [2]High Lulani
 [3]<high-lulani>cb</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;c&#x2b0;ab.&#x259;/</a></ipa>
-[5]derived animate <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">helper; assistant</div>
+[5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#animatenoun">animate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">helper; assistant</div>
 [6]Etymology
-<a href="ca.html">ca</a> <high-lulani>c</high-lulani> <em>to help</em> + <a href="../b/ba.html">ba</a> <high-lulani>b</high-lulani> <small-caps>nmn</small-caps>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../c/ca.html#highlulani">ca</a> <high-lulani>c</high-lulani> <em>to help</em> + <a href="../b/-ba.html#highlulani">-ba</a> <high-lulani>b</high-lulani> <span class="tooltip"><small-caps>nmn</small-caps><span class="tooltip-text">nominaliser</span></span>&date=20180405--------------------------------------------------2
 [1]cabahi
 [2]High Lulani
 [3]<high-lulani>cbH</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x259;.&#x2c8;bah.&#x268;/</a></ipa>
-[5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">bohrium</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html">element</a> <div class="definition">bohrium</div>
 [6]See Also
-&larr; <a href="../s/saniki.html">saniki</a> <high-lulani>sNK</high-lulani> <em>seaborgium</em>
-&rarr; <a href="../i/'i'ami.html">&rsquo;i&rsquo;ami</a> <high-lulani>iaM</high-lulani> <em>hassium</em>
-&uarr; <a href="../h/hasuki.html">hasuki</a> <high-lulani>hzK</high-lulani> <em>rhenium</em>
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]&larr; <a href="../s/saniki.html#highlulani">saniki</a> <high-lulani>sNK</high-lulani> <em>seaborgium</em>
+[e]&rarr; <a href="../i/'i'ami.html#highlulani">&rsquo;i&rsquo;ami</a> <high-lulani>iaM</high-lulani> <em>hassium</em>
+[e]&uarr; <a href="../h/hasuki.html#highlulani">hasuki</a> <high-lulani>hzK</high-lulani> <em>rhenium</em>[/d]&date=20180405--------------------------------------------------2
 [1]cadi
 [2]High Lulani
 [3]<high-lulani>cD</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;cad.&#x268;/</a></ipa>
-[5]inanimate stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">wall; barrier; boundary</div>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">wall; barrier; boundary</div>
 [6]Definition
-an outer wall or boundary
+An outer wall or boundary.
 [6]Derived Terms
-<a href="../g/gupicadi.html">gupicadi</a> <high-lulani>&lt;PcD</high-lulani> <em>to guard</em>
+[d wordlist]
+[f]<a href="../g/gupicadi.html#highlulani">gupicadi</a> <high-lulani>&lt;PcD</high-lulani> <em>to guard</em>[/d]
 [6]See Also
-<a href="../l/lukku.html">lukku</a> <high-lulani>W;&gt;</high-lulani> <em>wall</em>
-&date=20170716
---------------------------------------------------2
-[1]cakaru
-[2]High Lulani
-[3]<high-lulani>ckw</high-lulani>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x259;.&#x2c8;k&#x2b0;a&#x27d;.&#x289;/</a></ipa>
-[5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/auxiliaries.html">auxiliary</a> <div class="definition">to finish doing; <small-caps>prs;dyn-trm</small-caps></div>
-[6]Etymology
-<a href="../c/cani.html">cani</a> <small-caps>prs;dyn</small-caps> + <a href="../k/karu.html">karu</a> <small-caps>trm</small-caps>
-[6]See Also
-[t] | dynamic | stative | negative | iterative | gnomic
-[r]past | <a href="../q/qikaru.html">qikaru</a> | <a href="../p/pikaru.html">pikaru</a> | <a href="../q/qikaru.html">qikaru</a> | <a href="../t/takaru.html">takaru</a> | <a href="../r/rukaru.html">rukaru</a>
-[r]present | <strong>cakaru</strong> | <a href="../r/rakaru.html">rakaru</a> | <a href="../j/jikaru.html">jikaru</a> | <a href="../n/nakaru.html">nakaru</a>
-[r]future | <a href="../l/lakaru.html">lakaru</a> | <a href="../n/nakaru.html">nakaru</a> | <a href="../f/fukaru.html">fukaru</a> | <a href="../h/hukaru.html">hukaru</a>
-[/t]
-&date=20170716
---------------------------------------------------2
+[d wordlist]
+[f]<a href="../l/lukku.html#highlulani">lukku</a> <high-lulani>W;&gt;</high-lulani> <em>wall</em>[/d]&date=20180405--------------------------------------------------2
 [1]cakassu
 [2]High Lulani
 [3]<high-lulani>ck;z</high-lulani>
@@ -4349,6 +4324,39 @@ an outer wall or boundary
 [5]stem determiner <div class="definition">usual; old; familiar; customary</div>
 &date=20170716
 --------------------------------------------------2
+[1]canari
+[2]High Lulani
+[3]<high-lulani>cnR</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;&#x259;.&#x2c8;na&#x27d;.&#x268;/</a></ipa>
+[5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/auxiliaries.html">auxiliary</a> <div class="definition">to finish doing; <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span>&lt;<span class="tooltip"><small-caps>trm</small-caps><span class="tooltip-text">terminative</span></span>&gt;</div>
+[6]Etymology
+<a href="../c/cani.html#highlulani">cani</a> <high-lulani>cN</high-lulani> <span class="tooltip"><small-caps>prs;dyn</small-caps><span class="tooltip-text">present dynamic</span></span> + <a href="../a/-ar-.html#highlulani">-ar-</a> <high-lulani>/ar</high-lulani> <span class="tooltip"><small-caps>trm</small-caps><span class="tooltip-text">terminative</span></span>
+[6]See Also
+[t]|h dynamic |h stative |h negative |h habitual |h gnomic
+h past | <a href="../q/qixara.html#highlulani">qixara</a> | <a href="../p/pari.html#highlulani">pari</a> | <a href="../q/qilaru.html#highlulani">qilaru</a> | <a href="../t/takaru.html#highlulani">takaru</a> | <a href="../r/rusara.html#highlulani">rusara</a>
+h present | canari | <a href="../r/ra'aru.html#highlulani">ra&rsquo;aru</a> | <a href="../j/jari.html#highlulani">jari</a> | <a href="../n/nara.html#highlulani">nara</a> | <a href="../r/rurru.html#highlulani">rurru</a>
+h future | <a href="../l/lanaru.html#highlulani">lanaru</a> | <a href="../n/nagari.html#highlulani">nagari</a> | <a href="../f/funari.html#highlulani">funari</a> | <a href="../h/haru.html#highlulani">haru</a> | <a href="../r/rukaru.html#highlulani">rukaru</a>
+[/t]
+[d mobile-table]
+past:
+[e]dynamic: <a href="../q/qixara.html#highlulani">qixara</a>
+[e]stative: <a href="../p/pari.html#highlulani">pari</a>
+[e]negative: <a href="../q/qilaru.html#highlulani">qilaru</a>
+[e]habitual: <a href="../t/takaru.html#highlulani">takaru</a>
+[e]gnomic: <a href="../r/rusara.html#highlulani">rusara</a>
+present:
+[e]dynamic: canari
+[e]stative: <a href="../r/ra'aru.html#highlulani">ra&rsquo;aru</a>
+[e]negative: <a href="../j/jari.html#highlulani">jari</a>
+[e]habitual: <a href="../n/nara.html#highlulani">nara</a>
+[e]gnomic: <a href="../r/rurru.html#highlulani">rurru</a>
+future:
+[e]dynamic: <a href="../l/lanaru.html#highlulani">lanaru</a>
+[e]stative: <a href="../n/nagari.html#highlulani">nagari</a>
+[e]negative: <a href="../f/funari.html#highlulani">funari</a>
+[e]habitual: <a href="../h/haru.html#highlulani">haru</a>
+[e]gnomic: <a href="../r/rukaru.html#highlulani">rukaru</a>
+[/d]&date=20180405--------------------------------------------------2
 [1]cani
 [2]High Lulani
 [3]<high-lulani>cN</high-lulani>
