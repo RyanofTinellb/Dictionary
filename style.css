@@ -216,4 +216,9 @@ h6 { /* subheadings */
 	.content div.mobile-table:hover p:first-child::after {
 		content: "";
 	}
+
+	.content h5 a {
+		color: black;
+		text-decoration-style: dotted;
+	}
 }

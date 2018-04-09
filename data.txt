@@ -5130,7 +5130,7 @@ third person inanimate:
 [e]&mdash; <a href="../u/'usi.html#highlulani">&rsquo;usi</a> <high-lulani>uS</high-lulani> <em>six</em>[/d]&date=20180405--------------------------------------------------1
 [1]K
 
-&date=20180406--------------------------------------------------2
+&date=20180409--------------------------------------------------2
 [1]ka
 [2]High Lulani
 [3]<high-lulani>k</high-lulani>
@@ -5335,6 +5335,13 @@ Refers to an individual leg, or each leg individually.
 [e]<a href="../p/piha.html#highlulani">piha</a> <high-lulani>Ph</high-lulani> <em>mother</em>
 [e]<a href="../s/sabba.html#highlulani">sabba</a> <high-lulani>s;b</high-lulani> <em>father</em>
 [e]<a href="../t/tu.html#highlulani">tu</a> <high-lulani>e</high-lulani> <em>child</em>[/d]&date=20180405--------------------------------------------------2
+[1]kal&middot;li
+[2]High Lulani
+[3]<high-lulani>kWL</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;k&#x2b0;al.&#x2c8;li/</a></ipa>
+[5]derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/particles.html">particle</a> <div class="definition">because of the &#xff5e;; <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>-<span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span></div>
+[6]Etymology
+from <strong>kaluli</strong> &lt; <a href="../k/kalu-.html#highlulani">kalu-</a> <high-lulani>kW</high-lulani> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span> + <a href="../l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span>&date=20180409--------------------------------------------------2
 [1]kalisa
 [2]High Lulani
 [3]<high-lulani>kLs</high-lulani>
@@ -5429,8 +5436,6 @@ third person inanimate:
 [e]genitive: <a href="../q/qa.html#highlulani">qa</a>
 [/d]
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">physical body</div>
-[6]Examples
-<strong>kalu</strong><a href="../s/sukki.html#highlulani">sukki</a> <high-lulani>kWz;K</high-lulani> <em>whole body</em>
 [6]Derived Terms
 [d wordlist]
 [f]<a href="../n/nakalu.html#highlulani">nakalu</a> <high-lulani>nkW</high-lulani> <em>to face</em>
@@ -5445,15 +5450,17 @@ third person inanimate:
 [e]<a href="../d/duku.html#highlulani">duku</a> <high-lulani>E&gt;</high-lulani> <em>body</em>[/d]
 [6]Hypernym
 [d wordlist]
-[f]<a href="../l/lahha.html#highlulani">lahha</a> <high-lulani>l;h</high-lulani> <em>body</em>[/d]&date=20180406--------------------------------------------------2
+[f]<a href="../l/lahha.html#highlulani">lahha</a> <high-lulani>l;h</high-lulani> <em>body</em>[/d]&date=20180409--------------------------------------------------2
 [1]kalu-
 [2]High Lulani
 [3]<high-lulani>kW</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x259;.lu/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/syntax/case.html">case</a> prefix <div class="definition">ablative; abl</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/syntax/case.html">case</a> marker prefix <div class="definition">ablative; <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span></div>
+[6]Etymology
+<a href="../k/kalu.html#highlulani">kalu</a> <high-lulani>kW</high-lulani> <span class="tooltip"><small-caps>3ina;abl</small-caps><span class="tooltip-text">inanimate third person ablative</span></span>
 [6]See Also
 [d wordlist]
-[f]<a href="../k/ku.html#highlulani">ku</a> <high-lulani>&gt;</high-lulani> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>[/d]&date=20180405--------------------------------------------------2
+[f]<a href="../k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>[/d]&date=20180409--------------------------------------------------2
 [1]karra
 [2]High Lulani
 [3]<high-lulani>k;r</high-lulani>
@@ -5915,28 +5922,63 @@ spouse of the <em>lulani</em>
 [2]High Lulani
 [3]<high-lulani>&gt;</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;u/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html#personalpronouns">personal</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">third person inanimate dative; to it; 3<small-caps>ina;dat</small-caps></div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html#personalpronouns">personal</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/pronouns.html">pronoun</a> <div class="definition">third person inanimate dative; to it; <span class="tooltip"><small-caps>3ina;dat</small-caps><span class="tooltip-text">inanimate third person dative</span></span></div>
 [6]See Also
-[t] | 1st person | 2nd person | 3rd person<br>topic | 3rd person<br>animate | 3rd person<br>inanimate
-[r]intranstitive (abs / nom) | <a href="../u/'usu.html#highlulani">&rsquo;usu</a> | <a href="../f/filli.html#highlulani">filli</a> | (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="../m/mihu.html#highlulani">mihu</a> | <a href="../p/pa.html#highlulani">pa</a>
-[r]transitive (erg / acc) | <a href="../s/suma.html#highlulani">suma</a> | <a href="../f/fu.html#highlulani">fu</a> | (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="../q/quhu.html#highlulani">quhu</a> | <a href="../i/'iffa.html#highlulani">&rsquo;iffa</a>
-[r]ablative | <a href="../p/puttu.html#highlulani">puttu</a> | <a href="../s/sacu.html#highlulani">sacu</a> | <a href="../r/raja.html#highlulani">raja</a> | <a href="../k/kassi.html#highlulani">kassi</a> | <a href="../k/kalu.html#highlulani">kalu</a>
-[r]dative | <a href="../p/pixi.html#highlulani">pixi</a> | <a href="../b/ba'u.html#highlulani">ba&rsquo;u</a> | <a href="../d/datu.html#highlulani">datu</a> | <a href="../j/jusi.html#highlulani">jusi</a> | ku
-[r]genitive | <a href="../p/pagu.html#highlulani">pagu</a> | <a href="../b/ba.html#highlulani">ba</a> | <a href="../s/su'a.html#highlulani">su&rsquo;a</a> | <a href="../d/disi.html#highlulani">disi</a> | <a href="../q/qa.html#highlulani">qa</a>
-[/t]&date=20180405--------------------------------------------------2
+[t]|||hc3 3rd person
+|h 1st person |h 2nd person |h topic |h animate |h inanimate
+h intranstitive | <a href="../u/'usu.html#highlulani">&rsquo;usu</a> | <a href="../f/filli.html#highlulani">filli</a> | (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="../m/mihu.html#highlulani">mihu</a> | <a href="../p/pa.html#highlulani">pa</a>
+h transitive | <a href="../s/suma.html#highlulani">suma</a> | <a href="../f/fu.html#highlulani">fu</a> | (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>) | <a href="../q/quhu.html#highlulani">quhu</a> | <a href="../i/'iffa.html#highlulani">&rsquo;iffa</a>
+h ablative | <a href="../p/puttu.html#highlulani">puttu</a> | <a href="../s/sacu.html#highlulani">sacu</a> | <a href="../r/raja.html#highlulani">raja</a> | <a href="../k/kassi.html#highlulani">kassi</a> | <a href="../k/kalu.html#highlulani">kalu</a>
+h dative | <a href="../p/pixi.html#highlulani">pixi</a> | <a href="../b/ba'u.html#highlulani">ba&rsquo;u</a> | <a href="../d/datu.html#highlulani">datu</a> | <a href="../j/jusi.html#highlulani">jusi</a> | ku
+h genitive | <a href="../p/pagu.html#highlulani">pagu</a> | <a href="../b/ba.html#highlulani">ba</a> | <a href="../s/su'a.html#highlulani">su&rsquo;a</a> | <a href="../d/disi.html#highlulani">disi</a> | <a href="../q/qa.html#highlulani">qa</a>
+[/t]
+[d mobile-table]
+first person:
+[e]intransitive: <a href="../u/'usu.html#highlulani">&rsquo;usu</a>
+[e]transitive: <a href="../s/suma.html#highlulani">suma</a>
+[e]ablative: <a href="../p/puttu.html#highlulani">puttu</a>
+[e]dative: <a href="../p/pixi.html#highlulani">pixi</a>
+[e]genitive: <a href="../p/pagu.html#highlulani">pagu</a>
+second person:
+[e]intransitive: <a href="../f/filli.html#highlulani">filli</a>
+[e]transitive: <a href="../f/fu.html#highlulani">fu</a>
+[e]ablative: <a href="../s/sacu.html#highlulani">sacu</a>
+[e]dative: <a href="../b/ba'u.html#highlulani">ba&rsquo;u</a>
+[e]genitive: <a href="../b/ba.html#highlulani">ba</a>
+third person topic:
+[e]intransitive: (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>)
+[e]transitive: (<a href="../s/su'a.html#highlulani">su&rsquo;a</a>)
+[e]ablative: <a href="../r/raja.html#highlulani">raja</a>
+[e]dative: <a href="../d/datu.html#highlulani">datu</a>
+[e]genitive: <a href="../s/su'a.html#highlulani">su&rsquo;a</a>
+third person animate:
+[e]intransitive: <a href="../m/miku.html#highlulani">miku</a>
+[e]transitive: <a href="../q/quhu.html#highlulani">quhu</a>
+[e]ablative: <a href="../k/kassi.html#highlulani">kassi</a>
+[e]dative: <a href="../j/jusi.html#highlulani">jusi</a>
+[e]genitive: <a href="../d/disi.html#highlulani">disi</a>
+third person inanimate:
+[e]intransitive: <a href="../p/pa.html#highlulani">pa</a>
+[e]transitive: <a href="../i/'iffa.html#highlulani">&rsquo;iffa</a>
+[e]ablative: <a href="../k/kalu.html#highlulani">kalu</a>
+[e]dative: ku
+[e]genitive: <a href="../q/qa.html#highlulani">qa</a>
+[/d]&date=20180409--------------------------------------------------2
 [1]ku-
 [2]High Lulani
 [3]<high-lulani>&gt;</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x289;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/syntax/case.html">case</a> marker <div class="definition">dative; dat</div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/syntax/case.html">case</a> marker prefix <div class="definition">dative; <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span></div>
+[6]Etymology
+<a href="../k/ku.html#highlulani">ku</a> <high-lulani>&gt;</high-lulani>&#x200e; <span class="tooltip"><small-caps>3ina;dat</small-caps><span class="tooltip-text">inanimate third person dative</span></span>
 [6]Derived Terms
 [d wordlist]
-[f]<a href="../k/kuli.html#highlulani">kuli</a> <high-lulani>&gt;L</high-lulani> <em>to the &#xff5e;</em>
+[f]<a href="../k/ku.li.html#highlulani">ku&middot;li</a> <high-lulani>&gt;L</high-lulani> <em>to the &#xff5e;</em>
 [e]<a href="../k/kunubi.html#highlulani">kunubi</a> <high-lulani>&gt;IB</high-lulani> <em>earth</em>
 [e]<a href="../k/kunaqi.html#highlulani">kunaqi</a> <high-lulani>&gt;nQ</high-lulani> <em>sky</em>[/d]
 [6]See Also
 [d wordlist]
-[f]<a href="../k/kalu-.html#highlulani">kalu-</a> <high-lulani>kW</high-lulani> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>[/d]&date=20180405--------------------------------------------------2
+[f]<a href="../k/kalu-.html#highlulani">kalu-</a> <high-lulani>kW</high-lulani> <span class="tooltip"><small-caps>abl</small-caps><span class="tooltip-text">ablative</span></span>[/d]&date=20180409--------------------------------------------------2
 [1]-kku
 [2]High Lulani
 [3]<high-lulani>;&gt;</high-lulani>
@@ -6015,11 +6057,7 @@ with discrete aspects: in many different ways
 [2]High Lulani
 [3]<high-lulani>&gt;L</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;k&#x2b0;ul.&#x268;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html">transitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html#vitalverbs">vital</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to meet; to become acquainted</div>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x289;.&#x2c8;li/</a></ipa>
-[5]compound <a href="http://grammar.tinellb.com/highlulani/morphology/particles.html">particle</a> <div class="definition"><small-caps>dat-com</small-caps>; to the &#xff5e;</div>
-[6]Etymology
-<a href="../k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span> + <a href="../l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span>&date=20180405--------------------------------------------------2
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html">transitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html#vitalverbs">vital</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to meet; to become acquainted</div>&date=20180409--------------------------------------------------2
 [1]kuli&rsquo;a
 [2]High Lulani
 [3]<high-lulani>&gt;La</high-lulani>
@@ -6077,7 +6115,14 @@ Corla
 [d wordlist]
 [f]&larr; <a href="../f/fiqqala.html#highlulani">fiqqala</a> <high-lulani>F;ql</high-lulani> <em>beryllium</em>
 [e]&rarr; <a href="../x/xu.html#highlulani">xu</a> <high-lulani>Z</high-lulani> <em>carbon</em>
-[e]&darr; <a href="../d/disa.html#highlulani">disa</a> <high-lulani>Ds</high-lulani> <em>aluminium</em>[/d]&date=20180405--------------------------------------------------1
+[e]&darr; <a href="../d/disa.html#highlulani">disa</a> <high-lulani>Ds</high-lulani> <em>aluminium</em>[/d]&date=20180405--------------------------------------------------2
+[1]ku&middot;li
+[2]High Lulani
+[3]<high-lulani>&gt;L</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/k&#x2b0;&#x289;.&#x2c8;li/</a></ipa>
+[5]derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/particles.html">particle</a> <div class="definition"><span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span>-<span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span>; to the &#xff5e;</div>
+[6]Etymology
+<a href="../k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span> + <a href="../l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span>&date=20180409--------------------------------------------------1
 [1]G
 
 &date=20180405--------------------------------------------------2
@@ -7918,7 +7963,7 @@ Also used to refer to a letter for someone
 <a href="../n/nuhu.html#highlulani">nuhu</a> <high-lulani>IV</high-lulani> <em>folded paper</em> + <a href="../m/musa.html#highlulani">musa</a> <high-lulani>Us</high-lulani> <em>day</em>&date=20180403--------------------------------------------------1
 [1]Q
 
-&date=20180404--------------------------------------------------2
+&date=20180409--------------------------------------------------2
 [1]qa
 [2]High Lulani
 [3]<high-lulani>q</high-lulani>
@@ -8006,25 +8051,10 @@ being busy; having something to do
 [2]High Lulani
 [3]<high-lulani>q;c</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;&#x14b;ac.c&#x259;/</a></ipa>
-[5]ambitransitive stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs.html">verb</a> <div class="definition">choose; decide</div>
-[6]Thematic Relations
-<strong>agent</strong> <em>subject</em>
-<strong>source</strong> <em>ablative,</em> <small-caps>bi</small-caps>
-<strong>goal</strong> <em>dative</em>
-<strong>theme</strong> <small-caps>sarru</small-caps>
-<strong>patient</strong> <em>object</em>
-[6]Examples
-<strong>&#x294;usu kuli nara cani qacca.</strong>
-<high-lulani>.uz / &gt;L / nr / cN / q;c.</high-lulani>
-<small-caps>1int dat-com</small-caps> <em>sleep</em> <small-caps>prs;dyn</small-caps> <em>choose.</em>
-&ldquo;I decided to go to sleep.&rdquo;
-[f]<strong>&#x294;usu kaludixxa sarrucijja qacca &rsquo;iti.</strong>
-<high-lulani>.uz / kWD;x / s;wC;j / q;c / iT.</high-lulani>
-<small-caps>1int abl-</small-caps><em>drink instead_of-alcohol choose milk.</em>
-&ldquo;Of the drinks, I chose milk rather than alcohol.&rdquo;
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/ambitransitivity.html">ambitransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/ambitransitivity.html#perceptiveverbs">perceptive</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">choose; decide</div>
 [6]Derived Terms
-<a href="../q/qacca'a.html">qacca&rsquo;a</a> <high-lulani>q;ca</high-lulani> <em>choice</em>
-&date=20170716--------------------------------------------------2
+[d wordlist]
+[e]<a href="../q/qacca'a.html#highlulani">qacca&rsquo;a</a> <high-lulani>q;ca</high-lulani> <em>choice</em>[/d]&date=20180409--------------------------------------------------2
 [1]qacca&rsquo;a
 [2]High Lulani
 [3]<high-lulani>q;ca</high-lulani>
@@ -8347,7 +8377,7 @@ A snow-capped mountain or volcano
 &date=20170729--------------------------------------------------1
 [1]L
 
-&date=20180404--------------------------------------------------2
+&date=20180409--------------------------------------------------2
 [1]la
 [2]High Lulani
 [3]<high-lulani>l</high-lulani>
@@ -8686,16 +8716,17 @@ Any of the components of a whole person.
 [2]High Lulani
 [3]<high-lulani>L</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/l&#x268;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/morphology/particles.html">particle</a> <div class="definition">complementiser; <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span></div>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/particles.html">particle</a> <div class="definition">complementiser; <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span></div>
 [6]Derived Terms
 [d wordlist]
-[f]<a href="../k/kuli.html#highlulani">kuli</a> <em>to the </em>&#xff5e;[/d]
+[f]<a href="../k/ku.li.html#highlulani">ku&middot;li</a> <high-lulani>&gt;L</high-lulani> <em>to the </em>&#xff5e;
+[e]<a href="../k/kal.li.html#highlulani">kal&middot;li</a> <high-lulani>kWL</high-lulani> <em>because of the &#xff5e;</em>[/d]
 [5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/determiners.html">determiner</a> <div class="definition">not; other</div>
 [6]Derived Terms
 [d wordlist]
 [f]<a href="../g/gusuli.html#highlulani">gusuli</a> <high-lulani>&lt;zL</high-lulani> <em>person</em>
 [e]<a href="../a/'appuli.html#highlulani">&rsquo;appuli</a> <high-lulani>a;oL</high-lulani> <em>miscarriage</em>
-[e]<a href="../d/daruli.html#highlulani">daruli</a> <high-lulani>dwL</high-lulani> <em>wrong way</em>[/d]&date=20180404--------------------------------------------------2
+[e]<a href="../d/daruli.html#highlulani">daruli</a> <high-lulani>dwL</high-lulani> <em>wrong way</em>[/d]&date=20180409--------------------------------------------------2
 [1]li&rsquo;a
 [2]High Lulani
 [3]<high-lulani>La</high-lulani>
