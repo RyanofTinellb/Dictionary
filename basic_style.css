@@ -72,6 +72,14 @@ high-lulani::after {
   margin-top: 0.5em;
 }
 
+.content table {
+	border-collapse: collapse;
+}
+
+.content td, .content th {
+	border: 1px solid black;
+}
+
 .content th {
   padding: 0 1em;
 }
