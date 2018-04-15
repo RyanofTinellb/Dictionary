@@ -85,7 +85,8 @@ body {
 }
 
 .content table {
-	margin: auto;
+	margin-left: 10%;
+	margin-top: 1em;
 }
 
 .content .wordlist {
