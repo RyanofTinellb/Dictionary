@@ -4729,15 +4729,10 @@ poetic
 <a href="../c/cussi.html#highlulani">cussi</a> <em>touch</em> + <a href="../d/dicci.html#highlulani">dicci</a> <em>cold</em>&date=20180329--------------------------------------------------1
 [1]J
 
-&date=20180405--------------------------------------------------2
+&date=20180416--------------------------------------------------2
 [1]ja
 [2]High Lulani
 [3]<high-lulani>j</high-lulani>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x25f;&#x259;/</a></ipa>
-[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (noun: <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> &rarr; abstract) <div class="definition">derives an abstract noun from an inanimate noun</div>
-[6]Example
-[d wordlist]
-[f]<a href="../r/ru'ihaja.html#highlulani">ru&rsquo;ihaja</a> <high-lulani>wihj</high-lulani> <em>history</em>[/d]
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x25f;a/</a></ipa>
 [5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions">adposition</a> <div class="definition">along; across</div>
 [6]Definition
@@ -4751,7 +4746,15 @@ side-to-side
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x25f;a&#x2d0;/</a></ipa>
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">end</div>
 [6]Definition
-the end of something passed through, <em>i.e.:</em> a corridor&date=20180330--------------------------------------------------2
+the end of something passed through, <em>i.e.:</em> a corridor&date=20180416--------------------------------------------------2
+[1]-ja
+[2]High Lulani
+[3]<high-lulani>j</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x25f;&#x259;/</a></ipa>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a>: <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> &rarr; <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a>) <div class="definition">derives an abstract noun from an inanimate noun</div>
+[6]Example
+[d wordlist]
+[f]<a href="../r/ru'ihaja.html#highlulani">ru&rsquo;ihaja</a> <high-lulani>wihj</high-lulani> <em>history</em>[/d]&date=20180416--------------------------------------------------2
 [1]japa
 [2]High Lulani
 [3]<high-lulani>jp</high-lulani>
@@ -10314,12 +10317,19 @@ future:
 [f]<a href="../i/'ifuhhanaku.html#highlulani">&rsquo;ifuhhanaku</a> <high-lulani>iv;hn&gt;</high-lulani> <em>to agree</em>[/d]&date=20180405--------------------------------------------------1
 [1]S
 
-&date=20180412--------------------------------------------------2
+&date=20180416--------------------------------------------------2
 [1]sa
 [2]High Lulani
 [3]<high-lulani>s</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/sa&#x2d0;/</a></ipa>
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <div class="definition">solitude; being alone; aloneness</div>
+[6]Example Quotes
+[d folding]
+[e]<strong>&#x294;a&rsquo;ima haru sada.</strong>
+[e]<high-lulani>.aim / hw / sd.</high-lulani>
+[e]<a href="../a/'a'ima.html#highlulani">&#x294;a&rsquo;ima</a> <a href="../h/haru.html#highlulani">haru</a> <a href="../s/sa.html#highlulani">sa</a>-<a href="../d/da.html#highlulani">da</a>.
+[e]<em>Traveller accompany solitude-negative_aspect</em>.
+[e]&ldquo;The traveller is lonely.&rdquo;[/d]
 [6]Derived Terms
 [d wordlist]
 [f]<a href="../s/sasa.html#highlulani">sasa</a> <high-lulani>ss</high-lulani> <em>introvert</em>[/d]
@@ -10340,7 +10350,7 @@ future:
 [d folding]
 [e]<a href="../m/miku.html#highlulani">miku</a> <high-lulani>M&gt;</high-lulani> <em>red</em>
 [e]<a href="../b/baju.html#highlulani">baju</a> <high-lulani>bY</high-lulani> <em>blue</em>
-[e]<a href="../m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>[/d]&date=20180405--------------------------------------------------2
+[e]<a href="../m/millu.html#highlulani">millu</a> <high-lulani>M;W</high-lulani> <em>brown</em>[/d]&date=20180416--------------------------------------------------2
 [1]-sa
 [2]High Lulani
 [3]<high-lulani>s</high-lulani>
@@ -11801,7 +11811,7 @@ Used for physical themes. Cf: <a href="../x/xi.html#highlulani">xi</a> <high-lul
 [e]&darr; <a href="../l/laji.html#highlulani">laji</a> <high-lulani>lJ</high-lulani> <em>tin</em>[/d]&date=20180405--------------------------------------------------1
 [1]H
 
-&date=20180414--------------------------------------------------2
+&date=20180416--------------------------------------------------2
 [1]ha
 [2]High Lulani
 [3]<high-lulani>h</high-lulani>
@@ -11905,6 +11915,14 @@ From the final two morae of <a href="../q/qihha.html#highlulani">qihha</a> <high
 [2]High Lulani
 [3]<high-lulani>kw</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;ha&#x27d;.&#x289;/</a></ipa>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#quasi-transitiveverbs">quasi-transitive</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html">intransitive</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#symmetricrelations">symmetric</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to accompany</div>
+[6]Examples
+[e][d folding]
+[e]<strong>&#x294;a&rsquo;ima haru sada.</strong>
+[e]<high-lulani>.aim / hw / sd.</high-lulani>
+[e]<a href="../a/'a'ima.html#highlulani">&#x294;a&rsquo;ima</a> <a href="../h/haru.html#highlulani">haru</a> <a href="../s/sa.html#highlulani">sa</a>-<a href="../d/da.html#highlulani">da</a>.
+[e]<em>Traveller accompany solitude-negative_aspect</em>.
+[e]&ldquo;The traveller is lonely.&rdquo;[/d]
 [5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/adpositions">adposition</a> <div class="definition">with; consisting of</div>
 [5]stem subordinating <a href="http://grammar.tinellb.com/highlulani/morphology/conjunctions.html">conjunction</a> <div class="definition">at the same time; alongside; while; as</div>
 [5]derived <a href="http://grammar.tinellb.com/highlulani/morphology/auxiliaries.html">auxiliary</a> <div class="definition">will quit; will stop doing; <span class="tooltip"><small-caps>fut;hab</small-caps><span class="tooltip-text">future habitual</span></span>&lt;<span class="tooltip"><small-caps>trm</small-caps><span class="tooltip-text">terminative</span></span>&gt;</div>
@@ -11935,7 +11953,7 @@ future:
 [e]negative: <a href="../f/funari.html#highlulani">funari</a>
 [e]habitual: haru
 [e]gnomic: <a href="../r/rukaru.html#highlulani">rukaru</a>
-[/d]&date=20180405--------------------------------------------------2
+[/d]&date=20180416--------------------------------------------------2
 [1]hafa
 [2]High Lulani
 [3]<high-lulani>hf</high-lulani>
