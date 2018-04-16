@@ -1407,7 +1407,7 @@ third person inanimate:
 [5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/determiners.html">determiner</a> <div class="definition">many</div>&date=20180328--------------------------------------------------1
 [1]P
 
-&date=20180415--------------------------------------------------2
+&date=20180416--------------------------------------------------2
 [1]pa
 [2]High Lulani
 [3]<high-lulani>p</high-lulani>
@@ -2113,6 +2113,14 @@ third person inanimate:
 [f]<a href="../n/naffidicci.html#highlulani">naffidicci</a> <high-lulani>n;FD;C</high-lulani> <em>winter</em>
 [e]<a href="../n/naffi'ala.html#highlulani">naffi&rsquo;ala</a> <high-lulani>n;Fal</high-lulani> <em>summer</em>
 [e]<a href="../p/puci'ala.html#highlulani">puci&rsquo;ala</a> <high-lulani>oCal</high-lulani> <em>spring</em>[/d]&date=20180330--------------------------------------------------2
+[1]pullata
+[2]High Lulani
+[3]<high-lulani>o;lt</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;p&#x2b0;u&#x28e;.&#x28e;&#x259;.ta/</a></ipa>
+[5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun">abstract</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">betrayal; heresy</div>
+[6]Derived Terms
+[d wordlist]
+[f]<a href="../g/guqqipullata.html#highlulani">guqqipullata</a> <high-lulani>&lt;;Qo;lt</high-lulani> <em>to betray</em>[/d]&date=20180416--------------------------------------------------2
 [1]pura
 [2]High Lulani
 [3]<high-lulani>or</high-lulani>
@@ -6168,7 +6176,7 @@ with discrete aspects: in many different ways
 <a href="../k/ku-.html#highlulani">ku-</a> <high-lulani>&gt;</high-lulani> <span class="tooltip"><small-caps>dat</small-caps><span class="tooltip-text">dative</span></span> + <a href="../l/li.html#highlulani">li</a> <high-lulani>L</high-lulani> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span>&date=20180412--------------------------------------------------1
 [1]G
 
-&date=20180405--------------------------------------------------2
+&date=20180416--------------------------------------------------2
 [1]ga
 [2]High Lulani
 [3]<high-lulani>g</high-lulani>
@@ -6382,6 +6390,13 @@ Means &lsquo;to guard&rsquo; with a causative argument, else &lsquo;to remain&rs
 [3]<high-lulani>&lt;;Q</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2c8;gu&#x14b;.&#x14b;&#x268;/</a></ipa>
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html">intransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs">adjectival</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to be bad</div>&date=20180405--------------------------------------------------2
+[1]guqqipullata
+[2]High Lulani
+[3]<high-lulani>&lt;;Qo;lt</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/&#x2cc;gu&#x14b;.&#x14b;&#x268;.&#x2c8;p&#x2b0;u&#x28e;.&#x28e;&#x259;.ta/</a></ipa>
+[5]derived compound <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html">intransitive</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs">adjectival</a> <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to betray</div>
+[6]Etymology
+<a href="../g/guqqi.html#highlulani">guqqi</a> <high-lulani>&lt;;Q</high-lulani> <em>to be bad</em> + <a href="../p/pullata.html#highlulani">pullata</a> <high-lulani>o;lt</high-lulani> <em>betrayal</em>&date=20180416--------------------------------------------------2
 [1]guli
 [2]High Lulani
 [3]<high-lulani>&lt;L</high-lulani>
