@@ -33169,6 +33169,9 @@
         1772, 
         1774
       ], 
+      "949": [
+        11206
+      ], 
       "944": [
         11173, 
         11174
@@ -33653,6 +33656,7 @@
         8675
       ], 
       "560": [
+        6453, 
         6457, 
         6460, 
         6461
@@ -41677,8 +41681,8 @@
       "668": [
         7691
       ], 
-      "560": [
-        6453
+      "450": [
+        5066
       ], 
       "616": [
         7146
@@ -41725,14 +41729,8 @@
       "901": [
         10361
       ], 
-      "949": [
-        11206
-      ], 
       "731": [
         8278
-      ], 
-      "450": [
-        5066
       ], 
       "180": [
         2363
@@ -54050,8 +54048,14 @@
       "338": [
         3916
       ], 
+      "958": [
+        11324
+      ], 
       "846": [
         9730
+      ], 
+      "560": [
+        6453
       ], 
       "705": [
         8026
@@ -54107,8 +54111,8 @@
       "947": [
         11190
       ], 
-      "958": [
-        11324
+      "949": [
+        11206
       ], 
       "986": [
         11506
@@ -83462,7 +83466,7 @@
     "&darr; fula rhodium ", 
     "gi", 
     "High Lulani", 
-    "stem determiner left; on the left-hand side", 
+    "stem adposition left; to the left; on the left-hand side", 
     "See Also", 
     "", 
     " saqa right ", 
@@ -88215,7 +88219,7 @@
     "&uarr; mina&#x294;i tungsten ", 
     "saqa", 
     "High Lulani", 
-    "stem determiner right; on the right-hand side", 
+    "stem adposition right; to the right; on the right-hand side", 
     "See Also", 
     "", 
     " gi left ", 

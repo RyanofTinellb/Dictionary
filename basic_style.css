@@ -10,6 +10,11 @@ ipa {
   font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
+ipa strong {
+    font-weight: 900;
+    color: red;
+}
+
 small-caps {
   font-variant: small-caps;
 }
@@ -70,6 +75,7 @@ high-lulani:hover {
 
 .content td, .content th {
 	border: 1px solid darkgrey;
+    white-space: nowrap;
 }
 
 .content th {
