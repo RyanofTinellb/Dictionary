@@ -85,7 +85,8 @@ body {
 }
 
 .content table {
-	margin-left: 10%;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 1em;
 }
 
@@ -96,14 +97,6 @@ body {
 
 .content .wordlist p {
 	margin-left: 3%;
-}
-
-.content div.folding p:last-child {
-	margin-left: 15%;
-}
-
-.content div.folding p:last-child::before {
-	padding-right: 1em;
 }
 
 .content p.example_no_lines {
