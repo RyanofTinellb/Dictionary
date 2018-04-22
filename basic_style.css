@@ -196,6 +196,18 @@ high-lulani:hover {
     display: inherit;
   }
 
+  .content div.folding:hover p:first-child::after {
+    content: '\2191\2002 (contract)';
+  }
+
+  .content div.folding:hover p:not(:first-child):not(:last-child) {
+    display: block;
+  }
+
+  .content span.tooltip:hover .tooltip-text {
+    display: inline;
+  }
+
   table {
     display: none;
   }
