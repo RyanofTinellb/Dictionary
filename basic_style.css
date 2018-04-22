@@ -192,7 +192,7 @@ high-lulani:hover {
     display: none;
   }
 
-  .nav-pane:active ul {
+  .nav-pane:hover ul {
     display: inherit;
   }
 
