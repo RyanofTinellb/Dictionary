@@ -1,15 +1,15 @@
 {
   "files": {
     "searchjson": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
-    "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
+    "source": "c:/users/ryan/desktop/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
   }, 
   "current": {
-    "position": "10.27", 
+    "position": "5.5", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
     "page": [
-      "nagari"
+      "'usu"
     ], 
     "language": "en"
   }, 
@@ -26,12 +26,12 @@
       "type": "InternalDictionary"
     }, 
     {
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
-      "type": "ExternalGrammar"
+      "type": "ExternalGrammar", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
     }, 
     {
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
-      "type": "Glossary"
+      "type": "Glossary", 
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
     }
   ]
 }

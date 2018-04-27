@@ -42,6 +42,13 @@ high-lulani:hover {
   cursor: none;
 }
 
+table high-lulani:hover {
+    font-size: larger;
+    font-weight: inherit;
+    padding: inherit;
+    cursor: inherit;
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;
