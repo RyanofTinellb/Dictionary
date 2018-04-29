@@ -1,15 +1,15 @@
 {
   "files": {
     "searchjson": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
-    "source": "c:/users/ryan/desktop/data.txt", 
+    "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
   }, 
   "current": {
-    "position": "5.5", 
+    "position": "7.36", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
     "page": [
-      "'usu"
+      "'isa"
     ], 
     "language": "en"
   }, 
