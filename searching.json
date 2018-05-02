@@ -12539,6 +12539,9 @@
       ]
     }, 
     "if": {
+      "1009": [
+        11949
+      ], 
       "98": [
         1092
       ], 
@@ -16809,9 +16812,6 @@
       ], 
       "245": [
         3195
-      ], 
-      "1009": [
-        11949
       ], 
       "67": [
         791
@@ -68753,9 +68753,6 @@
       "798": [
         9293
       ], 
-      "1009": [
-        11949
-      ], 
       "1093": [
         12539
       ], 
@@ -76130,7 +76127,7 @@
     "-sippa", 
     "sida", 
     "sicu", 
-    "sija", 
+    "-sija", 
     "-ssiji", 
     "sikka", 
     "siku", 
@@ -77240,7 +77237,7 @@
     "s/-sippa", 
     "s/sida", 
     "s/sicu", 
-    "s/sija", 
+    "s/-sija", 
     "s/-ssiji", 
     "s/sikka", 
     "s/siku", 
@@ -88861,7 +88858,7 @@
     "&rarr; fasami radon", 
     "&uarr; papa iodine", 
     "&darr; buccata tennessine ", 
-    "sija", 
+    "-sija", 
     "High Lulani", 
     "noun conjunction suffix either; or", 
     "-ssiji", 
@@ -89323,7 +89320,7 @@
     "manner / state fana", 
     "surra", 
     "High Lulani", 
-    "subordinating stem conjunction because; when", 
+    "subordinating stem conjunction if", 
     "sufi", 
     "High Lulani", 
     "inanimate stem noun space", 
