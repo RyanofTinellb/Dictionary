@@ -3533,7 +3533,7 @@ A vessel piloted by gods or other divine forces, able to move through time, spac
 <a href="../t/tsar.html#english">tsar</a> + <a href="https://en.wiktionary.org/wiki/ship">ship</a>&date=20180405--------------------------------------------------1
 [1]D
 
-&date=20180421--------------------------------------------------2
+&date=20180504--------------------------------------------------2
 [1]da
 [2]High Lulani
 [3]<high-lulani>d</high-lulani>
@@ -3580,14 +3580,20 @@ used to signify shared information.
 [f]<strong>&#x294;usu qixa lu&rsquo;i da&rsquo;aru.</strong>
 [e]<high-lulani>.uz / Qx / Wi / daw.</high-lulani>
 [e]<a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../q/qixa.html#highlulani">qixa</a> <a href="../l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="../d/da'aru.html#highlulani">da&rsquo;aru</a>.
-[e]<small-caps>1int pst;dyn</small-caps> <em>love exist.</em>
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span> <em>love exist.</em>
 [e]&ldquo;I have fallen in love before.&rdquo;[/d]
 [d folding]
 [f]<strong>&#x294;usu lanu lu&rsquo;i da&rsquo;aru.</strong>
 [e]<high-lulani>.uz / lO / Wi / daw.</high-lulani>
 [e]<a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../l/lanu.html#highlulani">lanu</a> <a href="../l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="../d/da'aru.html#highlulani">da&rsquo;aru</a>.
-[e]<small-caps>1int fut;dyn</small-caps> <em>love exist.</em>
-[e]&ldquo;I could fall in love.&rdquo;[/d]&date=20180403--------------------------------------------------2
+[e]<span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <span class="tooltip"><small-caps>fut;dyn</small-caps><span class="tooltip-text">future dynamic</span></span> <em>love exist.</em>
+[e]&ldquo;I could fall in love.&rdquo;[/d]
+[d folding]
+[f]<strong>Fu &rsquo;usa kuddu da&rsquo;aru qixa?</strong>
+[e]<high-lulani>.v / us / &gt;;E / daw / Qx.</high-lulani>
+[e]<a href="../f/fu.html#highlulani">Fu</a> <a href="../u/'usa.html#highlulani">&rsquo;usa</a> <a href="../k/kuddu.html#highlulani">kuddu</a> <a href="../d/da'aru.html#highlulani">da&rsquo;aru</a> <a href="../q/qixa.html#highlulani">qixa</a>?
+[e]<span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <em>see rain experience</em> <span class="tooltip"><small-caps>pst;dyn</small-caps><span class="tooltip-text">past dynamic</span></span>?
+[e]&ldquo;Have you ever seen the rain?&rdquo;[/d]&date=20180504--------------------------------------------------2
 [1]da&rsquo;u
 [2]High Lulani
 [3]<high-lulani>du</high-lulani>
