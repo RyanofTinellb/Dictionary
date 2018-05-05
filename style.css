@@ -84,6 +84,11 @@ body {
 	margin-top: 1em;
 }
 
+.content ul, .content ol {
+	margin-left: 20%;
+	margin-bottom: 0;
+}
+
 .content table {
 	margin-left: auto;
 	margin-right: auto;
