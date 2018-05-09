@@ -1,0 +1,105 @@
+body {
+    line-height: 1;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+@font-face {
+  font-family: high-lulani;
+  src: url('highlulani.ttf');
+}
+
+high-lulani {
+  font-family: lulani, high-lulani;
+  font-size: larger;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+high-lulani::after {
+    content: "\202c\00e8";
+    font-size: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, div, li, ol, ul {
+    display: inline;
+    font-size: medium;
+    font-weight: normal;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h1::before {
+    content: "\A";
+    white-space:pre;
+}
+
+p::after {
+    content: "."
+}
+
+p a {
+    color: black;
+    text
+}
+
+h2 {
+    font-size: smaller;
+}
+
+h2::after {
+    content: ")"
+}
+
+h2::before {
+    content: "("
+}
+
+h4 a {
+    font-weight: normal;
+    color: black;
+    text-decoration: none;
+}
+
+h5 {
+    font-style: italic;
+    font-weight: normal;
+}
+
+h5 .definition {
+    font-style: normal;
+}
+
+h5 .definition::after {
+    content: ".";
+}
+
+h6 {
+    font-weight: bold;
+}
+
+h6::after {
+    content: ":";
+}
+
+table {
+    display: none;
+}
+
+.folding p {
+    display: none;
+}
+
+.folding p:first-child, .folding p:last-child {
+    display: inline;
+}
+
+
+.tooltip-text {
+    display: none;
+}
