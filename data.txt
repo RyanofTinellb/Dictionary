@@ -4386,7 +4386,7 @@ This term is used for objective time: if one time-travels into the past, then on
 [f]<a href="../u/upstream.html#english">upstream</a>[/d]&date=20180421--------------------------------------------------1
 [1]C
 
-&date=20180420--------------------------------------------------2
+&date=20180512--------------------------------------------------2
 [1]ca
 [2]High Lulani
 [3]<high-lulani>c</high-lulani>
@@ -4623,6 +4623,17 @@ One of ten directions in which something can be measured, or one of four ways in
 [3]<high-lulani>cVR</high-lulani>
 [4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x2b0;&#x259;.&#x2c8;hu&#x27d;.&#x268;/</a></ipa>
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun">inanimate</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <div class="definition">market stall</div>&date=20180405--------------------------------------------------2
+[1]-ci
+[2]High Lulani
+[3]<high-lulani>C</high-lulani>
+[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/c&#x268;/</a></ipa>
+[5]stem <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes/index.html#nominalisation">nominalisation</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> &rarr; <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a>) <div class="definition">creates an abstract noun from an adjectival verb</div>
+[6]Notes
+This suffix is uesd to derive the names of colours from their respective verbs
+[6]Derived Terms
+[d wordlist]
+[f]<a href="../k/ki''aci.html#highlulani">ki&#x294;aci</a> <high-lulani>K;aC</high-lulani> <em>white</em>
+[e]<a href="../n/namaci.html#highlulani">namaci</a> <high-lulani>nmC</high-lulani> <em>weakness</em>[/d]&date=20180512--------------------------------------------------2
 [1]ci&#x294;a
 [2]High Lulani
 [3]<high-lulani>C;a</high-lulani>
@@ -4677,17 +4688,8 @@ One of ten directions in which something can be measured, or one of four ways in
 [5]<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/ambitransitivity.html">ambitransitive</a> stem <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> <div class="definition">to hear telepathically; to see empathically</div>
 [6]Derived Terms
 [d wordlist]
-[f]<a href="../c/cikkipu'a.html#highlulani">cikkipu&rsquo;a</a> <em>telepath</em>[/d]&date=20180405--------------------------------------------------2
-[1]-pu&rsquo;a
-[2]High Lulani
-[3]<high-lulani>oa</high-lulani>
-[4]<ipa><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">/p&#x2b0;&#x289;.&#x294;&#x259;/</a></ipa>
-[5]<a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes">derivational</a> <a href="http://grammar.tinellb.com/highlulani/morphology/suffixes.html">suffix</a> (<a href="http://grammar.tinellb.com/highlulani/morphology/verbs/index.html">verb</a> &rarr; <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a>) <div class="definition">derives an animate patientive noun from a verb</div>
-[6]Example
-[d wordlist]
-[f]<a href="../j/ju'ipu'a.html#highlulani">ju&rsquo;ipu&rsquo;a</a> <high-lulani>Yioa</high-lulani> <em>group</em>
-[e]<a href="../l/lu'ipu'a.html#highlulani">lu&rsquo;ipu&rsquo;a</a> <high-lulani>Wioa</high-lulani> <em>lover</em>
-[e]<a href="../c/cikkipu'a.html#highlulani">cikkipu&rsquo;a</a> <high-lulani>C;Koa</high-lulani> <em>telepath</em>[/d]&date=20180329--------------------------------------------------2
+[f]<a href="../c/cikkipu'a.html#highlulani">cikkipu&rsquo;a</a> <em>telepath</em>[/d]&date=20180405
+--------------------------------------------------2
 [1]ciqu
 [2]High Lulani
 [3]<high-lulani> CA</high-lulani>
