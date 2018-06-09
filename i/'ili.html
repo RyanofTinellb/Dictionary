@@ -21,7 +21,9 @@
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <ul><li><a href="../index.html">Dictionary</a></li>
+      <label>
+                    <input type="checkbox" class="menu">
+                    <ul><li><a href="../index.html">Dictionary</a></li>
                 <div class="javascript">
                   <form id="search">
                     <li class="search">
@@ -50,7 +52,7 @@
 <li><a href="../x/index.html">X</a></li>
 <li><a href="../h/index.html">H</a></li>
 </ul>
-                </ul>
+                </ul><label>
       <div class="javascript">
         <div class="random">
           <a href="../random_entry.html">Random Entry</a>
@@ -66,12 +68,12 @@
 <h6 id="definition">Definition</h6>
 <p>Against expectations.</p>
 <h6 id="examples">Examples</h6>
-<div class="folding"><p class="example"><strong>&ldquo;&#x294;ili ra&rsquo;u?&rdquo;</strong></p>
+<label class="folder"><input type="checkbox" class="folder"><div class="folding"><p class="example"><strong>&ldquo;&#x294;ili ra&rsquo;u?&rdquo;</strong></p>
 <p class="example_no_lines"><high-lulani>.iL / ru.</high-lulani></p>
 <p class="example_no_lines">&ldquo;<a href="../i/'ili.html#highlulani">&#x294;ili</a> <a href="../r/ra'u.html#highlulani">ra&rsquo;u</a>?&rdquo;</p>
 <p class="example_no_lines">&ldquo;<em>really prs;gno?</em>&rdquo;</p>
 <p class="example_no_lines">&ldquo;Really?&rdquo;&rsquo;
-</div>
+</div></label>
       <div class="javascript">
         <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">

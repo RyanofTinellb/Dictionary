@@ -72,6 +72,10 @@ table high-lulani:hover {
   width: 25%;
 }
 
+.nav-pane input.menu {
+    display: none;
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -121,27 +125,30 @@ table high-lulani:hover {
 
 .content .wordlist {
   border-left: 1px solid green;
-  border-bottom: 2px solid green;
+  border-bottom: 1px solid green;
 }
 
-.content div.folding p:first-child::after {
-  content: '\2190\2002 (expand)';
-  font-style: italic;
-  font-size: smaller;
-  position: relative;
-  left: 5%;
+.content .universe {
+    display: inline;
+    font-family: serif;
 }
 
-.content div.folding:active p:first-child::after {
-  content: '\2191\2002 (contract)';
+.content label.folder {
+    text-align: left;
+}
+
+.content input.folder {
+    position: relative;
+    top: 3em;
+    left: 3%;
+}
+
+.content input.folder:checked + div.folding p {
+    display: inherit;
 }
 
 .content div.folding p:not(:first-child):not(:last-child) {
   display: none;
-}
-
-.content div.folding:active p:not(:first-child):not(:last-child) {
-  display: block;
 }
 
 .content span.tooltip::after {
@@ -210,39 +217,42 @@ table high-lulani:hover {
   }
 
   .nav-pane::before {
-    content: "Menu"
+    content: "Menu";
+    font-weight: bold;
   }
 
-  .nav-pane ul {
-    display: none;
+  .nav-pane input.menu {
+      display: inherit;
   }
 
-  .nav-pane:hover ul {
-    display: inherit;
+  input.menu + ul {
+      display: none;
   }
 
-  .content div.folding:hover p:first-child::after {
-    content: '\2191\2002 (contract)';
+  input.menu:checked + ul {
+      display: inherit;
   }
 
-  .content div.folding:hover p:not(:first-child):not(:last-child) {
-    display: block;
+  .content input.folder:checked + div.folding .tooltip-text {
+      display: inline;
   }
 
   .content span.tooltip:hover .tooltip-text {
     display: inline;
   }
+}
 
-  table {
-    display: none;
-  }
+@media screen and (max-width: 600px) {
+    table {
+      display: none;
+    }
 
-  .content div.mobile-table {
-    display: block;
-  }
-
-  .content div.mobile-table table {
+    .content div.mobile-table {
       display: block;
-      margin-left: 15%;
-  }
+    }
+
+    .content div.mobile-table table {
+        display: block;
+        margin-left: 15%;
+    }
 }

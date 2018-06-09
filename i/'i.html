@@ -21,7 +21,9 @@
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <ul><li><a href="../index.html">Dictionary</a></li>
+      <label>
+                    <input type="checkbox" class="menu">
+                    <ul><li><a href="../index.html">Dictionary</a></li>
                 <div class="javascript">
                   <form id="search">
                     <li class="search">
@@ -50,7 +52,7 @@
 <li><a href="../x/index.html">X</a></li>
 <li><a href="../h/index.html">H</a></li>
 </ul>
-                </ul>
+                </ul><label>
       <div class="javascript">
         <div class="random">
           <a href="../random_entry.html">Random Entry</a>
@@ -75,17 +77,17 @@
 <p class="example_no_lines"><a href="../i/'ikahu.html#highlulani">&rsquo;ikahu</a> <high-lulani>ikV</high-lulani> <em>to grunt</em></p>
 <p class="example_no_lines"><a href="../i/'ilagi.html#highlulani">&rsquo;ilagi</a> <high-lulani>ilG</high-lulani> <em>to scream</em>
 </div><h6 id="examples">Examples</h6>
-<div class="folding"><p class="example_no_lines"><strong>&#x294;usu jusi &rsquo;i li lu&rsquo;i fu ra&rsquo;u.</strong></p>
+<label class="folder"><input type="checkbox" class="folder"><div class="folding"><p class="example_no_lines"><strong>&#x294;usu jusi &rsquo;i li lu&rsquo;i fu ra&rsquo;u.</strong></p>
 <p class="example_no_lines"><high-lulani>.uz / YS / i / L / Wi / v / ru .</high-lulani></p>
 <p class="example_no_lines"><a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../j/jusi.html#highlulani">jusi</a> &rsquo;i <a href="../l/li.html#highlulani">li</a> <a href="../f/fu.html#highlulani">fu</a> <a href="../r/ra'u.html#highlulani">ra&rsquo;u</a>.</p>
 <p class="example_no_lines"><span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <small-caps>3dat</small-caps> <em>say</em> <span class="tooltip"><small-caps>com</small-caps><span class="tooltip-text">complementiser</span></span> <em>love</em> <span class="tooltip"><small-caps>2tra</small-caps><span class="tooltip-text">second person transitive</span></span> <span class="tooltip"><small-caps>prs;sta</small-caps><span class="tooltip-text">present stative</span></span>.</p>
 <p class="example_no_lines">&ldquo;I told her that I love you.&rdquo;
-</div><div class="folding"><p class="example"><strong>&#x294;usu palu&rsquo;i &rsquo;i.</strong></p>
+</div></label><label class="folder"><input type="checkbox" class="folder"><div class="folding"><p class="example"><strong>&#x294;usu palu&rsquo;i &rsquo;i.</strong></p>
 <p class="example_no_lines"><high-lulani>.uz / pWi / i.</high-lulani></p>
 <p class="example_no_lines"><a href="../u/'usu.html#highlulani">&#x294;usu</a> <a href="../p/pa.html#highlulani">pa</a>-<a href="../l/lu'i.html#highlulani">lu&rsquo;i</a> <a href="../i/'i.html#highlulani">&rsquo;i</a>.</p>
 <p class="example_no_lines"><span class="tooltip"><small-caps>1int</small-caps><span class="tooltip-text">first person intransitive</span></span> <em>towards-love speak.</em></p>
 <p class="example_no_lines">&ldquo;I talked about love.&rdquo;
-</div>
+</div></label>
       <div class="javascript">
         <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">

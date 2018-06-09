@@ -21,10 +21,9 @@ body {
 	text-align: center;
 }
 
-.nav-pane .random:hover {
-	display: list-item;
-	list-style: disc inside;
-	margin-left: -5%;
+.nav-pane .random:hover, .nav-pane li:hover {
+	font-weight: bold;
+	text-decoration: underline;
 }
 
 .nav-pane p {
@@ -40,11 +39,6 @@ body {
     text-align: center;
     padding: 0;
 	line-height: 1.5;
-}
-
-.nav-pane li:hover {
-	list-style-type: disc;
-	margin-left: -5%;
 }
 
 .nav-pane li.normal, .nav-pane li.normal a { /* Top-level folder of current page */

@@ -21,7 +21,9 @@
 <body>
   <div class="flex">
     <div class="nav-pane">
-      <ul><li><a href="../index.html">Dictionary</a></li>
+      <label>
+                    <input type="checkbox" class="menu">
+                    <ul><li><a href="../index.html">Dictionary</a></li>
                 <div class="javascript">
                   <form id="search">
                     <li class="search">
@@ -50,7 +52,7 @@
 <li><a href="../x/index.html">X</a></li>
 <li><a href="../h/index.html">H</a></li>
 </ul>
-                </ul>
+                </ul><label>
       <div class="javascript">
         <div class="random">
           <a href="../random_entry.html">Random Entry</a>
@@ -70,12 +72,12 @@
 <p>Does not imply anything about success or failure.</p>
 <p>When used with ablative promotion, gives nuance of <em>encouraged</em>.</p>
 <h6 id="example">Example</h6>
-<div class="folding"><p class="example"><strong>Quhu kupaji dasikka mihu dumi.</strong></p>
+<label class="folder"><input type="checkbox" class="folder"><div class="folding"><p class="example"><strong>Quhu kupaji dasikka mihu dumi.</strong></p>
 <p class="example_no_lines"><high-lulani>.AV / &gt;pJ / dS;k / MV / EM.</high-lulani></p>
 <p class="example_no_lines"><a href="../q/quhu.html#highlulani">Quhu</a> <a href="../k/ku-.html#highlulani">ku-</a><a href="../p/paji.html#highlulani">paji</a> <a href="../d/dasi.html#highlulani">dasi</a><a href="../k/-kka.html#highlulani">-kka</a> <a href="../m/mihu.html#highlulani">mihu</a> <a href="../t/try.html#highlulani">try</a>.</p>
 <p class="example_no_lines"><small-caps>3tra</small-caps> <small-caps>dat<em>-fruit eat-</em>abp</small-caps> <small-caps>3int</small-caps> <em>try.</em></p>
 <p class="example_no_lines">&ldquo;She encouraged him to eat fruit.&rdquo;
-</div>
+</div></label>
       <div class="javascript">
         <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
         <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
