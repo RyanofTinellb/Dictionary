@@ -216,7 +216,7 @@ table high-lulani:hover {
     width: 100%;
   }
 
-  .nav-pane::before {
+  .nav-pane label::before {
     content: "Menu";
     font-weight: bold;
   }
