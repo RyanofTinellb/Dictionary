@@ -10322,9 +10322,6 @@
       "131": [
         1550
       ], 
-      "136": [
-        1659
-      ], 
       "135": [
         1571
       ], 
@@ -10426,8 +10423,7 @@
         3351
       ], 
       "1015": [
-        12189, 
-        12192
+        12189
       ], 
       "128": [
         1535
@@ -10437,9 +10433,6 @@
       ], 
       "268": [
         3367
-      ], 
-      "736": [
-        8691
       ], 
       "58": [
         711
@@ -10562,9 +10555,6 @@
       "827": [
         9686
       ], 
-      "772": [
-        9147
-      ], 
       "922": [
         11018, 
         11022, 
@@ -10666,8 +10656,8 @@
       "649": [
         7700
       ], 
-      "648": [
-        7693
+      "437": [
+        4940
       ], 
       "434": [
         4926
@@ -10819,8 +10809,8 @@
       "759": [
         8933
       ], 
-      "563": [
-        6474
+      "736": [
+        8691
       ], 
       "461": [
         5115
@@ -10975,6 +10965,9 @@
       "141": [
         1686
       ], 
+      "563": [
+        6474
+      ], 
       "350": [
         4092
       ], 
@@ -10986,12 +10979,6 @@
       ], 
       "73": [
         855
-      ], 
-      "437": [
-        4940
-      ], 
-      "483": [
-        5355
       ], 
       "1043": [
         12364
@@ -21982,9 +21969,6 @@
       ], 
       "1018": [
         12207
-      ], 
-      "59": [
-        719
       ], 
       "58": [
         708
@@ -34701,6 +34685,9 @@
       "2": [
         14
       ], 
+      "59": [
+        719
+      ], 
       "362": [
         4262
       ], 
@@ -35064,11 +35051,11 @@
       "608": [
         6898
       ], 
+      "943": [
+        11344
+      ], 
       "1097": [
         12803
-      ], 
-      "261": [
-        3320
       ], 
       "1090": [
         12716
@@ -35169,8 +35156,8 @@
       "942": [
         11316
       ], 
-      "943": [
-        11344
+      "261": [
+        3320
       ], 
       "473": [
         5301
@@ -44025,6 +44012,9 @@
       "419": [
         4813
       ], 
+      "499": [
+        5682
+      ], 
       "591": [
         6651
       ], 
@@ -44096,6 +44086,9 @@
       ], 
       "1014": [
         12181
+      ], 
+      "1015": [
+        12192
       ], 
       "1017": [
         12202
@@ -44180,6 +44173,9 @@
       ], 
       "383": [
         4411
+      ], 
+      "648": [
+        7693
       ], 
       "570": [
         6517
@@ -44488,8 +44484,8 @@
       "764": [
         9014
       ], 
-      "499": [
-        5682
+      "136": [
+        1659
       ], 
       "135": [
         1574
@@ -44686,6 +44682,9 @@
       ], 
       "791": [
         9438
+      ], 
+      "206": [
+        2792
       ], 
       "798": [
         9496
@@ -45013,8 +45012,8 @@
       "204": [
         2777
       ], 
-      "206": [
-        2792
+      "772": [
+        9147
       ], 
       "209": [
         2807
@@ -45039,6 +45038,9 @@
       ], 
       "484": [
         5361
+      ], 
+      "483": [
+        5355
       ], 
       "482": [
         5347
@@ -47634,6 +47636,9 @@
       "1014": [
         12181
       ], 
+      "1015": [
+        12192
+      ], 
       "1017": [
         12202
       ], 
@@ -47713,6 +47718,9 @@
       ], 
       "642": [
         7579
+      ], 
+      "648": [
+        7693
       ], 
       "570": [
         6517
@@ -47857,9 +47865,6 @@
       ], 
       "966": [
         11622
-      ], 
-      "40": [
-        572
       ], 
       "1039": [
         12343
@@ -48021,8 +48026,8 @@
       "764": [
         9014
       ], 
-      "499": [
-        5682
+      "136": [
+        1659
       ], 
       "135": [
         1574
@@ -48115,8 +48120,8 @@
       "268": [
         3370
       ], 
-      "118": [
-        1382
+      "1082": [
+        12673
       ], 
       "58": [
         714
@@ -48219,6 +48224,9 @@
       ], 
       "791": [
         9438
+      ], 
+      "206": [
+        2792
       ], 
       "798": [
         9496
@@ -48335,11 +48343,11 @@
       "628": [
         7411
       ], 
+      "499": [
+        5682
+      ], 
       "1085": [
         12690
-      ], 
-      "1082": [
-        12673
       ], 
       "177": [
         2260
@@ -48364,6 +48372,9 @@
       ], 
       "973": [
         11667
+      ], 
+      "957": [
+        11572
       ], 
       "182": [
         2448
@@ -48395,6 +48406,9 @@
       ], 
       "473": [
         5302
+      ], 
+      "956": [
+        11563
       ], 
       "755": [
         8868
@@ -48505,11 +48519,11 @@
       "43": [
         600
       ], 
-      "957": [
-        11572
+      "40": [
+        572
       ], 
-      "956": [
-        11563
+      "118": [
+        1382
       ], 
       "326": [
         3830
@@ -48535,8 +48549,8 @@
       "204": [
         2777
       ], 
-      "206": [
-        2792
+      "772": [
+        9147
       ], 
       "209": [
         2807
@@ -48561,6 +48575,9 @@
       ], 
       "484": [
         5361
+      ], 
+      "483": [
+        5355
       ], 
       "482": [
         5347
@@ -54610,6 +54627,9 @@
       ], 
       "1030": [
         12274
+      ], 
+      "1025": [
+        12247
       ], 
       "245": [
         3194
@@ -61364,23 +61384,6 @@
         8654
       ]
     }, 
-    "related": {
-      "1015": [
-        12192
-      ], 
-      "648": [
-        7693
-      ], 
-      "483": [
-        5355
-      ], 
-      "136": [
-        1659
-      ], 
-      "772": [
-        9147
-      ]
-    }, 
     "mollusc": {
       "334": [
         3895
@@ -66798,11 +66801,6 @@
         10467
       ]
     }, 
-    "restrictions": {
-      "1025": [
-        12247
-      ]
-    }, 
     "taking": {
       "1080": [
         12666
@@ -68886,98 +68884,6 @@
       ], 
       "170": [
         2201
-      ]
-    }, 
-    "usage": {
-      "987": [
-        11764
-      ], 
-      "585": [
-        6600
-      ], 
-      "339": [
-        3921
-      ], 
-      "467": [
-        5180
-      ], 
-      "488": [
-        5451
-      ], 
-      "662": [
-        7839
-      ], 
-      "574": [
-        6536
-      ], 
-      "262": [
-        3336
-      ], 
-      "258": [
-        3298
-      ], 
-      "8": [
-        58
-      ], 
-      "387": [
-        4435
-      ], 
-      "559": [
-        6443
-      ], 
-      "5": [
-        35
-      ], 
-      "256": [
-        3290
-      ], 
-      "67": [
-        790
-      ], 
-      "1024": [
-        12239
-      ], 
-      "27": [
-        434
-      ], 
-      "973": [
-        11664
-      ], 
-      "1046": [
-        12380
-      ], 
-      "732": [
-        8508
-      ], 
-      "35": [
-        538
-      ], 
-      "514": [
-        6073
-      ], 
-      "654": [
-        7731
-      ], 
-      "725": [
-        8381
-      ], 
-      "353": [
-        4192
-      ], 
-      "419": [
-        4801
-      ], 
-      "647": [
-        7686
-      ], 
-      "370": [
-        4304
-      ], 
-      "441": [
-        4980
-      ], 
-      "1034": [
-        12314
       ]
     }, 
     "ju'isatadu": {
@@ -78014,7 +77920,7 @@
     "-&#x294;a", 
     "High Lulani", 
     "particle indicates emphasis", 
-    "Usage Notes", 
+    "Notes", 
     "Placed at the end of greetings and valedictions", 
     "Often elided moving the stress of the last word to the final syllable", 
     "Example", 
@@ -78037,7 +77943,7 @@
     "&rsquo;appu", 
     "High Lulani", 
     "animate stem noun baby; foetus", 
-    "Usage Notes", 
+    "Notes", 
     "only used with possessives or in compounds", 
     "Derived Terms", 
     "", 
@@ -78413,7 +78319,7 @@
     " naffi&rsquo;ala spring", 
     " japa&rsquo;ala haze", 
     " cussi&rsquo;ala to feel hot ", 
-    "Usage Notes", 
+    "Notes", 
     "these are just about the only terms of this type", 
     "Anything else uses the genitive", 
     "Examples", 
@@ -78517,7 +78423,7 @@
     "&rsquo;ari", 
     "High Lulani", 
     "stem adposition in front of; before", 
-    "Usage Notes", 
+    "Notes", 
     "Used for space and for objective time", 
     "&rsquo;arri", 
     "High Lulani", 
@@ -78698,7 +78604,7 @@
     " takkulu chest ", 
     "&rsquo;idata", 
     "High Lulani", 
-    "derived compound noun to reply back; to answer in return", 
+    "derived compound verb to reply back; to answer in return", 
     "Etymology", 
     "&rsquo;i to speak + data back", 
     "&rsquo;idajabi", 
@@ -78769,7 +78675,7 @@
     "-ini", 
     "High Lulani", 
     "derivational suffix noun / verb diminutive; derives a term of lesser intensity or size from another term", 
-    "Usage Notes", 
+    "Notes", 
     "Obscene when added to a noun referring to a person", 
     "Example", 
     "", 
@@ -79638,7 +79544,7 @@
     "derived noun pronoun first person genitive pronoun; mine", 
     "Etymology", 
     "pagu my + qa", 
-    "Related Terms", 
+    "See Also", 
     "", 
     " baqa yours", 
     " disiqa hers ", 
@@ -81269,7 +81175,7 @@
     "High Lulani", 
     "stem interjection oh", 
     "; ah", 
-    "Usage Notes", 
+    "Notes", 
     "Denotes surprise or shock on the part of the speaker", 
     "ti&rsquo;ici", 
     "High Lulani", 
@@ -81277,7 +81183,7 @@
     "tiba", 
     "High Lulani", 
     "inanimate stem noun legs", 
-    "Usage Notes", 
+    "Notes", 
     "Refers to each of the legs of a pair", 
     "Derived Terms", 
     "", 
@@ -81315,7 +81221,7 @@
     "derived compound intransitive kinetic verb to tilt", 
     "Etymology", 
     "tiku to rotate + tiqaxi tilt", 
-    "Usage notes", 
+    "Notes", 
     "Movement of one&rsquo;s head in this way can denote disbelief or exasperation", 
     "tina", 
     "High Lulani", 
@@ -81900,7 +81806,7 @@
     "di", 
     "High Lulani", 
     "stem adposition up; above; atop; before", 
-    "Usage Notes", 
+    "Notes", 
     "used for subjective time", 
     "Derived Terms", 
     "", 
@@ -82171,7 +82077,7 @@
     "dissu", 
     "High Lulani", 
     "ambitransitive stem perceptive verb to feel", 
-    "Usage Notes", 
+    "Notes", 
     "Used for emotions and loves often compounded", 
     "Example", 
     "", 
@@ -82283,7 +82189,7 @@
     "du&rsquo;i", 
     "High Lulani", 
     "stem adposition beyond; opposite", 
-    "Usage Notes", 
+    "Notes", 
     "tends to mean &lsquo;beyond&rsquo; when the area can be seen &lsquo;opposite&rsquo; otherwise", 
     "Examples", 
     "", 
@@ -82414,7 +82320,7 @@
     "capi", 
     "High Lulani", 
     "stem adposition after; behind", 
-    "Usage Notes", 
+    "Notes", 
     "Used for objective time", 
     "capuha", 
     "High Lulani", 
@@ -82780,7 +82686,7 @@
     "derived noun time", 
     "Definition", 
     "a duration of time in which to complete a task", 
-    "Usage Notes", 
+    "Notes", 
     "poetic", 
     "Example", 
     "", 
@@ -82959,7 +82865,7 @@
     "derived compound verb to nod", 
     "Definition", 
     "this movement consists of one short nod", 
-    "Usage Notes", 
+    "Notes", 
     "such movement of one&rsquo;s head denotes a negative", 
     "Etymology", 
     "janni to move + difi plunge", 
@@ -83159,7 +83065,7 @@
     "", 
     " kitisu father", 
     " piha mother ", 
-    "Usage Notes", 
+    "Notes", 
     "Not used with possessives", 
     "juffila", 
     "High Lulani", 
@@ -83334,7 +83240,7 @@
     "kadu", 
     "High Lulani", 
     "stem adposition on a vertical surface", 
-    "Related Terms", 
+    "See Also", 
     "", 
     " la&rsquo;a on ", 
     "kadusi", 
@@ -83430,7 +83336,7 @@
     "kanu", 
     "High Lulani", 
     "inanimate stem noun leg", 
-    "Usage Notes", 
+    "Notes", 
     "Refers to an individual leg or each leg individually", 
     "See Also", 
     "", 
@@ -84052,7 +83958,7 @@
     "kitisu", 
     "High Lulani", 
     "animate stem noun father", 
-    "Usage Notes", 
+    "Notes", 
     "Not used with possessives", 
     "See Also", 
     "", 
@@ -84422,7 +84328,7 @@
     "gani-", 
     "High Lulani", 
     "stem adverbial prefix colloquial very", 
-    "Usage Notes", 
+    "Notes", 
     "Modifies verbs", 
     "Example", 
     "", 
@@ -84515,7 +84421,7 @@
     "gupicadi", 
     "High Lulani", 
     "derived compound verb to guard; to stay behind", 
-    "Usage Notes", 
+    "Notes", 
     "Means &lsquo;to guard&rsquo; with a causative argument else &lsquo;to remain&rsquo;", 
     "Etymology", 
     "gupi to sit + cadi wall", 
@@ -84579,7 +84485,7 @@
     "gusuli&rsquo;adi", 
     "High Lulani", 
     "derived compound animate noun neighbour", 
-    "Usage Notes", 
+    "Notes", 
     "refers to people of a nearby tribe", 
     "Etymology", 
     "gusu person + li not + &rsquo;adi near", 
@@ -85665,14 +85571,14 @@
     "mukicu", 
     "High Lulani", 
     "intransitive derived compound adjectival verb to be right; to be correct", 
-    "Usage Notes", 
+    "Notes", 
     "Refers to people who are correct", 
     "Etymology", 
     "mu to be good + kicu truth", 
     "munika", 
     "High Lulani", 
     "inanimate stem noun liquid", 
-    "Related Terms", 
+    "See Also", 
     "", 
     " xa&#x294;a gas", 
     " hi solid ", 
@@ -85710,7 +85616,7 @@
     "inanimate derived noun heart", 
     "Etymology", 
     "mulu blood + -kku body part", 
-    "Usage Notes", 
+    "Notes", 
     "Refers to the physical organ", 
     "Cf sida heart", 
     "muru", 
@@ -85818,7 +85724,7 @@
     "", 
     " nakalu to face in a particular direction", 
     " nahusabi to point out ", 
-    "Usage Notes", 
+    "Notes", 
     "Usually used as a verbal prefix", 
     "na&rsquo;a", 
     "High Lulani", 
@@ -86360,7 +86266,7 @@
     "nufira", 
     "High Lulani", 
     "stem modal adverb optative; want", 
-    "Usage Notes", 
+    "Notes", 
     "Only used in first person or second person questions", 
     "Example Sentences", 
     "", 
@@ -86487,7 +86393,7 @@
     "genitive qa", 
     "", 
     "stem adposition down; after", 
-    "Usage Notes", 
+    "Notes", 
     "Used for subjective time", 
     "Antonym", 
     "", 
@@ -87126,7 +87032,7 @@
     "la&rsquo;a", 
     "High Lulani", 
     "stem adposition on a horizontal surface", 
-    "Related Terms", 
+    "See Also", 
     "", 
     " kadu on ", 
     "la&rsquo;i", 
@@ -89643,7 +89549,7 @@
     "sida", 
     "High Lulani", 
     "inanimate stem noun heart physical organ", 
-    "Usage Notes", 
+    "Notes", 
     "refers to the aspects of the heart dealing with the heartbeat as a notification of physical or emotional stress et cetera", 
     "Cf mulukku", 
     "See Also", 
@@ -89743,7 +89649,7 @@
     "See Also", 
     "", 
     " xalli married person ", 
-    "Usage Notes", 
+    "Notes", 
     "Used with possessives", 
     "sisa", 
     "High Lulani", 
@@ -90171,7 +90077,7 @@
     "Derived Terms", 
     "", 
     " daxa&#x294;a steam ", 
-    "Related Terms", 
+    "See Also", 
     "", 
     " hi solid", 
     " munika liquid ", 
@@ -90218,7 +90124,7 @@
     "xani", 
     "High Lulani", 
     "stem modal adverb unwillingly", 
-    "Usage Notes", 
+    "Notes", 
     "When one sees the necessity for something", 
     "xalli", 
     "High Lulani", 
@@ -90226,7 +90132,7 @@
     "See Also", 
     "", 
     " silu spouse ", 
-    "Restrictions", 
+    "Notes", 
     "Not used with possessives", 
     "xara", 
     "High Lulani", 
@@ -90293,7 +90199,7 @@
     "&rarr; ra two", 
     "&mdash; mullu ron ", 
     "mathematics suffix one particle of a mass", 
-    "Usage Notes", 
+    "Notes", 
     "Used as a suffix to mass nouns", 
     "Example", 
     "", 
@@ -90359,7 +90265,7 @@
     "xu", 
     "High Lulani", 
     "transitive stem apparent verb to put out; to radiate; to broadcast", 
-    "Usage Notes", 
+    "Notes", 
     "Inanimate themes are objects animate themes use ka", 
     "Examples", 
     "", 
