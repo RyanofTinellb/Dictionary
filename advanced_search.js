@@ -75,13 +75,21 @@ function display(entries, id) {
         return;
     }
     var text = "<ol>"
+    const MARKDOWN = {
+        "&rsquo;": "'",
+        "&#x294;": "''"
+    }
     for (var entry of entries) {
         if (entry.t.charAt(0) == "&") {
             var initial = entry.t.charAt(7);
         } else {
             var initial = entry.t.charAt(0);
         }
-        text += `<li><a href="${initial}/${entry.t}.html">${entry.t}</a> (${entry.l}) <em>${entry.p.join(" ")}</em> <strong>${entry.m}</strong></li>`;
+        let url = entry.t;
+        for (md in MARKDOWN) {
+            url = url.replace(md, MARKDOWN[md]);
+        }
+        text += `<li><a href="${initial}/${url}.html">${entry.t}</a> (${entry.l}) <em>${entry.p.join(" ")}</em> <strong>${entry.m}</strong></li>`;
     }
     text += "</ol>";
     document.getElementById(id).innerHTML = text;
