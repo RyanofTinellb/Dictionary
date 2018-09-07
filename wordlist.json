@@ -12,12 +12,7 @@
     "d": [
       "interjection", 
       "marker", 
-      "small", 
-      "caps", 
-      "inj", 
-      "small", 
-      "caps", 
-      ""
+      "inj"
     ]
   }, 
   {
@@ -63,10 +58,8 @@
     "t": "-&#x294;a", 
     "d": [
       "", 
-      "em", 
       "indicates", 
       "emphasis", 
-      "em", 
       ""
     ]
   }, 
@@ -493,12 +486,7 @@
     "t": "-ar-", 
     "d": [
       "terminative", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -1074,12 +1062,7 @@
     "t": "-ilu", 
     "d": [
       "passive", 
-      "small", 
-      "caps", 
-      "psv", 
-      "small", 
-      "caps", 
-      ""
+      "psv"
     ]
   }, 
   {
@@ -1133,12 +1116,9 @@
     "m": "<link>Ir&igrave;a</link>, the capital city of Brequ&egrave;", 
     "t": "&rsquo;irri&rsquo;a", 
     "d": [
-      "", 
-      "link", 
       "Ir", 
       "igrave", 
       "a", 
-      "link", 
       "the", 
       "capital", 
       "city", 
@@ -1185,12 +1165,8 @@
       "person", 
       "transitive", 
       "inanimate", 
-      "small", 
-      "caps", 
       "3ina", 
       "tra", 
-      "small", 
-      "caps", 
       "it"
     ]
   }, 
@@ -1706,11 +1682,7 @@
       "first", 
       "person", 
       "intransitive", 
-      "small", 
-      "caps", 
       "1int", 
-      "small", 
-      "caps", 
       "I", 
       "me"
     ]
@@ -1772,12 +1744,8 @@
       "person", 
       "inanimate", 
       "intransitive", 
-      "small", 
-      "caps", 
       "3ina", 
       "int", 
-      "small", 
-      "caps", 
       "it"
     ]
   }, 
@@ -2045,12 +2013,7 @@
       "genitive", 
       "my", 
       "mine", 
-      "small", 
-      "caps", 
-      "1gen", 
-      "small", 
-      "caps", 
-      ""
+      "1gen"
     ]
   }, 
   {
@@ -2240,18 +2203,10 @@
       "had", 
       "stopped", 
       "being", 
-      "small", 
-      "caps", 
       "pst", 
       "sta", 
-      "small", 
-      "caps", 
       "lt", 
-      "small", 
-      "caps", 
       "trm", 
-      "small", 
-      "caps", 
       "gt", 
       ""
     ]
@@ -2298,12 +2253,7 @@
       "first", 
       "person", 
       "genitive", 
-      "small", 
-      "caps", 
-      "1gen", 
-      "small", 
-      "caps", 
-      ""
+      "1gen"
     ]
   }, 
   {
@@ -2335,12 +2285,8 @@
     "d": [
       "past", 
       "stative", 
-      "small", 
-      "caps", 
       "pst", 
       "sta", 
-      "small", 
-      "caps", 
       "was", 
       "were"
     ]
@@ -2443,10 +2389,8 @@
     "d": [
       "to", 
       "create", 
-      "em", 
       "ex", 
       "nihilo", 
-      "em", 
       "to", 
       "make"
     ]
@@ -2466,12 +2410,7 @@
       "dative", 
       "to", 
       "me", 
-      "small", 
-      "caps", 
-      "1dat", 
-      "small", 
-      "caps", 
-      ""
+      "1dat"
     ]
   }, 
   {
@@ -2586,13 +2525,7 @@
       "me", 
       "from", 
       "me", 
-      "1", 
-      "small", 
-      "caps", 
-      "abl", 
-      "small", 
-      "caps", 
-      ""
+      "1abl"
     ]
   }, 
   {
@@ -2761,11 +2694,7 @@
       "second", 
       "person", 
       "genitive", 
-      "small", 
-      "caps", 
       "2gen", 
-      "small", 
-      "caps", 
       "your", 
       "yours"
     ]
@@ -2804,12 +2733,7 @@
       "second", 
       "person", 
       "genitive", 
-      "small", 
-      "caps", 
-      "2gen", 
-      "small", 
-      "caps", 
-      ""
+      "2gen"
     ]
   }, 
   {
@@ -2825,11 +2749,7 @@
       "second", 
       "person", 
       "dative", 
-      "small", 
-      "caps", 
       "2dat", 
-      "small", 
-      "caps", 
       "to", 
       "you"
     ]
@@ -3217,9 +3137,7 @@
     "d": [
       "", 
       "3", 
-      "overline", 
       "3", 
-      "overline", 
       "ree", 
       "negative", 
       "three"
@@ -3710,14 +3628,9 @@
       "had", 
       "stopped", 
       "doing", 
-      "small", 
-      "caps", 
       "pst", 
       "itr", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -3760,12 +3673,8 @@
     "d": [
       "past", 
       "habitual", 
-      "small", 
-      "caps", 
       "pst", 
       "hab", 
-      "small", 
-      "caps", 
       "did", 
       "over", 
       "and", 
@@ -4885,13 +4794,8 @@
       "him", 
       "to", 
       "her", 
-      "small", 
-      "caps", 
       "3top", 
-      "dat", 
-      "small", 
-      "caps", 
-      ""
+      "dat"
     ]
   }, 
   {
@@ -5465,12 +5369,8 @@
       "person", 
       "animate", 
       "genitive", 
-      "small", 
-      "caps", 
       "3ani", 
       "gen", 
-      "small", 
-      "caps", 
       "his", 
       "her"
     ]
@@ -5490,12 +5390,8 @@
       "person", 
       "animate", 
       "genitive", 
-      "small", 
-      "caps", 
       "3ani", 
       "gen", 
-      "small", 
-      "caps", 
       "his", 
       "her"
     ]
@@ -5937,10 +5833,7 @@
     "m": "<link>tsar</link>; akashic record", 
     "t": "duluri", 
     "d": [
-      "", 
-      "link", 
       "tsar", 
-      "link", 
       "akashic", 
       "record"
     ]
@@ -6230,18 +6123,10 @@
       "to", 
       "finish", 
       "doing", 
-      "small", 
-      "caps", 
       "prs", 
       "dyn", 
-      "small", 
-      "caps", 
       "lt", 
-      "small", 
-      "caps", 
       "trm", 
-      "small", 
-      "caps", 
       "gt", 
       ""
     ]
@@ -6257,12 +6142,8 @@
     "d": [
       "present", 
       "dynamic", 
-      "small", 
-      "caps", 
       "prs", 
       "dyn", 
-      "small", 
-      "caps", 
       "is"
     ]
   }, 
@@ -6626,10 +6507,7 @@
     "m": "<link>subtle</link> bodies; psyche", 
     "t": "cussa", 
     "d": [
-      "", 
-      "link", 
       "subtle", 
-      "link", 
       "bodies", 
       "psyche"
     ]
@@ -6923,16 +6801,7 @@
     "t": "janni&rsquo;u&rsquo;ili", 
     "d": [
       "to", 
-      "a", 
-      "href", 
-      "https", 
-      "en", 
-      "wikipedia", 
-      "org", 
-      "wiki", 
-      "Sliders", 
       "slide", 
-      "a", 
       "to", 
       "move", 
       "through", 
@@ -7119,12 +6988,8 @@
     "d": [
       "present", 
       "negative", 
-      "small", 
-      "caps", 
       "prs", 
       "neg", 
-      "small", 
-      "caps", 
       "is", 
       "not", 
       "isn", 
@@ -7400,12 +7265,8 @@
       "person", 
       "animate", 
       "dative", 
-      "small", 
-      "caps", 
       "3ani", 
       "dat", 
-      "small", 
-      "caps", 
       "to", 
       "her", 
       "to", 
@@ -7424,9 +7285,7 @@
     "d": [
       "", 
       "6", 
-      "overline", 
       "6", 
-      "overline", 
       "rix", 
       "minus", 
       "six", 
@@ -7485,12 +7344,7 @@
     "t": "-ka", 
     "d": [
       "make", 
-      "small", 
-      "caps", 
-      "abv", 
-      "small", 
-      "caps", 
-      ""
+      "abv"
     ]
   }, 
   {
@@ -7506,12 +7360,7 @@
       "ablative", 
       "promotion", 
       "make", 
-      "small", 
-      "caps", 
-      "abv", 
-      "small", 
-      "caps", 
-      ""
+      "abv"
     ]
   }, 
   {
@@ -7736,9 +7585,7 @@
     "d": [
       "", 
       "2", 
-      "overline", 
       "2", 
-      "overline", 
       "rwo", 
       "minus", 
       "two"
@@ -7778,17 +7625,8 @@
       "of", 
       "the", 
       "xff5e", 
-      "small", 
-      "caps", 
       "abl", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "com", 
-      "small", 
-      "caps", 
-      ""
+      "com"
     ]
   }, 
   {
@@ -7821,12 +7659,8 @@
       "person", 
       "inanimate", 
       "ablative", 
-      "small", 
-      "caps", 
       "3ina", 
       "abl", 
-      "small", 
-      "caps", 
       "because", 
       "of", 
       "it", 
@@ -7860,12 +7694,7 @@
     "t": "kalu-", 
     "d": [
       "ablative", 
-      "small", 
-      "caps", 
-      "abl", 
-      "small", 
-      "caps", 
-      ""
+      "abl"
     ]
   }, 
   {
@@ -7966,12 +7795,8 @@
       "person", 
       "animate", 
       "ablative", 
-      "small", 
-      "caps", 
       "3ani", 
       "abl", 
-      "small", 
-      "caps", 
       "from", 
       "her", 
       "from", 
@@ -8183,10 +8008,7 @@
       "horse", 
       "ox", 
       "draughtsbeast", 
-      "em", 
-      "drif", 
-      "em", 
-      ""
+      "drif"
     ]
   }, 
   {
@@ -8425,11 +8247,7 @@
     "t": "kifuju", 
     "d": [
       "third", 
-      "3", 
-      "sup", 
-      "rd", 
-      "sup", 
-      ""
+      "3rd"
     ]
   }, 
   {
@@ -8505,13 +8323,8 @@
       "dative", 
       "to", 
       "it", 
-      "small", 
-      "caps", 
       "3ina", 
-      "dat", 
-      "small", 
-      "caps", 
-      ""
+      "dat"
     ]
   }, 
   {
@@ -8526,12 +8339,7 @@
     "t": "ku-", 
     "d": [
       "dative", 
-      "small", 
-      "caps", 
-      "dat", 
-      "small", 
-      "caps", 
-      ""
+      "dat"
     ]
   }, 
   {
@@ -8754,17 +8562,8 @@
       "to", 
       "the", 
       "xff5e", 
-      "small", 
-      "caps", 
       "dat", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "com", 
-      "small", 
-      "caps", 
-      ""
+      "com"
     ]
   }, 
   {
@@ -8926,9 +8725,7 @@
     "t": "gani-", 
     "d": [
       "", 
-      "em", 
       "colloquial", 
-      "em", 
       "very"
     ]
   }, 
@@ -9398,10 +9195,7 @@
       "think", 
       "with", 
       "the", 
-      "link", 
-      "soul", 
-      "link", 
-      ""
+      "soul"
     ]
   }, 
   {
@@ -9442,11 +9236,7 @@
     "m": "<link>gingla</link>", 
     "t": "ma&#x294;u", 
     "d": [
-      "", 
-      "link", 
-      "gingla", 
-      "link", 
-      ""
+      "gingla"
     ]
   }, 
   {
@@ -10288,10 +10078,7 @@
       "space", 
       "time", 
       "reality", 
-      "link", 
-      "gingla", 
-      "link", 
-      ""
+      "gingla"
     ]
   }, 
   {
@@ -10338,9 +10125,7 @@
     "d": [
       "", 
       "4", 
-      "overline", 
       "4", 
-      "overline", 
       "rour", 
       "minus", 
       "four"
@@ -10377,13 +10162,8 @@
       "her", 
       "he", 
       "him", 
-      "small", 
-      "caps", 
       "3ani", 
-      "int", 
-      "small", 
-      "caps", 
-      ""
+      "int"
     ]
   }, 
   {
@@ -10558,9 +10338,7 @@
     "d": [
       "", 
       "1", 
-      "overline", 
       "1", 
-      "overline", 
       "ron", 
       "minus", 
       "one"
@@ -10675,12 +10453,8 @@
     "d": [
       "present", 
       "habitual", 
-      "small", 
-      "caps", 
       "prs", 
       "hab", 
-      "small", 
-      "caps", 
       "is"
     ]
   }, 
@@ -10875,18 +10649,9 @@
       "will", 
       "stop", 
       "being", 
-      "small", 
-      "caps", 
       "fut", 
       "sta", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -10900,12 +10665,8 @@
     "d": [
       "future", 
       "stative", 
-      "small", 
-      "caps", 
       "fut", 
       "sta", 
-      "small", 
-      "caps", 
       "will", 
       "be"
     ]
@@ -11076,14 +10837,9 @@
       "to", 
       "finish", 
       "doing", 
-      "small", 
-      "caps", 
       "prs", 
       "hab", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -11539,15 +11295,8 @@
     "t": "nubi", 
     "d": [
       "universe", 
-      "span", 
-      "class", 
-      "universe", 
-      "M", 
-      "sup", 
-      "204", 
-      "sup", 
+      "M204", 
       "nu", 
-      "span", 
       ""
     ]
   }, 
@@ -11799,12 +11548,8 @@
       "person", 
       "inanimate", 
       "genitive", 
-      "small", 
-      "caps", 
       "3ina", 
       "gen", 
-      "small", 
-      "caps", 
       "its"
     ]
   }, 
@@ -11832,12 +11577,7 @@
     "t": "-qa", 
     "d": [
       "nominaliser", 
-      "small", 
-      "caps", 
-      "nmn", 
-      "small", 
-      "caps", 
-      ""
+      "nmn"
     ]
   }, 
   {
@@ -11855,13 +11595,8 @@
       "person", 
       "inanimate", 
       "genitive", 
-      "small", 
-      "caps", 
       "3ina", 
-      "gen", 
-      "small", 
-      "caps", 
-      ""
+      "gen"
     ]
   }, 
   {
@@ -12218,18 +11953,9 @@
       "not", 
       "stop", 
       "being", 
-      "small", 
-      "caps", 
       "pst", 
       "neg", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -12248,13 +11974,8 @@
       "didn", 
       "rsquo", 
       "t", 
-      "small", 
-      "caps", 
       "pst", 
-      "neg", 
-      "small", 
-      "caps", 
-      ""
+      "neg"
     ]
   }, 
   {
@@ -12325,13 +12046,8 @@
       "did", 
       "past", 
       "dynamic", 
-      "small", 
-      "caps", 
       "pst", 
-      "dyn", 
-      "small", 
-      "caps", 
-      ""
+      "dyn"
     ]
   }, 
   {
@@ -12470,12 +12186,8 @@
       "person", 
       "animate", 
       "transitive", 
-      "small", 
-      "caps", 
       "3ani", 
       "tra", 
-      "small", 
-      "caps", 
       "him", 
       "her", 
       "he", 
@@ -12703,14 +12415,9 @@
       "will", 
       "finish", 
       "doing", 
-      "small", 
-      "caps", 
       "fut", 
       "dyn", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -12725,13 +12432,8 @@
       "future", 
       "dynamic", 
       "will", 
-      "small", 
-      "caps", 
       "fut", 
-      "dyn", 
-      "small", 
-      "caps", 
-      ""
+      "dyn"
     ]
   }, 
   {
@@ -12830,11 +12532,7 @@
     "d": [
       "diatomic", 
       "hydrogen", 
-      "H", 
-      "sub", 
-      "2", 
-      "sub", 
-      ""
+      "H2"
     ]
   }, 
   {
@@ -12860,9 +12558,7 @@
     "d": [
       "", 
       "5", 
-      "overline", 
       "5", 
-      "overline", 
       "rive", 
       "minus", 
       "five"
@@ -12894,10 +12590,7 @@
     "m": "<link>Guozu</link> baby", 
     "t": "lassi", 
     "d": [
-      "", 
-      "link", 
       "Guozu", 
-      "link", 
       "baby"
     ]
   }, 
@@ -12951,12 +12644,7 @@
     "t": "li", 
     "d": [
       "complementiser", 
-      "small", 
-      "caps", 
-      "com", 
-      "small", 
-      "caps", 
-      ""
+      "com"
     ]
   }, 
   {
@@ -13262,10 +12950,7 @@
     "m": "<link>soul</link>; spirit; that which loves", 
     "t": "lu&rsquo;iki", 
     "d": [
-      "", 
-      "link", 
       "soul", 
-      "link", 
       "spirit", 
       "that", 
       "which", 
@@ -13495,18 +13180,9 @@
       "to", 
       "finish", 
       "being", 
-      "small", 
-      "caps", 
       "prs", 
       "sta", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -13534,12 +13210,8 @@
     "d": [
       "present", 
       "stative", 
-      "small", 
-      "caps", 
       "prs", 
       "sta", 
-      "small", 
-      "caps", 
       "is"
     ]
   }, 
@@ -13628,13 +13300,8 @@
       "her", 
       "from", 
       "him", 
-      "small", 
-      "caps", 
       "3top", 
-      "abl", 
-      "small", 
-      "caps", 
-      ""
+      "abl"
     ]
   }, 
   {
@@ -13777,9 +13444,7 @@
       "22", 
       "twenty", 
       "two", 
-      "em", 
       "34", 
-      "em", 
       ""
     ]
   }, 
@@ -13862,18 +13527,9 @@
       "no", 
       "longer", 
       "is", 
-      "small", 
-      "caps", 
       "prs", 
       "gno", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -13931,10 +13587,7 @@
     "m": "<overline>7</overline>; minus seven; negative seven", 
     "t": "reven", 
     "d": [
-      "", 
-      "overline", 
       "7", 
-      "overline", 
       "minus", 
       "seven", 
       "negative", 
@@ -14178,19 +13831,8 @@
       "derives", 
       "a", 
       "gerund", 
-      "a", 
-      "href", 
-      "http", 
-      "grammar", 
-      "tinellb", 
-      "com", 
-      "highlulani", 
-      "syntax", 
-      "gerunds", 
-      "html", 
       "q", 
       "v", 
-      "a", 
       "from", 
       "a", 
       "verb"
@@ -14262,18 +13904,9 @@
       "will", 
       "stop", 
       "being", 
-      "small", 
-      "caps", 
       "fut", 
       "gno", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -14287,12 +13920,8 @@
     "d": [
       "future", 
       "gnomic", 
-      "small", 
-      "caps", 
       "fut", 
       "gno", 
-      "small", 
-      "caps", 
       "will", 
       "be"
     ]
@@ -14326,12 +13955,8 @@
     "d": [
       "past", 
       "gnomic", 
-      "small", 
-      "caps", 
       "pst", 
       "gno", 
-      "small", 
-      "caps", 
       "always", 
       "was"
     ]
@@ -14348,18 +13973,9 @@
       "did", 
       "stop", 
       "being", 
-      "small", 
-      "caps", 
       "pst", 
       "gno", 
-      "small", 
-      "caps", 
-      "small", 
-      "caps", 
-      "trm", 
-      "small", 
-      "caps", 
-      ""
+      "trm"
     ]
   }, 
   {
@@ -14374,9 +13990,7 @@
     "d": [
       "", 
       "1", 
-      "overline", 
       "1", 
-      "overline", 
       "negative", 
       "one"
     ]
@@ -14393,9 +14007,7 @@
     "d": [
       "", 
       "2", 
-      "overline", 
       "2", 
-      "overline", 
       "negative", 
       "two"
     ]
@@ -14598,10 +14210,7 @@
     "m": "<link>subtle</link> planes", 
     "t": "fara", 
     "d": [
-      "", 
-      "link", 
       "subtle", 
-      "link", 
       "planes"
     ]
   }, 
@@ -14846,11 +14455,7 @@
       "second", 
       "person", 
       "intransitive", 
-      "small", 
-      "caps", 
       "2int", 
-      "small", 
-      "caps", 
       "you"
     ]
   }, 
@@ -14895,11 +14500,7 @@
       "second", 
       "person", 
       "transitive", 
-      "small", 
-      "caps", 
       "2tra", 
-      "small", 
-      "caps", 
       "you"
     ]
   }, 
@@ -14944,18 +14545,10 @@
       "not", 
       "stop", 
       "doing", 
-      "small", 
-      "caps", 
       "fut", 
       "neg", 
-      "small", 
-      "caps", 
       "lt", 
-      "small", 
-      "caps", 
       "trm", 
-      "small", 
-      "caps", 
       "gt", 
       ""
     ]
@@ -14971,12 +14564,8 @@
     "d": [
       "future", 
       "negative", 
-      "small", 
-      "caps", 
       "fut", 
       "neg", 
-      "small", 
-      "caps", 
       "will", 
       "not", 
       "won", 
@@ -15122,9 +14711,7 @@
     "t": "sa&rsquo;i", 
     "d": [
       "light", 
-      "link", 
       "subtle", 
-      "link", 
       "energy"
     ]
   }, 
@@ -15335,11 +14922,7 @@
       "second", 
       "person", 
       "ablative", 
-      "small", 
-      "caps", 
       "2abl", 
-      "small", 
-      "caps", 
       "from", 
       "you", 
       "because", 
@@ -15757,11 +15340,7 @@
       "water", 
       "dihydrogen", 
       "monoxide", 
-      "H", 
-      "sub", 
-      "2", 
-      "sub", 
-      "O"
+      "H2O"
     ]
   }, 
   {
@@ -16253,10 +15832,7 @@
     "t": "sutti&rsquo;ima", 
     "d": [
       "hesitation", 
-      "em", 
-      "voidfear", 
-      "em", 
-      ""
+      "voidfear"
     ]
   }, 
   {
@@ -16316,12 +15892,7 @@
       "transitive", 
       "I", 
       "me", 
-      "small", 
-      "caps", 
-      "1tra", 
-      "small", 
-      "caps", 
-      ""
+      "1tra"
     ]
   }, 
   {
@@ -16706,11 +16277,7 @@
     "m": "<link>tsarship</link>", 
     "t": "xaraduluri", 
     "d": [
-      "", 
-      "link", 
-      "tsarship", 
-      "link", 
-      ""
+      "tsarship"
     ]
   }, 
   {
@@ -16896,12 +16463,7 @@
     "t": "xiku", 
     "d": [
       "relativiser", 
-      "small", 
-      "caps", 
-      "rel", 
-      "small", 
-      "caps", 
-      ""
+      "rel"
     ]
   }, 
   {
@@ -17310,12 +16872,8 @@
     "d": [
       "", 
       "7", 
-      "overline", 
       "7", 
-      "overline", 
-      "link", 
       "reven", 
-      "link", 
       "minus", 
       "seven"
     ]
@@ -17454,18 +17012,10 @@
       "will", 
       "stop", 
       "doing", 
-      "small", 
-      "caps", 
       "fut", 
       "hab", 
-      "small", 
-      "caps", 
       "lt", 
-      "small", 
-      "caps", 
       "trm", 
-      "small", 
-      "caps", 
       "gt", 
       ""
     ]
@@ -17852,13 +17402,8 @@
       "future", 
       "iterative", 
       "will", 
-      "small", 
-      "caps", 
       "fut", 
-      "itr", 
-      "small", 
-      "caps", 
-      ""
+      "itr"
     ]
   }, 
   {

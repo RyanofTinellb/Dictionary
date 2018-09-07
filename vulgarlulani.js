@@ -1,5 +1,5 @@
-function searchterms() {
-  var url = "searching.json";
+function vulgarlulani() {
+  var url = "vulgarlulani.json";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -14,14 +14,9 @@ function searchterms() {
 // displays results as list
 // @param Array arr: results array
 function display(arr, id) {
-  var words = [];
-  for (var word in arr['terms']) {
-    words.push(word);
-  }
-  words.sort();
-  var disp = '<ol>';
-  for (word of words) {
-    disp += '<li>' + word + '</li>\n';
+  let disp = '<ol>';
+  for (entry of arr) {
+    disp += `<li>${entry.join(' > ')}</li>\n`;
   }
   disp += '</ol>';
   document.getElementById(id).innerHTML = disp;
