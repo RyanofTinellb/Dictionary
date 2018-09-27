@@ -7,12 +7,25 @@
 		Terms in Vulgar Lulani
 	</title>
 	<script src="vulgarlulani.js" charset="utf-8"></script>
+	<style>
+		div#right {
+			position: fixed;
+			left: 90%;
+		}
+
+		p {
+			padding-top: 3em;
+		}
+	</style>
 </head>
 
 <body>
 	<script>
 		vulgarlulani();
 	</script>
+	<div id="right">
+		<input type="checkbox" id="expand" onclick="vulgarlulani()">Expand</input>
+	</div>
 	<p id="results"></p>
 </body>
 

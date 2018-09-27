@@ -15,8 +15,15 @@ function vulgarlulani() {
 // @param Array arr: results array
 function display(arr, id) {
     let disp = '<ol>';
-    for (entry of arr) {
-        disp += `<li>${entry.join(' > ')}</li>\n`;
+    let expand = document.getElementById("expand");
+    if (expand.checked) {
+        for (entry of arr) {
+            disp += `<li>${entry.join(' > ')}</li>\n`;
+        }
+    } else {
+        for (entry of arr) {
+            disp += `<li>${entry[0]} > ${entry[entry.length - 1]}</li>\n`;
+        }
     }
     disp += '</ol>';
     document.getElementById(id).innerHTML = disp;
