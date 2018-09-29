@@ -4,7 +4,8 @@ if (window.location.href.indexOf("?") != -1) {
 
 const MARKDOWN = {
     "&rsquo;": "'",
-    "&#x294;": "''"
+    "&#x294;": "''",
+    "&uuml;": "+u"
 };
 
 function adv_search() {
@@ -80,7 +81,7 @@ function display(entries, id) {
 }
 
 function createLine(entry) {
-    return `<li><a href="${createUrl(entry.t)}.html">${entry.t}</a> `
+    return `<li><a href="${createUrl(entry.t)}">${entry.t}</a> `
         + `(${entry.l}) `
         + `<em>${entry.p.join(" ")}</em> `
         + `<strong>${entry.m}</strong></li>`;
