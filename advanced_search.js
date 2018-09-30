@@ -5,7 +5,7 @@ if (window.location.href.indexOf("?") != -1) {
 const MARKDOWN = {
     "&rsquo;": "'",
     "&#x294;": "''",
-    "&uuml;": "+u"
+    "&uuml;": "!u"
 };
 
 function adv_search() {

@@ -89,6 +89,10 @@ body {
 	margin-top: 1em;
 }
 
+.content .also p {
+	margin-left: 5%;
+}
+
 .content .wordlist {
 	margin-left: 17%;
 	padding-bottom: 0.5em;
@@ -116,6 +120,7 @@ h1 { /* headword */
 
 h2 { /* language */
 	font-family: garamond, serif;
+	margin-top: 2rem;
 }
 
 h3 { /* Tinellbian script */
