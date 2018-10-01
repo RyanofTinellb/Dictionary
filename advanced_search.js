@@ -88,16 +88,20 @@ function createLine(entry) {
 }
 
 function findInitial(text) {
-    return text.replace(/&.*?;/g, "").charAt(0);
+    return text.replace(/&.*?;/g, "").charAt(0).toLowerCase();
 }
 
 function createUrl(text) {
     return `${findInitial(text)}/${markdown(text)}.html`
 }
 
+function sellCaps(text) {
+    return text.replace(/^[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+}
+
 function markdown(text) {
     for (md in MARKDOWN) {
         text = text.replace(md, MARKDOWN[md]);
     }
-    return text;
+    return sellCaps(text);
 }

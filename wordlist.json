@@ -139,6 +139,18 @@
   {
     "p": [
       "stem", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "miscarriage", 
+    "t": "ab&uuml;l&#x330;i", 
+    "d": [
+      "miscarriage"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
       "indefinite", 
       "pronoun"
     ], 
@@ -700,6 +712,25 @@
   }, 
   {
     "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "the capital city of Brequ&eacute;", 
+    "t": "Ir&igrave;a", 
+    "d": [
+      "the", 
+      "capital", 
+      "city", 
+      "of", 
+      "Brequ", 
+      "eacute", 
+      ""
+    ]
+  }, 
+  {
+    "p": [
       "inanimate", 
       "stem", 
       "noun", 
@@ -1113,10 +1144,11 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>Ir&igrave;a</link>, the capital city of Brequ&egrave;", 
+    "m": "<link>$ir&igrave;a</link>, the capital city of Brequ&egrave;", 
     "t": "&rsquo;irri&rsquo;a", 
     "d": [
-      "Ir", 
+      "", 
+      "ir", 
       "igrave", 
       "a", 
       "the", 
@@ -1125,29 +1157,6 @@
       "of", 
       "Brequ", 
       "egrave", 
-      ""
-    ]
-  }, 
-  {
-    "p": [
-      "stem", 
-      "proper", 
-      "noun", 
-      ""
-    ], 
-    "l": "English", 
-    "m": "Ir&igrave;a, the capital city of Brequ&eacute;", 
-    "t": "ir&igrave;a", 
-    "d": [
-      "Ir", 
-      "igrave", 
-      "a", 
-      "the", 
-      "capital", 
-      "city", 
-      "of", 
-      "Brequ", 
-      "eacute", 
       ""
     ]
   }, 
@@ -3145,6 +3154,19 @@
   }, 
   {
     "p": [
+      "stem", 
+      "indefinite", 
+      "noun"
+    ], 
+    "l": "Vulgar Lulani", 
+    "m": "everything", 
+    "t": "biri", 
+    "d": [
+      "everything"
+    ]
+  }, 
+  {
+    "p": [
       "abstract", 
       "stem", 
       "noun"
@@ -4051,14 +4073,18 @@
     "p": [
       "stem", 
       "proper", 
-      "noun", 
-      ""
+      "noun"
     ], 
-    "l": "High Lulani", 
-    "m": "Tinellb", 
-    "t": "tinalli", 
+    "l": "English", 
+    "m": "the name given to the multiverse", 
+    "t": "Tinellb", 
     "d": [
-      "Tinellb"
+      "the", 
+      "name", 
+      "given", 
+      "to", 
+      "the", 
+      "multiverse"
     ]
   }, 
   {
@@ -4509,21 +4535,6 @@
   }, 
   {
     "p": [
-      "animate", 
-      "stem", 
-      "proper", 
-      "noun", 
-      ""
-    ], 
-    "l": "High Lulani", 
-    "m": "Toresh", 
-    "t": "turassi", 
-    "d": [
-      "Toresh"
-    ]
-  }, 
-  {
-    "p": [
       "transitive", 
       "stem", 
       "transformative", 
@@ -4628,6 +4639,56 @@
     "t": "tuhhisa", 
     "d": [
       "farmer"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "<link>$tinellb</link>", 
+    "t": "Tinalli", 
+    "d": [
+      "", 
+      "tinellb"
+    ]
+  }, 
+  {
+    "p": [
+      "animate", 
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "<link>$toresh</link>", 
+    "t": "Turassi", 
+    "d": [
+      "", 
+      "toresh"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "Fezhl&ecirc; woman, major character of the Crackled Egg", 
+    "t": "Toresh", 
+    "d": [
+      "Fezhl", 
+      "ecirc", 
+      "woman", 
+      "major", 
+      "character", 
+      "of", 
+      "the", 
+      "Crackled", 
+      "Egg"
     ]
   }, 
   {
@@ -8493,20 +8554,6 @@
   }, 
   {
     "p": [
-      "proper", 
-      "stem", 
-      "noun", 
-      ""
-    ], 
-    "l": "High Lulani", 
-    "m": "Corla", 
-    "t": "kurila", 
-    "d": [
-      "Corla"
-    ]
-  }, 
-  {
-    "p": [
       "transitive", 
       "stem", 
       "abative", 
@@ -8564,6 +8611,19 @@
       "xff5e", 
       "dat", 
       "com"
+    ]
+  }, 
+  {
+    "p": [
+      "proper", 
+      "stem", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "Corla", 
+    "t": "Kurila", 
+    "d": [
+      "Corla"
     ]
   }, 
   {
@@ -8937,12 +8997,11 @@
       "animate", 
       "stem", 
       "proper", 
-      "noun", 
-      ""
+      "noun"
     ], 
     "l": "English", 
     "m": "Loren&rsquo;s species, which spread out into the Tinellbian worlds from Naengi", 
-    "t": "guozu", 
+    "t": "Guozu", 
     "d": [
       "Loren", 
       "rsquo", 
@@ -10736,20 +10795,6 @@
   }, 
   {
     "p": [
-      "stem", 
-      "proper", 
-      "noun", 
-      ""
-    ], 
-    "l": "High Lulani", 
-    "m": "Naengi", 
-    "t": "naqi", 
-    "d": [
-      "Naengi"
-    ]
-  }, 
-  {
-    "p": [
       "abstract", 
       "stem", 
       "noun"
@@ -11532,6 +11577,21 @@
     "d": [
       "diary", 
       "journal"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "<link>$mala Ptokonoi</link>", 
+    "t": "Naqi", 
+    "d": [
+      "", 
+      "mala", 
+      "Ptokonoi"
     ]
   }, 
   {
@@ -12587,10 +12647,11 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>Guozu</link> baby", 
+    "m": "<link>$guozu</link> baby", 
     "t": "lassi", 
     "d": [
-      "Guozu", 
+      "", 
+      "guozu", 
       "baby"
     ]
   }, 
@@ -13043,22 +13104,6 @@
   }, 
   {
     "p": [
-      "proper", 
-      "stem", 
-      "noun", 
-      ""
-    ], 
-    "l": "High Lulani", 
-    "m": "Lulani (language)", 
-    "t": "lulani", 
-    "d": [
-      "Lulani", 
-      "language", 
-      ""
-    ]
-  }, 
-  {
-    "p": [
       "transitive", 
       "derived", 
       "verb"
@@ -13100,6 +13145,41 @@
     "d": [
       "multiple", 
       "birth"
+    ]
+  }, 
+  {
+    "p": [
+      "proper", 
+      "stem", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "either of the languages High Lulani or Vulgar Lulani", 
+    "t": "Lulani", 
+    "d": [
+      "either", 
+      "of", 
+      "the", 
+      "languages", 
+      "High", 
+      "Lulani", 
+      "or", 
+      "Vulgar", 
+      "Lulani"
+    ]
+  }, 
+  {
+    "p": [
+      "proper", 
+      "stem", 
+      "noun"
+    ], 
+    "l": "High Lulani", 
+    "m": "High Lulani", 
+    "t": "Lulani", 
+    "d": [
+      "High", 
+      "Lulani"
     ]
   }, 
   {
@@ -14618,6 +14698,25 @@
   }, 
   {
     "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "second group of people to reach Zhalad", 
+    "t": "Fezhl&ecirc;", 
+    "d": [
+      "second", 
+      "group", 
+      "of", 
+      "people", 
+      "to", 
+      "reach", 
+      "Zhalad"
+    ]
+  }, 
+  {
+    "p": [
       "abstract", 
       "stem", 
       "noun"
@@ -14732,12 +14831,11 @@
     "p": [
       "proper", 
       "derived", 
-      "noun", 
-      ""
+      "noun"
     ], 
     "l": "High Lulani", 
     "m": "Caemi; goddess of light, energy and chaos; light-giver", 
-    "t": "sa&rsquo;imi", 
+    "t": "Sa&rsquo;imi", 
     "d": [
       "Caemi", 
       "goddess", 
@@ -16079,6 +16177,19 @@
     "t": "sb&uuml;fi", 
     "d": [
       "shy"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "noun", 
+      "element"
+    ], 
+    "l": "Vulgar Lulani", 
+    "m": "lanthanum", 
+    "t": "sneki", 
+    "d": [
+      "lanthanum"
     ]
   }, 
   {
