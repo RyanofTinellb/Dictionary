@@ -1144,11 +1144,10 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>$ir&igrave;a</link>, the capital city of Brequ&egrave;", 
-    "t": "&rsquo;irri&rsquo;a", 
+    "m": "<link>Ir&igrave;a</link>, the capital city of Brequ&egrave;", 
+    "t": "&#x294;irri&rsquo;a", 
     "d": [
-      "", 
-      "ir", 
+      "Ir", 
       "igrave", 
       "a", 
       "the", 
@@ -4648,11 +4647,11 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>$tinellb</link>", 
+    "m": "<link>en:Tinellb</link>", 
     "t": "Tinalli", 
     "d": [
-      "", 
-      "tinellb"
+      "en", 
+      "Tinellb"
     ]
   }, 
   {
@@ -4663,11 +4662,10 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>$toresh</link>", 
+    "m": "<link>Toresh</link>", 
     "t": "Turassi", 
     "d": [
-      "", 
-      "toresh"
+      "Toresh"
     ]
   }, 
   {
@@ -11586,11 +11584,10 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>$mala Ptokonoi</link>", 
+    "m": "<link>Mala Ptokonoi</link>", 
     "t": "Naqi", 
     "d": [
-      "", 
-      "mala", 
+      "Mala", 
       "Ptokonoi"
     ]
   }, 
@@ -12647,11 +12644,10 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>$guozu</link> baby", 
+    "m": "<link>Guozu</link> baby", 
     "t": "lassi", 
     "d": [
-      "", 
-      "guozu", 
+      "Guozu", 
       "baby"
     ]
   }, 

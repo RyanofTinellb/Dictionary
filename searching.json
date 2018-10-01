@@ -15784,9 +15784,6 @@
     "'irri'a": {
       "51": [
         670
-      ], 
-      "78": [
-        876
       ]
     }, 
     "gapakka": {
@@ -64750,6 +64747,11 @@
         4619
       ]
     }, 
+    "''irri'a": {
+      "78": [
+        876
+      ]
+    }, 
     "ra''asa": {
       "839": [
         9790
@@ -76190,7 +76192,7 @@
     "&rsquo;ilu", 
     "-illu", 
     "-&rsquo;illu", 
-    "&rsquo;irri&rsquo;a", 
+    "&#x294;irri&rsquo;a", 
     "&rsquo;iffa", 
     "&rsquo;ifuhhanaku", 
     "&rsquo;isa", 
@@ -79232,7 +79234,7 @@
     "stem inflectional suffix passive", 
     "Notes", 
     "Used with monosyllabic verbs", 
-    "&rsquo;irri&rsquo;a", 
+    "&#x294;irri&rsquo;a", 
     "High Lulani", 
     "stem proper noun Ir&igrave;a  the capital city of Brequ&egrave;", 
     "&rsquo;iffa", 
