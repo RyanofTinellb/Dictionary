@@ -20,8 +20,8 @@ function display(arr, id) {
   }
   words.sort();
   var disp = '<ol>';
-  for (word of words) {
-    disp += '<li>' + word + '</li>\n';
+  for (word in words) {
+    disp += '<li>' + words[word] + '</li>\n';
   }
   disp += '</ol>';
   document.getElementById(id).innerHTML = disp;
