@@ -139,18 +139,6 @@
   {
     "p": [
       "stem", 
-      "noun"
-    ], 
-    "l": "High Lulani", 
-    "m": "miscarriage", 
-    "t": "ab&uuml;l&#x330;i", 
-    "d": [
-      "miscarriage"
-    ]
-  }, 
-  {
-    "p": [
-      "stem", 
       "indefinite", 
       "pronoun"
     ], 
@@ -2842,6 +2830,19 @@
       "everywhere", 
       "universal", 
       "place"
+    ]
+  }, 
+  {
+    "p": [
+      "animate", 
+      "stem", 
+      "noun"
+    ], 
+    "l": "Vulgar Lulani", 
+    "m": "puppy", 
+    "t": "bad", 
+    "d": [
+      "puppy"
     ]
   }, 
   {
