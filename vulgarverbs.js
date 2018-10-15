@@ -14,11 +14,19 @@ function vulgarverbs() {
 // displays results as list
 // @param Array arr: results array
 function display(arr, id) {
-    let disp = '<ol>';
+    const cols = 16
+    let currCol = 15
+    let disp = '<table><tr>';
     let expand = document.getElementById("expand");
         for (entry of arr) {
-            disp += `<li>${entry[0]} > ${entry[entry.length - 1]}</li>\n`;
+            if (++currCol == cols) {
+                disp += '</tr><tr>';
+                currCol = 0;
+                disp += `<td>${entry[0]}&nbsp;>&nbsp;${entry[entry.length - 1]}</td>\n`;
+            } else {
+                disp += `<td>${entry[entry.length - 1]}</td>\n`;
+            }
     }
-    disp += '</ol>';
+    disp += '</tr></table>';
     document.getElementById(id).innerHTML = disp;
 }
