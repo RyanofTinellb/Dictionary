@@ -3,10 +3,12 @@
     "-a"
   ], 
   [
-    "&rsquo;a"
+    "&rsquo;a", 
+    "a"
   ], 
   [
-    "-&rsquo;a"
+    "-&rsquo;a", 
+    "-a"
   ], 
   [
     "-&#x294;a", 
@@ -18,8 +20,9 @@
   [
     "&rsquo;a&rsquo;ami", 
     "&rsquo;a&rsquo;emi", 
-    "&#x294;em&#x1ecb;", 
-    "em&#x1ecb;"
+    "&rsquo;ayemi", 
+    "&rsquo;yem&#x1ecb;", 
+    "yem&#x1ecb;"
   ], 
   [
     "&rsquo;a&rsquo;ima", 
@@ -31,7 +34,8 @@
     "&rsquo;appu", 
     "&rsquo;abbu", 
     "&rsquo;abu", 
-    "&rsquo;ab&#x1ee5;"
+    "&rsquo;ab&#x1ee5;", 
+    "ab&#x1ee5;"
   ], 
   [
     "&rsquo;appuli", 
@@ -39,11 +43,13 @@
     "&rsquo;abb&uuml;li", 
     "&rsquo;abb&uuml;l&#x330;i", 
     "&rsquo;ab&uuml;l&#x330;i", 
-    "&rsquo;ab&uuml;&#x323;l&#x330;i"
+    "&rsquo;ab&uuml;&#x323;l&#x330;i", 
+    "ab&uuml;&#x323;l&#x330;i"
   ], 
   [
     "&rsquo;aba", 
-    "&rsquo;ab"
+    "&rsquo;ab", 
+    "ab"
   ], 
   [
     "&rsquo;abala", 
@@ -62,23 +68,27 @@
     "&rsquo;adda", 
     "&rsquo;a&eth;&eth;a", 
     "&rsquo;a&eth;a", 
-    "&rsquo;a&eth;"
+    "&rsquo;a&eth;", 
+    "a&eth;"
   ], 
   [
     "&rsquo;adi", 
     "&rsquo;edi", 
     "&rsquo;eji", 
-    "&rsquo;ej&#x1ecb;"
+    "&rsquo;ej&#x1ecb;", 
+    "ej&#x1ecb;"
   ], 
   [
     "&rsquo;aka", 
-    "&rsquo;ak"
+    "&rsquo;ak", 
+    "ak"
   ], 
   [
     "&rsquo;akki", 
     "&rsquo;aggi", 
     "&rsquo;eggi", 
-    "&rsquo;eg"
+    "&rsquo;eg", 
+    "eg"
   ], 
   [
     "-aku", 
@@ -88,21 +98,24 @@
     "&rsquo;agga", 
     "&rsquo;arra", 
     "&rsquo;ara", 
-    "&rsquo;ar"
+    "&rsquo;ar", 
+    "ar"
   ], 
   [
     "&rsquo;aggami", 
     "&rsquo;arrami", 
     "&rsquo;arremi", 
     "&rsquo;aremi", 
-    "&rsquo;armi"
+    "&rsquo;armi", 
+    "armi"
   ], 
   [
     "&rsquo;aggini", 
     "&rsquo;arrini", 
     "&rsquo;errini", 
     "&rsquo;erri&ntilde;i", 
-    "&rsquo;er&ntilde;i"
+    "&rsquo;er&ntilde;i", 
+    "er&ntilde;i"
   ], 
   [
     "&rsquo;agusa", 
@@ -111,7 +124,8 @@
   ], 
   [
     "&rsquo;ama", 
-    "&rsquo;am"
+    "&rsquo;am", 
+    "am"
   ], 
   [
     "&rsquo;amila", 
@@ -123,30 +137,36 @@
     "&rsquo;anni", 
     "&rsquo;a&ntilde;&ntilde;i", 
     "&rsquo;e&ntilde;&ntilde;i", 
-    "&rsquo;e&ntilde;"
+    "&rsquo;e&ntilde;", 
+    "e&ntilde;"
   ], 
   [
     "&rsquo;anu", 
-    "&rsquo;an&#x1ee5;"
+    "&rsquo;an&#x1ee5;", 
+    "an&#x1ee5;"
   ], 
   [
     "&rsquo;aqqixi", 
     "&rsquo;eqqixi", 
-    "&rsquo;eqxi"
+    "&rsquo;eqxi", 
+    "eqxi"
   ], 
   [
     "&rsquo;ala", 
-    "&rsquo;al"
+    "&rsquo;al", 
+    "al"
   ], 
   [
     "&rsquo;alla", 
     "&rsquo;al&#x330;l&#x330;a", 
     "&rsquo;al&#x330;a", 
-    "&rsquo;al&#x330;"
+    "&rsquo;al&#x330;", 
+    "al&#x330;"
   ], 
   [
     "&rsquo;alamusa", 
-    "&rsquo;almus"
+    "&rsquo;almus", 
+    "almus"
   ], 
   [
     "&rsquo;alaxuhha", 
@@ -154,13 +174,14 @@
     "&rsquo;alaxoh&#x330;h&#x330;a", 
     "&rsquo;alaxoh&#x330;a", 
     "&rsquo;alxoh&#x330;", 
-    "&rsquo;al&#x330;xoh&#x330;"
+    "alxoh&#x330;"
   ], 
   [
     "&rsquo;ali", 
     "&rsquo;eli", 
     "&rsquo;el&#x330;i", 
-    "&rsquo;el&#x330;&#x1ecb;"
+    "&rsquo;el&#x330;&#x1ecb;", 
+    "el&#x330;&#x1ecb;"
   ], 
   [
     "&rsquo;alissa", 
@@ -175,17 +196,20 @@
   ], 
   [
     "&rsquo;ara", 
-    "&rsquo;ar"
+    "&rsquo;ar", 
+    "ar"
   ], 
   [
     "&rsquo;ari", 
     "&rsquo;eri", 
-    "&rsquo;er&#x1ecb;"
+    "&rsquo;er&#x1ecb;", 
+    "er&#x1ecb;"
   ], 
   [
     "&rsquo;arri", 
     "&rsquo;erri", 
-    "&rsquo;er"
+    "&rsquo;er", 
+    "er"
   ], 
   [
     "&rsquo;aru&rsquo;u", 
@@ -196,7 +220,8 @@
   [
     "&rsquo;assa", 
     "&rsquo;asa", 
-    "&rsquo;as"
+    "&rsquo;as", 
+    "as"
   ], 
   [
     "&rsquo;asila", 
@@ -209,7 +234,8 @@
     "&rsquo;asilari", 
     "&rsquo;esileri", 
     "&rsquo;exileri", 
-    "&rsquo;ex&#x1ecb;ler&#x1ecb;"
+    "&rsquo;ex&#x1ecb;ler&#x1ecb;", 
+    "ex&#x1ecb;ler&#x1ecb;"
   ], 
   [
     "&rsquo;axasi", 
@@ -223,22 +249,24 @@
     "&rsquo;axesiri", 
     "&rsquo;axexiri", 
     "&rsquo;ax&middot;xiri", 
-    "&rsquo;axxir&#x1ecb;"
+    "&rsquo;axxir&#x1ecb;", 
+    "axxir&#x1ecb;"
   ], 
   [
     "&rsquo;ahati", 
     "&rsquo;aheti", 
     "&rsquo;aheci", 
     "&rsquo;hec&#x1ecb;", 
-    "ec&#x1ecb;"
+    "hec&#x1ecb;"
   ], 
   [
     "&rsquo;ahatini", 
     "&rsquo;ahetini", 
     "&rsquo;aheci&ntilde;i", 
     "&rsquo;a&rsquo;eci&ntilde;i", 
-    "&rsquo;aci&ntilde;i", 
-    "&rsquo;aci&ntilde;&#x1ecb;"
+    "&rsquo;ayeci&ntilde;i", 
+    "&rsquo;ayeci&ntilde;&#x1ecb;", 
+    "ayeci&ntilde;&#x1ecb;"
   ], 
   [
     "&rsquo;ahatiniqqi", 
@@ -246,7 +274,7 @@
     "&rsquo;aheci&ntilde;iqqi", 
     "&rsquo;aheci&ntilde;iq", 
     "&rsquo;hec&#x1ecb;&ntilde;iq", 
-    "ec&#x1ecb;&ntilde;iq"
+    "hec&#x1ecb;&ntilde;iq"
   ], 
   [
     "-ahi", 
@@ -255,7 +283,8 @@
     "-e"
   ], 
   [
-    "&rsquo;i"
+    "&rsquo;i", 
+    "i"
   ], 
   [
     "&rsquo;i&rsquo;ami", 
@@ -267,7 +296,8 @@
   [
     "&rsquo;i&rsquo;isata", 
     "&rsquo;isata", 
-    "&rsquo;isat"
+    "&rsquo;isat", 
+    "isat"
   ], 
   [
     "&rsquo;i&rsquo;issi", 
@@ -284,13 +314,15 @@
   ], 
   [
     "&rsquo;ibibu", 
-    "&rsquo;&#x1ecb;bib&#x1ee5;"
+    "&rsquo;&#x1ecb;bib&#x1ee5;", 
+    "&#x1ecb;bib&#x1ee5;"
   ], 
   [
     "&rsquo;ita&rsquo;i", 
     "&rsquo;ite&rsquo;i", 
     "&rsquo;ite", 
-    "&rsquo;&#x1ecb;te"
+    "&rsquo;&#x1ecb;te", 
+    "&#x1ecb;te"
   ], 
   [
     "&rsquo;ita&rsquo;i&rsquo;assa", 
@@ -298,64 +330,74 @@
     "&rsquo;ite&rsquo;yassa", 
     "&rsquo;ite&rsquo;yasa", 
     "&rsquo;&#x1ecb;te&rsquo;yas", 
-    "&rsquo;&#x1ecb;teyas"
+    "&#x1ecb;teyas"
   ], 
   [
     "&rsquo;iti", 
     "&rsquo;ici", 
-    "&rsquo;ic&#x1ecb;"
+    "&rsquo;ic&#x1ecb;", 
+    "ic&#x1ecb;"
   ], 
   [
     "&rsquo;ittika", 
     "&rsquo;iddika", 
     "&rsquo;ijjika", 
     "&rsquo;ijka", 
-    "&rsquo;ica"
+    "igga"
   ], 
   [
     "&rsquo;itikku", 
     "&rsquo;itiggu", 
     "&rsquo;iciggu", 
     "&rsquo;icigu", 
-    "&rsquo;&#x1ecb;cig&#x1ee5;"
+    "&rsquo;&#x1ecb;cig&#x1ee5;", 
+    "&#x1ecb;cig&#x1ee5;"
   ], 
   [
     "&rsquo;idata", 
-    "&rsquo;&#x1ecb;dat"
+    "&rsquo;&#x1ecb;dat", 
+    "&#x1ecb;dat"
   ], 
   [
     "&rsquo;idajabi", 
     "&rsquo;idajebi", 
     "&rsquo;idjeb&#x1ecb;", 
-    "&rsquo;iddeb&#x1ecb;"
+    "ijjeb&#x1ecb;", 
+    "ijeb&#x1ecb;"
   ], 
   [
     "&rsquo;idu", 
-    "&rsquo;id&#x1ee5;"
+    "&rsquo;id&#x1ee5;", 
+    "id&#x1ee5;"
   ], 
   [
     "&rsquo;icipu", 
-    "&rsquo;&#x1ecb;cip&#x1ee5;"
+    "&rsquo;&#x1ecb;cip&#x1ee5;", 
+    "&#x1ecb;cip&#x1ee5;"
   ], 
   [
     "&rsquo;ikka", 
     "&rsquo;igga", 
     "&rsquo;iga", 
-    "&rsquo;ig"
+    "&rsquo;ig", 
+    "ig"
   ], 
   [
     "&rsquo;ikahu", 
     "&rsquo;ika&rsquo;u", 
     "&rsquo;ik&ouml;", 
-    "&rsquo;&#x1ecb;k&ouml;"
+    "&rsquo;&#x1ecb;k&ouml;", 
+    "&#x1ecb;k&ouml;"
   ], 
   [
     "&rsquo;iku", 
-    "&rsquo;ik&#x1ee5;"
+    "&rsquo;ik&#x1ee5;", 
+    "ik&#x1ee5;"
   ], 
   [
     "&rsquo;ima", 
-    "&rsquo;im"
+    "&rsquo;im", 
+    "im"
   ], 
   [
     "-ini", 
@@ -364,21 +406,25 @@
   ], 
   [
     "&rsquo;iqaca", 
-    "&rsquo;&#x1ecb;qac"
+    "&rsquo;&#x1ecb;qac", 
+    "&#x1ecb;qac"
   ], 
   [
     "&rsquo;ilagi", 
     "&rsquo;ilegi", 
-    "&rsquo;&#x1ecb;leg&#x1ecb;"
+    "&rsquo;&#x1ecb;leg&#x1ecb;", 
+    "&#x1ecb;leg&#x1ecb;"
   ], 
   [
     "&rsquo;ilasa", 
-    "&rsquo;&#x1ecb;las"
+    "&rsquo;&#x1ecb;las", 
+    "&#x1ecb;las"
   ], 
   [
     "&rsquo;ili", 
     "&rsquo;il&#x330;i", 
-    "&rsquo;il&#x330;&#x1ecb;"
+    "&rsquo;il&#x330;&#x1ecb;", 
+    "il&#x330;&#x1ecb;"
   ], 
   [
     "-ilu", 
@@ -386,7 +432,8 @@
   ], 
   [
     "&rsquo;ilu", 
-    "&rsquo;il&#x1ee5;"
+    "&rsquo;il&#x1ee5;", 
+    "il&#x1ee5;"
   ], 
   [
     "-illu", 
@@ -398,7 +445,8 @@
     "-&rsquo;illu", 
     "-&rsquo;il&#x330;l&#x330;u", 
     "-&rsquo;il&#x330;u", 
-    "-&rsquo;il&#x330;&#x1ee5;"
+    "-&rsquo;il&#x330;&#x1ee5;", 
+    "-il&#x330;&#x1ee5;"
   ], 
   [
     "&#x294;irri&rsquo;a", 
@@ -410,7 +458,8 @@
   [
     "&rsquo;iffa", 
     "&rsquo;ifa", 
-    "&rsquo;if"
+    "&rsquo;if", 
+    "if"
   ], 
   [
     "&rsquo;ifuhhanaku", 
@@ -418,92 +467,107 @@
     "&rsquo;ifoh&#x330;h&#x330;anaku", 
     "&rsquo;ifoh&#x330;anaku", 
     "&rsquo;&#x1ecb;foh&#x330;nak&#x1ee5;", 
-    "&rsquo;&#x1ecb;foh&#x330;&ntilde;ak&#x1ee5;"
+    "&#x1ecb;fonak&#x1ee5;"
   ], 
   [
     "&rsquo;isa", 
-    "&rsquo;is"
+    "&rsquo;is", 
+    "is"
   ], 
   [
     "&rsquo;issa", 
     "&rsquo;isa", 
-    "&rsquo;is"
+    "&rsquo;is", 
+    "is"
   ], 
   [
     "&rsquo;isaki", 
     "&rsquo;iseki", 
-    "&rsquo;&#x1ecb;sek&#x1ecb;"
+    "&rsquo;&#x1ecb;sek&#x1ecb;", 
+    "&#x1ecb;sek&#x1ecb;"
   ], 
   [
     "&rsquo;issi", 
     "&rsquo;ixxi", 
-    "&rsquo;ix"
+    "&rsquo;ix", 
+    "ix"
   ], 
   [
     "&rsquo;isinna", 
     "&rsquo;isi&ntilde;&ntilde;a", 
     "&rsquo;ixi&ntilde;&ntilde;a", 
     "&rsquo;ixi&ntilde;a", 
-    "&rsquo;&#x1ecb;xi&ntilde;"
+    "&rsquo;&#x1ecb;xi&ntilde;", 
+    "&#x1ecb;xi&ntilde;"
   ], 
   [
     "&rsquo;isilaku", 
     "&rsquo;ixilaku", 
-    "&rsquo;ix&#x1ecb;lak&#x1ee5;"
+    "&rsquo;ix&#x1ecb;lak&#x1ee5;", 
+    "ix&#x1ecb;lak&#x1ee5;"
   ], 
   [
     "&rsquo;isilakuniqqi", 
     "&rsquo;isilak&uuml;niqqi", 
     "&rsquo;ixilak&uuml;&ntilde;iqqi", 
     "&rsquo;ixilak&uuml;&ntilde;iq", 
-    "&rsquo;ix&#x1ecb;lak&uuml;&#x323;&ntilde;iq"
+    "&rsquo;ix&#x1ecb;lak&uuml;&#x323;&ntilde;iq", 
+    "ix&#x1ecb;lak&uuml;&#x323;&ntilde;iq"
   ], 
   [
     "&rsquo;isili", 
     "&rsquo;ixil&#x330;i", 
-    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;"
+    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;", 
+    "&#x1ecb;xil&#x330;&#x1ecb;"
   ], 
   [
     "&rsquo;isilitu&rsquo;i", 
     "&rsquo;isilit&uuml;&rsquo;i", 
     "&rsquo;ixil&#x330;it&uuml;&rsquo;i", 
     "&rsquo;ixil&#x330;it&uuml;", 
-    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;t&uuml;"
+    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;t&uuml;", 
+    "&#x1ecb;xil&#x330;&#x1ecb;t&uuml;"
   ], 
   [
     "&rsquo;isilida", 
     "&rsquo;ixil&#x330;ida", 
-    "&rsquo;ix&#x1ecb;l&#x330;id"
+    "&rsquo;ix&#x1ecb;l&#x330;id", 
+    "ix&#x1ecb;l&#x330;id"
   ], 
   [
     "&rsquo;issu", 
     "&rsquo;isu", 
-    "&rsquo;is&#x1ee5;"
+    "&rsquo;is&#x1ee5;", 
+    "is&#x1ee5;"
   ], 
   [
     "&rsquo;ixxa", 
     "&rsquo;ixa", 
-    "&rsquo;ix"
+    "&rsquo;ix", 
+    "ix"
   ], 
   [
     "&rsquo;ixxa&rsquo;i", 
     "&rsquo;ixxe&rsquo;i", 
     "&rsquo;ixe&rsquo;i", 
     "&rsquo;ix&rsquo;i", 
-    "&rsquo;ixi"
+    "ixi"
   ], 
   [
     "&rsquo;ihafi", 
     "&rsquo;ihefi", 
-    "&rsquo;&#x1ecb;hef&#x1ecb;"
+    "&rsquo;&#x1ecb;hef&#x1ecb;", 
+    "&#x1ecb;hef&#x1ecb;"
   ], 
   [
     "&rsquo;ihucu", 
-    "&rsquo;&#x1ecb;huc&#x1ee5;"
+    "&rsquo;&#x1ecb;huc&#x1ee5;", 
+    "&#x1ecb;huc&#x1ee5;"
   ], 
   [
     "&rsquo;u&rsquo;a", 
-    "&rsquo;u"
+    "&rsquo;u", 
+    "u"
   ], 
   [
     "&rsquo;u&rsquo;ili", 
@@ -517,14 +581,15 @@
     "&rsquo;udi", 
     "&rsquo;&uuml;di", 
     "&rsquo;&uuml;ji", 
-    "&rsquo;&uuml;j&#x1ecb;"
+    "&rsquo;&uuml;j&#x1ecb;", 
+    "&uuml;j&#x1ecb;"
   ], 
   [
     "&rsquo;uccadama", 
     "&rsquo;ujjadama", 
     "&rsquo;ujadama", 
     "&rsquo;ujdam", 
-    "&rsquo;ujam"
+    "uddam"
   ], 
   [
     "-uju", 
@@ -534,11 +599,13 @@
     "&rsquo;umi", 
     "&rsquo;omi", 
     "&rsquo;&ouml;mi", 
-    "&rsquo;&ouml;m&#x1ecb;"
+    "&rsquo;&ouml;m&#x1ecb;", 
+    "&ouml;m&#x1ecb;"
   ], 
   [
     "&rsquo;ulanu", 
-    "&rsquo;&#x1ee5;lan&#x1ee5;"
+    "&rsquo;&#x1ee5;lan&#x1ee5;", 
+    "&#x1ee5;lan&#x1ee5;"
   ], 
   [
     "-ulu", 
@@ -546,24 +613,27 @@
   ], 
   [
     "&rsquo;usa", 
-    "&rsquo;us"
+    "&rsquo;us", 
+    "us"
   ], 
   [
     "&rsquo;ussa", 
     "&rsquo;usa", 
-    "&rsquo;us"
+    "&rsquo;us", 
+    "us"
   ], 
   [
     "&rsquo;usapacca", 
     "&rsquo;usapajja", 
     "&rsquo;usapaja", 
-    "&rsquo;uspaj"
+    "&rsquo;uspaj", 
+    "uspaj"
   ], 
   [
     "&rsquo;ussaba", 
     "&rsquo;usaba", 
     "&rsquo;usba", 
-    "&rsquo;uzba"
+    "usba"
   ], 
   [
     "&rsquo;usatinna", 
@@ -572,47 +642,53 @@
     "&rsquo;useci&ntilde;&ntilde;a", 
     "&rsquo;useci&ntilde;a", 
     "&rsquo;usci&ntilde;", 
-    "&rsquo;uci&ntilde;"
+    "uci&ntilde;"
   ], 
   [
     "&rsquo;usadajabi", 
     "&rsquo;usadajebi", 
     "&rsquo;&#x1ee5;sadjeb&#x1ecb;", 
-    "&rsquo;&#x1ee5;saddeb&#x1ecb;"
+    "&#x1ee5;sajjeb&#x1ecb;", 
+    "&#x1ee5;sajeb&#x1ecb;"
   ], 
   [
     "&rsquo;usaju&rsquo;i", 
     "&rsquo;usaj&uuml;&rsquo;i", 
     "&rsquo;usaj&uuml;", 
     "&rsquo;usj&uuml;", 
-    "&rsquo;uj&uuml;"
+    "uj&uuml;"
   ], 
   [
     "&rsquo;usi", 
     "&rsquo;&uuml;si", 
     "&rsquo;&uuml;xi", 
-    "&rsquo;&uuml;x&#x1ecb;"
+    "&rsquo;&uuml;x&#x1ecb;", 
+    "&uuml;x&#x1ecb;"
   ], 
   [
     "&rsquo;ussi", 
     "&rsquo;&uuml;ssi", 
     "&rsquo;&uuml;xxi", 
-    "&rsquo;&uuml;x"
+    "&rsquo;&uuml;x", 
+    "&uuml;x"
   ], 
   [
     "&rsquo;usu", 
-    "&rsquo;us&#x1ee5;"
+    "&rsquo;us&#x1ee5;", 
+    "us&#x1ee5;"
   ], 
   [
     "&rsquo;uxxi", 
     "&rsquo;&uuml;xxi", 
-    "&rsquo;&uuml;x"
+    "&rsquo;&uuml;x", 
+    "&uuml;x"
   ], 
   [
     "&rsquo;uhu", 
     "&rsquo;ohu", 
     "&rsquo;o&rsquo;u", 
-    "&rsquo;o"
+    "&rsquo;o", 
+    "o"
   ], 
   [
     "pa"
@@ -625,17 +701,17 @@
   ], 
   [
     "pa&rsquo;a", 
-    "pa"
+    "paya"
   ], 
   [
     "pa&rsquo;aka", 
-    "p&rsquo;ak", 
-    "pak"
+    "payaka", 
+    "pyak"
   ], 
   [
     "pa&rsquo;usa", 
-    "p&rsquo;us", 
-    "pus"
+    "payusa", 
+    "pyus"
   ], 
   [
     "papa", 
@@ -663,8 +739,8 @@
     "pejissu", 
     "pejisu", 
     "pjis&#x1ee5;", 
-    "bbis&#x1ee5;", 
-    "bis&#x1ee5;"
+    "jjis&#x1ee5;", 
+    "jis&#x1ee5;"
   ], 
   [
     "pacca", 
@@ -675,13 +751,13 @@
   [
     "pacadu", 
     "pcad&#x1ee5;", 
-    "ppad&#x1ee5;", 
-    "pad&#x1ee5;"
+    "ccad&#x1ee5;", 
+    "cad&#x1ee5;"
   ], 
   [
     "pajagaru", 
     "pajgar&#x1ee5;", 
-    "pajar&#x1ee5;"
+    "paggar&#x1ee5;"
   ], 
   [
     "paji", 
@@ -692,15 +768,15 @@
     "pajiga", 
     "pejiga", 
     "pjig", 
-    "bbig", 
-    "big"
+    "jjig", 
+    "jig"
   ], 
   [
     "pakicu", 
     "pekicu", 
     "pkic&#x1ee5;", 
-    "ppic&#x1ee5;", 
-    "pic&#x1ee5;"
+    "kkic&#x1ee5;", 
+    "kic&#x1ee5;"
   ], 
   [
     "pagi", 
@@ -715,8 +791,8 @@
     "paguqa", 
     "pagoqa", 
     "pgoq", 
-    "bboq", 
-    "boq"
+    "ggoq", 
+    "goq"
   ], 
   [
     "pamana", 
@@ -753,7 +829,8 @@
     "pa&ntilde;&ntilde;axa&rsquo;&uuml;xxi", 
     "pa&ntilde;&ntilde;axa&rsquo;&uuml;x", 
     "pa&ntilde;axa&rsquo;&uuml;x", 
-    "pa&ntilde;xa&rsquo;&uuml;x"
+    "pa&ntilde;xa&rsquo;&uuml;x", 
+    "pa&ntilde;xa&uuml;x"
   ], 
   [
     "pani", 
@@ -769,8 +846,7 @@
     "palinu", 
     "pelinu", 
     "pel&#x330;inu", 
-    "pl&#x330;in&#x1ee5;", 
-    "plin&#x1ee5;"
+    "pl&#x330;in&#x1ee5;"
   ], 
   [
     "paraba", 
@@ -963,7 +1039,8 @@
     "batari", 
     "bateri", 
     "bter&#x1ecb;", 
-    "pter&#x1ecb;"
+    "dder&#x1ecb;", 
+    "der&#x1ecb;"
   ], 
   [
     "batu", 
@@ -972,7 +1049,8 @@
   [
     "batuja", 
     "btuj", 
-    "ptuj"
+    "dduj", 
+    "duj"
   ], 
   [
     "bada", 
@@ -983,8 +1061,8 @@
     "bediri", 
     "bejiri", 
     "bjir&#x1ecb;", 
-    "bbir&#x1ecb;", 
-    "bir&#x1ecb;"
+    "jjir&#x1ecb;", 
+    "jir&#x1ecb;"
   ], 
   [
     "baca", 
@@ -999,8 +1077,8 @@
     "bajokunobi", 
     "bajokun&ouml;bi", 
     "bjok&#x1ee5;n&ouml;b&#x1ecb;", 
-    "bbok&#x1ee5;n&ouml;b&#x1ecb;", 
-    "bok&#x1ee5;n&ouml;b&#x1ecb;"
+    "jjok&#x1ee5;n&ouml;b&#x1ecb;", 
+    "jok&#x1ee5;n&ouml;b&#x1ecb;"
   ], 
   [
     "banara", 
@@ -1083,7 +1161,7 @@
     "bujjata", 
     "bujata", 
     "bujta", 
-    "buca"
+    "budda"
   ], 
   [
     "buma", 
@@ -1218,14 +1296,14 @@
   [
     "tacala", 
     "tcal", 
-    "ttal", 
-    "tal"
+    "ccal", 
+    "cal"
   ], 
   [
     "tacuca", 
     "tcuc", 
-    "ttuc", 
-    "tuc"
+    "ccuc", 
+    "cuc"
   ], 
   [
     "tajihu", 
@@ -1233,8 +1311,8 @@
     "teji&rsquo;u", 
     "teji", 
     "tji", 
-    "ddi", 
-    "di"
+    "jji", 
+    "ji"
   ], 
   [
     "taka", 
@@ -1243,8 +1321,8 @@
   [
     "takaru", 
     "tkar&#x1ee5;", 
-    "ttar&#x1ee5;", 
-    "tar&#x1ee5;"
+    "kkar&#x1ee5;", 
+    "kar&#x1ee5;"
   ], 
   [
     "takki", 
@@ -1296,8 +1374,7 @@
     "talida", 
     "telida", 
     "tel&#x330;ida", 
-    "tl&#x330;id", 
-    "tlid"
+    "tl&#x330;id"
   ], 
   [
     "tara", 
@@ -1498,13 +1575,15 @@
     "tujeci&rsquo;u", 
     "tujeci", 
     "tujci", 
-    "tuci"
+    "tujji", 
+    "tuji"
   ], 
   [
     "tujadajabi", 
     "tujadajebi", 
     "t&#x1ee5;jadjeb&#x1ecb;", 
-    "t&#x1ee5;jaddeb&#x1ecb;"
+    "t&#x1ee5;jajjeb&#x1ecb;", 
+    "t&#x1ee5;jajeb&#x1ecb;"
   ], 
   [
     "tujaramirra", 
@@ -1586,7 +1665,7 @@
     "toh&#x330;h&#x330;isa", 
     "t&ouml;h&#x330;h&#x330;isa", 
     "t&ouml;h&#x330;sa", 
-    "t&ouml;h&#x330;xa"
+    "t&ouml;sa"
   ], 
   [
     "tinalli", 
@@ -1611,8 +1690,8 @@
   ], 
   [
     "da&rsquo;aru", 
-    "d&rsquo;ar&#x1ee5;", 
-    "dar&#x1ee5;"
+    "dayaru", 
+    "dyar&#x1ee5;"
   ], 
   [
     "da&rsquo;u", 
@@ -1656,14 +1735,14 @@
   [
     "dacataca", 
     "dactac", 
-    "dacac"
+    "dattac"
   ], 
   [
     "dajabi", 
     "dajebi", 
     "djeb&#x1ecb;", 
-    "ddeb&#x1ecb;", 
-    "deb&#x1ecb;"
+    "jjeb&#x1ecb;", 
+    "jeb&#x1ecb;"
   ], 
   [
     "dajju", 
@@ -1685,7 +1764,8 @@
     "dalliji", 
     "dal&#x330;l&#x330;iji", 
     "del&#x330;l&#x330;iji", 
-    "del&#x330;ji"
+    "del&#x330;ji", 
+    "delji"
   ], 
   [
     "dara", 
@@ -1724,8 +1804,7 @@
   ], 
   [
     "dasada", 
-    "dsad", 
-    "dzad"
+    "dsad"
   ], 
   [
     "dasi", 
@@ -1864,7 +1943,8 @@
     "disi&ntilde;&ntilde;amoka", 
     "jixi&ntilde;&ntilde;amoka", 
     "jixi&ntilde;amoka", 
-    "j&#x1ecb;xi&ntilde;mok"
+    "j&#x1ecb;xi&ntilde;mok", 
+    "j&#x1ecb;ximmok"
   ], 
   [
     "disiqa", 
@@ -1915,7 +1995,8 @@
     "jissomel&#x330;l&#x330;iju", 
     "jissomel&#x330;ju", 
     "jisomel&#x330;ju", 
-    "jis&#x1ecd;mel&#x330;ju"
+    "jis&#x1ecd;mel&#x330;ju", 
+    "jis&#x1ecd;melju"
   ], 
   [
     "dissumici", 
@@ -2051,13 +2132,14 @@
   ], 
   [
     "ca&rsquo;a", 
-    "ca"
+    "caya"
   ], 
   [
     "ca&rsquo;alla", 
     "ca&rsquo;al&#x330;l&#x330;a", 
-    "ca&rsquo;al&#x330;a", 
-    "c&rsquo;al&#x330;", 
+    "cayal&#x330;l&#x330;a", 
+    "cayal&#x330;a", 
+    "cyal&#x330;", 
     "cal&#x330;"
   ], 
   [
@@ -2076,7 +2158,8 @@
     "capo&rsquo;a", 
     "capo", 
     "cpo", 
-    "co"
+    "ppo", 
+    "po"
   ], 
   [
     "caba", 
@@ -2088,7 +2171,8 @@
     "cabe&rsquo;i", 
     "cabe", 
     "cbe", 
-    "je"
+    "bbe", 
+    "be"
   ], 
   [
     "cadi", 
@@ -2100,13 +2184,15 @@
     "cakassu", 
     "cakasu", 
     "ckas&#x1ee5;", 
-    "cas&#x1ee5;"
+    "kkas&#x1ee5;", 
+    "kas&#x1ee5;"
   ], 
   [
     "cakina", 
     "cekina", 
     "ckin", 
-    "cin"
+    "kkin", 
+    "kin"
   ], 
   [
     "caga", 
@@ -2120,7 +2206,7 @@
     "canari", 
     "caneri", 
     "cner&#x1ecb;", 
-    "jer&#x1ecb;"
+    "j&ntilde;er&#x1ecb;"
   ], 
   [
     "cani", 
@@ -2131,7 +2217,7 @@
   [
     "caqara", 
     "cqar", 
-    "jar"
+    "j&ntilde;ar"
   ], 
   [
     "calu", 
@@ -2227,8 +2313,8 @@
   ], 
   [
     "cura&rsquo;a", 
-    "cura", 
-    "c&#x1ee5;ra"
+    "curaya", 
+    "c&#x1ee5;raya"
   ], 
   [
     "curri", 
@@ -2252,8 +2338,7 @@
     "c&uuml;xxi&rsquo;ala", 
     "c&uuml;xxyala", 
     "c&uuml;xyala", 
-    "c&uuml;xyal", 
-    "c&uuml;xal"
+    "c&uuml;xyal"
   ], 
   [
     "cussidicci", 
@@ -2275,8 +2360,8 @@
   ], 
   [
     "japa&rsquo;ala", 
-    "jap&rsquo;al", 
-    "japal"
+    "japayala", 
+    "japyal"
   ], 
   [
     "japu", 
@@ -2297,7 +2382,8 @@
   [
     "jagaru", 
     "jgar&#x1ee5;", 
-    "jar&#x1ee5;"
+    "ggar&#x1ee5;", 
+    "gar&#x1ee5;"
   ], 
   [
     "jama", 
@@ -2309,7 +2395,7 @@
     "jame&rsquo;i", 
     "jame", 
     "jme", 
-    "je"
+    "j&ntilde;e"
   ], 
   [
     "jami", 
@@ -2334,7 +2420,7 @@
     "je&ntilde;&ntilde;y&uuml;&rsquo;il&#x330;i", 
     "je&ntilde;y&uuml;&rsquo;il&#x330;i", 
     "je&ntilde;y&uuml;&rsquo;il&#x330;&#x1ecb;", 
-    "je&ntilde;&uuml;&rsquo;il&#x330;&#x1ecb;"
+    "je&ntilde;&uuml;il&#x330;&#x1ecb;"
   ], 
   [
     "jannibitta", 
@@ -2342,7 +2428,8 @@
     "je&ntilde;&ntilde;ibidda", 
     "je&ntilde;bidda", 
     "je&ntilde;bida", 
-    "je&ntilde;bid"
+    "je&ntilde;bid", 
+    "jembid"
   ], 
   [
     "jannidifi", 
@@ -2363,7 +2450,8 @@
     "ja&ntilde;&ntilde;igata", 
     "je&ntilde;&ntilde;igata", 
     "je&ntilde;gata", 
-    "je&ntilde;gat"
+    "je&ntilde;gat", 
+    "jeqgat"
   ], 
   [
     "jannimufa", 
@@ -2371,7 +2459,8 @@
     "ja&ntilde;&ntilde;imofa", 
     "je&ntilde;&ntilde;imofa", 
     "je&ntilde;mofa", 
-    "je&ntilde;mof"
+    "je&ntilde;mof", 
+    "jemmof"
   ], 
   [
     "jann&middot;nika", 
@@ -2403,7 +2492,7 @@
   [
     "jaha", 
     "ja&rsquo;a", 
-    "ja"
+    "jaya"
   ], 
   [
     "ji"
@@ -2491,8 +2580,7 @@
     "julliga", 
     "jul&#x330;l&#x330;iga", 
     "j&uuml;l&#x330;l&#x330;iga", 
-    "j&uuml;l&#x330;ga", 
-    "j&uuml;lga"
+    "j&uuml;l&#x330;ga"
   ], 
   [
     "juffila", 
@@ -2561,16 +2649,16 @@
     "keci&ntilde;&ntilde;a", 
     "keci&ntilde;a", 
     "kci&ntilde;", 
-    "kki&ntilde;", 
-    "ki&ntilde;"
+    "cci&ntilde;", 
+    "ci&ntilde;"
   ], 
   [
     "katiru", 
     "ketiru", 
     "keciru", 
     "kcir&#x1ee5;", 
-    "kkir&#x1ee5;", 
-    "kir&#x1ee5;"
+    "ccir&#x1ee5;", 
+    "cir&#x1ee5;"
   ], 
   [
     "kadu", 
@@ -2581,8 +2669,8 @@
     "kad&uuml;si", 
     "kad&uuml;xi", 
     "kd&uuml;x&#x1ecb;", 
-    "gg&uuml;x&#x1ecb;", 
-    "g&uuml;x&#x1ecb;"
+    "dd&uuml;x&#x1ecb;", 
+    "d&uuml;x&#x1ecb;"
   ], 
   [
     "kaca", 
@@ -2623,8 +2711,7 @@
     "kalisa", 
     "kelisa", 
     "kel&#x330;isa", 
-    "kl&#x330;is", 
-    "klis"
+    "kl&#x330;is"
   ], 
   [
     "kalu", 
@@ -2944,15 +3031,15 @@
     "gaje&ntilde;&ntilde;ida", 
     "gaje&ntilde;da", 
     "gje&ntilde;da", 
-    "gge&ntilde;da", 
-    "ge&ntilde;da"
+    "jjenda", 
+    "jenda"
   ], 
   [
     "gajita", 
     "gejita", 
     "gjit", 
-    "ggit", 
-    "git"
+    "jjit", 
+    "jit"
   ], 
   [
     "gakka", 
@@ -2980,8 +3067,7 @@
   [
     "gaxiki", 
     "gexiki", 
-    "gxik&#x1ecb;", 
-    "g&#x17e;ik&#x1ecb;"
+    "gxik&#x1ecb;"
   ], 
   [
     "gi"
@@ -3051,7 +3137,7 @@
     "g&ouml;qpul&#x330;l&#x330;ata", 
     "g&ouml;qpul&#x330;ata", 
     "g&ouml;qpul&#x330;ta", 
-    "g&ouml;qpulta"
+    "g&ouml;mpulta"
   ], 
   [
     "guli", 
@@ -3144,6 +3230,8 @@
     "metirra", 
     "mecirra", 
     "mecira", 
+    "mcir", 
+    "&ntilde;cir", 
     "mcir"
   ], 
   [
@@ -3160,6 +3248,8 @@
     "madusi", 
     "mad&uuml;si", 
     "mad&uuml;xi", 
+    "md&uuml;x&#x1ecb;", 
+    "nd&uuml;x&#x1ecb;", 
     "md&uuml;x&#x1ecb;"
   ], 
   [
@@ -3206,7 +3296,8 @@
     "malliju", 
     "mal&#x330;l&#x330;iju", 
     "mel&#x330;l&#x330;iju", 
-    "mel&#x330;ju"
+    "mel&#x330;ju", 
+    "melju"
   ], 
   [
     "malu", 
@@ -3270,7 +3361,7 @@
   [
     "maha", 
     "ma&rsquo;a", 
-    "ma"
+    "maya"
   ], 
   [
     "mi"
@@ -3486,7 +3577,7 @@
   ], 
   [
     "na&rsquo;a", 
-    "na"
+    "naya"
   ], 
   [
     "na&rsquo;ipa", 
@@ -3536,11 +3627,13 @@
   [
     "nakaku", 
     "nkak&#x1ee5;", 
+    "qkak&#x1ee5;", 
     "mkak&#x1ee5;"
   ], 
   [
     "nakalu", 
     "nkal&#x1ee5;", 
+    "qkal&#x1ee5;", 
     "mkal&#x1ee5;"
   ], 
   [
@@ -3551,6 +3644,7 @@
     "nagari", 
     "nageri", 
     "nger&#x1ecb;", 
+    "qger&#x1ecb;", 
     "mger&#x1ecb;"
   ], 
   [
@@ -3569,6 +3663,7 @@
   [
     "naqanaludu", 
     "nqanlud&#x1ee5;", 
+    "qqanlud&#x1ee5;", 
     "mqanlud&#x1ee5;"
   ], 
   [
@@ -3902,8 +3997,9 @@
   [
     "qacca&rsquo;a", 
     "qajja&rsquo;a", 
-    "qaja&rsquo;a", 
-    "qaj&rsquo;a", 
+    "qajjaya", 
+    "qajaya", 
+    "qajya", 
     "qaja"
   ], 
   [
@@ -3975,7 +4071,8 @@
     "qimal&#x330;l&#x330;iju", 
     "qimel&#x330;l&#x330;iju", 
     "qimel&#x330;ju", 
-    "q&#x1ecb;mel&#x330;ju"
+    "q&#x1ecb;mel&#x330;ju", 
+    "q&#x1ecb;melju"
   ], 
   [
     "qilaru", 
@@ -4063,7 +4160,7 @@
   ], 
   [
     "la&rsquo;a", 
-    "la"
+    "laya"
   ], 
   [
     "la&rsquo;i", 
@@ -4115,7 +4212,8 @@
     "lannaga", 
     "la&ntilde;&ntilde;aga", 
     "la&ntilde;aga", 
-    "la&ntilde;ga"
+    "la&ntilde;ga", 
+    "laqga"
   ], 
   [
     "lanaru", 
@@ -4178,8 +4276,7 @@
     "lasida", 
     "lesida", 
     "lexida", 
-    "lxid", 
-    "l&#x330;xid"
+    "lxid"
   ], 
   [
     "lasu", 
@@ -4358,8 +4455,8 @@
   ], 
   [
     "ra&rsquo;aru", 
-    "r&rsquo;ar&#x1ee5;", 
-    "rar&#x1ee5;"
+    "rayaru", 
+    "ryar&#x1ee5;"
   ], 
   [
     "ra&#x294;asa", 
@@ -4412,8 +4509,8 @@
   [
     "ramaha", 
     "rama&rsquo;a", 
-    "rama", 
-    "rma"
+    "ramaya", 
+    "rmaya"
   ], 
   [
     "rami", 
@@ -4611,8 +4708,8 @@
   ], 
   [
     "fa&rsquo;aka", 
-    "f&rsquo;ak", 
-    "fak"
+    "fayaka", 
+    "fyak"
   ], 
   [
     "fa&#x294;afi", 
@@ -4655,7 +4752,8 @@
     "famati", 
     "fameti", 
     "fameci", 
-    "fmec&#x1ecb;"
+    "fmec&#x1ecb;", 
+    "fnec&#x1ecb;"
   ], 
   [
     "famu", 
@@ -4696,7 +4794,9 @@
   [
     "fasami", 
     "fasemi", 
-    "fsem&#x1ecb;"
+    "fsem&#x1ecb;", 
+    "ssem&#x1ecb;", 
+    "sem&#x1ecb;"
   ], 
   [
     "faxi", 
@@ -4823,7 +4923,7 @@
     "sabbagu", 
     "sabagu", 
     "sabgu", 
-    "sabbu"
+    "saggu"
   ], 
   [
     "sabba", 
@@ -4840,8 +4940,7 @@
     "sabufi", 
     "sabofi", 
     "sab&ouml;fi", 
-    "sb&ouml;f&#x1ecb;", 
-    "zb&ouml;f&#x1ecb;"
+    "sb&ouml;f&#x1ecb;"
   ], 
   [
     "sata", 
@@ -4863,8 +4962,7 @@
   ], 
   [
     "sadadu", 
-    "sdad&#x1ee5;", 
-    "zdad&#x1ee5;"
+    "sdad&#x1ee5;"
   ], 
   [
     "saddisi", 
@@ -4872,7 +4970,7 @@
     "se&eth;&eth;isi", 
     "se&eth;&eth;ixi", 
     "se&eth;xi", 
-    "se&thorn;xi"
+    "se&eth;&eth;i"
   ], 
   [
     "sacu", 
@@ -4948,7 +5046,7 @@
     "seniki", 
     "se&ntilde;iki", 
     "s&ntilde;ik&#x1ecb;", 
-    "x&ntilde;ik&#x1ecb;"
+    "snik&#x1ecb;"
   ], 
   [
     "saqa", 
@@ -4976,8 +5074,7 @@
     "salilu", 
     "selilu", 
     "sel&#x330;ilu", 
-    "sl&#x330;il&#x1ee5;", 
-    "xl&#x330;il&#x1ee5;"
+    "sl&#x330;il&#x1ee5;"
   ], 
   [
     "salumi", 
@@ -5034,8 +5131,7 @@
     "si&rsquo;apa", 
     "xi&rsquo;apa", 
     "xyapa", 
-    "xyap", 
-    "xap"
+    "xyap"
   ], 
   [
     "si&rsquo;abassa", 
@@ -5282,7 +5378,7 @@
   ], 
   [
     "xa&rsquo;a", 
-    "xa"
+    "xaya"
   ], 
   [
     "xa&#x294;a", 
@@ -5330,7 +5426,7 @@
     "xanaki", 
     "xaneki", 
     "xnek&#x1ecb;", 
-    "snek&#x1ecb;"
+    "x&ntilde;ek&#x1ecb;"
   ], 
   [
     "xani", 
@@ -5363,7 +5459,7 @@
   [
     "xaha", 
     "xa&rsquo;a", 
-    "xa"
+    "xaya"
   ], 
   [
     "xi"
@@ -5565,7 +5661,8 @@
     "hannaku", 
     "ha&ntilde;&ntilde;aku", 
     "ha&ntilde;aku", 
-    "ha&ntilde;ku"
+    "ha&ntilde;ku", 
+    "haqku"
   ], 
   [
     "halu", 
@@ -5594,7 +5691,8 @@
     "hessifula", 
     "hexxifula", 
     "hexfula", 
-    "hexful"
+    "hexful", 
+    "hefful"
   ], 
   [
     "hasuki", 
@@ -5671,7 +5769,8 @@
     "hisubajana", 
     "hisobajana", 
     "h&#x1ecb;sobjan", 
-    "h&#x1ecb;sobban"
+    "h&#x1ecb;sojjan", 
+    "h&#x1ecb;sojan"
   ], 
   [
     "hisutu", 
@@ -5711,7 +5810,8 @@
     "hul&#x330;l&#x330;esisa", 
     "hul&#x330;l&#x330;exisa", 
     "hul&#x330;exisa", 
-    "hul&#x330;xis"
+    "hul&#x330;xis", 
+    "hulxis"
   ], 
   [
     "hulu", 
