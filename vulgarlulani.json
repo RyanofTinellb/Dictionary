@@ -265,8 +265,8 @@
     "&rsquo;aheci&ntilde;i", 
     "&rsquo;a&rsquo;eci&ntilde;i", 
     "&rsquo;ayeci&ntilde;i", 
-    "&rsquo;ayeci&ntilde;&#x1ecb;", 
-    "ayeci&ntilde;&#x1ecb;"
+    "&rsquo;ayci&ntilde;&#x1ecb;", 
+    "ayci&ntilde;&#x1ecb;"
   ], 
   [
     "&rsquo;ahatiniqqi", 
@@ -453,7 +453,8 @@
     "yyirri&rsquo;a", 
     "yrri&rsquo;a", 
     "yri&rsquo;a", 
-    "yri"
+    "yriya", 
+    "yriy"
   ], 
   [
     "&rsquo;iffa", 
@@ -524,9 +525,9 @@
     "&rsquo;isilitu&rsquo;i", 
     "&rsquo;isilit&uuml;&rsquo;i", 
     "&rsquo;ixil&#x330;it&uuml;&rsquo;i", 
-    "&rsquo;ixil&#x330;it&uuml;", 
-    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;t&uuml;", 
-    "&#x1ecb;xil&#x330;&#x1ecb;t&uuml;"
+    "&rsquo;ixil&#x330;it&uuml;wi", 
+    "&rsquo;&#x1ecb;xil&#x330;&#x1ecb;t&uuml;w&#x1ecb;", 
+    "&#x1ecb;xil&#x330;&#x1ecb;t&uuml;w&#x1ecb;"
   ], 
   [
     "&rsquo;isilida", 
@@ -654,9 +655,9 @@
   [
     "&rsquo;usaju&rsquo;i", 
     "&rsquo;usaj&uuml;&rsquo;i", 
-    "&rsquo;usaj&uuml;", 
-    "&rsquo;usj&uuml;", 
-    "uj&uuml;"
+    "&rsquo;usaj&uuml;wi", 
+    "&rsquo;usj&uuml;w&#x1ecb;", 
+    "uj&uuml;w&#x1ecb;"
   ], 
   [
     "&rsquo;usi", 
@@ -701,7 +702,9 @@
   ], 
   [
     "pa&rsquo;a", 
-    "paya"
+    "paya", 
+    "pay", 
+    "pai"
   ], 
   [
     "pa&rsquo;aka", 
@@ -920,7 +923,8 @@
   [
     "piha", 
     "pi&rsquo;a", 
-    "pi"
+    "piya", 
+    "piy"
   ], 
   [
     "pihaba", 
@@ -929,7 +933,8 @@
   [
     "pihasu&rsquo;a", 
     "pi&rsquo;asu&rsquo;a", 
-    "pisu"
+    "piyasu", 
+    "piysu"
   ], 
   [
     "-pu&rsquo;a", 
@@ -938,7 +943,8 @@
   [
     "pu&rsquo;i", 
     "p&uuml;&rsquo;i", 
-    "p&uuml;"
+    "p&uuml;wi", 
+    "p&uuml;w&#x1ecb;"
   ], 
   [
     "pu&rsquo;iba", 
@@ -1115,7 +1121,8 @@
   ], 
   [
     "bi&rsquo;u", 
-    "bi"
+    "biyu", 
+    "biy&#x1ee5;"
   ], 
   [
     "bi&rsquo;u&rsquo;iku", 
@@ -1247,7 +1254,8 @@
   [
     "ta&rsquo;itu&rsquo;i", 
     "te&rsquo;it&uuml;&rsquo;i", 
-    "tet&uuml;"
+    "tet&uuml;wi", 
+    "tet&uuml;w&#x1ecb;"
   ], 
   [
     "ta&rsquo;ida", 
@@ -1309,10 +1317,10 @@
     "tajihu", 
     "tejihu", 
     "teji&rsquo;u", 
-    "teji", 
-    "tji", 
-    "jji", 
-    "ji"
+    "tejiyu", 
+    "tjiy&#x1ee5;", 
+    "jjiy&#x1ee5;", 
+    "jiy&#x1ee5;"
   ], 
   [
     "taka", 
@@ -1409,7 +1417,8 @@
   [
     "ti&rsquo;a", 
     "ci&rsquo;a", 
-    "ci"
+    "ciya", 
+    "ciy"
   ], 
   [
     "ti&rsquo;ici", 
@@ -1511,13 +1520,15 @@
     "tiha", 
     "ciha", 
     "ci&rsquo;a", 
-    "ci"
+    "ciya", 
+    "ciy"
   ], 
   [
     "tihu", 
     "cihu", 
     "ci&rsquo;u", 
-    "ci"
+    "ciyu", 
+    "ciy&#x1ee5;"
   ], 
   [
     "tihura", 
@@ -1535,7 +1546,8 @@
   [
     "-tu&rsquo;i", 
     "-t&uuml;&rsquo;i", 
-    "-t&uuml;"
+    "-t&uuml;wi", 
+    "-t&uuml;w&#x1ecb;"
   ], 
   [
     "tu&rsquo;uci", 
@@ -1573,10 +1585,10 @@
     "tujetihu", 
     "tujecihu", 
     "tujeci&rsquo;u", 
-    "tujeci", 
-    "tujci", 
-    "tujji", 
-    "tuji"
+    "tujeciyu", 
+    "tujciy&#x1ee5;", 
+    "tujjiy&#x1ee5;", 
+    "tujiy&#x1ee5;"
   ], 
   [
     "tujadajabi", 
@@ -1601,8 +1613,8 @@
     "tokiha", 
     "t&ouml;kiha", 
     "t&ouml;ki&rsquo;a", 
-    "t&ouml;ki", 
-    "t&ouml;&#x323;ki"
+    "t&ouml;kiya", 
+    "t&ouml;&#x323;kiy"
   ], 
   [
     "tukkuni", 
@@ -1643,7 +1655,8 @@
     "tohi", 
     "t&ouml;hi", 
     "t&ouml;&rsquo;i", 
-    "t&ouml;"
+    "t&ouml;wi", 
+    "t&ouml;w&#x1ecb;"
   ], 
   [
     "tuhhi", 
@@ -1657,7 +1670,8 @@
     "tohinohu", 
     "t&ouml;hinohu", 
     "t&ouml;&rsquo;ino&rsquo;u", 
-    "t&ouml;no"
+    "t&ouml;wino", 
+    "t&ouml;w&#x1ecb;no"
   ], 
   [
     "tuhhisa", 
@@ -1778,8 +1792,8 @@
   [
     "daru&rsquo;i", 
     "dar&uuml;&rsquo;i", 
-    "dar&uuml;", 
-    "dr&uuml;"
+    "dar&uuml;wi", 
+    "dr&uuml;w&#x1ecb;"
   ], 
   [
     "daruli", 
@@ -1799,8 +1813,8 @@
   [
     "dasatu&rsquo;i", 
     "dasat&uuml;&rsquo;i", 
-    "dasat&uuml;", 
-    "dast&uuml;"
+    "dasat&uuml;wi", 
+    "dast&uuml;w&#x1ecb;"
   ], 
   [
     "dasada", 
@@ -2049,7 +2063,8 @@
     "diha", 
     "jiha", 
     "ji&rsquo;a", 
-    "ji"
+    "jiya", 
+    "jiy"
   ], 
   [
     "dihha", 
@@ -2069,7 +2084,8 @@
   [
     "du&rsquo;i", 
     "d&uuml;&rsquo;i", 
-    "d&uuml;"
+    "d&uuml;wi", 
+    "d&uuml;w&#x1ecb;"
   ], 
   [
     "duci", 
@@ -2132,7 +2148,9 @@
   ], 
   [
     "ca&rsquo;a", 
-    "caya"
+    "caya", 
+    "cay", 
+    "cai"
   ], 
   [
     "ca&rsquo;alla", 
@@ -2301,7 +2319,8 @@
   [
     "cu&rsquo;i", 
     "c&uuml;&rsquo;i", 
-    "c&uuml;"
+    "c&uuml;wi", 
+    "c&uuml;w&#x1ecb;"
   ], 
   [
     "cula", 
@@ -2314,7 +2333,8 @@
   [
     "cura&rsquo;a", 
     "curaya", 
-    "c&#x1ee5;raya"
+    "c&#x1ee5;ray", 
+    "c&#x1ee5;rai"
   ], 
   [
     "curri", 
@@ -2338,7 +2358,8 @@
     "c&uuml;xxi&rsquo;ala", 
     "c&uuml;xxyala", 
     "c&uuml;xyala", 
-    "c&uuml;xyal"
+    "c&uuml;xyal", 
+    "c&uuml;xal"
   ], 
   [
     "cussidicci", 
@@ -2492,14 +2513,17 @@
   [
     "jaha", 
     "ja&rsquo;a", 
-    "jaya"
+    "jaya", 
+    "jay", 
+    "jai"
   ], 
   [
     "ji"
   ], 
   [
     "ji&rsquo;a", 
-    "ji"
+    "jiya", 
+    "jiy"
   ], 
   [
     "ji&rsquo;i", 
@@ -2524,16 +2548,16 @@
   [
     "jifiru&rsquo;i", 
     "jifir&uuml;&rsquo;i", 
-    "jifir&uuml;", 
-    "jif&#x1ecb;r&uuml;"
+    "jifir&uuml;wi", 
+    "jif&#x1ecb;r&uuml;w&#x1ecb;"
   ], 
   [
     "jifiru&rsquo;inulli", 
     "jifiru&rsquo;inul&#x330;l&#x330;i", 
     "jifir&uuml;&rsquo;in&uuml;l&#x330;l&#x330;i", 
     "jifir&uuml;&rsquo;in&uuml;l&#x330;", 
-    "jifir&uuml;n&uuml;l&#x330;", 
-    "jif&#x1ecb;r&uuml;n&uuml;l&#x330;"
+    "jifir&uuml;win&uuml;l&#x330;", 
+    "jif&#x1ecb;r&uuml;w&#x1ecb;n&uuml;l&#x330;"
   ], 
   [
     "jisuka", 
@@ -2547,19 +2571,21 @@
   [
     "ju&rsquo;i", 
     "j&uuml;&rsquo;i", 
-    "j&uuml;"
+    "j&uuml;wi", 
+    "j&uuml;w&#x1ecb;"
   ], 
   [
     "ju&rsquo;ipu&rsquo;a", 
     "j&uuml;&rsquo;ipu&rsquo;a", 
-    "j&uuml;pu"
+    "j&uuml;wipu", 
+    "j&uuml;w&#x1ecb;pu"
   ], 
   [
     "ju&rsquo;iduku", 
     "ju&rsquo;idoku", 
     "j&uuml;&rsquo;idoku", 
-    "j&uuml;doku", 
-    "j&uuml;dok&#x1ee5;"
+    "j&uuml;widoku", 
+    "j&uuml;w&#x1ecb;dok&#x1ee5;"
   ], 
   [
     "ju&rsquo;isatadu", 
@@ -2846,8 +2872,8 @@
   [
     "kilatu&rsquo;i", 
     "kilat&uuml;&rsquo;i", 
-    "kilat&uuml;", 
-    "kilt&uuml;"
+    "kilat&uuml;wi", 
+    "kilt&uuml;w&#x1ecb;"
   ], 
   [
     "kiladi", 
@@ -2957,15 +2983,15 @@
     "kuli&rsquo;a", 
     "k&uuml;li&rsquo;a", 
     "k&uuml;l&#x330;i&rsquo;a", 
-    "k&uuml;l&#x330;i", 
-    "k&uuml;&#x323;l&#x330;i"
+    "k&uuml;l&#x330;iya", 
+    "k&uuml;&#x323;l&#x330;iy"
   ], 
   [
     "kuli&rsquo;anaci", 
     "k&uuml;li&rsquo;aneci", 
     "k&uuml;l&#x330;i&rsquo;aneci", 
-    "k&uuml;l&#x330;ineci", 
-    "k&uuml;&#x323;l&#x330;inec&#x1ecb;"
+    "k&uuml;l&#x330;iyaneci", 
+    "k&uuml;&#x323;l&#x330;iynec&#x1ecb;"
   ], 
   [
     "kulu", 
@@ -3074,7 +3100,8 @@
   ], 
   [
     "gi&rsquo;a", 
-    "gi"
+    "giya", 
+    "giy"
   ], 
   [
     "gi&rsquo;i", 
@@ -3193,7 +3220,8 @@
     "gohi", 
     "g&ouml;hi", 
     "g&ouml;&rsquo;i", 
-    "g&ouml;"
+    "g&ouml;wi", 
+    "g&ouml;w&#x1ecb;"
   ], 
   [
     "ma"
@@ -3361,7 +3389,9 @@
   [
     "maha", 
     "ma&rsquo;a", 
-    "maya"
+    "maya", 
+    "may", 
+    "mai"
   ], 
   [
     "mi"
@@ -3421,8 +3451,8 @@
   [
     "mimu&rsquo;i", 
     "mim&uuml;&rsquo;i", 
-    "mim&uuml;", 
-    "m&#x1ecb;m&uuml;"
+    "mim&uuml;wi", 
+    "m&#x1ecb;m&uuml;w&#x1ecb;"
   ], 
   [
     "mina&#x294;i", 
@@ -3473,7 +3503,8 @@
   [
     "mihu", 
     "mi&rsquo;u", 
-    "mi"
+    "miyu", 
+    "miy&#x1ee5;"
   ], 
   [
     "mu"
@@ -3577,7 +3608,9 @@
   ], 
   [
     "na&rsquo;a", 
-    "naya"
+    "naya", 
+    "nay", 
+    "nai"
   ], 
   [
     "na&rsquo;ipa", 
@@ -3600,10 +3633,10 @@
     "netiha", 
     "neciha", 
     "neci&rsquo;a", 
-    "neci", 
-    "nci", 
-    "&ntilde;ci", 
-    "mci"
+    "neciya", 
+    "nciy", 
+    "&ntilde;ciy", 
+    "mciy"
   ], 
   [
     "natu", 
@@ -4015,8 +4048,8 @@
     "qarihu", 
     "qerihu", 
     "qeri&rsquo;u", 
-    "qeri", 
-    "qri"
+    "qeriyu", 
+    "qriy&#x1ee5;"
   ], 
   [
     "qafa", 
@@ -4042,8 +4075,8 @@
     "qi&rsquo;axasi", 
     "qi&rsquo;axesi", 
     "qi&rsquo;axexi", 
-    "qixexi", 
-    "qixex&#x1ecb;"
+    "qiyaxexi", 
+    "qiyxex&#x1ecb;"
   ], 
   [
     "qi&rsquo;iku", 
@@ -4160,7 +4193,9 @@
   ], 
   [
     "la&rsquo;a", 
-    "laya"
+    "laya", 
+    "lay", 
+    "lai"
   ], 
   [
     "la&rsquo;i", 
@@ -4295,7 +4330,8 @@
   [
     "li&rsquo;a", 
     "l&#x330;i&rsquo;a", 
-    "l&#x330;i"
+    "l&#x330;iya", 
+    "l&#x330;iy"
   ], 
   [
     "lidita", 
@@ -4371,17 +4407,20 @@
   [
     "lu&rsquo;i", 
     "l&uuml;&rsquo;i", 
-    "l&uuml;"
+    "l&uuml;wi", 
+    "l&uuml;w&#x1ecb;"
   ], 
   [
     "lu&rsquo;ipu&rsquo;a", 
     "l&uuml;&rsquo;ipu&rsquo;a", 
-    "l&uuml;pu"
+    "l&uuml;wipu", 
+    "l&uuml;w&#x1ecb;pu"
   ], 
   [
     "lu&rsquo;ica&rsquo;i", 
     "l&uuml;&rsquo;ice&rsquo;i", 
-    "l&uuml;ce"
+    "l&uuml;wice", 
+    "l&uuml;w&#x1ecb;ce"
   ], 
   [
     "lu&rsquo;iki", 
@@ -4393,8 +4432,8 @@
     "lu&rsquo;isamma", 
     "l&uuml;&rsquo;isamma", 
     "l&uuml;&rsquo;isama", 
-    "l&uuml;sama", 
-    "l&uuml;sam"
+    "l&uuml;wisama", 
+    "l&uuml;w&#x1ecb;sam"
   ], 
   [
     "luka", 
@@ -4510,7 +4549,8 @@
     "ramaha", 
     "rama&rsquo;a", 
     "ramaya", 
-    "rmaya"
+    "rmay", 
+    "rmai"
   ], 
   [
     "rami", 
@@ -4652,13 +4692,14 @@
     "r&uuml;&rsquo;iha", 
     "r&uuml;&rsquo;i&rsquo;a", 
     "rwi&rsquo;a", 
-    "rwi"
+    "rwiya", 
+    "rwiy"
   ], 
   [
     "ru&rsquo;ihaja", 
     "r&uuml;&rsquo;ihaja", 
-    "r&uuml;haja", 
-    "r&uuml;haj"
+    "r&uuml;wihaja", 
+    "r&uuml;w&#x1ecb;haj"
   ], 
   [
     "ruba", 
@@ -4857,7 +4898,8 @@
   [
     "fiha", 
     "fi&rsquo;a", 
-    "fi"
+    "fiya", 
+    "fiy"
   ], 
   [
     "fu"
@@ -5125,26 +5167,28 @@
   [
     "si&rsquo;a", 
     "xi&rsquo;a", 
-    "xi"
+    "xiya", 
+    "xiy"
   ], 
   [
     "si&rsquo;apa", 
     "xi&rsquo;apa", 
     "xyapa", 
-    "xyap"
+    "xyap", 
+    "xap"
   ], 
   [
     "si&rsquo;abassa", 
     "xi&rsquo;abassa", 
     "xi&rsquo;abasa", 
-    "xibasa", 
-    "xibas"
+    "xiyabasa", 
+    "xiybas"
   ], 
   [
     "si&rsquo;akalu", 
     "xi&rsquo;akalu", 
-    "xikalu", 
-    "xikal&#x1ee5;"
+    "xiyakalu", 
+    "xiykal&#x1ee5;"
   ], 
   [
     "-sippa", 
@@ -5342,9 +5386,9 @@
     "soqanetiha", 
     "soqaneciha", 
     "soqaneci&rsquo;a", 
-    "soqaneci", 
-    "s&#x1ecd;qanci", 
-    "s&#x1ecd;qa&ntilde;ci"
+    "soqaneciya", 
+    "s&#x1ecd;qanciy", 
+    "s&#x1ecd;qa&ntilde;ciy"
   ], 
   [
     "sula", 
@@ -5378,7 +5422,9 @@
   ], 
   [
     "xa&rsquo;a", 
-    "xaya"
+    "xaya", 
+    "xay", 
+    "xai"
   ], 
   [
     "xa&#x294;a", 
@@ -5459,7 +5505,9 @@
   [
     "xaha", 
     "xa&rsquo;a", 
-    "xaya"
+    "xaya", 
+    "xay", 
+    "xai"
   ], 
   [
     "xi"
@@ -5468,8 +5516,8 @@
     "xi&rsquo;axasi", 
     "xi&rsquo;axesi", 
     "xi&rsquo;axexi", 
-    "xixexi", 
-    "xixex&#x1ecb;"
+    "xiyaxexi", 
+    "xiyxex&#x1ecb;"
   ], 
   [
     "xipiki", 

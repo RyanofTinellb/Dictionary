@@ -4071,24 +4071,6 @@
   }, 
   {
     "p": [
-      "stem", 
-      "proper", 
-      "noun"
-    ], 
-    "l": "English", 
-    "m": "the name given to the multiverse", 
-    "t": "Tinellb", 
-    "d": [
-      "the", 
-      "name", 
-      "given", 
-      "to", 
-      "the", 
-      "multiverse"
-    ]
-  }, 
-  {
-    "p": [
       "inanimate", 
       "stem", 
       "noun"
@@ -4653,6 +4635,24 @@
     "d": [
       "en", 
       "Tinellb"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "the name given to the multiverse", 
+    "t": "Tinellb", 
+    "d": [
+      "the", 
+      "name", 
+      "given", 
+      "to", 
+      "the", 
+      "multiverse"
     ]
   }, 
   {

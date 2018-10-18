@@ -18,14 +18,22 @@ function display(arr, id) {
     let currCol = 15
     let disp = '<table><tr>';
     let expand = document.getElementById("expand");
-        for (entry of arr) {
-            if (++currCol == cols) {
-                disp += '</tr><tr>';
-                currCol = 0;
-                disp += `<td>${entry[0]}&nbsp;>&nbsp;${entry[entry.length - 1]}</td>\n`;
+    let verb = '';
+    let inflected = '';
+    for (entry of arr) {
+        if (++currCol == cols) {
+            disp += '</tr><tr>';
+            currCol = 0;
+            disp += `<td>${entry[0]}&nbsp;>&nbsp;${entry[entry.length - 1]}</td>\n`;
+            verb = entry[entry.length - 1];
+        } else {
+            inflected = entry[entry.length - 1];
+            if (inflected.search(verb) == 0) {
+                disp += `<td><strong>${entry[entry.length - 1]}<strong></td>\n`;
             } else {
                 disp += `<td>${entry[entry.length - 1]}</td>\n`;
             }
+        }
     }
     disp += '</tr></table>';
     document.getElementById(id).innerHTML = disp;
