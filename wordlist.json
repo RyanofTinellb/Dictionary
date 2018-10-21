@@ -2290,6 +2290,29 @@
   {
     "p": [
       "stem", 
+      "proper", 
+      "noun"
+    ], 
+    "l": "English", 
+    "m": "Toresh&rsquo;s father, in &ldquo;The Crackled Egg&rdquo;", 
+    "t": "Piado", 
+    "d": [
+      "Toresh", 
+      "rsquo", 
+      "s", 
+      "father", 
+      "in", 
+      "ldquo", 
+      "The", 
+      "Crackled", 
+      "Egg", 
+      "rdquo", 
+      ""
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
       "comparative", 
       "particle"
     ], 
@@ -4630,10 +4653,10 @@
       "noun"
     ], 
     "l": "High Lulani", 
-    "m": "<link>en:Tinellb</link>", 
+    "m": "<link>unknown:Tinellb</link>", 
     "t": "Tinalli", 
     "d": [
-      "en", 
+      "unknown", 
       "Tinellb"
     ]
   }, 
@@ -7755,6 +7778,18 @@
     "d": [
       "ablative", 
       "abl"
+    ]
+  }, 
+  {
+    "p": [
+      "stem", 
+      "noun"
+    ], 
+    "l": "Vulgar Lulani", 
+    "m": "flour", 
+    "t": "kar", 
+    "d": [
+      "flour"
     ]
   }, 
   {
@@ -11603,25 +11638,6 @@
     "d": [
       "Mala", 
       "Ptokonoi"
-    ]
-  }, 
-  {
-    "p": [
-      "stem", 
-      "personal", 
-      "pronoun"
-    ], 
-    "l": "High Lulani", 
-    "m": "third person inanimate genitive; <small-caps>3ina;gen</small-caps>; its", 
-    "t": "qa", 
-    "d": [
-      "third", 
-      "person", 
-      "inanimate", 
-      "genitive", 
-      "3ina", 
-      "gen", 
-      "its"
     ]
   }, 
   {

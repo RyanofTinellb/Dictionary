@@ -2,8 +2,10 @@
 </link><link> | </link>:<link> | <br>
 <ipa><a | [p | <br>
 href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
+href="http://grammar.tinellb.com/vulgarlulani/phonology.html"> | vl] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 </a></ipa> | [/p] | <br>
+</link><link> | </link>;<link> | <br>
 <div class="definition"> | {{ | <br>
 [d wordlist] | [[w | <br>
 [d folding] | [[f | <br>
@@ -22,6 +24,8 @@ href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 &#x2d0; | :: | <br> <!-- length mark -->
 &eth; | (d | <br>
 &#x259; | !e | <br> <!-- schwa -->
+&egrave; | )e | <br>
+&ecirc; | ()e | <br>
 &#x268; | =i | <br> <!-- barred i -->
 &#x14b; | ,g | <br> <!-- eng -->
 &#x2b0; | +h | <br> <!-- aspiration -->
@@ -35,6 +39,7 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &#x27d; | %r | <br> <!-- retroflex flap -->
 &#x255; | ,x | <br> <!-- curl-tailed c -->
 &uuml; | !u | <br>
+&ucirc; | ()u | <br>
 &#x289; | =u | <br> <!-- barred u -->
 &#x291; | ,z | <br> <!-- curl-tailed z -->
 &#x17e; | )(z | <br> <!-- z with hacek -->
@@ -43,4 +48,3 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &dquot; | "" | <br>
 &middot; | (.) | <br>
 &#xff5e; | ~ | <br>
-Fezhl&ecirc; | Fezhle | <br>

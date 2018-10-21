@@ -385,8 +385,9 @@
   [
     "&rsquo;ikahu", 
     "&rsquo;ika&rsquo;u", 
-    "&rsquo;ik&ouml;", 
-    "&rsquo;&#x1ecb;k&ouml;", 
+    "&rsquo;ik&uuml;", 
+    "&rsquo;&#x1ecb;k&uuml;", 
+    "&#x1ecb;k&uuml;", 
     "&#x1ecb;k&ouml;"
   ], 
   [
@@ -832,8 +833,8 @@
     "pa&ntilde;&ntilde;axa&rsquo;&uuml;xxi", 
     "pa&ntilde;&ntilde;axa&rsquo;&uuml;x", 
     "pa&ntilde;axa&rsquo;&uuml;x", 
-    "pa&ntilde;xa&rsquo;&uuml;x", 
-    "pa&ntilde;xa&uuml;x"
+    "pa&ntilde;ax&uuml;x", 
+    "pa&ntilde;x&uuml;x"
   ], 
   [
     "pani", 
@@ -1027,6 +1028,7 @@
   ], 
   [
     "ba&rsquo;u", 
+    "b&uuml;", 
     "b&ouml;"
   ], 
   [
@@ -1709,6 +1711,7 @@
   ], 
   [
     "da&rsquo;u", 
+    "d&uuml;", 
     "d&ouml;"
   ], 
   [
@@ -2440,8 +2443,9 @@
     "je&ntilde;&ntilde;i&rsquo;&uuml;&rsquo;il&#x330;i", 
     "je&ntilde;&ntilde;y&uuml;&rsquo;il&#x330;i", 
     "je&ntilde;y&uuml;&rsquo;il&#x330;i", 
-    "je&ntilde;y&uuml;&rsquo;il&#x330;&#x1ecb;", 
-    "je&ntilde;&uuml;il&#x330;&#x1ecb;"
+    "je&ntilde;y&uuml;wil&#x330;i", 
+    "je&ntilde;y&uuml;w&#x1ecb;l&#x330;&#x1ecb;", 
+    "je&ntilde;&uuml;w&#x1ecb;l&#x330;&#x1ecb;"
   ], 
   [
     "jannibitta", 
@@ -2652,6 +2656,7 @@
   ], 
   [
     "ka&rsquo;u", 
+    "k&uuml;", 
     "k&ouml;"
   ], 
   [
@@ -2810,6 +2815,7 @@
   [
     "kahu", 
     "ka&rsquo;u", 
+    "k&uuml;", 
     "k&ouml;"
   ], 
   [
@@ -3785,8 +3791,8 @@
     "nahusabi", 
     "nahusebi", 
     "na&rsquo;usebi", 
-    "n&ouml;sebi", 
-    "n&ouml;seb&#x1ecb;"
+    "n&uuml;sebi", 
+    "n&uuml;seb&#x1ecb;"
   ], 
   [
     "ni", 
@@ -4505,6 +4511,7 @@
   ], 
   [
     "ra&rsquo;u", 
+    "r&uuml;", 
     "r&ouml;"
   ], 
   [
