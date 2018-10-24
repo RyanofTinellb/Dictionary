@@ -1,6 +1,6 @@
 {
   "files": {
-    "searchjson": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
+    "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
     "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
     "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
   }, 
