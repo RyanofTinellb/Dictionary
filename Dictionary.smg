@@ -1,36 +1,32 @@
 {
-  "files": {
-    "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
-    "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt", 
-    "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
-  }, 
   "current": {
-    "position": "1.0", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
-    "fontsize": 18, 
+    "position": "1.0",
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd",
+    "fontsize": 18,
     "page": [
       ""
-    ], 
+    ],
     "language": "vl"
-  }, 
-  "random words": {
-    "geminate": 3, 
-    "number": 20
-  }, 
+  },
   "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
-    "name": "Dictionary"
-  }, 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary",
+    "name": "Dictionary",
+    "files": {
+      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json",
+      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt",
+      "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
+    }
+  },
   "links": [
     {
       "type": "InternalDictionary"
-    }, 
+    },
     {
-      "type": "ExternalGrammar", 
+      "type": "ExternalGrammar",
       "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
-    }, 
+    },
     {
-      "type": "Glossary", 
+      "type": "Glossary",
       "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
     }
   ]
