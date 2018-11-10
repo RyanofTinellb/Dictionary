@@ -13,7 +13,7 @@
     "name": "Dictionary",
     "files": {
       "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json",
-      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.txt",
+      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json",
       "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
     }
   },
