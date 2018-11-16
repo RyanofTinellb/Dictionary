@@ -2,43 +2,40 @@
 <html>
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="utf-8">
-  <title>
-    {title} - The Tinellbian Languages Dictionary
-  </title>
-  {stylesheet} {search-script}
-  <script src="../word_search.js" charset="utf-8"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>
+        {title} - The Tinellbian Languages Dictionary
+    </title>
+    {stylesheet} {search-script}
+    <script src="../word_search.js" charset="utf-8"></script>
 </head>
 
 <body>
-  <div class="flex">
-    <div class="nav-pane">
-      {elder-links}
-      <div class="javascript">
-        <div class="random">
-          <a href="../random_entry.html">Random Entry</a>
+    <div class="flex">
+        <div class="nav-pane">
+            {elder-links}
+            <div class="javascript">
+                <div class="random">
+                    <a href="../random_entry.html">Random Entry</a>
+                </div>
+            </div>
         </div>
-      </div>
+        <div class="content">
+            {title-heading}
+            {main-contents}
+            <div class="javascript">
+                <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+                <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+            </div>
+            {toc}
+            <br>
+            {copyright}
+        </div>
     </div>
-    <div class="content">
-      {content}
-      <div class="javascript">
-        <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
-        <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
-      </div>
-      <div class="toc">
-        {toc}
-      </div>
-      <br>
-      <div class="copyright">
-        {copyright}
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-    for (elt of document.getElementsByClassName('javascript')) {
-      elt.style.display = "block";
-    }
-  </script>
+    <script type="text/javascript">
+        for (elt of document.getElementsByClassName('javascript')) {
+            elt.style.display = "block";
+        }
+    </script>
 </body>

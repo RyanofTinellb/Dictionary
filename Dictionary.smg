@@ -1,32 +1,34 @@
 {
   "current": {
-    "position": "1.0",
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd",
-    "fontsize": 18,
+    "position": "1.0", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
+    "fontsize": 18, 
     "page": [
+      "$j", 
+      "jannidifi", 
       ""
-    ],
-    "language": "vl"
-  },
+    ], 
+    "language": "en: English"
+  }, 
   "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary",
-    "name": "Dictionary",
     "files": {
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json",
-      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json",
-      "template": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
-    }
-  },
+      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json", 
+      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
+      "template_file": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
+    }, 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+    "name": "Dictionary"
+  }, 
   "links": [
     {
       "type": "InternalDictionary"
-    },
+    }, 
     {
-      "type": "ExternalGrammar",
+      "type": "ExternalGrammar", 
       "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
-    },
+    }, 
     {
-      "type": "Glossary",
+      "type": "Glossary", 
       "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
     }
   ]
