@@ -61,9 +61,7 @@ body {
 }
 
 .content div.toc {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
+	columns: 4;
 	margin-top: 1em;
 }
 
@@ -182,6 +180,10 @@ h5 { /* subheadings */
 }
 
 @media screen and (max-width: 800px) {
+	.content div.toc {
+		columns: 2;
+	}
+
 	.content div.toc p {
 		width: 50%;
 	}
