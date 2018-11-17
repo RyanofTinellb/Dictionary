@@ -18,7 +18,7 @@
   "date": "2018-11-16", 
   "children": [
     {
-      "name": "$a", 
+      "name": "A", 
       "hyperlink": "a/index.html", 
       "text": [], 
       "flatname": {
@@ -993,7 +993,7 @@
       ]
     }, 
     {
-      "name": "$i", 
+      "name": "I", 
       "hyperlink": "i/index.html", 
       "text": [], 
       "flatname": {
@@ -1904,7 +1904,7 @@
       ]
     }, 
     {
-      "name": "$u", 
+      "name": "U", 
       "hyperlink": "u/index.html", 
       "text": [], 
       "flatname": {
@@ -2379,7 +2379,7 @@
       ]
     }, 
     {
-      "name": "$p", 
+      "name": "P", 
       "hyperlink": "p/index.html", 
       "text": [], 
       "flatname": {
@@ -3697,7 +3697,7 @@
       ]
     }, 
     {
-      "name": "$b", 
+      "name": "B", 
       "hyperlink": "b/index.html", 
       "text": [], 
       "flatname": {
@@ -4663,7 +4663,7 @@
       ]
     }, 
     {
-      "name": "$t", 
+      "name": "T", 
       "hyperlink": "t/index.html", 
       "text": [], 
       "flatname": {
@@ -6232,7 +6232,7 @@
       ]
     }, 
     {
-      "name": "$d", 
+      "name": "D", 
       "hyperlink": "d/index.html", 
       "text": [], 
       "flatname": {
@@ -7776,7 +7776,7 @@
       ]
     }, 
     {
-      "name": "$c", 
+      "name": "C", 
       "hyperlink": "c/index.html", 
       "text": [], 
       "flatname": {
@@ -8642,7 +8642,7 @@
       ]
     }, 
     {
-      "name": "$j", 
+      "name": "J", 
       "hyperlink": "j/index.html", 
       "text": [], 
       "flatname": {
@@ -9481,7 +9481,7 @@
       ]
     }, 
     {
-      "name": "$k", 
+      "name": "K", 
       "hyperlink": "k/index.html", 
       "text": [], 
       "flatname": {
@@ -11146,7 +11146,7 @@
       ]
     }, 
     {
-      "name": "$g", 
+      "name": "G", 
       "hyperlink": "g/index.html", 
       "text": [], 
       "flatname": {
@@ -11794,7 +11794,7 @@
       ]
     }, 
     {
-      "name": "$m", 
+      "name": "M", 
       "hyperlink": "m/index.html", 
       "text": [], 
       "flatname": {
@@ -13390,7 +13390,7 @@
       ]
     }, 
     {
-      "name": "$n", 
+      "name": "N", 
       "hyperlink": "n/index.html", 
       "text": [], 
       "flatname": {
@@ -14763,7 +14763,7 @@
       ]
     }, 
     {
-      "name": "$q", 
+      "name": "Q", 
       "hyperlink": "q/index.html", 
       "text": [], 
       "flatname": {
@@ -15620,7 +15620,7 @@
       ]
     }, 
     {
-      "name": "$l", 
+      "name": "L", 
       "hyperlink": "l/index.html", 
       "text": [], 
       "flatname": {
@@ -16713,7 +16713,7 @@
       ]
     }, 
     {
-      "name": "$r", 
+      "name": "R", 
       "hyperlink": "r/index.html", 
       "text": [], 
       "flatname": {
@@ -17831,7 +17831,7 @@
       ]
     }, 
     {
-      "name": "$f", 
+      "name": "F", 
       "hyperlink": "f/index.html", 
       "text": [], 
       "flatname": {
@@ -18698,7 +18698,7 @@
       ]
     }, 
     {
-      "name": "$s", 
+      "name": "S", 
       "hyperlink": "s/index.html", 
       "text": [], 
       "flatname": {
@@ -20612,7 +20612,7 @@
       ]
     }, 
     {
-      "name": "$x", 
+      "name": "X", 
       "hyperlink": "x/index.html", 
       "text": [], 
       "flatname": {
@@ -21428,7 +21428,7 @@
       ]
     }, 
     {
-      "name": "$h", 
+      "name": "H", 
       "hyperlink": "h/index.html", 
       "text": [], 
       "flatname": {

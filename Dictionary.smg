@@ -4,7 +4,7 @@
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
     "page": [
-      "$j", 
+      "J", 
       "jannidifi", 
       ""
     ], 
@@ -24,12 +24,12 @@
       "type": "InternalDictionary"
     }, 
     {
-      "type": "ExternalGrammar", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk", 
+      "type": "ExternalGrammar"
     }, 
     {
-      "type": "Glossary", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
+      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
+      "type": "Glossary"
     }
   ]
 }
