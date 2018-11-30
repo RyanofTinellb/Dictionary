@@ -1,5 +1,5 @@
-function vulgarlulani() {
-    var url = "vulgarlulani.json";
+function colloquiallulani() {
+    var url = "colloquiallulani.json";
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {

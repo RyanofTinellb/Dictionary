@@ -1,35 +1,27 @@
 {
   "current": {
-    "position": "1.0", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
-    "fontsize": 18, 
+    "position": "1.0",
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd",
+    "fontsize": 18,
     "page": [
-      "I", 
-      "&rsquo;ixxa&rsquo;i", 
+      "I",
+      "&rsquo;ixxa&rsquo;i",
       ""
-    ], 
+    ],
     "language": "en: English"
-  }, 
+  },
   "site": {
     "files": {
-      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json", 
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
+      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json",
+      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json",
       "template_file": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
-    }, 
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+    },
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary",
     "name": "Dictionary"
-  }, 
-  "links": [
-    {
-      "type": "InternalDictionary"
-    }, 
-    {
-      "type": "ExternalGrammar", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
-    }, 
-    {
-      "type": "Glossary", 
-      "resource": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
-    }
-  ]
+  },
+  "links": {
+    "InternalDictionary": null,
+    "ExternalGrammar": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk",
+    "Glossary": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls"
+  }
 }
