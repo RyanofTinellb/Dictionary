@@ -178,35 +178,50 @@ function markdown(arr) {
     return terms;
 }
 
+function titleSearch(arr, terms) {
+    names = arr.names.map((elt, i) => ({
+        name: elt,
+        url: arr.urls[i]
+    })).filter(name => markdown(terms)[0] == name.name.toLowerCase())
+    console.table(names);
+    text = '<ul>';
+    for (let name of names) {
+        text += "<li><a href=\"" + name.url + "\">" + name.name + "</a></li>"
+    }
+    return text + '</ul>';
+}
+
 // displays results as list
 // @param Array arr: results array
 function display(arr, data, id, terms) {
+    text = titleSearch(data, terms);
+    console.log(text);
     terms = markdown(terms);
     if (!arr.length) {
-        document.getElementById(id).innerHTML = terms.join(' ') + " not found";
-        return;
-    }
-    var text = "<ol>"
-    for (var pagenum in arr) {
-        var page = arr[pagenum];
-        var link = data.urls[page[0]];
-        var name = data.names[page[0]];
-        var lines = new Array;
-        for (linenum in page[1]) {
-            var line = data.sentences[page[1][linenum]];
-            for (termnum in terms) {
-                var term = terms[termnum];
-                var replacement = "<strong>" + term + "</strong>"
-                line = line.split(term).join(replacement);
-                term = capitalise(term);
-                replacement = "<strong>" + term + "</strong>"
-                line = line.split(term).join(replacement);
+        text += terms.join(' ') + " not found";
+    } else {
+        text += "<ol>";
+        for (var pagenum in arr) {
+            var page = arr[pagenum];
+            var link = data.urls[page[0]];
+            var name = data.names[page[0]];
+            var lines = new Array;
+            for (linenum in page[1]) {
+                var line = data.sentences[page[1][linenum]];
+                for (termnum in terms) {
+                    var term = terms[termnum];
+                    var replacement = "<strong>" + term + "</strong>"
+                    line = line.split(term).join(replacement);
+                    term = capitalise(term);
+                    replacement = "<strong>" + term + "</strong>"
+                    line = line.split(term).join(replacement);
+                }
+                lines.push(line);
             }
-            lines.push(line);
+            text += "<li><a href=\"" + link + "\">" + name + "</a>: "
+            text += lines.join(" &hellip; ") + "</li>"
         }
-        text += "<li><a href=\"" + link + "\">" + name + "</a>: "
-        text += lines.join(" &hellip; ") + "</li>"
+        text += "</ol>";
     }
-    text += "</ol>";
     document.getElementById(id).innerHTML = text;
 }

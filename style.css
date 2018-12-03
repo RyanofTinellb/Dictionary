@@ -175,7 +175,7 @@ h5 { /* subheadings */
 		font-weight: normal;
 }
 
-.content .results ol {
+.content .results ol, .content .results ul {
 	margin-left: 0;
 }
 
