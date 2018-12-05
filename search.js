@@ -69,9 +69,6 @@ function getTerms() {
     return text.split("+").filter(i => i != "");
 }
 
-// builds array of results containing any search term
-// @param arr: raw json array (usually from file)
-// @param String[] terms: search terms
 function orSearch(arr, terms) {
     var output = new Array;
     for (t in terms) {
@@ -94,24 +91,16 @@ function orSearch(arr, terms) {
     return output;
 }
 
-// builds array of results containing all search terms
 function andSearch(arr, terms) {
-    var output = new Array;
     num = terms.length - 1;
-    for (t in terms) {
-        var term = terms[t];
-        results = oneTermSearch(arr, term);
-        for (r in results) {
-            output.push(results[r])
-        }
-    }
+    let output = [].concat(...terms.map(term => oneTermSearch(arr, term)));
     output.sort((a, b) => parseInt(a[0]) >= parseInt(b[0]))
     for (var i = num; i < output.length; i++) {
         if (output[i][0] == output[i - num][0]) {
             for (j = i - num; j < i; j++) {
                 output[i][1] = output[i][1].concat(output[j][1]);
             }
-            output[i][1] = output[i][1].sort((a, b) => a >= b).
+            output[i][1].sort((a, b) => a >= b).
             filter((item, pos, ary) => !pos || item != ary[pos - 1]);
         }
     }
@@ -141,7 +130,7 @@ function capitalise(string) {
     }
 }
 
-function markdown(arr) {
+function markdown(terms) {
     const MARKING = [
         ")a", "&agrave;",
         "()e", "&ecirc;",
@@ -167,36 +156,29 @@ function markdown(arr) {
         "_u", "&#x16b;",
         ".", "&middot;"
     ]
-    var terms = new Array;
-    for (termnum in arr) {
-        var term = arr[termnum];
+    return terms.map(term => {
         for (i = 0; i < MARKING.length; i++) {
             term = term.split(MARKING[i]).join(MARKING[++i]);
         }
-        terms.push(term);
-    }
-    return terms;
+        return term;
+    });
 }
 
 function titleSearch(arr, terms) {
     names = arr.names.map((elt, i) => ({
         name: elt,
         url: arr.urls[i]
-    })).filter(name => markdown(terms)[0] == name.name.toLowerCase())
-    console.table(names);
-    text = '<ul>';
-    for (let name of names) {
-        text += "<li><a href=\"" + name.url + "\">" + name.name + "</a></li>"
-    }
-    return text + '</ul>';
+    })).filter(name => terms[0] == name.name.toLowerCase());
+    return `<div class="title-results"><ul>${names.map(
+        name => `<a href="${name.url}">${name.name}</a></li>`
+    )}</ul></div>`;
 }
 
 // displays results as list
 // @param Array arr: results array
 function display(arr, data, id, terms) {
-    text = titleSearch(data, terms);
-    console.log(text);
     terms = markdown(terms);
+    text = titleSearch(data, terms);
     if (!arr.length) {
         text += terms.join(' ') + " not found";
     } else {

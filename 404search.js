@@ -214,10 +214,23 @@ function markdown(arr) {
     return terms;
 }
 
+function titleSearch(arr, terms) {
+    names = arr.names.map((elt, i) => ({
+        name: elt,
+        url: arr.urls[i]
+    })).filter(name => terms[0] == name.name.toLowerCase())
+    text = '<ul>';
+    for (let name of names) {
+        text += "<li><a href=\"" + name.url + "\">" + name.name + "</a></li>"
+    }
+    return text + '</ul>';
+}
+
 // displays results as list
 // @param Array arr: results array
 function display(arr, data, id, terms) {
   terms = markdown(terms);
+  text = titleSearch(data, terms);
   if (arr.length == 0) {
     document.getElementById(id).innerHTML = "<ul><li>" + terms.join(" ") + " not found</li></ul>";
     return;
