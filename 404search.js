@@ -166,6 +166,7 @@ function markdown(terms) {
 }
 
 function titleSearch(arr, terms, andButton) {
+    console.log(terms);
     let names = arr.names.map((elt, i) => ({
         name: elt,
         url: arr.urls[i],
