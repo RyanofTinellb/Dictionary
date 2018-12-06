@@ -1,4 +1,4 @@
-  search(window.location.href.indexOf("?") != -1);
+  search(window.location.href.indexOf("?") == -1);
 
 function search(fromFourOhFour) {
     document.getElementById("results").innerHTML = "Searching...";
