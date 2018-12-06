@@ -31,7 +31,7 @@ function getTermfrom404() {
   try {
     term = term.split(".html")[0];
   } catch (err) {}
-  return term
+  return [term];
 }
 
 function getTerms() {
