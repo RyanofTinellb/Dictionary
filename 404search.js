@@ -89,6 +89,7 @@ function uniquePageNumbers(pages) {
 }
 
 function multiTermSearch(arr, terms, andButton) {
+    console.log(terms);
     let pages = [].concat(...terms.map(term => oneTermSearch(arr, term)));
     pages.sort((a, b) => a.page - b.page);
     let output = [];
