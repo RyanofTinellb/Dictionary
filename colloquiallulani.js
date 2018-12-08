@@ -11,20 +11,19 @@ function colloquiallulani() {
     xmlhttp.send();
 }
 
-// displays results as list
-// @param Array arr: results array
 function display(arr, id) {
-    let disp = '<ol>';
-    let expand = document.getElementById("expand");
-    if (expand.checked) {
-        for (entry of arr) {
-            disp += `<li>${entry.join(' > ')}</li>\n`;
-        }
-    } else {
-        for (entry of arr) {
-            disp += `<li>${entry[0]} > ${entry[entry.length - 1]}</li>\n`;
-        }
-    }
-    disp += '</ol>';
-    document.getElementById(id).innerHTML = disp;
+    let expand = document.getElementById("expand").checked;
+    document.getElementById(id).innerHTML = `<ol>${
+        (expand ? joinedList : firstToLast)(arr)
+    }</ol>`;
+}
+
+function joinedList(arr) {
+    return arr.map(entry => `<li>${entry.join(' > ')}</li>`).join('\n');
+}
+
+function firstToLast(arr) {
+    return arr.map(entry =>
+        `<li>${entry[entry.length - 1]} &lt; ${entry[0]}</li>\n`
+    ).join('\n');
 }

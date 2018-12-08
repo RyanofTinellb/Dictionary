@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "cl: Colloquial Lulani"
+    "language": "en: English"
   }, 
   "site": {
     "files": {
@@ -21,13 +21,11 @@
   }, 
   "history": [
     [
-      "likka"
+      "water"
     ], 
+    [], 
     [
       "musa"
-    ], 
-    [
-      "nuru"
     ]
   ]
 }

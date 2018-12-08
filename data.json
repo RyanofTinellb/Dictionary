@@ -1,5 +1,5 @@
 {
-    "date": "2018-11-16", 
+    "name": "Dictionary", 
     "text": [
         "1]About\n", 
         "d introduction]\nThis dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.\n", 
@@ -14,7 +14,8 @@
         "score": 0, 
         "name": "dictionary"
     }, 
-    "name": "Dictionary", 
+    "date": "2018-11-16", 
+    "position": "1.0", 
     "children": [
         {
             "date": "2018-10-21", 
@@ -11198,7 +11199,7 @@
             ]
         }, 
         {
-            "date": "2018-12-04", 
+            "date": "2018-12-09", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -12625,7 +12626,7 @@
                     "name": "mufa"
                 }, 
                 {
-                    "date": "2018-12-04", 
+                    "date": "2018-12-09", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>Us</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;mus.&#x259;/</a></ipa></div>\n", 
@@ -13890,7 +13891,8 @@
                         "score": 0, 
                         "name": "nuru"
                     }, 
-                    "name": "nuru"
+                    "name": "nuru", 
+                    "position": "4.6"
                 }, 
                 {
                     "date": "2018-04-03", 
