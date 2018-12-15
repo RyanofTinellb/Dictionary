@@ -1,27 +1,20 @@
-if (window.location.href.indexOf("?") != -1) {
+if (window.location.href.indexOf('?') != -1) {
     adv_search();
 }
 
 const MARKDOWN = {
-    "&rsquo;": "'",
-    "&#x294;": "''",
-    "&uuml;": "!u"
+    '&rsquo;': "'",
+    '&#x294;': "",
+    '&uuml;': '!u'
 };
 
-function adv_search() {
-    document.getElementById("results").innerHTML = "Searching...";
-    var url = "wordlist.json";
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            var text = JSON.parse(this.responseText);
-            var terms = getTerms();
-            place(terms);
-            display(filterArray(text, terms), "results");
-        }
-    };
-    xmlhttp.open("GET", url, true);
-    xmlhttp.send();
+async function adv_search() {
+    document.getElementById('results').innerHTML = 'Searching...';
+    let data = await fetch('wordlist.json');
+    data = await data.json();
+    let terms = getTerms();
+    place(terms)
+    display(filterArray(data, terms), 'results', 'results');
 }
 
 function filterArray(entries, terms) {
@@ -29,37 +22,33 @@ function filterArray(entries, terms) {
         entry =>
             entry.l.includes(terms.lang) &&
             entry.t.includes(terms.entry) &&
-            (terms.npos == "" || includesNone(entry.p, terms.npos)) &&
-            (terms.def == "" || includesAll(entry.d, terms.def)) &&
-            (terms.pos == "" || includesAll(entry.p, terms.pos))
+            (terms.npos == '' || includesNone(entry.p, terms.npos)) &&
+            (terms.def == '' || includesAll(entry.d, terms.def)) &&
+            (terms.pos == '' || includesAll(entry.p, terms.pos))
     );
 }
 
 function includesAll(entry, terms) {
-    return terms.split("+").map(pos => entry.includes(pos))
-                           .reduce((acc, curr) => acc && curr);
+    return terms.split('+').every(term => entry.includes(term));
 }
 
 function includesNone(entry, terms) {
-    return !(terms.split("+").map(npos => entry.includes(npos))
-                             .reduce((acc, curr) => acc || curr));
+    return !(terms.split('+').some(term => entry.includes(term)));
 }
 
-// places terms into textboxes
 function place(queries) {
-    for (const query in queries) {
-        const term = queries[query].replace(/\+/g, " ");
-        if (term != "") {
+    queries.forEach(query => {
+        const term = queries[query].replace(/\+/g, ' ');
+        if (term != '') {
             document.getElementById(query).value = term;
         }
-    }
+    });
 }
 
-// returns array of terms
 function getTerms() {
     let arr = {};
-    for (const elt of window.location.href.split("?")[1].split("&")) {
-        query = elt.split("=");
+    for (const elt of window.location.href.split('?')[1].split('&')) {
+        query = elt.split('=');
         arr[query[0]] = removeTrailingPlus(query[1]);
     }
     return arr;
@@ -69,26 +58,24 @@ function removeTrailingPlus(string) {
     return string.slice(-1) == '+' ? string.slice(0, -1) : string;
 }
 
-// displays results as list
-// @param Array arr: results array
 function display(entries, id) {
     if (entries.length == 0) {
-        document.getElementById(id).innerHTML = "<br>No matching entries found";
+        document.getElementById(id).innerHTML = '<br>No matching entries found';
         return;
     }
     document.getElementById(id).innerHTML =
-        `<ol>${entries.map(createLine).join("")}</ol>`;
+        `<ol>${entries.map(createLine).join('')}</ol>`;
 }
 
 function createLine(entry) {
-    return `<li><a href="${createUrl(entry.t)}">${entry.t}</a> `
+    return `<li><a href='${createUrl(entry.t)}'>${entry.t}</a> `
         + `(${entry.l}) `
-        + `<em>${entry.p.join(" ")}</em> `
+        + `<em>${entry.p.join(' ')}</em> `
         + `<strong>${entry.m}</strong></li>`;
 }
 
 function findInitial(text) {
-    return text.replace(/&.*?;/g, "").charAt(0).toLowerCase();
+    return text.replace(/&.*?;/g, '').charAt(0).toLowerCase();
 }
 
 function createUrl(text) {
