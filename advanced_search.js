@@ -2,9 +2,11 @@ if (window.location.href.indexOf('?') != -1) {
     adv_search();
 }
 
+const QUERY = window.location.href.split('?')[1];
+
 const MARKDOWN = {
     '&rsquo;': "'",
-    '&#x294;': "",
+    '&#x294;': "''",
     '&uuml;': '!u'
 };
 
@@ -37,17 +39,17 @@ function includesNone(entry, terms) {
 }
 
 function place(queries) {
-    queries.forEach(query => {
+    for (query in queries) {
         const term = queries[query].replace(/\+/g, ' ');
         if (term != '') {
             document.getElementById(query).value = term;
         }
-    });
+    };
 }
 
 function getTerms() {
     let arr = {};
-    for (const elt of window.location.href.split('?')[1].split('&')) {
+    for (const elt of QUERY.split('&')) {
         query = elt.split('=');
         arr[query[0]] = removeTrailingPlus(query[1]);
     }

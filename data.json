@@ -12721,7 +12721,7 @@
             ]
         }, 
         {
-            "date": "2018-12-06", 
+            "date": "2018-12-17", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -12935,10 +12935,10 @@
                     "name": "naci"
                 }, 
                 {
-                    "date": "2018-04-03", 
+                    "date": "2018-12-17", 
                     "text": [
                         "1]High Lulani\n", 
-                        "2]<high-lulani>nk&gt;</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;n&#x259;&#x2c8;k&#x2b0;ak&#x2b0;.&#x289;/</a></ipa></div>\n", 
+                        "2]<high-lulani>nk&gt;</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/n&#x259;&#x2c8;k&#x2b0;ak&#x2b0;.&#x289;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/elements.html\">element</a> <div class=\"definition\">meitnerium</div>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
@@ -12951,7 +12951,8 @@
                         "score": 0, 
                         "name": "nakaku"
                     }, 
-                    "name": "nakaku"
+                    "name": "nakaku", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-03", 
@@ -12965,7 +12966,8 @@
                         "score": 0, 
                         "name": "nakalu"
                     }, 
-                    "name": "nakalu"
+                    "name": "nakalu", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-12", 
@@ -13190,7 +13192,8 @@
                         "score": 0, 
                         "name": "naludu"
                     }, 
-                    "name": "naludu"
+                    "name": "naludu", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-12", 
@@ -17765,7 +17768,7 @@
             ]
         }, 
         {
-            "date": "2018-09-30", 
+            "date": "2018-12-19", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -18196,7 +18199,7 @@
                     "name": "sajimu"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-19", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>sK</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;sak&#x2b0;.&#x268;/</a></ipa></div>\n", 
@@ -18210,8 +18213,8 @@
                         "d folding]\n", 
                         "f]<strong>Sahha saki kifi &rsquo;anu guhi.</strong>\n", 
                         "e]<high-lulani>.s;h / sK / KF / aI / &lt;H.</high-lulani>\n", 
-                        "e]<a href=\"../s/sa-.html#highlulani\">Sa-</a><a href=\"../h/-hha.html#highlulani\">-hha</a> <strong>saki</strong> <a href=\"../k/kifi.html#highlulani\">kifi</a> <a href=\"../a/'anu.html#highlulani\">&rsquo;anu</a> <a href=\"../g/guhi.html#highlulani\">guhi</a>.\n", 
-                        "e]O<em>ne-zero divide three equal five.</em>\n", 
+                        "e]<a href=\"../s/sahha.html#highlulani\">sahha</a> <strong>saki</strong> <a href=\"../k/kifi.html#highlulani\">kifi</a> <a href=\"../a/'anu.html#highlulani\">&rsquo;anu</a> <a href=\"../g/guhi.html#highlulani\">guhi</a>.\n", 
+                        "e]<em>one_zero divide three equal five.</em>\n", 
                         "e]&ldquo;Fifteen divided by three is five.&rdquo;", 
                         "/d]\n", 
                         "4]See Also\n", 
