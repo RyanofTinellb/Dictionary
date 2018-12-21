@@ -2861,7 +2861,7 @@
             "stem", 
             "noun"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "puppy", 
         "t": "bad", 
         "d": [
@@ -3181,7 +3181,7 @@
             "indefinite", 
             "noun"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "everything", 
         "t": "biri", 
         "d": [
@@ -7782,7 +7782,7 @@
             "stem", 
             "noun"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "flour", 
         "t": "kar", 
         "d": [
@@ -8219,10 +8219,12 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "king; first lady; first lord; vice-president", 
+        "m": "king; prince consort; first lady; first lord; vice-president", 
         "t": "kimilli", 
         "d": [
             "king", 
+            "prince", 
+            "consort", 
             "first", 
             "lady", 
             "first", 
@@ -10537,7 +10539,7 @@
             "stem", 
             "verb"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "to obtain", 
         "t": "mrexi", 
         "d": [
@@ -13117,12 +13119,13 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "queen; monarch; ruler; president", 
+        "m": "monarch; ruler; queen; king; president", 
         "t": "lulani", 
         "d": [
-            "queen", 
             "monarch", 
             "ruler", 
+            "queen", 
+            "king", 
             "president"
         ]
     }, 
@@ -13133,7 +13136,7 @@
             "noun"
         ], 
         "l": "English", 
-        "m": "either of the languages High Lulani or Colloquial Lulani", 
+        "m": "either of the languages High Lulani or Demotic Lulani", 
         "t": "Lulani", 
         "d": [
             "either", 
@@ -13143,7 +13146,7 @@
             "High", 
             "Lulani", 
             "or", 
-            "Colloquial", 
+            "Demotic", 
             "Lulani"
         ]
     }, 
@@ -16194,7 +16197,7 @@
         "p": [
             "adjective"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "shy", 
         "t": "sb&uuml;fi", 
         "d": [
@@ -16207,7 +16210,7 @@
             "noun", 
             "element"
         ], 
-        "l": "Colloquial Lulani", 
+        "l": "Demotic Lulani", 
         "m": "lanthanum", 
         "t": "sneki", 
         "d": [

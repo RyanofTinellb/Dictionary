@@ -8089,12 +8089,6 @@
             "726": [
                 7647
             ], 
-            "833": [
-                8810
-            ], 
-            "527": [
-                5636
-            ], 
             "226": [
                 2771, 
                 2772
@@ -8105,6 +8099,9 @@
             "248": [
                 2966, 
                 2967
+            ], 
+            "833": [
+                8810
             ]
         }, 
         "ending": {
@@ -10586,6 +10583,50 @@
                 5303
             ]
         }, 
+        "demotic": {
+            "1027": [
+                11163
+            ], 
+            "619": [
+                6354
+            ], 
+            "834": [
+                8817
+            ], 
+            "209": [
+                2604
+            ], 
+            "191": [
+                2479
+            ], 
+            "670": [
+                7168
+            ], 
+            "190": [
+                2473
+            ], 
+            "1028": [
+                11167
+            ], 
+            "946": [
+                10174
+            ], 
+            "1040": [
+                11222
+            ], 
+            "299": [
+                3261
+            ], 
+            "189": [
+                2463
+            ], 
+            "502": [
+                5203
+            ], 
+            "503": [
+                5210
+            ]
+        }, 
         "child": {
             "1110": [
                 11653
@@ -11480,6 +11521,9 @@
         "monarch": {
             "833": [
                 8810
+            ], 
+            "527": [
+                5636
             ]
         }, 
         "lithium": {
@@ -17275,48 +17319,6 @@
         "colloquial": {
             "568": [
                 5928
-            ], 
-            "1027": [
-                11163
-            ], 
-            "619": [
-                6354
-            ], 
-            "834": [
-                8817
-            ], 
-            "209": [
-                2604
-            ], 
-            "670": [
-                7168
-            ], 
-            "191": [
-                2479
-            ], 
-            "190": [
-                2473
-            ], 
-            "1028": [
-                11167
-            ], 
-            "946": [
-                10174
-            ], 
-            "1040": [
-                11222
-            ], 
-            "299": [
-                3261
-            ], 
-            "189": [
-                2463
-            ], 
-            "502": [
-                5203
-            ], 
-            "503": [
-                5210
             ]
         }, 
         "cloak": {
@@ -25631,6 +25633,9 @@
             ]
         }, 
         "s": {
+            "833": [
+                8808
+            ], 
             "836": [
                 8825
             ]
@@ -38515,7 +38520,7 @@
                 6342
             ], 
             "833": [
-                8813
+                8810
             ]
         }, 
         "farming": {
@@ -40106,7 +40111,6 @@
                 8803
             ], 
             "833": [
-                8808, 
                 8811
             ], 
             "830": [
@@ -43444,6 +43448,11 @@
         "useful": {
             "327": [
                 3514
+            ]
+        }, 
+        "prince": {
+            "527": [
+                5629
             ]
         }, 
         "qapi": {
@@ -50398,6 +50407,11 @@
                 2636
             ]
         }, 
+        "heard": {
+            "864": [
+                9184
+            ]
+        }, 
         "spoon": {
             "339": [
                 3587
@@ -51610,9 +51624,12 @@
                 1397
             ]
         }, 
-        "heard": {
-            "864": [
-                9184
+        "consort": {
+            "833": [
+                8813
+            ], 
+            "527": [
+                5629
             ]
         }, 
         "this": {
@@ -65245,6 +65262,11 @@
                 5801
             ]
         }, 
+        "ee": {
+            "833": [
+                8808
+            ]
+        }, 
         "nuku": {
             "832": [
                 8806
@@ -75393,7 +75415,7 @@
         "place mituja", 
         "action &rsquo;amila", 
         "manner / state fana", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "animate stem noun puppy", 
         "Etymology", 
         "From High Lulani bada child", 
@@ -75403,13 +75425,13 @@
         "", 
         " lassi baby ", 
         "Descendants", 
-        "Colloquial Lulani bad puppy", 
+        "Demotic Lulani bad puppy", 
         "High Lulani", 
         "inanimate stem noun world", 
         "Definition", 
         "everything outside one&rsquo;s home", 
         "Descendants", 
-        "Colloquial Lulani biri everything", 
+        "Demotic Lulani biri everything", 
         "High Lulani", 
         "inanimate stem noun element barium", 
         "See Also", 
@@ -75534,7 +75556,7 @@
         "&rarr; kannu rwo", 
         "&mdash; kifi three", 
         " sabila rirteen ", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "stem indefinite noun everything", 
         "Etymology", 
         "from High Lulani badiri world", 
@@ -76191,7 +76213,7 @@
         "Translations", 
         "Fezhl&ecirc;  T&#x157;sh", 
         "Descendants", 
-        "Colloquial Lulani turex", 
+        "Demotic Lulani turex", 
         "High Lulani", 
         "transitive stem transformative verb to close; to fill", 
         "Example", 
@@ -78133,14 +78155,14 @@
         "derived compound particle because of the &#xff5e;; -", 
         "Etymology", 
         "from kaluli &lt; kalu- + li", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "stem noun flour", 
         "Etymology", 
         "from High Lulani karra wheat", 
         "High Lulani", 
         "inanimate stem noun wheat", 
         "Descendants", 
-        "Colloquial Lulani kar flour", 
+        "Demotic Lulani kar flour", 
         "High Lulani", 
         "abstract stem noun sacredness; enlightenment", 
         "High Lulani", 
@@ -78559,14 +78581,14 @@
         "High Lulani", 
         "derived compound verb to be tall", 
         "High Lulani", 
-        "animate stem noun king; first lady; first lord; vice-president", 
+        "animate stem noun king; prince consort; first lady; first lord; vice-president", 
         "Definition", 
         "second-in-command", 
         "spouse of the lulani", 
         "", 
         "See Also", 
         "", 
-        " lulani queen ", 
+        " lulani monarch ", 
         "High Lulani", 
         "animate stem noun deer", 
         "High Lulani", 
@@ -79284,7 +79306,7 @@
         "Etymology", 
         "ma to think + rasi future", 
         "Descendants", 
-        "Colloquial Lulani mrexi to obtain", 
+        "Demotic Lulani mrexi to obtain", 
         "High Lulani", 
         "stem indefinite pronoun proximate objective pronoun; this", 
         "hr2", 
@@ -80098,7 +80120,7 @@
         "&rarr; &rsquo;aggini bismuth", 
         "&uarr; laji tin", 
         "&darr; xa&rsquo;a flerovium ", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "stem verb to obtain", 
         "Etymology", 
         "from High Lulani marasi to want", 
@@ -81738,16 +81760,16 @@
         " musa sun", 
         " nuku planet ", 
         "d also]", 
-        "See Also Lulani ", 
+        "s ee also  Lulani ", 
         "High Lulani", 
-        "animate stem noun queen; monarch; ruler; president", 
+        "animate stem noun monarch; ruler; queen; king; president", 
         "See Also", 
         "", 
-        " kimilli king ", 
+        " kimilli consort ", 
         "d also]", 
-        "See Also lulani ", 
+        "see also  lulani ", 
         "English", 
-        "proper stem noun either of the languages High Lulani or Colloquial Lulani", 
+        "proper stem noun either of the languages High Lulani or Demotic Lulani", 
         "High Lulani", 
         "proper stem noun High Lulani", 
         "High Lulani", 
@@ -83104,7 +83126,7 @@
         "High Lulani", 
         "stem determiner different", 
         "Descendants", 
-        "Colloquial Lulani  sb&uuml;fi", 
+        "Demotic Lulani  sb&uuml;fi", 
         "High Lulani", 
         "stem adposition for", 
         "Definition", 
@@ -84093,11 +84115,11 @@
         " ma believe ", 
         "Translations", 
         "High Lulani  lu&rsquo;iki", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "adjective shy", 
         "Etymology", 
         "from High Lulani sabufi different", 
-        "Colloquial Lulani", 
+        "Demotic Lulani", 
         "stem noun element lanthanum", 
         "Etymology", 
         "From High Lulani xanaki lanthanum", 
@@ -84152,7 +84174,7 @@
         "&rarr; &rsquo;a&rsquo;ami cerium", 
         "&darr; na&rsquo;a actinium ", 
         "Descendants", 
-        "Colloquial Lulani  sneki lanthanum", 
+        "Demotic Lulani  sneki lanthanum", 
         "High Lulani", 
         "stem modal adverb unwillingly", 
         "Notes", 

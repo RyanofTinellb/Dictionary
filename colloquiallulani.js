@@ -1,5 +1,5 @@
-async function colloquiallulani() {
-    let data = await fetch('colloquiallulani.json');
+async function demoticlulani() {
+    let data = await fetch('demoticlulani.json');
     data = await data.json();
     display(data, "results");
 }

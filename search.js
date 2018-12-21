@@ -7,7 +7,8 @@ const MARKDOWN = {
     '&#x294;': "''",
     '&uuml;': '!u',
     '&ecirc;': '()e',
-    '&igrave;': ')i'
+    '&igrave;': ')i',
+    '&middot;': '.'
 };
 
 
