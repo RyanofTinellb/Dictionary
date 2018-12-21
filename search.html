@@ -59,13 +59,13 @@
             <form>
                 <input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
                 <input type="submit" class="submit" value="Search">
-                <input type="radio" name="andor" id="and" value="and" checked="true">AND
-                <input type="radio" name="andor" id="or" value="or">OR
             </form>
             <div class="results" id="results" name="results"></div>
             <script src="search.js"></script>
             <script type="text/javascript">
-                document.getElementById("search").style.display = "list-item"
+                for (elt of document.getElementsByClassName('javascript')) {
+                    elt.style.display = "block";
+                }
             </script>
         </div>
     </div>

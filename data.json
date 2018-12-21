@@ -4440,7 +4440,7 @@
             ]
         }, 
         {
-            "date": "2018-12-02", 
+            "date": "2018-12-20", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -5230,11 +5230,11 @@
                     "name": "tinalli"
                 }, 
                 {
-                    "date": "2018-10-19", 
+                    "date": "2018-12-20", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>Tn;L</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/t&#x268;&#x2c8;na&#x28e;.&#x28e;&#x268;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../t/$tinellb.html#en\">Tinellb</a></div>"
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../t/$tinellb.html#english\">Tinellb</a></div>"
                     ], 
                     "flatname": {
                         "score": 2125773, 
@@ -5923,7 +5923,7 @@
             ]
         }, 
         {
-            "date": "2018-05-06", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -5932,14 +5932,14 @@
             "name": "D", 
             "children": [
                 {
-                    "date": "2018-04-03", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>d</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/da/</a></ipa></div>\n", 
                         "3]stem modal <a href=\"http://grammar.tinellb.com/highlulani/morphology/adverbs.html\">adverb</a> <div class=\"definition\">obviously; clearly</div>\n", 
                         "4]Definition\nused to signify shared information.\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">1. palm of the hand</div>\n", 
-                        "3] <div class=\"definition\">2. water</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">palm of the hand</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">water</div>\n", 
                         "4]Derived Terms\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../d/dahi.html#highlulani\">dahi</a> <high-lulani>dH</high-lulani> <em>ice</em>\n", 
@@ -5961,7 +5961,8 @@
                         "score": 0, 
                         "name": "da"
                     }, 
-                    "name": "da"
+                    "name": "da", 
+                    "position": "8.22"
                 }, 
                 {
                     "date": "2018-04-03", 
@@ -7388,7 +7389,7 @@
             ]
         }, 
         {
-            "date": "2018-09-30", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -7397,11 +7398,11 @@
             "name": "C", 
             "children": [
                 {
-                    "date": "2018-04-06", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>c</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/c&#x2b0;a/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/adpositions\">adposition</a> <div class=\"definition\">around; encircling</div>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/c&#x2b0;a/</a></ipa></div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/adpositions\">adposition</a> <div class=\"definition\">around; encircling</div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html\">transitive</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/index.html\">verb</a> <div class=\"definition\">to help</div>\n", 
                         "4]Derived Terms\n", 
                         "d wordlist]\n", 
@@ -9004,7 +9005,7 @@
             ]
         }, 
         {
-            "date": "2018-10-21", 
+            "date": "2018-12-20", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -9326,11 +9327,11 @@
                     "name": "kanu"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-20", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>K;I</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x289;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">numeral</a> <div class=\"definition\">-2; <overline>2</overline>, rwo, minus two</div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">numeral</a> <div class=\"definition\">-2; <overline>2</overline>, <a href=\"../r/rwo.html#english\">rwo</a>, minus two</div>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
                         "f]&larr; <a href=\"../b/bila.html#highlulani\">bila</a> <high-lulani>Bl</high-lulani> <em>ree</em>\n", 
@@ -9342,7 +9343,8 @@
                         "score": 26244, 
                         "name": "kanu"
                     }, 
-                    "name": "kannu"
+                    "name": "kannu", 
+                    "position": "4.64"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -11199,7 +11201,7 @@
             ]
         }, 
         {
-            "date": "2018-12-09", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -12626,7 +12628,7 @@
                     "name": "mufa"
                 }, 
                 {
-                    "date": "2018-12-09", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>Us</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;mus.&#x259;/</a></ipa></div>\n", 
@@ -15881,7 +15883,7 @@
             ]
         }, 
         {
-            "date": "2018-04-27", 
+            "date": "2018-12-20", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -16927,10 +16929,10 @@
                     "name": "rone"
                 }, 
                 {
-                    "date": "2018-04-08", 
+                    "date": "2018-12-20", 
                     "text": [
                         "1]English\n", 
-                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x27d;u/</a></ipa></div>\n", 
+                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x279;u&#x2d0;/</a></ipa></div>\n", 
                         "3]mathematics cardinal numeral <div class=\"definition\">-2, <overline>2</overline>; negative two</div>\n", 
                         "4]Etymology\nBlend of <strong>reverse</strong> + <strong>two</strong>.\n", 
                         "4]Translations\n<strong>High Lulani:</strong> <a href=\"../k/kannu.html#english\">kannu</a> <high-lulani>K;I</high-lulani>"
@@ -16939,7 +16941,8 @@
                         "score": 0, 
                         "name": "rwo"
                     }, 
-                    "name": "rwo"
+                    "name": "rwo", 
+                    "position": "2.11"
                 }
             ]
         }, 
@@ -17768,7 +17771,7 @@
             ]
         }, 
         {
-            "date": "2018-12-19", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -17864,22 +17867,23 @@
                     "name": "sa-"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>si</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;sa&#x294;.&#x268;/</a></ipa></div>\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">light; <a href=\"../s/subtle.html#highlulani\">subtle</a> energy</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">light; <a href=\"../s/subtle.html#english\">subtle</a> energy</div>\n", 
                         "4]Derived Terms\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../s/sa'ijakki.html#highlulani\">sa&rsquo;ijakki</a> <high-lulani>sij;K</high-lulani> <em>candlelight</em>\n", 
-                        "f]<a href=\"../s/sa'imi.html#highlulani\">Sa&rsquo;imi</a> <high-lulani>siM</high-lulani> <em>Caemi</em>", 
+                        "f]<a href=\"../s/$sa'imi.html#highlulani\">Sa&rsquo;imi</a> <high-lulani>siM</high-lulani> <em>Caemi</em>", 
                         "/d]"
                     ], 
                     "flatname": {
                         "score": 2187, 
                         "name": "sai"
                     }, 
-                    "name": "sa&rsquo;i"
+                    "name": "sa&rsquo;i", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -18199,7 +18203,7 @@
                     "name": "sajimu"
                 }, 
                 {
-                    "date": "2018-12-19", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>sK</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;sak&#x2b0;.&#x268;/</a></ipa></div>\n", 
@@ -18208,7 +18212,7 @@
                         "d wordlist]\n", 
                         "f]<a href=\"../s/sakimica.html#highlulani\">sakimica</a> <high-lulani>sKMc</high-lulani> <em>to give permission</em>", 
                         "/d]\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <div class=\"definition\">1. divided by</div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <div class=\"definition\">divided by</div>\n", 
                         "4]Example\n", 
                         "d folding]\n", 
                         "f]<strong>Sahha saki kifi &rsquo;anu guhi.</strong>\n", 
@@ -18224,18 +18228,20 @@
                         "e]<a href=\"../t/tali.html#highlulani\">tali</a> <high-lulani>tL</high-lulani> <em>minus</em>\n", 
                         "e]<a href=\"../b/batu.html#highlulani\">batu</a> <high-lulani>be</high-lulani> <em>multiply</em>", 
                         "/d]\n", 
-                        "3] <div class=\"definition\">2. forms a reciprocal from an integer</div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <div class=\"definition\">forms a reciprocal from an integer</div>\n", 
                         "4]Examples\n", 
                         "d wordlist]\n", 
                         "f]<strong>saki </strong><a href=\"../r/ra.html#highlulani\">ra</a> <em>half</em>\n", 
                         "e]<strong>sak&middot;</strong><a href=\"../k/kifi.html#highlulani\">kifi</a> <em>third</em>", 
-                        "/d]"
+                        "/d]\n", 
+                        "4]Etymology\n<a href=\"../s/sa-.html#highlulani\">sa-</a> <high-lulani>s</high-lulani> <em>one</em> + <a href=\"../k/-ki.html#highlulani\">-ki</a> <high-lulani>K</high-lulani> <em>fraction</em>\n"
                     ], 
                     "flatname": {
                         "score": 0, 
                         "name": "saki"
                     }, 
-                    "name": "saki"
+                    "name": "saki", 
+                    "position": "28.26"
                 }, 
                 {
                     "date": "2018-04-12", 
@@ -19589,7 +19595,7 @@
             ]
         }, 
         {
-            "date": "2018-09-30", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -19936,7 +19942,7 @@
                     "name": "xibbuti"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>Xt</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;&#x255;it&#x2b0;.&#x259;/</a></ipa></div>\n", 
@@ -19964,7 +19970,8 @@
                         "score": 0, 
                         "name": "xita"
                     }, 
-                    "name": "xita"
+                    "name": "xita", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -20359,7 +20366,7 @@
             ]
         }, 
         {
-            "date": "2018-04-22", 
+            "date": "2018-12-21", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -20700,18 +20707,18 @@
                     "name": "haxxa"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-21", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>H</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/hi/</a></ipa></div>\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">1. solid</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">solid</div>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../m/munika.html#highlulani\">munika</a> <em>liquid</em>\n", 
                         "e]<a href=\"../x/xa''a.html#highlulani\">xa&#x294;a</a> <em>gas</em>", 
                         "/d]\n", 
-                        "3] <div class=\"definition\">2. shirt; tunic</div>\n", 
-                        "3] <div class=\"definition\">3. group</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">shirt; tunic</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">group</div>\n", 
                         "4]Definition\na collection of similar items that happen to be together, rather than being collected <em>per se</em>.\n", 
                         "4]Examples\n", 
                         "d wordlist]\n", 

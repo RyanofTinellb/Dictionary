@@ -1132,10 +1132,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:Ir&igrave;a</link>, the capital city of Brequ&egrave;", 
+        "m": "Ir&igrave;a, the capital city of Brequ&egrave;", 
         "t": "&#x294;irri&rsquo;a", 
         "d": [
-            "hl", 
             "Ir", 
             "igrave", 
             "a", 
@@ -4100,10 +4099,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>unknown:Tinellb</link>", 
+        "m": "Tinellb", 
         "t": "Tinalli", 
         "d": [
-            "unknown", 
             "Tinellb"
         ]
     }, 
@@ -4579,10 +4577,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:Toresh</link>", 
+        "m": "Toresh", 
         "t": "Turassi", 
         "d": [
-            "hl", 
             "Toresh"
         ]
     }, 
@@ -4764,10 +4761,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "1. palm of the hand", 
+        "m": "palm of the hand", 
         "t": "da", 
         "d": [
-            "1", 
             "palm", 
             "of", 
             "the", 
@@ -4781,10 +4777,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "2. water", 
+        "m": "water", 
         "t": "da", 
         "d": [
-            "2", 
             "water"
         ]
     }, 
@@ -5915,10 +5910,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:tsar</link>; akashic record", 
+        "m": "tsar; akashic record", 
         "t": "duluri", 
         "d": [
-            "hl", 
             "tsar", 
             "akashic", 
             "record"
@@ -5987,6 +5981,19 @@
         "t": "downstream", 
         "d": [
             "after"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "around; encircling", 
+        "t": "ca", 
+        "d": [
+            "around", 
+            "encircling"
         ]
     }, 
     {
@@ -6577,10 +6584,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:subtle</link> bodies; psyche", 
+        "m": "subtle bodies; psyche", 
         "t": "cussa", 
         "d": [
-            "hl", 
             "subtle", 
             "bodies", 
             "psyche"
@@ -9272,14 +9278,13 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to think with the <link>hl:soul</link>", 
+        "m": "to think with the soul", 
         "t": "ma", 
         "d": [
             "to", 
             "think", 
             "with", 
             "the", 
-            "hl", 
             "soul"
         ]
     }, 
@@ -9318,10 +9323,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:gingla</link>", 
+        "m": "gingla", 
         "t": "ma&#x294;u", 
         "d": [
-            "hl", 
             "gingla"
         ]
     }, 
@@ -10155,7 +10159,7 @@
             "pronoun"
         ], 
         "l": "High Lulani", 
-        "m": "this point in space-time-reality-<link>hl:gingla</link>", 
+        "m": "this point in space-time-reality-gingla", 
         "t": "miru", 
         "d": [
             "this", 
@@ -10164,7 +10168,6 @@
             "space", 
             "time", 
             "reality", 
-            "hl", 
             "gingla"
         ]
     }, 
@@ -10841,10 +10844,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:Mala Ptokonoi</link>", 
+        "m": "Mala Ptokonoi", 
         "t": "Naqi", 
         "d": [
-            "hl", 
             "Mala", 
             "Ptokonoi"
         ]
@@ -12670,10 +12672,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:Guozu</link> baby", 
+        "m": "Guozu baby", 
         "t": "lassi", 
         "d": [
-            "hl", 
             "Guozu", 
             "baby"
         ]
@@ -13031,10 +13032,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:soul</link>; spirit; that which loves", 
+        "m": "soul; spirit; that which loves", 
         "t": "lu&rsquo;iki", 
         "d": [
-            "hl", 
             "soul", 
             "spirit", 
             "that", 
@@ -14311,10 +14311,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:subtle</link> planes", 
+        "m": "subtle planes", 
         "t": "fara", 
         "d": [
-            "hl", 
             "subtle", 
             "planes"
         ]
@@ -14831,11 +14830,10 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "light; <link>hl:subtle</link> energy", 
+        "m": "light; subtle energy", 
         "t": "sa&rsquo;i", 
         "d": [
             "light", 
-            "hl", 
             "subtle", 
             "energy"
         ]
@@ -15116,10 +15114,9 @@
             "mathematics"
         ], 
         "l": "High Lulani", 
-        "m": "1. divided by", 
+        "m": "divided by", 
         "t": "saki", 
         "d": [
-            "1", 
             "divided", 
             "by"
         ]
@@ -15130,10 +15127,9 @@
             "mathematics"
         ], 
         "l": "High Lulani", 
-        "m": "2. forms a reciprocal from an integer", 
+        "m": "forms a reciprocal from an integer", 
         "t": "saki", 
         "d": [
-            "2", 
             "forms", 
             "a", 
             "reciprocal", 
@@ -16422,10 +16418,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "<link>hl:tsarship</link>", 
+        "m": "tsarship", 
         "t": "xaraduluri", 
         "d": [
-            "hl", 
             "tsarship"
         ]
     }, 
@@ -17016,13 +17011,12 @@
             "ordinal"
         ], 
         "l": "High Lulani", 
-        "m": "-7; <overline>7</overline>; <link>hl:reven</link>; minus seven", 
+        "m": "-7; <overline>7</overline>; reven; minus seven", 
         "t": "haki", 
         "d": [
             "", 
             "7", 
             "7", 
-            "hl", 
             "reven", 
             "minus", 
             "seven"
@@ -17250,10 +17244,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "1. solid", 
+        "m": "solid", 
         "t": "hi", 
         "d": [
-            "1", 
             "solid"
         ]
     }, 
@@ -17264,10 +17257,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "2. shirt; tunic", 
+        "m": "shirt; tunic", 
         "t": "hi", 
         "d": [
-            "2", 
             "shirt", 
             "tunic"
         ]
@@ -17279,10 +17271,9 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "3. group", 
+        "m": "group", 
         "t": "hi", 
         "d": [
-            "3", 
             "group"
         ]
     }, 

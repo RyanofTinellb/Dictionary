@@ -37,6 +37,7 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &#x272; | ,n | <br> <!-- palatal n -->
 &ntilde; | !!n | <br> <!-- n with tilde -->
 &#x27d; | %r | <br> <!-- retroflex flap -->
+&#x279; | ^r | <br> <!-- turned r -->
 &#x255; | ,x | <br> <!-- curl-tailed c -->
 &uuml; | !u | <br>
 &ucirc; | ()u | <br>

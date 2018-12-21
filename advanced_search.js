@@ -1,4 +1,5 @@
 if (window.location.href.indexOf('?') != -1) {
+    document.getElementById('results').innerHTML = 'Searching...';
     adv_search();
 }
 
@@ -11,7 +12,6 @@ const MARKDOWN = {
 };
 
 async function adv_search() {
-    document.getElementById('results').innerHTML = 'Searching...';
     let data = await fetch('wordlist.json');
     data = await data.json();
     let terms = getTerms();
