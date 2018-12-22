@@ -8,7 +8,8 @@ const MARKDOWN = {
     '&uuml;': '!u',
     '&ecirc;': '()e',
     '&igrave;': ')i',
-    '&middot;': '.'
+    '&middot;': '..',
+    ' ': '.'
 };
 
 
@@ -36,12 +37,8 @@ function place(terms) {
 
 function collate(data, terms) {
     let search = terms.join(' ');
-    console.log(search);
     results = [];
     for (const entry of data) {
-        if (entry.l == 'English') {
-                console.log(markdown(entry.t))
-            }
         if (markdown(entry.t) == search || includesAll(entry.d, terms)) {
             results.push(entry);
         }
@@ -61,7 +58,7 @@ function display(entries, id) {
 }
 
 function createLine(entry) {
-    return `<li><a href='${createUrl(entry.t)}'>${entry.t}</a> `
+    return `<li><a href="${createUrl(entry.t)}">${entry.t}</a> `
         + `(${entry.l}) `
         + `<em>${entry.m}</em></li>`;
 }
@@ -75,7 +72,7 @@ function createUrl(text) {
 }
 
 function sellCaps(text) {
-    return text.replace(/^[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+    return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
 }
 
 function markdown(text) {
