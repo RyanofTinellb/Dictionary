@@ -14,7 +14,7 @@
         "score": 0, 
         "name": "dictionary"
     }, 
-    "date": "2018-11-16", 
+    "date": "2018-12-22", 
     "position": "1.0", 
     "children": [
         {
@@ -8212,7 +8212,7 @@
             ]
         }, 
         {
-            "date": "2018-10-21", 
+            "date": "2018-12-22", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -8984,11 +8984,11 @@
                     "name": "jusi"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-22", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>YST</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x25f;&#x289;&#x2c8;sit.&#x268;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">numeral</a> <div class=\"definition\">-6; <overline>6</overline>; rix; minus six; negative six</div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">numeral</a> <div class=\"definition\">-6; <overline>6</overline>; <a href=\"../r/rix.html#english\">rix</a>; minus six; negative six</div>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
                         "f]&larr; <a href=\"../h/haki.html#highlulani\">haki</a> <high-lulani>hK</high-lulani> <em>reven</em>\n", 
@@ -9000,7 +9000,8 @@
                         "score": 0, 
                         "name": "jusiti"
                     }, 
-                    "name": "jusiti"
+                    "name": "jusiti", 
+                    "position": "4.64"
                 }
             ]
         }, 
@@ -10058,7 +10059,8 @@
                         "score": 2125764, 
                         "name": "kimili"
                     }, 
-                    "name": "kimilli"
+                    "name": "kimilli", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -11201,7 +11203,7 @@
             ]
         }, 
         {
-            "date": "2018-12-21", 
+            "date": "2018-12-22", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -12327,11 +12329,11 @@
                     "name": "mifasu"
                 }, 
                 {
-                    "date": "2018-04-10", 
+                    "date": "2018-12-22", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>M;z</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;mis.s&#x289;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers\">ordinal</a> <div class=\"definition\">-4; <overline>4</overline>;rour; minus four</div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">mathematics</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers\">ordinal</a> <div class=\"definition\">-4; <overline>4</overline>; <a href=\"../r/rour.html#english\">rour</a>; minus four</div>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
                         "f]&larr; <a href=\"../l/laffi.html#highlulani\">laffi</a> <high-lulani>l;F</high-lulani> <em>rive</em>\n", 
@@ -12343,7 +12345,8 @@
                         "score": 26244, 
                         "name": "misu"
                     }, 
-                    "name": "missu"
+                    "name": "missu", 
+                    "position": "7.23"
                 }, 
                 {
                     "date": "2018-04-10", 
@@ -12628,7 +12631,7 @@
                     "name": "mufa"
                 }, 
                 {
-                    "date": "2018-12-21", 
+                    "date": "2018-12-22", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>Us</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;mus.&#x259;/</a></ipa></div>\n", 
@@ -15885,7 +15888,7 @@
             ]
         }, 
         {
-            "date": "2018-12-20", 
+            "date": "2018-12-22", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -16945,6 +16948,40 @@
                     }, 
                     "name": "rwo", 
                     "position": "2.11"
+                }, 
+                {
+                    "date": "2018-12-21", 
+                    "position": "7.21", 
+                    "name": "rour", 
+                    "text": [
+                        "1]English\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x279;&#x254;&#x2d0;/</a></ipa></div>\n", 
+                        "3]stem cardinal numeral <div class=\"definition\">-4, <overline>4</overline>; negative four; minus four</div>\n", 
+                        "4]Etymology\nblend of <strong>reverse</strong> + <strong>four</strong>\n", 
+                        "4]Translations\n<strong>High Lulani</strong>: <a href=\"../m/missu.html#highlulani\">missu</a> <high-lulani>M;z</high-lulani>\n"
+                    ]
+                }, 
+                {
+                    "date": "2018-12-22", 
+                    "position": "1.0", 
+                    "name": "rive", 
+                    "text": [
+                        "1]English\n", 
+                        "2]rive\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x279;a&#x26a;v/</a></ipa></div>\n", 
+                        "3]derived cardinal numeral <div class=\"definition\">-5, <overline>5</overline>; minus five; negative five</div>\n", 
+                        "4]Etymology\nBlend of <strong>reverse</strong> + <strong>five</strong>\n", 
+                        "4]Translations\n<strong>High Lulani</strong>: <a href=\"../l/laffi.html#highlulani\">laffi</a> <high-lulani>l;F</high-lulani>\n"
+                    ]
+                }, 
+                {
+                    "date": "2018-12-22", 
+                    "position": "7.83", 
+                    "name": "rix", 
+                    "text": [
+                        "1]English\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x279;&#x26a;ks/</a></ipa></div>\n", 
+                        "3]derived cardinal mathematics numeral <div class=\"definition\">-6, <overline>6</overline>; minus six; negative six</div>\n", 
+                        "4]Etymology\nBlend of <strong>reverse</strong> + <strong>six</strong>\n", 
+                        "4]Translations\n<strong>High Lulani</strong>: <a href=\"../j/jusiti.html#highlulani\">jusiti</a> <high-lulani>YST</high-lulani>\n"
+                    ]
                 }
             ]
         }, 

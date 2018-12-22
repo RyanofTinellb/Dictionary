@@ -10212,7 +10212,7 @@
             "ordinal"
         ], 
         "l": "High Lulani", 
-        "m": "-4; <overline>4</overline>;rour; minus four", 
+        "m": "-4; <overline>4</overline>; rour; minus four", 
         "t": "missu", 
         "d": [
             "", 
@@ -14117,6 +14117,64 @@
             "2", 
             "negative", 
             "two"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "cardinal", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-4, <overline>4</overline>; negative four; minus four", 
+        "t": "rour", 
+        "d": [
+            "", 
+            "4", 
+            "4", 
+            "negative", 
+            "four", 
+            "minus", 
+            "four"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "cardinal", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-5, <overline>5</overline>; minus five; negative five", 
+        "t": "rive", 
+        "d": [
+            "", 
+            "5", 
+            "5", 
+            "minus", 
+            "five", 
+            "negative", 
+            "five"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "cardinal", 
+            "mathematics", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-6, <overline>6</overline>; minus six; negative six", 
+        "t": "rix", 
+        "d": [
+            "", 
+            "6", 
+            "6", 
+            "minus", 
+            "six", 
+            "negative", 
+            "six"
         ]
     }, 
     {
