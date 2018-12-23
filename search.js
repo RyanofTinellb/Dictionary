@@ -9,7 +9,7 @@ const MARKDOWN = {
     '&ecirc;': '()e',
     '&igrave;': ')i',
     '&middot;': '..',
-    ' ': '.'
+    '&nbsp;': '.'
 };
 
 
@@ -36,14 +36,19 @@ function place(terms) {
 }
 
 function collate(data, terms) {
-    let search = terms.join(' ');
+    let search = clean(terms.join(' '));
     results = [];
     for (const entry of data) {
-        if (markdown(entry.t) == search || includesAll(entry.d, terms)) {
+        if (clean(markdown(entry.t.toLowerCase())) == search ||
+                includesAll(entry.d, terms)) {
             results.push(entry);
         }
     }
     return results;
+}
+
+function clean(text) {
+    return text.toLowerCase().replace(/[^a-z']/g, '');
 }
 
 function includesAll(entry, terms) {

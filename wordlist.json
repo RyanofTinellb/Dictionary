@@ -15509,23 +15509,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "noun", 
-            "element", 
-            "compound"
-        ], 
-        "l": "High Lulani", 
-        "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
-        "t": "saxita lara", 
-        "d": [
-            "water", 
-            "dihydrogen", 
-            "monoxide", 
-            "H2O"
-        ]
-    }, 
-    {
-        "p": [
             "inanimate", 
             "stem", 
             "noun", 
@@ -16273,6 +16256,23 @@
         "t": "sneki", 
         "d": [
             "lanthanum"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "noun", 
+            "element", 
+            "compound"
+        ], 
+        "l": "High Lulani", 
+        "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
+        "t": "saxita&nbsp;lara", 
+        "d": [
+            "water", 
+            "dihydrogen", 
+            "monoxide", 
+            "H2O"
         ]
     }, 
     {

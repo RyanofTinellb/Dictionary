@@ -14,7 +14,7 @@
         "score": 0, 
         "name": "dictionary"
     }, 
-    "date": "2018-12-22", 
+    "date": "2018-12-23", 
     "position": "1.0", 
     "children": [
         {
@@ -4440,7 +4440,7 @@
             ]
         }, 
         {
-            "date": "2018-12-20", 
+            "date": "2018-12-23", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -5243,10 +5243,10 @@
                     "name": "$tinalli"
                 }, 
                 {
-                    "date": "2018-10-21", 
+                    "date": "2018-12-23", 
                     "text": [
                         "1]English\n", 
-                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/t&#x259;.&#x2c8;nelb/</a></ipa></div>\n", 
+                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/t&#x259;&#x2c8;nelb/</a></ipa></div>\n", 
                         "3]stem proper noun <div class=\"definition\">the name given to the multiverse</div>\n", 
                         "4]Translations\n<strong>High Lulani:</strong> <a href=\"../t/$tinalli.html#highlulani\">Tinalli</a> <high-lulani>Tn;L</high-lulani>"
                     ], 
@@ -5254,7 +5254,8 @@
                         "score": 2125773, 
                         "name": "tinelb"
                     }, 
-                    "name": "$tinellb"
+                    "name": "$tinellb", 
+                    "position": "2.13"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -16987,7 +16988,7 @@
             ]
         }, 
         {
-            "date": "2018-12-02", 
+            "date": "2018-12-23", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -17339,9 +17340,9 @@
                     "name": "faxi"
                 }, 
                 {
-                    "date": "2018-10-21", 
+                    "date": "2018-12-23", 
                     "text": [
-                        "d also]\nSee: <a href=\"../f/$fezhl()e.html#also\">Fezhl&ecirc;</a>", 
+                        "d also]\n<em>see:</em> <a href=\"../f/$fezhl()e.html#also\">Fezhl&ecirc;</a>", 
                         "/d]"
                     ], 
                     "flatname": {
@@ -17811,7 +17812,7 @@
             ]
         }, 
         {
-            "date": "2018-12-22", 
+            "date": "2018-12-23", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -17820,7 +17821,7 @@
             "name": "S", 
             "children": [
                 {
-                    "date": "2018-09-30", 
+                    "date": "2018-12-23", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>s</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/sa/</a></ipa></div>\n", 
@@ -17835,7 +17836,7 @@
                         "/d]\n", 
                         "4]Derived Terms\n", 
                         "d wordlist]\n", 
-                        "f]<a href=\"../s/sasa.html#highlulani\">sasa</a> <high-lulani>ss</high-lulani> <em>introvert</em>", 
+                        "f]<a href=\"../s/sasa.html#highlulani\">sasa</a> <high-lulani>ss</high-lulani> <em&#x26a;ntrovert</em>", 
                         "/d]\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/elements.html\">element</a> <div class=\"definition\">oxygen</div>\n", 
                         "4]Derived Terms\n", 
@@ -17864,7 +17865,8 @@
                         "score": 0, 
                         "name": "sa"
                     }, 
-                    "name": "sa"
+                    "name": "sa", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -18671,25 +18673,6 @@
                         "name": "sasu"
                     }, 
                     "name": "-ssasu"
-                }, 
-                {
-                    "date": "2018-12-22", 
-                    "text": [
-                        "1]High Lulani\n", 
-                        "2]<high-lulani>sXt / lr</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/sa&#x2cc;&#x255;it&#x2b0;.&#x259;&#x2c8;la&#x27d;a/</a></ipa></div>\n", 
-                        "3]derived <a href=\"http://grammar.tinellb.com/high.lulani/morphology/nouns.html\">noun</a> <a href=\"http://grammar.tinellb.com/high.lulani/apocrypha/elements.html\">element</a> compound <div class=\"definition\">water, dihydrogen monoxide, H<sub>2</sub>O</div>\n", 
-                        "4]Etymology\n<a href=\"../s/sa.html#high.lulani\">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em> + <a href=\"../x/xita.html#high.lulani\">xita</a> <high-lulani>Xt</high-lulani> <em>one</em> + <a href=\"../l/la.html#high.lulani\">la</a> <high-lulani>l</high-lulani> <em>hydrogen</em> + <a href=\"../r/ra.html#high.lulani\">ra</a> <high-lulani>r</high-lulani> <em>two</em>\n", 
-                        "4]See Also\n", 
-                        "d wordlist]\n", 
-                        "f]<a href=\"../d/da.html#high.lulani\">da</a> <high-lulani>d</high-lulani> <em>water</em>\n", 
-                        "e]<a href=\"../l/lara.html#high.lulani\">lara</a> <high-lulani>lr</high-lulani> <em>hydrogen</em>", 
-                        "/d]"
-                    ], 
-                    "flatname": {
-                        "score": 0, 
-                        "name": "saxitalara"
-                    }, 
-                    "name": "saxita lara"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -19631,6 +19614,22 @@
                         "name": "sneki"
                     }, 
                     "name": "sneki"
+                }, 
+                {
+                    "date": "2018-12-23", 
+                    "position": "3.13", 
+                    "name": "saxita.lara", 
+                    "text": [
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>sXt / lr</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/sa&#x2cc;&#x255;it&#x2b0;.&#x259;&#x2c8;la&#x27d;a/</a></ipa></div>\n", 
+                        "3]derived <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/elements.html\">element</a> compound <div class=\"definition\">water, dihydrogen monoxide, H<sub>2</sub>O</div>\n", 
+                        "4]Etymology\n<a href=\"../s/sa.html#highlulani\">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em> + <a href=\"../x/xita.html#highlulani\">xita</a> <high-lulani>Xt</high-lulani> <em>one</em> + <a href=\"../l/la.html#highlulani\">la</a> <high-lulani>l</high-lulani> <em>hydrogen</em> + <a href=\"../r/ra.html#highlulani\">ra</a> <high-lulani>r</high-lulani> <em>two</em>\n", 
+                        "4]See Also\n", 
+                        "d wordlist]\n", 
+                        "f]<a href=\"../d/da.html#highlulani\">da</a> <high-lulani>d</high-lulani> <em>water</em>\n", 
+                        "e]<a href=\"../l/lara.html#highlulani\">lara</a> <high-lulani>lr</high-lulani> <em>hydrogen</em>", 
+                        "/d]\n"
+                    ]
                 }
             ]
         }, 
