@@ -179,6 +179,10 @@ h5 { /* subheadings */
 	margin-left: 0;
 }
 
+.content p a, .content .results a {
+	text-decoration: none;
+}
+
 @media screen and (max-width: 800px) {
 	.content div.toc {
 		columns: 2;

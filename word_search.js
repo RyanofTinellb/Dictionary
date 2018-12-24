@@ -1,21 +1,54 @@
 /* Goes directly to an inputted word*/
+const MARKDOWN = {
+    '&rsquo;': "'",
+    '&#x294;': "''",
+    '&uuml;': '!u',
+    '&ecirc;': '()e',
+    '&igrave;': ')i',
+    '&middot;': '..',
+    '&nbsp;': '.',
+    '&#x157;': ',r',
+    '&#x14d;': '_o'
+};
+
 
 function search() {
-    let text = document.getElementById("wordsearch").value
-        .replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`);
+    let text = document.getElementById("wordsearch").value;
     if (text == "") {
         return;
     }
-    text = text.trim().replace(/[\u2019]/g, "'")
-        .replace(/[\u0294\u0660]/g, "''");
-    let folder = text.match(/\w/)[0];
-    return `${folder}/${text}.html`;
+    return createUrl(text);
+}
+
+function findInitial(text) {
+    return text.replace(/&.*?;/g, '').charAt(0).toLowerCase();
+}
+
+function createUrl(text) {
+    return `${findInitial(text)}/${sellCaps(markdown(text))}.html`
+}
+
+function sellCaps(text) {
+    return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+}
+
+function markdown(text) {
+    for (md in MARKDOWN) {
+        text = text.replace(md, MARKDOWN[md]);
+    }
+    return text;
 }
 
 function wordsearch() {
-    window.location.href = "../" + search();
+    let search = search();
+    if (search) {
+        window.location.href = "../" + search();
+    }
 }
 
 function toplevelwordsearch() {
-    window.location.href = search();
+    let search = search();
+    if (search) {
+        window.location.href = search();
+    }
 }

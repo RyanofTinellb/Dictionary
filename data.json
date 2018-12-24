@@ -4440,7 +4440,7 @@
             ]
         }, 
         {
-            "date": "2018-12-23", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -5741,21 +5741,22 @@
                     "name": "turassi"
                 }, 
                 {
-                    "date": "2018-12-02", 
+                    "date": "2018-12-24", 
                     "text": [
                         "d also]\n<em>see also</em>: <a href=\"../t/turassi.html#also\">turassi</a>", 
                         "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>er;S</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/t&#x2b0;&#x289;&#x2c8;&#x27d;as.s&#x268;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#animatenoun\">animate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../t/$toresh.html#highlulani\">Toresh</a></div>\n", 
-                        "4]Translations\n<strong>Fezhl&ecirc;</strong>: T&#x157;sh.\n", 
-                        "4]Descendants\n<strong>Demotic Lulani: </strong><a href=\"../t/turex.html#highlulani\">turex</a> "
+                        "4]Translations\n<strong>Koine Fezhl&ecirc;</strong>: <a href=\"../t/$t,rsh.html#koinefezhl()e\">T&#x157;sh</a>.\n", 
+                        "4]Descendants\n<strong>Demotic Lulani:</strong> <a href=\"../t/$turex.html#demoticlulani\">Turex</a>"
                     ], 
                     "flatname": {
                         "score": 2125773, 
                         "name": "turasi"
                     }, 
-                    "name": "$turassi"
+                    "name": "$turassi", 
+                    "position": "10.24"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -5872,20 +5873,21 @@
                     "name": "tuhhisa"
                 }, 
                 {
-                    "date": "2018-10-01", 
+                    "date": "2018-12-24", 
                     "text": [
                         "1]English\n", 
                         "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/t&#x2b0;&#x259;&#x2c8;&#x279;&#x25b;&#x283;/</a></ipa></div>\n", 
                         "3]stem proper noun <div class=\"definition\">Fezhl&ecirc; woman, major character of the Crackled Egg</div>\n", 
                         "4]Translations\n", 
-                        "f]<strong>High Lulani</strong>: <a href=\"../t/$turassi.html#english\">Turassi</a> <high-lulani>er;S</high-lulani>\n", 
-                        "e]<strong>Fezhl&ecirc;:</strong> T&#x157;sh"
+                        "f]<strong>High Lulani</strong>: <a href=\"../t/$turassi.html#highlulani\">Turassi</a> <high-lulani>er;S</high-lulani>\n", 
+                        "e]<strong>Koine Fezhl&ecirc;:</strong> <a href=\"../t/$t,rsh.html#koinefezhl()e\">T&#x157;sh</a>"
                     ], 
                     "flatname": {
                         "score": 9, 
                         "name": "toresh"
                     }, 
-                    "name": "$toresh"
+                    "name": "$toresh", 
+                    "position": "6.31"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -5920,11 +5922,24 @@
                         "name": "tsarship"
                     }, 
                     "name": "tsarship"
+                }, 
+                {
+                    "date": "2018-12-24", 
+                    "position": "6.25", 
+                    "name": "$t&#x157;sh", 
+                    "text": [
+                        "1]Koine Fezhl&ecirc;\n<div class=\"pronunciation\"><ipa><a kf]/tr&#x329;&#x283;/</a></ipa></div>\n", 
+                        "3]stem proper noun <div class=\"definition\"><a href=\"../t/$toresh.html#english\">Toresh</a></div>\n", 
+                        "4]Translations\n", 
+                        "d wordlist\n", 
+                        "f]<strong>High Lulani</strong>: <a href=\"../t/$turassi.html#highlulani\">Turassi</a> <high-lulani>er;S</high-lulani>", 
+                        "/d]\n"
+                    ]
                 }
             ]
         }, 
         {
-            "date": "2018-12-21", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -7386,11 +7401,25 @@
                         "name": "downstream"
                     }, 
                     "name": "downstream"
+                }, 
+                {
+                    "date": "2018-12-24", 
+                    "position": "4.62", 
+                    "name": "daxunikifigi.qasa", 
+                    "text": [
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>dZNKFG/qs</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/d&#x259;&#x2cc;&#x255;un.&#x268;&#x2cc;k&#x2b0;if.&#x268;.gi&#x2c8;&#x14b;as.&#x259;/</a></ipa></div>\n", 
+                        "3]derived compound <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#animatenoun\">animate</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">coelacanth; <em>three-tail fish</em></div>\n", 
+                        "4]Etymology\n", 
+                        "f]<a href=\"../d/daxuni.html#highlulani\">daxuni</a> <high-lulani>dZN</high-lulani> <em>tail</em> + <a href=\"../k/kifi.html#highlulani\">kifi</a> <high-lulani>KF</high-lulani> <em>three</em> + <a href=\"../g/gi.html#highlulani\">gi</a> <high-lulani>G</high-lulani> <em>to have</em>\n", 
+                        "e]<a href=\"../q/qasa.html#highlulani\">qasa</a> <high-lulani>qs</high-lulani> <em>fish</em>\n", 
+                        "4]Notes\nNamed for its three-lobed caudal fin"
+                    ]
                 }
             ]
         }, 
         {
-            "date": "2018-12-21", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -8209,6 +8238,18 @@
                         "name": "cusidici"
                     }, 
                     "name": "cussidicci"
+                }, 
+                {
+                    "date": "2018-12-24", 
+                    "position": "4.15", 
+                    "name": "$corla", 
+                    "text": [
+                        "1]English\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x2c8;k&#x2b0;&#x254;&#x2d0;.l&#x259;/</a></ipa></div>\n", 
+                        "3]stem proper noun <div class=\"definition\">Tsarin woman, major character of the <em>Coelacanth Quartet</em></div>\n", 
+                        "4]Translations\n", 
+                        "f]<strong>High Lulani:</strong> <a href=\"../k/$kurila.html#highlulani\">Kurila</a> <high-lulani>&gt;Rl</high-lulani>\n", 
+                        "e]<strong>Modern Tsarin:</strong> <a href=\"../q/$q_ola.html#moderntsarin\">Q&#x14d;la</a>"
+                    ]
                 }
             ]
         }, 
@@ -9007,7 +9048,7 @@
             ]
         }, 
         {
-            "date": "2018-12-22", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -10525,20 +10566,21 @@
                     "name": "kurila"
                 }, 
                 {
-                    "date": "2018-09-30", 
+                    "date": "2018-12-24", 
                     "text": [
                         "d also]\n<em>see also</em>: <a href=\"../k/kurila.html#also\">kurila</a>", 
                         "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>&gt;Rl</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/k&#x2b0;&#x289;&#x2c8;&#x27d;il.&#x259;/</a></ipa></div>\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">Corla</div>\n", 
-                        "4]Translations\n<strong>Tsarin:</strong> K&#x14d;la"
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../c/$corla.html#english\">Corla</a></div>\n", 
+                        "4]Notes\n<em>transliteration of </em><strong>Modern Tsarin</strong> <a href=\"../q/$q_ola.html#moderntsarin\">Q&#x14d;la</a> "
                     ], 
                     "flatname": {
                         "score": 9, 
                         "name": "kurila"
                     }, 
-                    "name": "$kurila"
+                    "name": "$kurila", 
+                    "position": "8.14"
                 }, 
                 {
                     "date": "2018-04-05", 
@@ -14033,7 +14075,7 @@
             ]
         }, 
         {
-            "date": "2018-10-21", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -14847,6 +14889,16 @@
                         "name": "quhu"
                     }, 
                     "name": "quhu"
+                }, 
+                {
+                    "date": "2018-12-24", 
+                    "position": "5.29", 
+                    "name": "$q&#x14d;la", 
+                    "text": [
+                        "1]Modern Tsarin\n<div class=\"pronunciation\"><ipa><a mt]/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</a></ipa></div>\n", 
+                        "3]stem proper noun <div class=\"definition\"><a href=\"../c/$corla.html#english\">Corla</a></div>\n", 
+                        "4]Transliterations\n<strong>High Lulani</strong>: <a href=\"../k/$kurila.html#highlulani\">Kurila</a> <high-lulani>&gt;Rl</high-lulani>\n"
+                    ]
                 }
             ]
         }, 
@@ -17349,7 +17401,8 @@
                         "score": 9, 
                         "name": "fezhle"
                     }, 
-                    "name": "$fezhle"
+                    "name": "$fezhle", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-10-03", 
@@ -17812,7 +17865,7 @@
             ]
         }, 
         {
-            "date": "2018-12-23", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -19616,14 +19669,16 @@
                     "name": "sneki"
                 }, 
                 {
-                    "date": "2018-12-23", 
-                    "position": "3.13", 
+                    "date": "2018-12-24", 
+                    "position": "7.15", 
                     "name": "saxita.lara", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>sXt / lr</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/sa&#x2cc;&#x255;it&#x2b0;.&#x259;&#x2c8;la&#x27d;a/</a></ipa></div>\n", 
                         "3]derived <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/elements.html\">element</a> compound <div class=\"definition\">water, dihydrogen monoxide, H<sub>2</sub>O</div>\n", 
-                        "4]Etymology\n<a href=\"../s/sa.html#highlulani\">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em> + <a href=\"../x/xita.html#highlulani\">xita</a> <high-lulani>Xt</high-lulani> <em>one</em> + <a href=\"../l/la.html#highlulani\">la</a> <high-lulani>l</high-lulani> <em>hydrogen</em> + <a href=\"../r/ra.html#highlulani\">ra</a> <high-lulani>r</high-lulani> <em>two</em>\n", 
+                        "4]Etymology\n", 
+                        "f]<a href=\"../s/sa.html#highlulani\">sa</a> <high-lulani>s</high-lulani> <em>oxygen</em> + <a href=\"../x/xita.html#highlulani\">xita</a> <high-lulani>Xt</high-lulani> <em>one</em>\n", 
+                        "e]<a href=\"../l/la.html#highlulani\">la</a> <high-lulani>l</high-lulani> <em>hydrogen</em> + <a href=\"../r/ra.html#highlulani\">ra</a> <high-lulani>r</high-lulani> <em>two</em>\n", 
                         "4]See Also\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../d/da.html#highlulani\">da</a> <high-lulani>d</high-lulani> <em>water</em>\n", 

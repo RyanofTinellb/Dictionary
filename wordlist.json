@@ -4743,6 +4743,19 @@
     {
         "p": [
             "stem", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "Koine Fezhl&ecirc;", 
+        "m": "Toresh", 
+        "t": "T&#x157;sh", 
+        "d": [
+            "Toresh"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
             "modal", 
             "adverb"
         ], 
@@ -5985,6 +5998,23 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "coelacanth; <em>three-tail fish</em>", 
+        "t": "daxunikifigi&nbsp;qasa", 
+        "d": [
+            "coelacanth", 
+            "three", 
+            "tail", 
+            "fish"
+        ]
+    }, 
+    {
+        "p": [
             "stem", 
             "adposition"
         ], 
@@ -6640,6 +6670,26 @@
             "to", 
             "feel", 
             "cold"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "Tsarin woman, major character of the <em>Coelacanth Quartet</em>", 
+        "t": "Corla", 
+        "d": [
+            "Tsarin", 
+            "woman", 
+            "major", 
+            "character", 
+            "of", 
+            "the", 
+            "Coelacanth", 
+            "Quartet"
         ]
     }, 
     {
@@ -12278,6 +12328,19 @@
             "her", 
             "he", 
             "she"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "Modern Tsarin", 
+        "m": "Corla", 
+        "t": "Q&#x14d;la", 
+        "d": [
+            "Corla"
         ]
     }, 
     {
