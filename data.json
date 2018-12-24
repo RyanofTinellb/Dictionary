@@ -309,7 +309,8 @@
                         "score": 27, 
                         "name": "adi"
                     }, 
-                    "name": "&rsquo;adi"
+                    "name": "&rsquo;adi", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-05-08", 
@@ -5217,8 +5218,10 @@
                     "name": "tina"
                 }, 
                 {
-                    "date": "2018-09-30", 
+                    "date": "2018-12-24", 
                     "text": [
+                        "d also]\n<em>see also:</em> <a href=\"../t/$tinalli.html#also\">Tinalli</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>Tn;L</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/t&#x268;&#x2c8;na&#x28e;.&#x28e;&#x268;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">universe; multiverse</div>"
@@ -5227,11 +5230,14 @@
                         "score": 2125764, 
                         "name": "tinali"
                     }, 
-                    "name": "tinalli"
+                    "name": "tinalli", 
+                    "position": "2.17"
                 }, 
                 {
-                    "date": "2018-12-20", 
+                    "date": "2018-12-24", 
                     "text": [
+                        "d also]\n<em>see also</em>: <a href=\"../t/tinalli.html#also\">tinalli</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>Tn;L</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/t&#x268;&#x2c8;na&#x28e;.&#x28e;&#x268;/</a></ipa></div>\n", 
                         "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../t/$tinellb.html#english\">Tinellb</a></div>"
@@ -5240,7 +5246,8 @@
                         "score": 2125773, 
                         "name": "tinali"
                     }, 
-                    "name": "$tinalli"
+                    "name": "$tinalli", 
+                    "position": "3.1"
                 }, 
                 {
                     "date": "2018-12-23", 
@@ -5928,12 +5935,10 @@
                     "position": "6.25", 
                     "name": "$t&#x157;sh", 
                     "text": [
-                        "1]Koine Fezhl&ecirc;\n<div class=\"pronunciation\"><ipa><a kf]/tr&#x329;&#x283;/</a></ipa></div>\n", 
+                        "1]Koine Fezhl&ecirc;\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA#kf\">/tr&#x329;&#x283;/</a></ipa></div>\n", 
                         "3]stem proper noun <div class=\"definition\"><a href=\"../t/$toresh.html#english\">Toresh</a></div>\n", 
                         "4]Translations\n", 
-                        "d wordlist\n", 
-                        "f]<strong>High Lulani</strong>: <a href=\"../t/$turassi.html#highlulani\">Turassi</a> <high-lulani>er;S</high-lulani>", 
-                        "/d]\n"
+                        "f]<strong>High Lulani</strong>: <a href=\"../t/$turassi.html#highlulani\">Turassi</a> <high-lulani>er;S</high-lulani>\n"
                     ]
                 }
             ]
@@ -14895,9 +14900,9 @@
                     "position": "5.29", 
                     "name": "$q&#x14d;la", 
                     "text": [
-                        "1]Modern Tsarin\n<div class=\"pronunciation\"><ipa><a mt]/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</a></ipa></div>\n", 
+                        "1]Modern Tsarin\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA#mt\">/&#x2c8;&#x1c2;&#x2b0;&#x254;&#x2d0;.l&#x259;/</a></ipa></div>\n", 
                         "3]stem proper noun <div class=\"definition\"><a href=\"../c/$corla.html#english\">Corla</a></div>\n", 
-                        "4]Transliterations\n<strong>High Lulani</strong>: <a href=\"../k/$kurila.html#highlulani\">Kurila</a> <high-lulani>&gt;Rl</high-lulani>\n"
+                        "4]Transliterations\n<strong>High Lulani</strong>: <a href=\"../k/$kurila.html#highlulani\">Kurila</a> <high-lulani>&gt;Rl</high-lulani>"
                     ]
                 }
             ]
@@ -15942,7 +15947,7 @@
             ]
         }, 
         {
-            "date": "2018-12-22", 
+            "date": "2018-12-24", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -17035,6 +17040,17 @@
                         "3]derived cardinal mathematics numeral <div class=\"definition\">-6, <overline>6</overline>; minus six; negative six</div>\n", 
                         "4]Etymology\nBlend of <strong>reverse</strong> + <strong>six</strong>\n", 
                         "4]Translations\n<strong>High Lulani</strong>: <a href=\"../j/jusiti.html#highlulani\">jusiti</a> <high-lulani>YST</high-lulani>\n"
+                    ]
+                }, 
+                {
+                    "date": "2018-12-24", 
+                    "position": "4.5", 
+                    "name": "$ra&rsquo;ani", 
+                    "text": [
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>raN</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x27d;&#x259;&#x2c8;&#x294;an.&#x268;/</a></ipa></div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">Ryan</div>\n", 
+                        "4]Notes\n<em>transliteration of</em> <strong>English</strong> Ryan"
                     ]
                 }
             ]

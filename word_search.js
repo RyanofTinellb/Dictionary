@@ -40,15 +40,15 @@ function markdown(text) {
 }
 
 function wordsearch() {
-    let search = search();
-    if (search) {
-        window.location.href = "../" + search();
+    let term = search();
+    if (term) {
+        window.location.href = "../" + term;
     }
 }
 
 function toplevelwordsearch() {
-    let search = search();
-    if (search) {
-        window.location.href = search();
+    let term = search();
+    if (term) {
+        window.location.href = term;
     }
 }
