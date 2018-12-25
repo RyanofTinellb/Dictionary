@@ -11440,23 +11440,6 @@
     }, 
     {
         "p": [
-            "stem", 
-            "proper", 
-            "noun", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "universe <span class=\"universe\"> M<sup>204</sup>&nu;</span>", 
-        "t": "nubi", 
-        "d": [
-            "universe", 
-            "M204", 
-            "nu", 
-            ""
-        ]
-    }, 
-    {
-        "p": [
             "inanimate", 
             "stem", 
             "noun", 
@@ -11687,6 +11670,22 @@
         "d": [
             "diary", 
             "journal"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "universe <span class=\"universe\"> M<sup>204</sup>&nu;</span>", 
+        "t": "Nubi", 
+        "d": [
+            "universe", 
+            "M204", 
+            "nu", 
+            ""
         ]
     }, 
     {

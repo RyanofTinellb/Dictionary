@@ -5932,7 +5932,7 @@
                 }, 
                 {
                     "date": "2018-12-24", 
-                    "position": "6.25", 
+                    "position": "6.0", 
                     "name": "$t&#x157;sh", 
                     "text": [
                         "1]Koine Fezhl&ecirc;\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA#kf\">/tr&#x329;&#x283;/</a></ipa></div>\n", 
@@ -11252,7 +11252,7 @@
             ]
         }, 
         {
-            "date": "2018-12-22", 
+            "date": "2018-12-25", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -12136,7 +12136,7 @@
                     "name": "mika"
                 }, 
                 {
-                    "date": "2018-10-21", 
+                    "date": "2018-12-25", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>M&gt;</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;mik.&#x289;/</a></ipa></div>\n", 
@@ -12165,7 +12165,8 @@
                         "score": 0, 
                         "name": "miku"
                     }, 
-                    "name": "miku"
+                    "name": "miku", 
+                    "position": "1.0"
                 }, 
                 {
                     "date": "2018-04-10", 
@@ -12775,7 +12776,7 @@
             ]
         }, 
         {
-            "date": "2018-12-17", 
+            "date": "2018-12-25", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -13773,24 +13774,6 @@
                     "name": "nu&rsquo;ifi"
                 }, 
                 {
-                    "date": "2018-06-04", 
-                    "text": [
-                        "1]High Lulani\n", 
-                        "2]<high-lulani>IB</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;nub.&#x268;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> (capitalised) <div class=\"definition\">universe <span class=\"universe\"> M<sup>204</sup>&nu;</span></div>\n", 
-                        "4]Notes\nThis is Queen Loren&rsquo;s home reality; the reality in which the planet Mala Ptokonoi is found\n", 
-                        "4]Derived Terms\n", 
-                        "d wordlist]\n", 
-                        "f]<a href=\"../k/kunubi.html#highlulani\">kunubi</a> <high-lulani>&gt;IB</high-lulani> <em>sky</em>", 
-                        "/d]"
-                    ], 
-                    "flatname": {
-                        "score": 0, 
-                        "name": "nubi"
-                    }, 
-                    "name": "nubi"
-                }, 
-                {
                     "date": "2018-04-03", 
                     "text": [
                         "1]High Lulani\n", 
@@ -14076,6 +14059,21 @@
                         "name": "nuhumusa"
                     }, 
                     "name": "nuhumusa"
+                }, 
+                {
+                    "date": "2018-12-25", 
+                    "position": "1.0", 
+                    "name": "$nubi", 
+                    "text": [
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>IB</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;nub.&#x268;/</a></ipa></div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">universe <span class=\"universe\"> M<sup>204</sup>&nu;</span></div>\n", 
+                        "4]Notes\nThis is Queen Loren&rsquo;s home reality; the reality in which the planet Mala Ptokonoi is found\n", 
+                        "4]Derived Terms\n", 
+                        "d wordlist]\n", 
+                        "f]<a href=\"../k/kunubi.html#highlulani\">kunubi</a> <high-lulani>&gt;IB</high-lulani> <em>sky</em>", 
+                        "/d]\n"
+                    ]
                 }
             ]
         }, 
@@ -17881,7 +17879,7 @@
             ]
         }, 
         {
-            "date": "2018-12-24", 
+            "date": "2018-12-25", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -17890,14 +17888,16 @@
             "name": "S", 
             "children": [
                 {
-                    "date": "2018-12-23", 
+                    "date": "2018-12-25", 
                     "text": [
+                        "d also]\n<em>see also:</em> <a href=\"../s/sa-.html#also\">sa-</a>; <a href=\"../s/-sa.html#also\">-sa</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>s</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/sa/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">solitude; being alone; aloneness</div>\n", 
                         "4]Example Quotes\n", 
                         "d folding]\n", 
-                        "e]<strong>&#x294;a&rsquo;ima haru sada.</strong>\n", 
+                        "f]<strong>&#x294;a&rsquo;ima haru sada.</strong>\n", 
                         "e]<high-lulani>.aim / hw / sd.</high-lulani>\n", 
                         "e]<a href=\"../a/'a'ima.html#highlulani\">&#x294;a&rsquo;ima</a> <a href=\"../h/haru.html#highlulani\">haru</a> <a href=\"../s/sa.html#highlulani\">sa</a>-<a href=\"../d/da.html#highlulani\">da</a>.\n", 
                         "e]<em>Traveller accompany solitude-negative_aspect</em>.\n", 
@@ -17935,20 +17935,22 @@
                         "name": "sa"
                     }, 
                     "name": "sa", 
-                    "position": "1.0"
+                    "position": "2.13"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-25", 
                     "text": [
+                        "d also]\n<em>see also:</em> <a href=\"../s/sa.html#also\">sa</a>; <a href=\"../s/sa-.html#also\">sa-</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>s</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/s&#x259;/</a></ipa></div>\n", 
                         "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes\">derivational</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html\">suffix</a> (<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a>: <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> &rarr; <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#animatenoun\">animate</a>) <div class=\"definition\">derives an animate noun from an abstract noun</div>\n", 
                         "4]Examples\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../p/pucasa.html#highlulani\">pucasa</a> <high-lulani>ocs</high-lulani> <em>optimist</em>\n", 
-                        "e]<a href=\"../s/sasa.html#highlulani\">sasa</a> <high-lulani>ss</high-lulani> <em>introvert</em>\n", 
+                        "e]<a href=\"../s/sasa.html#highlulani\">sasa</a> <high-lulani>ss</high-lulani> <em&#x26a;ntrovert</em>\n", 
                         "e]<a href=\"../d/dattusa.html#highlulani\">dattusa</a> <high-lulani>d;es</high-lulani> <em>god</em>\n", 
-                        "e]<a href=\"../d/diss.sa.html#highlulani\">diss&middot;sa</a> <high-lulani>D;zs</high-lulani> <em>youth</em>\n", 
+                        "e]<a href=\"../d/diss..sa.html#highlulani\">diss&middot;sa</a> <high-lulani>D;zs</high-lulani> <em>youth</em>\n", 
                         "e]<a href=\"../m/mulisa.html#highlulani\">mulisa</a> <high-lulani>ULs</high-lulani> <em>fool</em>\n", 
                         "e]<a href=\"../l/luxi.html#highlulani\">luxi</a><a href=\"../r/ra.html#highlulani\">ra</a><strong>sa</strong> <high-lulani>WXrs</high-lulani> <em>twin</em>\n", 
                         "e]<a href=\"../t/tuhhisa.html#highlulani\">tuhhisa</a> <high-lulani>e;Hs</high-lulani> <em>farmer</em>", 
@@ -17958,11 +17960,14 @@
                         "score": 18, 
                         "name": "sa"
                     }, 
-                    "name": "-sa"
+                    "name": "-sa", 
+                    "position": "15.9"
                 }, 
                 {
-                    "date": "2018-04-05", 
+                    "date": "2018-12-25", 
                     "text": [
+                        "d also]\n<em>see also</em>: <a href=\"../s/sa.html#also\">sa</a>; <a href=\"../s/-sa.html#also\">-sa</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
                         "2]<high-lulani>s</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/s&#x259;/</a></ipa></div>\n", 
                         "3]stem <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#cardinalnumbers\">cardinal</a> <a href=\"http://grammar.tinellb.com/highlulani/apocrypha/numbers.html\">number</a> prefix <div class=\"definition\">one</div>\n", 
@@ -17975,7 +17980,8 @@
                         "score": 1458, 
                         "name": "sa"
                     }, 
-                    "name": "sa-"
+                    "name": "sa-", 
+                    "position": "2.17"
                 }, 
                 {
                     "date": "2018-12-21", 

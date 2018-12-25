@@ -13,7 +13,13 @@ const MARKDOWN = {
     '&#x157;': ',r',
     '&#x14d;': '_o'
 };
-
+const SIEVE = (entry, search, terms) =>
+    clean(markdown(entry.t.toLowerCase())) == search ||
+    includesAll(entry.d, terms);
+const POS_SIEVE = (entry, search, terms) =>
+    includesAll(entry.p, terms);
+const LANG_SIEVE = (entry, search, terms) =>
+    entry.l == search
 
 if (window.location.href.indexOf('?') != -1) {
     RESULTS.innerHTML = 'Searching...';
@@ -25,28 +31,24 @@ async function search() {
     data = await data.json();
     let terms = getTerms();
     if (!terms) {
-        results = [];
+        results = '';
     } else {
         place(terms);
-        results = collate(data, terms);
+        results = [SIEVE, POS_SIEVE, LANG_SIEVE]
+                    .map(sieve => display(collate(data, terms, sieve)))
+                    .join('<br><br>');
     }
-    RESULTS.innerHTML = display(results);
+    results = results.length <= 43 ? 'No matching entries found.' : results;
+    RESULTS.innerHTML = results;
 }
 
 function place(terms) {
     SEARCH.value = terms.join(' ');
 }
 
-function collate(data, terms) {
+function collate(data, terms, sieve) {
     let search = clean(terms.join(' '));
-    results = [];
-    for (const entry of data) {
-        if (clean(markdown(entry.t.toLowerCase())) == search ||
-                includesAll(entry.d, terms)) {
-            results.push(entry);
-        }
-    }
-    return results;
+    return data.filter(entry => sieve(entry, search, terms));
 }
 
 function clean(text) {
@@ -57,10 +59,12 @@ function includesAll(entry, terms) {
     return terms.every(term => entry.includes(term));
 }
 
+function includesNone(entry, terms) {
+    return !(terms.split("+").map(npos => entry.includes(npos))
+                             .reduce((acc, curr) => acc || curr));
+}
+
 function display(entries, id) {
-    if (entries.length == 0) {
-        return '<br>No matching entries found';
-    }
     return `<ol>${entries.map(createLine).join('')}</ol>`;
 }
 
