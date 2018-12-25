@@ -14906,7 +14906,7 @@
             ]
         }, 
         {
-            "date": "2018-12-21", 
+            "date": "2018-12-25", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -14964,23 +14964,6 @@
                     "date": "2018-04-04", 
                     "text": [
                         "1]High Lulani\n", 
-                        "2]<high-lulani>li</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;la&#x294;.&#x268;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes\">derivational</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html\">suffix</a> (<a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/index.html\">verb</a> &rarr; <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a>) <div class=\"definition\">derives an animate noun from an intransitive verb</div>\n", 
-                        "4]Examples\n", 
-                        "d wordlist]\n", 
-                        "f]<a href=\"../n/narala'i.html#highlulani\">narala&rsquo;i</a> <high-lulani>nrli</high-lulani> <em>sleeper</em>", 
-                        "/d]"
-                    ], 
-                    "flatname": {
-                        "score": 2187, 
-                        "name": "lai"
-                    }, 
-                    "name": "la&rsquo;i"
-                }, 
-                {
-                    "date": "2018-04-04", 
-                    "text": [
-                        "1]High Lulani\n", 
                         "2]<high-lulani>lT</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;lat&#x2b0;.&#x268;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">chance; opportunity</div>"
                     ], 
@@ -14991,12 +14974,12 @@
                     "name": "lati"
                 }, 
                 {
-                    "date": "2018-11-18", 
+                    "date": "2018-12-25", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>lD</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;lad.&#x268;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun\">inanimate</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">cloud</div>\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/index.html\">verb</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">spreading</div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">spreading</div>\n", 
                         "4]Derived Terms\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../k/kiladi.html#highlulani\">kiladi</a> <high-lulani>KlD</high-lulani> <em>to spread out</em>", 
@@ -15006,7 +14989,8 @@
                         "score": 0, 
                         "name": "ladi"
                     }, 
-                    "name": "ladi"
+                    "name": "ladi", 
+                    "position": "5.16"
                 }, 
                 {
                     "date": "2018-04-04", 
@@ -15941,6 +15925,20 @@
                         "name": "luxi"
                     }, 
                     "name": "luxi"
+                }, 
+                {
+                    "date": "2018-12-25", 
+                    "position": "1.0", 
+                    "name": "-la&rsquo;i", 
+                    "text": [
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>li</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;la&#x294;.&#x268;/</a></ipa></div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes\">derivational</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html\">suffix</a> (<a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/index.html\">verb</a> &rarr; <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a>) <div class=\"definition\">derives an animate noun from an intransitive verb</div>\n", 
+                        "4]Examples\n", 
+                        "d wordlist]\n", 
+                        "f]<a href=\"../n/narala'i.html#highlulani\">narala&rsquo;i</a> <high-lulani>nrli</high-lulani> <em>sleeper</em>", 
+                        "/d]\n"
+                    ]
                 }
             ]
         }, 

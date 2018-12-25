@@ -12386,27 +12386,6 @@
     }, 
     {
         "p": [
-            "stem", 
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an animate noun from an intransitive verb", 
-        "t": "la&rsquo;i", 
-        "d": [
-            "derives", 
-            "an", 
-            "animate", 
-            "noun", 
-            "from", 
-            "an", 
-            "intransitive", 
-            "verb"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -12436,7 +12415,6 @@
         "p": [
             "abstract", 
             "stem", 
-            "verb", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -13269,6 +13247,27 @@
         "d": [
             "multiple", 
             "birth"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate noun from an intransitive verb", 
+        "t": "-la&rsquo;i", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "noun", 
+            "from", 
+            "an", 
+            "intransitive", 
+            "verb"
         ]
     }, 
     {

@@ -16,10 +16,6 @@ const MARKDOWN = {
 const SIEVE = (entry, search, terms) =>
     clean(markdown(entry.t.toLowerCase())) == search ||
     includesAll(entry.d, terms);
-const POS_SIEVE = (entry, search, terms) =>
-    includesAll(entry.p, terms);
-const LANG_SIEVE = (entry, search, terms) =>
-    entry.l == search
 
 if (window.location.href.indexOf('?') != -1) {
     RESULTS.innerHTML = 'Searching...';
@@ -34,16 +30,35 @@ async function search() {
         results = '';
     } else {
         place(terms);
-        results = [SIEVE, POS_SIEVE, LANG_SIEVE]
-                    .map(sieve => display(collate(data, terms, sieve)))
-                    .join('<br><br>');
+        results = `${display(collate(data, terms, SIEVE))}<br>
+                   ${display(pos_lang(data, terms))}`;
     }
-    results = results.length <= 43 ? 'No matching entries found.' : results;
+    console.log(results.length);
+    results = results.length <= 42 ? 'No matching entries found.' : results;
     RESULTS.innerHTML = results;
 }
 
 function place(terms) {
     SEARCH.value = terms.join(' ');
+}
+
+function pos_lang(data, terms) {
+    terms = terms.map(term => term.toLowerCase());
+    for (let term of terms) {
+        let arr = data.filter(entry => entry.p.includes(term));
+        if (!arr.length) {
+            arr = data.filter(entry => language(entry).includes(term));
+        }
+        data = arr;
+        if (!data.length) {
+            return data;
+        }
+    }
+    return data;
+}
+
+function language(entry) {
+    return entry.l.toLowerCase().split(' ');
 }
 
 function collate(data, terms, sieve) {
@@ -59,12 +74,11 @@ function includesAll(entry, terms) {
     return terms.every(term => entry.includes(term));
 }
 
-function includesNone(entry, terms) {
-    return !(terms.split("+").map(npos => entry.includes(npos))
-                             .reduce((acc, curr) => acc || curr));
+function includesSome(entry, terms) {
+    return terms.some(term => entry.includes(term));
 }
 
-function display(entries, id) {
+function display(entries) {
     return `<ol>${entries.map(createLine).join('')}</ol>`;
 }
 
