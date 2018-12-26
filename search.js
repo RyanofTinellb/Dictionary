@@ -15,6 +15,12 @@ const MARKDOWN = {
     '&#x157;': ',r',
     '&#x14d;': '_o'
 };
+const LANGUAGES = [
+    'english', 'lulani', 'high', 'demotic', 'fezhle', 'early', 'late', 'koine',
+    'ptokan', 'old', 'middle', 'standard', 'brequen', 'pre-brequen', 'archaic',
+    'common', 'zhaladi', 'proto', 'contemporary', 'reformed', 'tsarin',
+    'classical', 'modern', 'solajin', 'ancient', 'medieval', 'traditional', 'new'
+]
 
 
 if (window.location.href.indexOf('?') != -1) {
@@ -30,10 +36,10 @@ async function search() {
         results = '';
     } else {
         place(terms);
-        results = [collate, pos_lang, lang_def]
+        results = [collate, pos_lang, def_lang]
                    .map(fn => display(fn(data, terms.map(LOWER))))
-                   .sort((a, b) => a.length - b.length)
                    .filter(entry => entry.length)
+                   .sort((a, b) => a.length - b.length)
                    .join('');
     }
     if (results.length) {
@@ -67,10 +73,14 @@ function capitalise(string) {
     }
 }
 
+function esc(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+}
+
 function backupDisplay(pages, data, terms) {
     terms = terms.map(markdown);
     let regexes = terms.map(term =>
-            RegExp(`(${term}|${capitalise(term)})`, 'g'));
+            RegExp(`(${esc(term)}|${capitalise(esc(term))})`, 'g'));
     return `${
     !arr.length ? 'No matching entries found.' :
          `<ul>${pages.map(page => {
@@ -134,13 +144,14 @@ function oneTermSearch(arr, term) {
     return text;
 }
 
-
 function place(terms) {
     SEARCH.value = terms.join(' ');
 }
 
 function pos_lang(data, terms) {
-    terms = terms.map(term => term.toLowerCase());
+    if (includesAll(LANGUAGES, terms)) {
+        return [];
+    }
     for (let term of terms) {
         let arr = data.filter(entry => entry.p.includes(term));
         if (!arr.length) {
@@ -154,8 +165,7 @@ function pos_lang(data, terms) {
     return data;
 }
 
-function lang_def(data, terms) {
-    terms = terms.map(term => term.toLowerCase());
+function def_lang(data, terms) {
     for (let term of terms) {
         data = data.filter(entry => entry.d.map(
             word => clean(markdown(word.toLowerCase()))
@@ -207,7 +217,7 @@ function createLine(entry) {
 }
 
 function findInitial(text) {
-    return text.replace(/&.*?;/g, '').charAt(0).toLowerCase();
+    return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
 }
 
 function createUrl(text) {

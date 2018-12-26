@@ -1132,19 +1132,12 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "Ir&igrave;a, the capital city of Brequ&egrave;", 
+        "m": "Ir&igrave;a", 
         "t": "&#x294;irri&rsquo;a", 
         "d": [
             "Ir", 
             "igrave", 
-            "a", 
-            "the", 
-            "capital", 
-            "city", 
-            "of", 
-            "Brequ", 
-            "egrave", 
-            ""
+            "a"
         ]
     }, 
     {
@@ -1705,7 +1698,7 @@
         ], 
         "l": "High Lulani", 
         "m": "many", 
-        "t": "&rsquo;uhu", 
+        "t": "-&rsquo;uhu", 
         "d": [
             "many"
         ]
@@ -3387,6 +3380,23 @@
         "t": "busatta", 
         "d": [
             "colour"
+        ]
+    }, 
+    {
+        "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "country in universe D<sup>578</sup>&eta;", 
+        "t": "Brequ&eacute;", 
+        "d": [
+            "country", 
+            "in", 
+            "universe", 
+            "D578", 
+            "eta", 
+            ""
         ]
     }, 
     {

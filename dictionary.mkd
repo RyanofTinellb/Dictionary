@@ -16,6 +16,8 @@ href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 ' | &quot; | <br>
 " | &dquot; | <br>
 = | &eqls; | <br>
+( | &lparen; | <br>
+) | &rparen; | <br>
 &rsquo; | ' | <br>
 &lsquo; | ` | <br>
 &rdquo; | " | <br>
@@ -27,13 +29,16 @@ href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 &eth; | (d | <br>
 &#x259; | !e | <br> <!-- schwa -->
 &egrave; | )e | <br>
+&eacute; | (e | <br>
 &ecirc; | ()e | <br>
 &#x14b; | ,g | <br> <!-- eng -->
 &#x2b0; | +h | <br> <!-- aspiration -->
 &#x2b1; | ++h | <br> <!-- breathy voice -->
 h&#x330; | !!h | <br> <!-- h with tilde below -->
+&igrave; | )i | <br>
+&iacute; | (i | <br>
 &#x268; | =i | <br> <!-- barred i -->
-&#x26a; | >i | <br> <!-- small caps I -->
+&#x26a; | Ii | <br> <!-- small caps I -->
 &#x25f; | =j | <br> <!-- barred j -->
 &#x28e; | %l | <br> <!-- palatal l -->
 l&#x330; | !!l | <br> <!-- l with tilde below -->
@@ -53,3 +58,5 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &dquot; | "" | <br>
 &middot; | (.) | <br>
 &#xff5e; | ~ | <br>
+&lparen; | /( | <br>
+&rparen; | )\ | <br>

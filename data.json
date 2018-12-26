@@ -948,7 +948,7 @@
             ]
         }, 
         {
-            "date": "2018-10-01", 
+            "date": "2018-12-26", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -1477,31 +1477,33 @@
                     "name": "-&rsquo;illu"
                 }, 
                 {
-                    "date": "2018-10-01", 
+                    "date": "2018-12-26", 
                     "text": [
                         "1]English\n", 
-                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x26a;&#x2c8;&#x279;i.&#x259;/</a></ipa></div>\n", 
-                        "3]stem proper noun <div class=\"definition\">the capital city of Brequ&eacute;</div>\n", 
-                        "4]Translations\nHigh Lulani: <a href=\"../i/'irri'a.html#english\">&#x294;irri&rsquo;a</a>"
+                        "2]<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/&#x26a;&#x2c8;&#x279i&#x2d0;.&#x259;/</a></ipa></div>\n", 
+                        "3]stem proper noun <div class=\"definition\">the capital city of <a href=\"../b/$brequ(e.html#english\">Brequ&eacute;</a></div>\n", 
+                        "4]Translations\n<strong>High Lulani</strong>: <a href=\"../i/'irri'a.html#highlulani\">&#x294;irri&rsquo;a</a> <high-lulani>i;Ra</high-lulani>\n"
                     ], 
                     "flatname": {
                         "score": 5112, 
                         "name": "iria"
                     }, 
-                    "name": "$ir&igrave;a"
+                    "name": "$ir&igrave;a", 
+                    "position": "3.49"
                 }, 
                 {
-                    "date": "2018-10-01", 
+                    "date": "2018-12-26", 
                     "text": [
                         "1]High Lulani\n", 
-                        "2]<high-lulani>i;Ra</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;ir.r&#x268;.a/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../i/$ir)ia.html#highlulani\">Ir&igrave;a</a>, the capital city of Brequ&egrave;</div>"
+                        "2]<high-lulani&#x26a;;Ra</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;ir.r&#x268;.a/</a></ipa></div>\n", 
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\"><a href=\"../i/$ir)ia.html#highlulani\">Ir&igrave;a</a></div>"
                     ], 
                     "flatname": {
                         "score": 1597266, 
                         "name": "iria"
                     }, 
-                    "name": "&#x294;irri&rsquo;a"
+                    "name": "&#x294;irri&rsquo;a", 
+                    "position": "4.27"
                 }, 
                 {
                     "date": "2018-04-20", 
@@ -1811,7 +1813,7 @@
             ]
         }, 
         {
-            "date": "2018-09-29", 
+            "date": "2018-12-26", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -2249,17 +2251,14 @@
                     "name": "&rsquo;uxxi"
                 }, 
                 {
-                    "date": "2018-03-28", 
+                    "date": "2018-12-26", 
+                    "position": "5.0", 
+                    "name": "-&rsquo;uhu", 
                     "text": [
                         "1]High Lulani\n", 
                         "2]<high-lulani>uV</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x2c8;&#x294;uh.&#x289;/</a></ipa></div>\n", 
-                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/determiners.html\">determiner</a> <div class=\"definition\">many</div>"
-                    ], 
-                    "flatname": {
-                        "score": 27, 
-                        "name": "uhu"
-                    }, 
-                    "name": "&rsquo;uhu"
+                        "3]stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/determiners.html\">determiner</a> <div class=\"definition\">many</div>\n"
+                    ]
                 }
             ]
         }, 
@@ -3519,7 +3518,7 @@
             ]
         }, 
         {
-            "date": "2018-10-15", 
+            "date": "2018-12-26", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -4437,6 +4436,15 @@
                         "name": "busata"
                     }, 
                     "name": "busatta"
+                }, 
+                {
+                    "date": "2018-12-26", 
+                    "position": "3.18", 
+                    "name": "$brequ&eacute;", 
+                    "text": [
+                        "1]English\n<div class=\"pronunciation\"><ipa><a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">/b&#x279;&#x25b;&#x2c8;k&#x2b0;&aelig;&#x26a;/</a></ipa></div>\n", 
+                        "3]proper noun <div class=\"definition\">country in universe D<sup>578</sup>&eta;</div>"
+                    ]
                 }
             ]
         }, 
