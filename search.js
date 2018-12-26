@@ -1,7 +1,9 @@
 const URL = 'wordlist.json';
+const BACKUP_URL = 'searching.json';
 const QUERY = window.location.href.split('?')[1];
 const SEARCH = document.getElementById('term');
 const RESULTS = document.getElementById('results');
+const LENGTH = entry => entry.length;
 const MARKDOWN = {
     '&rsquo;': "'",
     '&#x294;': "''",
@@ -9,13 +11,11 @@ const MARKDOWN = {
     '&ecirc;': '()e',
     '&igrave;': ')i',
     '&middot;': '..',
-    '&nbsp;': '.',
+    '&nbsp;': ' ',
     '&#x157;': ',r',
     '&#x14d;': '_o'
 };
-const SIEVE = (entry, search, terms) =>
-    clean(markdown(entry.t.toLowerCase())) == search ||
-    includesAll(entry.d, terms);
+
 
 if (window.location.href.indexOf('?') != -1) {
     RESULTS.innerHTML = 'Searching...';
@@ -30,13 +30,108 @@ async function search() {
         results = '';
     } else {
         place(terms);
-        results = `${display(collate(data, terms, SIEVE))}<br>
-                   ${display(pos_lang(data, terms))}`;
+        results = [collate, pos_lang, lang_def]
+                   .map(fn => display(fn(data, terms)))
+                   .sort(LENGTH).filter(LENGTH).join('<br>');
     }
-    console.log(results.length);
-    results = results.length <= 42 ? 'No matching entries found.' : results;
-    RESULTS.innerHTML = results;
+    if (results.length) {
+        RESULTS.innerHTML = results;
+    } else {
+        backupSearch(terms);
+    }
 }
+
+async function backupSearch(terms) {
+    let data = await fetch(BACKUP_URL);
+    data = await data.json();
+    if (!terms.length) {
+        return;
+    } else if (terms.length == 1) {
+        arr = oneTermSearch(data, terms);
+    } else {
+        arr = multiTermSearch(data, terms);
+    }
+    RESULTS.innerHTML = backupDisplay(arr, data, terms);
+}
+
+function capitalise(string) {
+    if (string.length == 0) {
+        return ''
+    }
+    if (string.startsWith('&rsquo;')) {
+        return string.replace('&rsquo;', '&#x294;');
+    } else {
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+}
+
+function backupDisplay(pages, data, terms) {
+    terms = terms.map(markdown);
+    let regexes = terms.map(term =>
+            RegExp(`(${term}|${capitalise(term)})`, 'g'));
+    return `${
+    !arr.length ? 'No matching entries found.' :
+         `<ol>${pages.map(page => {
+            let pagenum = page.page;
+            let link = data.urls[pagenum];
+            let name = data.names[pagenum];
+            let lines = page.lines.map(
+                linenum => highlight(regexes, data.sentences[linenum]));
+            return `<li><a href="${link}">${name}</a>: ${
+                lines.join(' &hellip; ')}</li>`;
+    }).join('')}</ol>`}`;
+}
+
+function highlight(terms, line) {
+    terms.forEach(term => {
+        line = line.replace(term, '<strong>$1</strong>');
+    });
+    return line;
+}
+
+function unique(arr) {
+    return arr.filter(
+        (item, pos, ary) => !pos || item !== ary[pos - 1]
+    );
+}
+
+function uniquePageNumbers(pages) {
+    return pages.map(page => {
+        page.lines = unique(page.lines.sort());
+        return page;
+    });
+}
+
+function multiTermSearch(arr, terms) {
+    let pages = [].concat(...terms.map(term => oneTermSearch(arr, term)));
+    pages.sort((a, b) => a.page - b.page);
+    let output = [];
+    let current = undefined;
+    for (let page of pages) {
+        if (current && page.page === current.page) {
+            current.lines.push(...page.lines);
+            current.count++;
+        } else {
+            if (current) { output.push(current); }
+            current = {page: page.page, lines: page.lines, count: 1};
+        }
+    }
+    output = uniquePageNumbers(output);
+    return output.filter(page => page.count === terms.length);
+}
+
+function oneTermSearch(arr, term) {
+    pages = arr.terms[term];
+    text = [];
+    for (page in pages) {
+        text.push({
+            page: parseInt(page),
+            lines: pages[page].map(line => parseInt(line))
+        });
+    }
+    return text;
+}
+
 
 function place(terms) {
     SEARCH.value = terms.join(' ');
@@ -57,17 +152,34 @@ function pos_lang(data, terms) {
     return data;
 }
 
+function lang_def(data, terms) {
+    terms = terms.map(term => term.toLowerCase());
+    for (let term of terms) {
+        data = data.filter(entry => entry.d.map(
+            word => clean(markdown(word.toLowerCase()))
+        ).includes(term) || language(entry).includes(term));
+        if (!data.length) {
+            return data;
+        }
+    }
+    return data;
+}
+
 function language(entry) {
     return entry.l.toLowerCase().split(' ');
 }
 
-function collate(data, terms, sieve) {
-    let search = clean(terms.join(' '));
-    return data.filter(entry => sieve(entry, search, terms));
+function collate(data, terms) {
+    return data.filter(entry =>
+        includesAll(clean_split(entry.t), terms));
 }
 
 function clean(text) {
-    return text.toLowerCase().replace(/[^a-z']/g, '');
+    return text.toLowerCase().replace(/[^a-z' ]/g, '');
+}
+
+function clean_split(text) {
+    return clean(markdown(text.toLowerCase())).split(' ')
 }
 
 function includesAll(entry, terms) {
@@ -79,7 +191,11 @@ function includesSome(entry, terms) {
 }
 
 function display(entries) {
-    return `<ol>${entries.map(createLine).join('')}</ol>`;
+    if (entries.length) {
+        return `<ol>${entries.map(createLine).join('')}</ol>`;
+    } else {
+        return ''
+    }
 }
 
 function createLine(entry) {
@@ -98,6 +214,7 @@ function createUrl(text) {
 
 function sellCaps(text) {
     return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+               .replace(' ', '.');
 }
 
 function markdown(text) {

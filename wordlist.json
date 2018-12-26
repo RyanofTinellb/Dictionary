@@ -13783,26 +13783,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an animate noun from an abstract noun", 
-        "t": "ri", 
-        "d": [
-            "derives", 
-            "an", 
-            "animate", 
-            "noun", 
-            "from", 
-            "an", 
-            "abstract", 
-            "noun"
-        ]
-    }, 
-    {
-        "p": [
             "inanimate", 
             "stem", 
             "noun"
@@ -14248,6 +14228,26 @@
         "t": "Ra&rsquo;ani", 
         "d": [
             "Ryan"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate noun from an abstract noun", 
+        "t": "-ri", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "noun", 
+            "from", 
+            "an", 
+            "abstract", 
+            "noun"
         ]
     }, 
     {

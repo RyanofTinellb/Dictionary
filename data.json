@@ -15943,7 +15943,7 @@
             ]
         }, 
         {
-            "date": "2018-12-24", 
+            "date": "2018-12-26", 
             "text": [], 
             "flatname": {
                 "score": 9, 
@@ -16513,29 +16513,24 @@
                     "name": "reven"
                 }, 
                 {
-                    "date": "2018-04-08", 
+                    "date": "2018-12-26", 
                     "text": [
+                        "d also]\n<em>see also</em>: <a href=\"../r/-ri.html#also\">-ri</a>", 
+                        "/d]\n", 
                         "1]High Lulani\n", 
-                        "2]<high-lulani>R</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x27d;&#x268;/</a></ipa></div>\n", 
+                        "2]<high-lulani>R</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x27d;i/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html\">intransitive</a> stem <a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs\">adjectival</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/verbs/index.html\">verb</a> <div class=\"definition\">to be smooth; to be easy</div>\n", 
                         "4]Antonym\n", 
                         "d wordlist]\n", 
                         "f]<a href=\"../q/qira.html#highlulani\">qira</a> <high-lulani>Qr</high-lulani> <em>to be rough</em>", 
-                        "/d]\n", 
-                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes\">derivational</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html\">suffix</a> (<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a>: <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> &rarr; <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#animatenoun\">animate</a>) <div class=\"definition\">derives an animate noun from an abstract noun</div>\n", 
-                        "4]Examples\n", 
-                        "d wordlist]\n", 
-                        "f]<a href=\"../a/'axasiri.html#highlulani\">&rsquo;axasiri</a> <high-lulani>axSR</high-lulani> <em>adult</em>\n", 
-                        "e]<a href=\"../a/'asilari.html#highlulani\">&rsquo;asilari</a> <high-lulani>aSlR</high-lulani> <em>friend</em>\n", 
-                        "e]<a href=\"../d/dissuri.html#highlulani\">dissuri</a> <high-lulani>D;zR</high-lulani> <em>stranger</em>\n", 
-                        "e]<strong>&#x294;irri&rsquo;ari</strong> <high-lulani>i;RaR</high-lulani> <em>person from</em> <a href=\"../i/ir)ia.html#highlulani\">Ir&igrave;a</a>", 
                         "/d]"
                     ], 
                     "flatname": {
                         "score": 0, 
                         "name": "ri"
                     }, 
-                    "name": "ri"
+                    "name": "ri", 
+                    "position": "3.1"
                 }, 
                 {
                     "date": "2018-04-08", 
@@ -17047,6 +17042,25 @@
                         "2]<high-lulani>raN</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x27d;&#x259;&#x2c8;&#x294;an.&#x268;/</a></ipa></div>\n", 
                         "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#propernouns\">proper</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a> <div class=\"definition\">Ryan</div>\n", 
                         "4]Notes\n<em>transliteration of</em> <strong>English</strong> Ryan"
+                    ]
+                }, 
+                {
+                    "date": "2018-12-26", 
+                    "position": "3.10", 
+                    "name": "-ri", 
+                    "text": [
+                        "d also]\n<em>see also</em>: <a href=\"../r/ri.html#also\">ri</a>", 
+                        "/d]\n", 
+                        "1]High Lulani\n", 
+                        "2]<high-lulani>R</high-lulani>\n<div class=\"pronunciation\"><ipa><a href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">/&#x27d;&#x268;/</a></ipa></div>\n", 
+                        "3]<a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html#derivationalsuffixes\">derivational</a> <a href=\"http://grammar.tinellb.com/highlulani/morphology/suffixes.html\">suffix</a> (<a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html\">noun</a>: <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun\">abstract</a> &rarr; <a href=\"http://grammar.tinellb.com/highlulani/morphology/nouns.html#animatenoun\">animate</a>) <div class=\"definition\">derives an animate noun from an abstract noun</div>\n", 
+                        "4]Examples\n", 
+                        "d wordlist]\n", 
+                        "f]<a href=\"../a/'axasiri.html#highlulani\">&rsquo;axasiri</a> <high-lulani>axSR</high-lulani> <em>adult</em>\n", 
+                        "e]<a href=\"../a/'asilari.html#highlulani\">&rsquo;asilari</a> <high-lulani>aSlR</high-lulani> <em>friend</em>\n", 
+                        "e]<a href=\"../d/dissuri.html#highlulani\">dissuri</a> <high-lulani>D;zR</high-lulani> <em>stranger</em>\n", 
+                        "e]<a href=\"../i/'irri'a.html#highlulani\">&#x294;irri&rsquo;a</a><strong>ri</strong> <high-lulani&#x26a;;RaR</high-lulani> <em>person from</em> <a href=\"../i/$ir)ia.html#highlulani\">Ir&igrave;a</a>", 
+                        "/d]"
                     ]
                 }
             ]
