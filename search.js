@@ -1,6 +1,7 @@
-const URL = 'wordlist.json';
-const BACKUP_URL = 'searching.json';
-const QUERY = window.location.href.split('?')[1];
+var URL = 'wordlist.json';
+var BACKUP_URL = 'searching.json';
+const HREF = window.location.href;
+const QUERY = HREF.split('?')[1];
 const SEARCH = document.getElementById('term');
 const RESULTS = document.getElementById('results');
 const LOWER = word => word.toLowerCase()
@@ -22,16 +23,16 @@ const LANGUAGES = [
     'classical', 'modern', 'solajin', 'ancient', 'medieval', 'traditional', 'new'
 ]
 
-
-if (window.location.href.indexOf('?') != -1) {
-    RESULTS.innerHTML = 'Searching...';
-    search();
+if (HREF.indexOf('?') != -1 &&
+    HREF.indexOf('search') != -1) {
+        RESULTS.innerHTML = 'Searching...';
+        search(getTerms);
 }
 
-async function search() {
+async function search(termsGetter) {
     let data = await fetch(URL);
     data = await data.json();
-    let terms = getTerms();
+    let terms = termsGetter();
     if (!terms) {
         results = '';
     } else {
@@ -89,9 +90,13 @@ function backupDisplay(pages, data, terms) {
             let name = data.names[pagenum];
             let lines = page.lines.map(
                 linenum => highlight(regexes, data.sentences[linenum]));
-            return `<li><a href="${link}">${name}</a>: ${
+            return `<li><a href="${backupUrl(link)}">${name}</a>: ${
                 lines.join(' &hellip; ')}</li>`;
     }).join('')}</ul>`}`;
+}
+
+function backupUrl(link) {
+    return link
 }
 
 function highlight(terms, line) {
@@ -221,6 +226,10 @@ function findInitial(text) {
 }
 
 function createUrl(text) {
+    return createPlainUrl(text);
+}
+
+function createPlainUrl(text) {
     return `${findInitial(text)}/${sellCaps(markdown(text))}.html`
 }
 

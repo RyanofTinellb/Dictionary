@@ -13,8 +13,8 @@ const MARKDOWN = {
 
 
 function search() {
-    let text = document.getElementById("wordsearch").value;
-    if (text == "") {
+    let text = document.getElementById('wordsearch').value;
+    if (text == '') {
         return;
     }
     return createUrl(text);
@@ -30,6 +30,7 @@ function createUrl(text) {
 
 function sellCaps(text) {
     return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+               .replace(' ', '.');
 }
 
 function markdown(text) {
