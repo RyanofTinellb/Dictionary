@@ -24,19 +24,19 @@ const LANGUAGES = [
 ]
 
 if (HREF.indexOf('?') != -1 &&
-    HREF.indexOf('search') != -1) {
+    HREF.toLowerCase().indexOf('search') != -1) {
         RESULTS.innerHTML = 'Searching...';
         search(getTerms);
 }
 
 async function search(termsGetter) {
+    let terms = termsGetter();
+    place(terms);
     let data = await fetch(URL);
     data = await data.json();
-    let terms = termsGetter();
     if (!terms) {
         results = '';
     } else {
-        place(terms);
         results = [collate, pos_lang, def_lang]
                    .map(fn => display(fn(data, terms.map(LOWER))))
                    .filter(entry => entry.length)
