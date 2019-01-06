@@ -6,6 +6,12 @@ a:visited {
   color: #9955AA; /* light violet */
 }
 
+.symbol {
+    font-family: serif;
+    font-style: italic;
+    font-size: larger;
+}
+
 ipa {
   font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
@@ -76,7 +82,7 @@ table high-lulani:hover {
     display: none;
 }
 
-.javascript {
+.javascript, .hidden {
     display: none;
 }
 

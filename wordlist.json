@@ -1067,6 +1067,19 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -1078,19 +1091,6 @@
             "heart", 
             "emotional", 
             "body"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
         ]
     }, 
     {
@@ -1511,6 +1511,22 @@
         "t": "-ulu", 
         "d": [
             "undo"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "mathematics", 
+            "cardinal", 
+            "numeral", 
+            "number", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "<span class=\"symbol\">e</span>", 
+        "t": "&rsquo;u", 
+        "d": [
+            "e"
         ]
     }, 
     {
@@ -2008,17 +2024,17 @@
     {
         "p": [
             "derived", 
+            "compound", 
             "noun", 
+            "personal", 
             "pronoun"
         ], 
         "l": "High Lulani", 
-        "m": "first person genitive pronoun; mine", 
+        "m": "my object; mine", 
         "t": "paguqa", 
         "d": [
-            "first", 
-            "person", 
-            "genitive", 
-            "pronoun", 
+            "my", 
+            "object", 
             "mine"
         ]
     }, 
@@ -2823,7 +2839,8 @@
     {
         "p": [
             "stem", 
-            "mathematics"
+            "mathematics", 
+            "particle"
         ], 
         "l": "High Lulani", 
         "m": "multiplied by", 
@@ -3154,16 +3171,21 @@
         "p": [
             "stem", 
             "mathematics", 
-            "numeral"
+            "cardinal", 
+            "number", 
+            "numeral", 
+            "particle"
         ], 
         "l": "High Lulani", 
-        "m": "-3; <overline>3</overline>; ree; negative three", 
+        "m": "-3, <overline>3</overline>; ree; minus three; negative three", 
         "t": "bila", 
         "d": [
             "", 
             "3", 
             "3", 
             "ree", 
+            "minus", 
+            "three", 
             "negative", 
             "three"
         ]
@@ -3545,9 +3567,9 @@
     }, 
     {
         "p": [
-            "transitive", 
-            "stem", 
-            "action", 
+            "instransitive", 
+            "derived", 
+            "compound", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3686,6 +3708,18 @@
             "pst", 
             "itr", 
             "trm"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -4541,6 +4575,19 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "redo", 
+        "t": "-tuni", 
+        "d": [
+            "redo"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "stem", 
             "noun"
@@ -4736,48 +4783,6 @@
         "t": "T&#x157;sh", 
         "d": [
             "Toresh"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "mathematics", 
-            "numeral"
-        ], 
-        "l": "High Lulani", 
-        "m": "100; one hundred; (225)", 
-        "t": "-takki", 
-        "d": [
-            "100", 
-            "one", 
-            "hundred", 
-            "225", 
-            ""
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "redo", 
-        "t": "-tuni", 
-        "d": [
-            "redo"
         ]
     }, 
     {
@@ -5308,6 +5313,23 @@
         "p": [
             "derived", 
             "compound", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "coelacanth; <em>three-tail fish</em>", 
+        "t": "daxunikifigi&nbsp;qasa", 
+        "d": [
+            "coelacanth", 
+            "three", 
+            "tail", 
+            "fish"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
             "inanimate", 
             "noun"
         ], 
@@ -5499,8 +5521,7 @@
         "p": [
             "stem", 
             "personal", 
-            "pronoun", 
-            "determiner"
+            "pro-determiner"
         ], 
         "l": "High Lulani", 
         "m": "third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her", 
@@ -5837,6 +5858,22 @@
     {
         "p": [
             "stem", 
+            "mathematics", 
+            "cardinal", 
+            "number", 
+            "numeral", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "<span class=\"symbol\">i</span>", 
+        "t": "du&rsquo;ami", 
+        "d": [
+            "i"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -6025,23 +6062,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "compound", 
-            "animate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "coelacanth; <em>three-tail fish</em>", 
-        "t": "daxunikifigi&nbsp;qasa", 
-        "d": [
-            "coelacanth", 
-            "three", 
-            "tail", 
-            "fish"
-        ]
-    }, 
-    {
-        "p": [
             "stem", 
             "adposition"
         ], 
@@ -6065,6 +6085,18 @@
         "d": [
             "to", 
             "help"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "only", 
+        "t": "-ca", 
+        "d": [
+            "only"
         ]
     }, 
     {
@@ -6705,18 +6737,6 @@
             "the", 
             "Coelacanth", 
             "Quartet"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "only", 
-        "t": "-ca", 
-        "d": [
-            "only"
         ]
     }, 
     {
@@ -8500,6 +8520,20 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
+        ]
+    }, 
+    {
+        "p": [
             "stem", 
             "case", 
             "marker", 
@@ -8511,20 +8545,6 @@
         "d": [
             "dative", 
             "dat"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
         ]
     }, 
     {
@@ -9909,6 +9929,32 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "giver", 
+        "t": "-mi", 
+        "d": [
+            "giver"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "any; some", 
+        "t": "-mi", 
+        "d": [
+            "any", 
+            "some"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "stem", 
             "noun"
@@ -10596,32 +10642,6 @@
         "d": [
             "to", 
             "obtain"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "giver", 
-        "t": "-mi", 
-        "d": [
-            "giver"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "any; some", 
-        "t": "-mi", 
-        "d": [
-            "any", 
-            "some"
         ]
     }, 
     {
@@ -11467,6 +11487,22 @@
     }, 
     {
         "p": [
+            "stem", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "universe <span class=\"universe\"> M<sup>204</sup>&nu;</span>", 
+        "t": "Nubi", 
+        "d": [
+            "universe", 
+            "M204", 
+            "nu", 
+            ""
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "stem", 
             "noun", 
@@ -11697,22 +11733,6 @@
         "d": [
             "diary", 
             "journal"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "proper", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "universe <span class=\"universe\"> M<sup>204</sup>&nu;</span>", 
-        "t": "Nubi", 
-        "d": [
-            "universe", 
-            "M204", 
-            "nu", 
-            ""
         ]
     }, 
     {
@@ -12008,6 +12028,22 @@
         "d": [
             "to", 
             "experience"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "marks a female animate", 
+        "t": "-qi", 
+        "d": [
+            "marks", 
+            "a", 
+            "female", 
+            "animate"
         ]
     }, 
     {
@@ -12355,22 +12391,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "marks a female animate", 
-        "t": "-qi", 
-        "d": [
-            "marks", 
-            "a", 
-            "female", 
-            "animate"
-        ]
-    }, 
-    {
-        "p": [
             "transitive", 
             "stem", 
             "verb"
@@ -12409,6 +12429,27 @@
             "a", 
             "horizontal", 
             "surface"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate noun from an intransitive verb", 
+        "t": "-la&rsquo;i", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "noun", 
+            "from", 
+            "an", 
+            "intransitive", 
+            "verb"
         ]
     }, 
     {
@@ -12799,6 +12840,33 @@
         "d": [
             "complementiser", 
             "com"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "complementiser; <small-caps>com</small-caps>", 
+        "t": "-li", 
+        "d": [
+            "complementiser", 
+            "com"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "not; other", 
+        "t": "-li", 
+        "d": [
+            "not", 
+            "other"
         ]
     }, 
     {
@@ -13266,54 +13334,6 @@
     {
         "p": [
             "stem", 
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an animate noun from an intransitive verb", 
-        "t": "-la&rsquo;i", 
-        "d": [
-            "derives", 
-            "an", 
-            "animate", 
-            "noun", 
-            "from", 
-            "an", 
-            "intransitive", 
-            "verb"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "particle"
-        ], 
-        "l": "High Lulani", 
-        "m": "complementiser; <small-caps>com</small-caps>", 
-        "t": "-li", 
-        "d": [
-            "complementiser", 
-            "com"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "not; other", 
-        "t": "-li", 
-        "d": [
-            "not", 
-            "other"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
             "mathematics", 
             "numeral"
         ], 
@@ -13340,6 +13360,24 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "mathematics", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "denotes a pair of something", 
+        "t": "-ra", 
+        "d": [
+            "denotes", 
+            "a", 
+            "pair", 
+            "of", 
+            "something"
+        ]
+    }, 
+    {
+        "p": [
             "stem", 
             "derivational", 
             "suffix", 
@@ -13357,6 +13395,18 @@
             "an", 
             "inanimate", 
             "noun"
+        ]
+    }, 
+    {
+        "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "Ryan", 
+        "t": "Ra&rsquo;ani", 
+        "d": [
+            "Ryan"
         ]
     }, 
     {
@@ -13806,6 +13856,26 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate noun from an abstract noun", 
+        "t": "-ri", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "noun", 
+            "from", 
+            "an", 
+            "abstract", 
+            "noun"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "stem", 
             "noun"
@@ -13948,6 +14018,25 @@
     }, 
     {
         "p": [
+            "derived", 
+            "cardinal", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-5, <overline>5</overline>; minus five; negative five", 
+        "t": "rive", 
+        "d": [
+            "", 
+            "5", 
+            "5", 
+            "minus", 
+            "five", 
+            "negative", 
+            "five"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -13958,6 +14047,26 @@
         "d": [
             "want", 
             "desire"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "cardinal", 
+            "mathematics", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-6, <overline>6</overline>; minus six; negative six", 
+        "t": "rix", 
+        "d": [
+            "", 
+            "6", 
+            "6", 
+            "minus", 
+            "six", 
+            "negative", 
+            "six"
         ]
     }, 
     {
@@ -14151,6 +14260,25 @@
     }, 
     {
         "p": [
+            "stem", 
+            "cardinal", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-4, <overline>4</overline>; negative four; minus four", 
+        "t": "rour", 
+        "d": [
+            "", 
+            "4", 
+            "4", 
+            "negative", 
+            "four", 
+            "minus", 
+            "four"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "cardinal", 
             "numeral"
@@ -14181,114 +14309,6 @@
             "2", 
             "negative", 
             "two"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "cardinal", 
-            "numeral"
-        ], 
-        "l": "English", 
-        "m": "-4, <overline>4</overline>; negative four; minus four", 
-        "t": "rour", 
-        "d": [
-            "", 
-            "4", 
-            "4", 
-            "negative", 
-            "four", 
-            "minus", 
-            "four"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "cardinal", 
-            "numeral"
-        ], 
-        "l": "English", 
-        "m": "-5, <overline>5</overline>; minus five; negative five", 
-        "t": "rive", 
-        "d": [
-            "", 
-            "5", 
-            "5", 
-            "minus", 
-            "five", 
-            "negative", 
-            "five"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "cardinal", 
-            "mathematics", 
-            "numeral"
-        ], 
-        "l": "English", 
-        "m": "-6, <overline>6</overline>; minus six; negative six", 
-        "t": "rix", 
-        "d": [
-            "", 
-            "6", 
-            "6", 
-            "minus", 
-            "six", 
-            "negative", 
-            "six"
-        ]
-    }, 
-    {
-        "p": [
-            "proper", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "Ryan", 
-        "t": "Ra&rsquo;ani", 
-        "d": [
-            "Ryan"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an animate noun from an abstract noun", 
-        "t": "-ri", 
-        "d": [
-            "derives", 
-            "an", 
-            "animate", 
-            "noun", 
-            "from", 
-            "an", 
-            "abstract", 
-            "noun"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "mathematics", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "denotes a pair of something", 
-        "t": "-ra", 
-        "d": [
-            "denotes", 
-            "a", 
-            "pair", 
-            "of", 
-            "something"
         ]
     }, 
     {
@@ -14763,7 +14783,7 @@
             "numeral"
         ], 
         "l": "High Lulani", 
-        "m": "&tau;; 2&pi;", 
+        "m": "<span class=\"symbol\">&tau;</span>; <span class=symbol>2&pi;</span>", 
         "t": "fixi", 
         "d": [
             "", 
@@ -14966,6 +14986,21 @@
     {
         "p": [
             "stem", 
+            "cardinal", 
+            "number", 
+            "mathematics", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "one", 
+        "t": "sa", 
+        "d": [
+            "one"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
             "derivational", 
             "suffix", 
             ""
@@ -14982,20 +15017,6 @@
             "an", 
             "abstract", 
             "noun"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "cardinal", 
-            "number", 
-            "prefix"
-        ], 
-        "l": "High Lulani", 
-        "m": "one", 
-        "t": "sa-", 
-        "d": [
-            "one"
         ]
     }, 
     {
@@ -15619,6 +15640,23 @@
         "t": "-ssasu", 
         "d": [
             "augmentative"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "noun", 
+            "element", 
+            "compound"
+        ], 
+        "l": "High Lulani", 
+        "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
+        "t": "saxita&nbsp;lara", 
+        "d": [
+            "water", 
+            "dihydrogen", 
+            "monoxide", 
+            "H2O"
         ]
     }, 
     {
@@ -16374,23 +16412,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "noun", 
-            "element", 
-            "compound"
-        ], 
-        "l": "High Lulani", 
-        "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
-        "t": "saxita&nbsp;lara", 
-        "d": [
-            "water", 
-            "dihydrogen", 
-            "monoxide", 
-            "H2O"
-        ]
-    }, 
-    {
-        "p": [
             "suffix"
         ], 
         "l": "High Lulani", 
@@ -16708,6 +16729,22 @@
         "t": "xita", 
         "d": [
             "one"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "one particle of a mass", 
+        "t": "-xita", 
+        "d": [
+            "one", 
+            "particle", 
+            "of", 
+            "a", 
+            "mass"
         ]
     }, 
     {
@@ -17069,22 +17106,6 @@
         "t": "xuhhi", 
         "d": [
             "germanium"
-        ]
-    }, 
-    {
-        "p": [
-            "mathematics", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "one particle of a mass", 
-        "t": "-xita", 
-        "d": [
-            "one", 
-            "particle", 
-            "of", 
-            "a", 
-            "mass"
         ]
     }, 
     {

@@ -13,11 +13,17 @@
             "auxiliary": "morphology/auxiliaries.html",
             "cardinal": "apocrypha/numbers.html#cardinalnumbers",
             "case": "syntax/case.html",
+            "cardinal": "apocrypha/numbers.html#cardinalnumbers",
             "chromatic": "morphology/verbs/intransitivity.html#chromaticverbs",
             "communicative": "morphology/verbs/ambitransitivity.html#communicativeverbs",
             "comparative": "apocrypha/comparatives.html",
             "conjunction": "morphology/conjunctions.html",
             "coordinating": "morphology/conjunctions.html#coordinatingconjunctions",
+            "derived": {
+                "not with": [
+                    "compound"
+                ]
+            },
             "derivational": "morphology/suffixes.html#derivationalsuffixes",
             "determiner": "morphology/determiners.html",
             "element": "apocrypha/elements.html",
@@ -27,21 +33,56 @@
             "kinetic": "morphology/verbs/intransitivity.html#kineticverbs",
             "kinship": "apocrypha/kinship.html",
             "mass": "morphology/nouns.html#massnouns",
-            "mathematics": "apocrypha/numbers.html",
+            "mathematics": {
+                "link": "apocrypha/numbers.html",
+                "not with": [
+                    "cardinal"
+                ]
+            },
+            "modal": "morphology/adverbs.html#modals",
             "motive": "morphology/verbs/transitivity.html#motiveverbs",
-            "noun": "morphology/nouns.html",
+            "noun": {
+                "link": "morphology/nouns.html",
+                "not with": [
+                    "pronoun"
+                ]
+            },
             "nominalisation": "morphology/suffixes/index.html#nominalisation",
-            "number": "apocrypha/numbers.html",
+            "number": {
+                "link": "apocrypha/numbers.html",
+                "not with": [
+                    "numeral"
+                ]
+            },
             "numeral": "apocrypha/numbers.html",
             "ordinal": "apocrypha/numbers.html#ordinalnumbers",
-            "quasi-transitive": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
-            "particle": "morphology/particles.html",
+            "quasi-transitive": {
+                "link": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
+                "not with": [
+                    "intransitive"
+                ]
+            },
+            "particle": {
+                "link": "morphology/particles/index.html",
+                "not with": [
+                    "numeral"
+                ]
+            },
             "passive": "syntax/argumentpromotion.html",
             "perceptive": "morphology/verbs/ambitransitivity.html#perceptiveverbs",
             "personal": "morphology/nouns/pronouns.html#personalpronouns",
             "possessive": "morphology/nouns/pronouns.html#possessives",
             "pronoun": "morphology/nouns/pronouns.html",
             "proper": "morphology/nouns.html#propernouns",
+            "stem": {
+                "not with": [
+                    "verb",
+                    "noun",
+                    "adverb",
+                    "particle",
+                    "determiner"
+                ]
+            },
             "suffix": "morphology/suffixes.html",
             "symmetric": "morphology/verbs/intransitivity.html#symmetricrelations",
             "transformative": "morphology/verbs/transitivity.html#transformativeverbs",
@@ -50,5 +91,4 @@
             "vital": "morphology/verbs/transitivity.html#vitalverbs"
         }
     }
-
 }
