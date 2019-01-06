@@ -26,7 +26,11 @@
             },
             "derivational": "morphology/suffixes.html#derivationalsuffixes",
             "determiner": "morphology/determiners.html",
-            "element": "apocrypha/elements.html",
+            "element": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "inanimate": "morphology/nouns.html#inanimatenoun",
             "indefinite": "morphology/deixis.html#indefinitepro-forms",
             "intransitive": "morphology/verbs/intransitivity.html",
@@ -80,7 +84,8 @@
                     "noun",
                     "adverb",
                     "particle",
-                    "determiner"
+                    "determiner",
+                    "adposition"
                 ]
             },
             "suffix": "morphology/suffixes.html",
@@ -89,6 +94,14 @@
             "transitive": "morphology/verbs/transitivity.html",
             "verb": "morphology/verbs/index.html",
             "vital": "morphology/verbs/transitivity.html#vitalverbs"
+        },
+        "English": {
+            "stem": {
+                "not with": [
+                    "noun",
+                    "verb"
+                ]
+            }
         }
     }
 }
