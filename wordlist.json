@@ -2759,8 +2759,8 @@
         "p": [
             "stem", 
             "personal", 
-            "pronoun", 
-            "determiner"
+            "determiner", 
+            "pro-determiner"
         ], 
         "l": "High Lulani", 
         "m": "second person genitive; <small-caps>2gen</small-caps>", 
@@ -3353,7 +3353,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "pebble; stone; sedimentary rock", 
@@ -4358,7 +4359,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "plain; flatland; savanna", 
@@ -6575,7 +6577,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "air; atmosphere", 
@@ -7280,7 +7283,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "lake", 
@@ -7294,7 +7298,8 @@
             "inanimate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "mountain lake", 
@@ -8663,7 +8668,8 @@
             "inanimate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "flatlands", 
@@ -11619,7 +11625,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "mountain; hill", 
@@ -12367,7 +12374,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "mountain", 
@@ -12380,7 +12388,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "river", 
@@ -13586,7 +13595,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "island", 
@@ -14384,7 +14394,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "gorge; valley; canyon", 
@@ -15686,8 +15697,7 @@
         "p": [
             "derived", 
             "noun", 
-            "element", 
-            "compound"
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
@@ -17427,7 +17437,9 @@
             "inanimate", 
             "stem", 
             "mass", 
-            "noun"
+            "noun", 
+            "plant", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "grass; field; savannah", 
@@ -17902,7 +17914,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "geology"
         ], 
         "l": "High Lulani", 
         "m": "ocean; sea", 

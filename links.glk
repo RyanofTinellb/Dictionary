@@ -89,9 +89,15 @@
             },
             "passive": "syntax/argumentpromotion.html",
             "perceptive": "morphology/verbs/ambitransitivity.html#perceptiveverbs",
-            "personal": "morphology/nouns/pronouns.html#personalpronouns",
+            "personal": "morphology/deixis/personalpro-forms.html",
             "possessive": "morphology/nouns/pronouns.html#possessives",
-            "pronoun": "morphology/nouns/pronouns.html",
+            "pro-determiner": {
+                "link": "morphology/deixis/index.html",
+                "not with": [
+                    "determiner"
+                ]
+            },
+            "pronoun": "morphology/deixis/index.html",
             "proper": "morphology/nouns.html#propernouns",
             "stem": {
                 "not with": [
@@ -100,7 +106,8 @@
                     "adverb",
                     "particle",
                     "determiner",
-                    "adposition"
+                    "adposition",
+                    "suffix"
                 ]
             },
             "suffix": "morphology/suffixes.html",
