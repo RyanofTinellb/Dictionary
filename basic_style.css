@@ -12,6 +12,10 @@ a:visited {
     font-size: larger;
 }
 
+.mobile {
+    display: none;
+}
+
 ipa {
   font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
@@ -292,5 +296,13 @@ input[type='checkbox'] {
     .content div.mobile-table table {
         display: block;
         margin-left: 15%;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: inherit;
     }
 }

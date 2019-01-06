@@ -493,7 +493,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "face", 
@@ -814,7 +815,8 @@
         "p": [
             "derived", 
             "inanimate", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "breast; nipple", 
@@ -1322,7 +1324,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "vulva; vagina; internal genitalia", 
@@ -1338,7 +1341,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "belly", 
@@ -1799,7 +1803,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "shoulder", 
@@ -1943,7 +1948,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "fruit", 
@@ -1957,7 +1963,8 @@
             "inanimate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "olive", 
@@ -2096,7 +2103,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "domesticated animal; klesh", 
@@ -2867,15 +2875,18 @@
     }, 
     {
         "p": [
-            "animate", 
+            "3]animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal<div", 
+            "class=\"definition\">puppy</div>"
         ], 
         "l": "Demotic Lulani", 
-        "m": "puppy", 
+        "m": " <div class=\"definition\">", 
         "t": "bad", 
         "d": [
-            "puppy"
+            "", 
+            ""
         ]
     }, 
     {
@@ -3220,7 +3231,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "foot; toe", 
@@ -3325,7 +3337,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "penis; external genitalia", 
@@ -3614,7 +3627,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "pig", 
@@ -3713,18 +3727,6 @@
     {
         "p": [
             "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
             "mathematics", 
             "numeral"
         ], 
@@ -3737,6 +3739,18 @@
             "hundred", 
             "225", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -3764,7 +3778,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "chest; front of the body", 
@@ -4014,7 +4029,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "legs", 
@@ -4803,7 +4819,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "palm of the hand", 
@@ -5063,7 +5080,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "lentil", 
@@ -5213,7 +5231,8 @@
         "p": [
             "inanimate", 
             "derived", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "digestive system", 
@@ -5241,29 +5260,35 @@
     }, 
     {
         "p": [
-            "animate", 
+            "3]animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal<div", 
+            "class=\"definition\">animal;", 
+            "meat</div>"
         ], 
         "l": "High Lulani", 
-        "m": "animal; meat", 
+        "m": " <div class=\"definition\">", 
         "t": "dasu", 
         "d": [
-            "animal", 
-            "meat"
+            "", 
+            ""
         ]
     }, 
     {
         "p": [
-            "derived", 
+            "3]derived", 
             "animate", 
-            "noun"
+            "noun", 
+            "animal<div", 
+            "class=\"definition\">mollusc</div>"
         ], 
         "l": "High Lulani", 
-        "m": "mollusc", 
+        "m": " <div class=\"definition\">", 
         "t": "dasutila", 
         "d": [
-            "mollusc"
+            "", 
+            ""
         ]
     }, 
     {
@@ -5300,7 +5325,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "tail", 
@@ -5312,9 +5338,10 @@
     {
         "p": [
             "derived", 
-            "compound", 
             "animate", 
-            "noun"
+            "compound", 
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "coelacanth; <em>three-tail fish</em>", 
@@ -5813,11 +5840,11 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "other people", 
+        "m": "other person", 
         "t": "dihha", 
         "d": [
             "other", 
-            "people"
+            "person"
         ]
     }, 
     {
@@ -6026,7 +6053,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "hand", 
@@ -6244,7 +6272,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "mouth", 
@@ -6888,7 +6917,8 @@
             "inanimate", 
             "stem", 
             "mass", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "flowers", 
@@ -7131,7 +7161,8 @@
             "inanimate", 
             "stem", 
             "mass", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "spices", 
@@ -7419,7 +7450,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "dragon", 
@@ -7741,7 +7773,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "leg", 
@@ -7890,7 +7923,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "wheat", 
@@ -8081,7 +8115,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "arm", 
@@ -8188,7 +8223,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "horse; ox; draughtsbeast; <em>drif</em>", 
@@ -8334,7 +8370,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "deer", 
@@ -8376,7 +8413,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "marigold", 
@@ -8520,20 +8558,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
-        ]
-    }, 
-    {
-        "p": [
             "stem", 
             "case", 
             "marker", 
@@ -8545,6 +8569,20 @@
         "d": [
             "dative", 
             "dat"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
         ]
     }, 
     {
@@ -9833,7 +9871,8 @@
             "animate", 
             "stem", 
             "mass", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "flies", 
@@ -9957,7 +9996,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "reed", 
@@ -10537,7 +10577,8 @@
         "p": [
             "inanimate", 
             "derived", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "heart", 
@@ -10707,7 +10748,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "fur; hair", 
@@ -11159,7 +11201,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "sheep", 
@@ -11355,7 +11398,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "bear", 
@@ -11443,7 +11487,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "bottom; posterior; derri&egrave;re; buttocks", 
@@ -11532,7 +11577,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "strawberry", 
@@ -11963,7 +12009,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "fish", 
@@ -12085,26 +12132,14 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "dog", 
         "t": "qikanni", 
         "d": [
             "dog"
-        ]
-    }, 
-    {
-        "p": [
-            "animate", 
-            "derived", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "puppy", 
-        "t": "qikannini", 
-        "d": [
-            "puppy"
         ]
     }, 
     {
@@ -12635,7 +12670,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "stomach", 
@@ -12689,7 +12725,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "tongue", 
@@ -12945,7 +12982,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "tree", 
@@ -13306,15 +13344,14 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
-        "m": "eye(s)", 
+        "m": "eye", 
         "t": "luffu", 
         "d": [
-            "eye", 
-            "s", 
-            ""
+            "eye"
         ]
     }, 
     {
@@ -13616,7 +13653,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "plant"
         ], 
         "l": "High Lulani", 
         "m": "potato", 
@@ -13735,7 +13773,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "back", 
@@ -15115,7 +15154,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "side of the body; flank", 
@@ -15780,16 +15820,14 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
-        "m": "heart (physical organ)", 
+        "m": "heart", 
         "t": "sida", 
         "d": [
-            "heart", 
-            "physical", 
-            "organ", 
-            ""
+            "heart"
         ]
     }, 
     {
@@ -15848,7 +15886,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "skin", 
@@ -16293,7 +16332,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "goat", 
@@ -16952,7 +16992,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "bird", 
@@ -16980,7 +17021,8 @@
             "animate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "bluebird", 
@@ -16993,7 +17035,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "elephant", 
@@ -17021,7 +17064,9 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "mass", 
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "feather", 
@@ -17251,7 +17296,8 @@
         "p": [
             "animate", 
             "stem", 
-            "noun"
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
         "m": "cat", 
@@ -17883,7 +17929,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "finger", 

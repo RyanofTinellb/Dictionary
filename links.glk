@@ -7,10 +7,20 @@
             "adjectival": "morphology/verbs/intransitivity.html#adjectivalverbs",
             "adposition": "morphology/adpositions",
             "adverb": "morphology/adverbs.html",
+            "animal": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "animate": "morphology/nouns.html#animatenoun",
             "ambitransitive": "morphology/verbs/ambitransitivity.html",
             "apparent": "morphology/verbs/transitivity.html#apparentverbs",
             "auxiliary": "morphology/auxiliaries.html",
+            "bodypart": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "cardinal": "apocrypha/numbers.html#cardinalnumbers",
             "case": "syntax/case.html",
             "cardinal": "apocrypha/numbers.html#cardinalnumbers",
@@ -60,6 +70,11 @@
             },
             "numeral": "apocrypha/numbers.html",
             "ordinal": "apocrypha/numbers.html#ordinalnumbers",
+            "plant": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "quasi-transitive": {
                 "link": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
                 "not with": [

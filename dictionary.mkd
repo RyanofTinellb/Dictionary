@@ -58,5 +58,5 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &dquot; | "" | <br>
 &middot; | (.) | <br>
 &#xff5e; | ~ | <br>
-&lparen; | /( | <br>
-&rparen; | )\ | <br>
+&lparen; | \( | <br>
+&rparen; | )/ | <br>
