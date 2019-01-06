@@ -110,6 +110,11 @@
                     "suffix"
                 ]
             },
+            "substance": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "suffix": "morphology/suffixes.html",
             "symmetric": "morphology/verbs/intransitivity.html#symmetricrelations",
             "transformative": "morphology/verbs/transitivity.html#transformativeverbs",

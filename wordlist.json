@@ -1399,7 +1399,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "wood", 
@@ -3354,7 +3355,8 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "geology"
+            "geology", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "pebble; stone; sedimentary rock", 
@@ -3368,16 +3370,19 @@
     }, 
     {
         "p": [
-            "inanimate", 
+            "3]inanimate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "substance<div", 
+            "class=\"definition\">limestone</div>"
         ], 
         "l": "High Lulani", 
-        "m": "limestone", 
+        "m": " <div class=\"definition\">", 
         "t": "bufitila", 
         "d": [
-            "limestone"
+            "", 
+            ""
         ]
     }, 
     {
@@ -4389,7 +4394,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "honey", 
@@ -4531,7 +4537,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "bread; biscuit; cookie", 
@@ -4669,7 +4676,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "juice; tea; coffee", 
@@ -4836,15 +4844,18 @@
     }, 
     {
         "p": [
-            "inanimate", 
+            "3]inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance<div", 
+            "class=\"definition\">water</div>"
         ], 
         "l": "High Lulani", 
-        "m": "water", 
+        "m": " <div class=\"definition\">", 
         "t": "da", 
         "d": [
-            "water"
+            "", 
+            ""
         ]
     }, 
     {
@@ -5360,7 +5371,8 @@
             "derived", 
             "compound", 
             "inanimate", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "ice", 
@@ -6516,7 +6528,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "alcohol", 
@@ -15696,6 +15709,7 @@
     {
         "p": [
             "derived", 
+            "compound", 
             "noun", 
             "substance"
         ], 
