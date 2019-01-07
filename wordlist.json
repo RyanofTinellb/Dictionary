@@ -789,7 +789,7 @@
             "mass", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "milk", 
@@ -1070,6 +1070,19 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -1081,19 +1094,6 @@
             "heart", 
             "emotional", 
             "body"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
         ]
     }, 
     {
@@ -1401,6 +1401,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "plant", 
             "substance"
         ], 
         "l": "High Lulani", 
@@ -1951,6 +1952,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -1966,6 +1968,7 @@
             "derived", 
             "compound", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -3734,18 +3737,6 @@
     {
         "p": [
             "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
             "mathematics", 
             "numeral"
         ], 
@@ -3758,6 +3749,18 @@
             "hundred", 
             "225", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -4403,7 +4406,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "honey", 
@@ -4546,7 +4549,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "bread; biscuit; cookie", 
@@ -4685,7 +4688,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "juice; tea; coffee", 
@@ -5102,6 +5105,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -5238,8 +5242,7 @@
         "p": [
             "inanimate", 
             "derived", 
-            "noun", 
-            "substance"
+            "noun"
         ], 
         "l": "High Lulani", 
         "m": "food; drink", 
@@ -5282,19 +5285,29 @@
     }, 
     {
         "p": [
-            "3]animate", 
+            "animate", 
             "stem", 
-            "noun", 
-            "animal<div", 
-            "class=\"definition\">animal;", 
-            "meat</div>"
+            "noun"
         ], 
         "l": "High Lulani", 
-        "m": " <div class=\"definition\">", 
+        "m": "animal", 
         "t": "dasu", 
         "d": [
-            "", 
-            ""
+            "animal"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "stem", 
+            "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "meat", 
+        "t": "dasu", 
+        "d": [
+            "meat"
         ]
     }, 
     {
@@ -5381,7 +5394,7 @@
             "compound", 
             "inanimate", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "ice", 
@@ -5816,7 +5829,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "drink; juice", 
@@ -6539,7 +6552,8 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "substance", 
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "alcohol", 
@@ -7189,13 +7203,15 @@
             "stem", 
             "mass", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
-        "m": "spices", 
+        "m": "spices; herbs", 
         "t": "jaffara", 
         "d": [
-            "spices"
+            "spices", 
+            "herbs"
         ]
     }, 
     {
@@ -7953,6 +7969,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -8587,6 +8604,20 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
+        ]
+    }, 
+    {
+        "p": [
             "stem", 
             "case", 
             "marker", 
@@ -8598,20 +8629,6 @@
         "d": [
             "dative", 
             "dat"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
         ]
     }, 
     {
@@ -8892,7 +8909,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "soup; stew", 
@@ -11050,7 +11067,7 @@
             "inanimate", 
             "stem", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "cheese", 
@@ -11613,6 +11630,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -12795,7 +12813,8 @@
             "inanimate", 
             "derived", 
             "compound", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "diatomic hydrogen; H<sub>2</sub>", 
@@ -13701,6 +13720,7 @@
             "inanimate", 
             "stem", 
             "noun", 
+            "food", 
             "plant"
         ], 
         "l": "High Lulani", 
@@ -13744,7 +13764,8 @@
         "p": [
             "inanimate", 
             "derived", 
-            "noun"
+            "noun", 
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "potato chips; crisps; hot chips", 
@@ -15610,6 +15631,7 @@
             "stem", 
             "mass", 
             "noun", 
+            "food", 
             "substance"
         ], 
         "l": "High Lulani", 
@@ -16576,7 +16598,7 @@
             "stem", 
             "mass", 
             "noun", 
-            "substance"
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "flour; porridge; gruel", 
@@ -17184,7 +17206,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "fire", 
@@ -17974,7 +17997,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "food"
         ], 
         "l": "High Lulani", 
         "m": "yeast", 

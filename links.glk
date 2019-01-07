@@ -41,6 +41,11 @@
                     "noun"
                 ]
             },
+            "food": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "inanimate": "morphology/nouns.html#inanimatenoun",
             "indefinite": "morphology/deixis.html#indefinitepro-forms",
             "intransitive": "morphology/verbs/intransitivity.html",
