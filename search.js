@@ -75,7 +75,7 @@ function capitalise(string) {
 }
 
 function esc(string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function backupDisplay(pages, data, terms) {
@@ -158,9 +158,11 @@ function pos_lang(data, terms) {
         return [];
     }
     for (let term of terms) {
-        let arr = data.filter(entry => entry.p.includes(term));
+        let neg = term.charAt(0) == '-' ? a => !a : a => a;
+        term = term.replace('-', '');
+        let arr = data.filter(entry => neg(entry.p.includes(term)));
         if (!arr.length) {
-            arr = data.filter(entry => language(entry).includes(term));
+            arr = data.filter(entry => neg(language(entry).includes(term)));
         }
         data = arr;
         if (!data.length) {
@@ -240,7 +242,7 @@ function sellCaps(text) {
 
 function markdown(text) {
     for (md in MARKDOWN) {
-        text = text.replace(md, MARKDOWN[md]);
+        text = text.split(md).join(MARKDOWN[md])
     }
     return text;
 }

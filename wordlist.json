@@ -788,7 +788,8 @@
             "inanimate", 
             "mass", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "milk", 
@@ -1069,19 +1070,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix", 
-            ""
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -1093,6 +1081,19 @@
             "heart", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -3733,6 +3734,18 @@
     {
         "p": [
             "stem", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
+        ]
+    }, 
+    {
+        "p": [
+            "stem", 
             "mathematics", 
             "numeral"
         ], 
@@ -3745,18 +3758,6 @@
             "hundred", 
             "225", 
             ""
-        ]
-    }, 
-    {
-        "p": [
-            "stem", 
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -4195,7 +4196,14 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart", 
+            "/", 
+            "inanimate", 
+            "stem", 
+            "mass", 
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "animal shell", 
@@ -5230,7 +5238,8 @@
         "p": [
             "inanimate", 
             "derived", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "food; drink", 
@@ -5806,7 +5815,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "drink; juice", 
@@ -6906,7 +6916,8 @@
             "inanimate", 
             "stem", 
             "mass", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "sand", 
@@ -8880,7 +8891,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "soup; stew", 
@@ -9917,6 +9929,20 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "stem", 
+            "noun", 
+            "substance"
+        ], 
+        "l": "High Lulani", 
+        "m": "snow", 
+        "t": "masi", 
+        "d": [
+            "snow"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "stem", 
             "noun"
@@ -9928,19 +9954,6 @@
             "course", 
             "of", 
             "action"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "stem", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "snow", 
-        "t": "masi", 
-        "d": [
-            "snow"
         ]
     }, 
     {
@@ -10510,7 +10523,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "liquid", 
@@ -10565,7 +10579,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "blood", 
@@ -11034,7 +11049,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "cheese", 
@@ -12527,7 +12543,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "cloud", 
@@ -12959,7 +12976,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "thread; spiderweb; wool", 
@@ -13031,7 +13049,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "bodypart"
         ], 
         "l": "High Lulani", 
         "m": "head", 
@@ -13071,7 +13090,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "paper", 
@@ -13394,7 +13414,10 @@
         "p": [
             "stem", 
             "mathematics", 
-            "numeral"
+            "cardinal", 
+            "number", 
+            "numeral", 
+            "particle"
         ], 
         "l": "High Lulani", 
         "m": "2; two", 
@@ -13408,7 +13431,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "metal", 
@@ -15436,7 +15460,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "iron pyrites", 
@@ -15583,7 +15608,9 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "mass", 
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "salt", 
@@ -16505,7 +16532,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "gas", 
@@ -16546,7 +16574,9 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "mass", 
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "flour; porridge; gruel", 
@@ -17509,7 +17539,8 @@
         "p": [
             "inanimate", 
             "stem", 
-            "noun"
+            "noun", 
+            "substance"
         ], 
         "l": "High Lulani", 
         "m": "solid", 
