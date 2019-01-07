@@ -161,7 +161,7 @@ function pos_lang(data, terms) {
         let neg = term.charAt(0) == '-' ? a => !a : a => a;
         term = term.replace('-', '');
         let arr = data.filter(entry => neg(entry.p.includes(term)));
-        if (!arr.length) {
+        if (!arr.length || arr.length == data.length) {
             arr = data.filter(entry => neg(language(entry).includes(term)));
         }
         data = arr;
