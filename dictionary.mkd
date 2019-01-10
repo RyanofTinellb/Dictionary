@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 </link><link> | </link>:<link> | <br>
-<div class="pronunciation"><ipa><a | [p | <br>
+[d pronunciation]\n<ipa><a | [p | <br>
 href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
 href="http://grammar.tinellb.com/demoticlulani/phonology.html"> | dl] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA#kf"> | kf] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA#mt"> | mt] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
-</a></ipa></div> | [/p] | <br>
-</link><link> | </link>;<link> | <br>
+</a></ipa>[/d] | [/p] | <br>
 <div class="definition"> | {{ | <br>
-<a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><span class="desktop">Periodic Table</span><span class="mobile">List of Elements</span></a> | List of Elements | <br>
+<a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><span class="desktop">Periodic Table</span><span class="mobile">List of Elements</span></a> | hl:List of Elements | <br>
+<a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship Terms</a> | *hl:kinship* | <br>
 <a href="../search.html?term=animal">List of Animals</a> | *animals* | <br>
 <a href="../search.html?term=geology">Geological Terms</a> | *geology* | <br>
 <a href="../search.html?term=plant">List of Plants</a> | *plants* | <br>
 <a href="../search.html?term=bodypart">Other Parts of the Body</a> | *bodyparts* | <br>
 <a href="../search.html?term=substance">Other Substances</a> | *substances* | <br>
 <a href="../search.html?term=food">Food and Drink</a> | *foods* | <br>
-List of Elements\n[e]*substances* | *elements* | <br>
+hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 [d wordlist] | [[w | <br>
 [d folding] | [[f | <br>
 [/d] | ]] | <br>
@@ -68,3 +68,10 @@ l&#x330; | !!l | <br> <!-- l with tilde below -->
 &#xff5e; | ~ | <br>
 &lparen; | \( | <br>
 &rparen; | )/ | <br>
+<br> |  //  | <br>
+
+
+
+
+
+

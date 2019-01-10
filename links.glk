@@ -46,11 +46,20 @@
                     "noun"
                 ]
             },
+            "geology": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "inanimate": "morphology/nouns.html#inanimatenoun",
             "indefinite": "morphology/deixis.html#indefinitepro-forms",
             "intransitive": "morphology/verbs/intransitivity.html",
             "kinetic": "morphology/verbs/intransitivity.html#kineticverbs",
-            "kinship": "apocrypha/kinship.html",
+            "kinship": {
+                "not with": [
+                    "noun"
+                ]
+            },
             "mass": "morphology/nouns.html#massnouns",
             "mathematics": {
                 "link": "apocrypha/numbers.html",
@@ -128,12 +137,29 @@
             "vital": "morphology/verbs/transitivity.html#vitalverbs"
         },
         "English": {
-            "stem": {
+            "derived": {
                 "not with": [
-                    "noun",
-                    "verb"
+                    "blend"
+                ]
+            },
+            "mathematics": {
+                "not with": [
+                    "numeral"
+                ]
+            },
+            "number": {
+                "not with": [
+                    "numeral"
                 ]
             }
         }
     }
 }
+
+
+
+
+
+
+
+
