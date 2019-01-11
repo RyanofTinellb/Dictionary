@@ -16,6 +16,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "iron", 
+        "t": "&rsquo;a", 
+        "d": [
+            "iron"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
@@ -45,6 +58,19 @@
             "indicates", 
             "emphasis", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "cerium", 
+        "t": "&rsquo;a&rsquo;ami", 
+        "d": [
+            "cerium"
         ]
     }, 
     {
@@ -85,6 +111,22 @@
         "d": [
             "miscarriage", 
             "abortion"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "all; every; everything; universal object", 
+        "t": "&rsquo;aba", 
+        "d": [
+            "all", 
+            "every", 
+            "everything", 
+            "universal", 
+            "object"
         ]
     }, 
     {
@@ -148,6 +190,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "spiritual plane", 
+        "t": "&rsquo;aka", 
+        "d": [
+            "spiritual", 
+            "plane"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -186,6 +241,20 @@
     }, 
     {
         "p": [
+            "derived", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "police officer", 
+        "t": "&rsquo;aggami", 
+        "d": [
+            "police", 
+            "officer"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -207,6 +276,19 @@
         "t": "&rsquo;agusa", 
         "d": [
             "contest"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "silicon", 
+        "t": "&rsquo;ama", 
+        "d": [
+            "silicon"
         ]
     }, 
     {
@@ -237,6 +319,31 @@
             "plane", 
             "of", 
             "existence"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be balanced", 
+        "t": "&rsquo;anu", 
+        "d": [
+            "to", 
+            "be", 
+            "balanced"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics"
+        ], 
+        "l": "High Lulani", 
+        "m": "to equal", 
+        "t": "&rsquo;anu", 
+        "d": [
+            "to", 
+            "equal"
         ]
     }, 
     {
@@ -298,6 +405,19 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "sunlight", 
+        "t": "&rsquo;alamusa", 
+        "d": [
+            "sunlight"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "firelight", 
         "t": "&rsquo;alaxuhha", 
         "d": [
@@ -315,6 +435,18 @@
         "t": "&rsquo;ali", 
         "d": [
             "gallium"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "need", 
+        "t": "&rsquo;alissa", 
+        "d": [
+            "need"
         ]
     }, 
     {
@@ -341,6 +473,20 @@
         "t": "&rsquo;ara", 
         "d": [
             "face"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "in front of; before", 
+        "t": "&rsquo;ari", 
+        "d": [
+            "in", 
+            "front", 
+            "of", 
+            "before"
         ]
     }, 
     {
@@ -384,6 +530,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "friendship", 
+        "t": "&rsquo;asila", 
+        "d": [
+            "friendship"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "derived", 
             "noun"
@@ -409,6 +567,19 @@
     }, 
     {
         "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "adult", 
+        "t": "&rsquo;axasiri", 
+        "d": [
+            "adult"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -429,6 +600,18 @@
         "t": "&rsquo;ahatini", 
         "d": [
             "contentment"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "happily", 
+        "t": "&rsquo;ahatiniqqi", 
+        "d": [
+            "happily"
         ]
     }, 
     {
@@ -481,6 +664,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "samarium", 
+        "t": "&rsquo;i&rsquo;isata", 
+        "d": [
+            "samarium"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -503,6 +699,20 @@
         "t": "&rsquo;i&rsquo;uja", 
         "d": [
             "table"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to complain", 
+        "t": "&rsquo;ibibu", 
+        "d": [
+            "to", 
+            "complain"
         ]
     }, 
     {
@@ -531,6 +741,20 @@
         "t": "&rsquo;ita&rsquo;i&rsquo;assa", 
         "d": [
             "wagon"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "mass", 
+            "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "milk", 
+        "t": "&rsquo;iti", 
+        "d": [
+            "milk"
         ]
     }, 
     {
@@ -582,6 +806,24 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to read out; to read aloud", 
+        "t": "&rsquo;idajabi", 
+        "d": [
+            "to", 
+            "read", 
+            "out", 
+            "to", 
+            "read", 
+            "aloud"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "verb"
         ], 
@@ -607,6 +849,19 @@
         "d": [
             "to", 
             "ask"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "californium", 
+        "t": "&rsquo;ikka", 
+        "d": [
+            "californium"
         ]
     }, 
     {
@@ -637,6 +892,30 @@
     }, 
     {
         "p": [
+            "mathematics"
+        ], 
+        "l": "High Lulani", 
+        "m": "half", 
+        "t": "&rsquo;ima", 
+        "d": [
+            "half"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "void; vacuum", 
+        "t": "&rsquo;ima", 
+        "d": [
+            "void", 
+            "vacuum"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
@@ -657,6 +936,27 @@
             "from", 
             "another", 
             "term"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to give one&rsquo;s side of the story", 
+        "t": "&rsquo;iqaca", 
+        "d": [
+            "to", 
+            "give", 
+            "one", 
+            "rsquo", 
+            "s", 
+            "side", 
+            "of", 
+            "the", 
+            "story"
         ]
     }, 
     {
@@ -692,6 +992,21 @@
     }, 
     {
         "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "truly; really; actually; literally", 
+        "t": "&rsquo;ili", 
+        "d": [
+            "truly", 
+            "really", 
+            "actually", 
+            "literally"
+        ]
+    }, 
+    {
+        "p": [
             "inflectional", 
             "suffix", 
             ""
@@ -706,6 +1021,19 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -716,6 +1044,18 @@
             "heart", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "inflectional", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-&rsquo;illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -738,6 +1078,20 @@
     }, 
     {
         "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "Ir&igrave;a", 
+        "t": "&#x294;irri&rsquo;a", 
+        "d": [
+            "Ir", 
+            "igrave", 
+            "a"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -756,6 +1110,20 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to agree", 
+        "t": "&rsquo;ifuhhanaku", 
+        "d": [
+            "to", 
+            "agree"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -765,6 +1133,19 @@
         "d": [
             "point", 
             "place"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "oscillation; vibration", 
+        "t": "&rsquo;issa", 
+        "d": [
+            "oscillation", 
+            "vibration"
         ]
     }, 
     {
@@ -796,12 +1177,46 @@
     {
         "p": [
             "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to tell a story; to tell a tale", 
+        "t": "&rsquo;isinna", 
+        "d": [
+            "to", 
+            "tell", 
+            "a", 
+            "story", 
+            "to", 
+            "tell", 
+            "a", 
+            "tale"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
             "noun"
         ], 
         "l": "High Lulani", 
         "m": "depression", 
         "t": "&rsquo;isilaku", 
         "d": [
+            "depression"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "depressively; in depression", 
+        "t": "&rsquo;isilakuniqqi", 
+        "d": [
+            "depressively", 
+            "in", 
             "depression"
         ]
     }, 
@@ -815,6 +1230,21 @@
         "t": "&rsquo;isili", 
         "d": [
             "sadness"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "melancholy; happy sadness; pensiveness", 
+        "t": "&rsquo;isilitu&rsquo;i", 
+        "d": [
+            "melancholy", 
+            "happy", 
+            "sadness", 
+            "pensiveness"
         ]
     }, 
     {
@@ -850,6 +1280,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "belly", 
+        "t": "&rsquo;ixxa", 
+        "d": [
+            "belly"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -864,6 +1307,20 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "the four planes", 
+        "t": "&rsquo;ihafi", 
+        "d": [
+            "the", 
+            "four", 
+            "planes"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -874,6 +1331,320 @@
         "d": [
             "to", 
             "inform"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "plant", 
+            "substance"
+        ], 
+        "l": "High Lulani", 
+        "m": "wood", 
+        "t": "&rsquo;u&rsquo;a", 
+        "d": [
+            "wood"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "reality", 
+        "t": "&rsquo;u&rsquo;ili", 
+        "d": [
+            "reality"
+        ]
+    }, 
+    {
+        "p": [
+            "preposition"
+        ], 
+        "l": "English", 
+        "m": "before", 
+        "t": "upstream", 
+        "d": [
+            "before"
+        ]
+    }, 
+    {
+        "p": [
+            "mass", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "teeth", 
+        "t": "&rsquo;udi", 
+        "d": [
+            "teeth"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "promethium", 
+        "t": "&rsquo;uccadama", 
+        "d": [
+            "promethium"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "ordinal", 
+        "t": "-uju", 
+        "d": [
+            "ordinal"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "anything; something; anyone; anything; existential object", 
+        "t": "&rsquo;umi", 
+        "d": [
+            "anything", 
+            "something", 
+            "anyone", 
+            "anything", 
+            "existential", 
+            "object"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "horniness; arousal", 
+        "t": "&rsquo;ulanu", 
+        "d": [
+            "horniness", 
+            "arousal"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "undo", 
+        "t": "-ulu", 
+        "d": [
+            "undo"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "cardinal", 
+            "numeral", 
+            "number", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "<span class=\"symbol\">e</span>", 
+        "t": "&rsquo;u", 
+        "d": [
+            "e"
+        ]
+    }, 
+    {
+        "p": [
+            "ambitransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to look; to see; to watch", 
+        "t": "&rsquo;usa", 
+        "d": [
+            "to", 
+            "look", 
+            "to", 
+            "see", 
+            "to", 
+            "watch"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "mercury", 
+        "t": "&rsquo;usa", 
+        "d": [
+            "mercury"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to follow; to obey", 
+        "t": "&rsquo;ussa", 
+        "d": [
+            "to", 
+            "follow", 
+            "to", 
+            "obey"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to count", 
+        "t": "&rsquo;usapacca", 
+        "d": [
+            "to", 
+            "count"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "follower; submissive", 
+        "t": "&rsquo;ussaba", 
+        "d": [
+            "follower", 
+            "submissive"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "visibly", 
+        "t": "&rsquo;usatinna", 
+        "d": [
+            "visibly"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to read", 
+        "t": "&rsquo;usadajabi", 
+        "d": [
+            "to", 
+            "read"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to find", 
+        "t": "&rsquo;usaju&rsquo;i", 
+        "d": [
+            "to", 
+            "find"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "numeral"
+        ], 
+        "l": "High Lulani", 
+        "m": "6; six", 
+        "t": "&rsquo;usi", 
+        "d": [
+            "6", 
+            "six"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "present; gift", 
+        "t": "&rsquo;ussi", 
+        "d": [
+            "present", 
+            "gift"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "first person intransitive; <small-caps>1int</small-caps>; I; me", 
+        "t": "&rsquo;usu", 
+        "d": [
+            "first", 
+            "person", 
+            "intransitive", 
+            "1int", 
+            "I", 
+            "me"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "group of people", 
+        "t": "&rsquo;uxxi", 
+        "d": [
+            "group", 
+            "of", 
+            "people"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-&rsquo;uhu", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -925,6 +1696,32 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "time", 
+        "t": "-ppa", 
+        "d": [
+            "time"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "thought", 
+        "t": "pa&rsquo;a", 
+        "d": [
+            "thought"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "bodypart"
@@ -954,6 +1751,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "iodine", 
+        "t": "papa", 
+        "d": [
+            "iodine"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -969,6 +1779,19 @@
     }, 
     {
         "p": [
+            "coordinating", 
+            "conjunction"
+        ], 
+        "l": "High Lulani", 
+        "m": "and then", 
+        "t": "pada", 
+        "d": [
+            "and", 
+            "then"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -977,6 +1800,20 @@
         "t": "paddi", 
         "d": [
             "charity"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to learn", 
+        "t": "padissu", 
+        "d": [
+            "to", 
+            "learn"
         ]
     }, 
     {
@@ -1004,6 +1841,22 @@
         "t": "pacadu", 
         "d": [
             "council"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to assess a situation", 
+        "t": "pajagaru", 
+        "d": [
+            "to", 
+            "assess", 
+            "a", 
+            "situation"
         ]
     }, 
     {
@@ -1044,6 +1897,26 @@
             "verb"
         ], 
         "l": "High Lulani", 
+        "m": "to think of as true; to know", 
+        "t": "pakicu", 
+        "d": [
+            "to", 
+            "think", 
+            "of", 
+            "as", 
+            "true", 
+            "to", 
+            "know"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
         "m": "to understand; to know", 
         "t": "pagi", 
         "d": [
@@ -1051,6 +1924,23 @@
             "understand", 
             "to", 
             "know"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "first person genitive; my; mine; <small-caps>1gen</small-caps>", 
+        "t": "pagu", 
+        "d": [
+            "first", 
+            "person", 
+            "genitive", 
+            "my", 
+            "mine", 
+            "1gen"
         ]
     }, 
     {
@@ -1093,6 +1983,26 @@
             "verb"
         ], 
         "l": "High Lulani", 
+        "m": "to decide on a course of action", 
+        "t": "pamasi", 
+        "d": [
+            "to", 
+            "decide", 
+            "on", 
+            "a", 
+            "course", 
+            "of", 
+            "action"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
         "m": "to be awake; to be conscious", 
         "t": "pamilami", 
         "d": [
@@ -1117,6 +2027,18 @@
             "domesticated", 
             "animal", 
             "klesh"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "warrior", 
+        "t": "pannaxa", 
+        "d": [
+            "warrior"
         ]
     }, 
     {
@@ -1154,6 +2076,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "mess", 
+        "t": "panu", 
+        "d": [
+            "mess"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "derived", 
             "compound", 
@@ -1165,6 +2099,19 @@
         "d": [
             "to", 
             "realise"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "thorium", 
+        "t": "paraba", 
+        "d": [
+            "thorium"
         ]
     }, 
     {
@@ -1203,6 +2150,20 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to consider", 
+        "t": "paxici", 
+        "d": [
+            "to", 
+            "consider"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun", 
             "determiner"
@@ -1233,6 +2194,22 @@
             "rsquo", 
             "s", 
             "way"
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "past stative; <small-caps>pst;sta;</small-caps> was; were", 
+        "t": "pi", 
+        "d": [
+            "past", 
+            "stative", 
+            "pst", 
+            "sta", 
+            "was", 
+            "were"
         ]
     }, 
     {
@@ -1289,6 +2266,18 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "on purpose", 
+        "t": "piddi", 
+        "d": [
+            "on", 
+            "purpose"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1298,6 +2287,18 @@
         "d": [
             "clarity", 
             "obviousness"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "demon", 
+        "t": "piku", 
+        "d": [
+            "demon"
         ]
     }, 
     {
@@ -1328,6 +2329,23 @@
             "nihilo", 
             "to", 
             "make"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "first person dative; to me; <small-caps>1dat</small-caps>", 
+        "t": "pixi", 
+        "d": [
+            "first", 
+            "person", 
+            "dative", 
+            "to", 
+            "me", 
+            "1dat"
         ]
     }, 
     {
@@ -1378,6 +2396,26 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate patientive noun from a verb", 
+        "t": "-pu&rsquo;a", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "patientive", 
+            "noun", 
+            "from", 
+            "a", 
+            "verb"
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -1399,6 +2437,26 @@
         "t": "pu&rsquo;iba", 
         "d": [
             "ball"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "first person ablative; because of me; from me; 1<small-caps>abl</small-caps>", 
+        "t": "puttu", 
+        "d": [
+            "first", 
+            "person", 
+            "ablative", 
+            "because", 
+            "of", 
+            "me", 
+            "from", 
+            "me", 
+            "1abl"
         ]
     }, 
     {
@@ -1456,6 +2514,20 @@
     {
         "p": [
             "abstract", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "autumn", 
+        "t": "pucidicci", 
+        "d": [
+            "autumn"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -1480,6 +2552,20 @@
             "change", 
             "to", 
             "become"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to trade", 
+        "t": "purakassu", 
+        "d": [
+            "to", 
+            "trade"
         ]
     }, 
     {
@@ -1509,6 +2595,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "message", 
+        "t": "puxila", 
+        "d": [
+            "message"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -1522,6 +2620,42 @@
             "2gen", 
             "your", 
             "yours"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate agentive noun from a verb", 
+        "t": "-ba", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "agentive", 
+            "noun", 
+            "from", 
+            "a", 
+            "verb"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "determiner", 
+            "pro-determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "second person genitive; <small-caps>2gen</small-caps>", 
+        "t": "-ba", 
+        "d": [
+            "second", 
+            "person", 
+            "genitive", 
+            "2gen"
         ]
     }, 
     {
@@ -1580,6 +2714,33 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "collection; group; store", 
+        "t": "batu", 
+        "d": [
+            "collection", 
+            "group", 
+            "store"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "multiplied by", 
+        "t": "batu", 
+        "d": [
+            "multiplied", 
+            "by"
+        ]
+    }, 
+    {
+        "p": [
             "indefinite", 
             "pronoun"
         ], 
@@ -1627,6 +2788,18 @@
     {
         "p": [
             "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "world", 
+        "t": "badiri", 
+        "d": [
+            "world"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun", 
             "element"
         ], 
@@ -1651,6 +2824,23 @@
             "blue", 
             "to", 
             "turn", 
+            "blue"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be sky-blue", 
+        "t": "bajukunubi", 
+        "d": [
+            "to", 
+            "be", 
+            "sky", 
             "blue"
         ]
     }, 
@@ -1682,6 +2872,18 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "unlawfully; immorally", 
+        "t": "basa", 
+        "d": [
+            "unlawfully", 
+            "immorally"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1703,6 +2905,33 @@
         "d": [
             "covering", 
             "lid"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "out, out of, from", 
+        "t": "bi", 
+        "d": [
+            "out", 
+            "out", 
+            "of", 
+            "from"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "bromine", 
+        "t": "bi", 
+        "d": [
+            "bromine"
         ]
     }, 
     {
@@ -1747,6 +2976,22 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be starving", 
+        "t": "bi&rsquo;u&rsquo;iku", 
+        "d": [
+            "to", 
+            "be", 
+            "starving"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1770,6 +3015,18 @@
         "d": [
             "whiner", 
             "complainer"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "time", 
+        "t": "bitta", 
+        "d": [
+            "time"
         ]
     }, 
     {
@@ -1810,6 +3067,18 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "noun"
+        ], 
+        "l": "Demotic Lulani", 
+        "m": "everything", 
+        "t": "biri", 
+        "d": [
+            "everything"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1818,6 +3087,20 @@
         "t": "bixaca", 
         "d": [
             "task"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "foot; toe", 
+        "t": "bu", 
+        "d": [
+            "foot", 
+            "toe"
         ]
     }, 
     {
@@ -1867,6 +3150,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "dysprosium", 
+        "t": "bumissi", 
+        "d": [
+            "dysprosium"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1897,6 +3193,21 @@
         "p": [
             "inanimate", 
             "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "penis; external genitalia", 
+        "t": "buqqi", 
+        "d": [
+            "penis", 
+            "external", 
+            "genitalia"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
             "geology", 
             "substance"
         ], 
@@ -1912,6 +3223,23 @@
     }, 
     {
         "p": [
+            "3]inanimate", 
+            "derived", 
+            "compound", 
+            "noun", 
+            "substance<div", 
+            "class=\"definition\">limestone</div>"
+        ], 
+        "l": "High Lulani", 
+        "m": " <div class=\"definition\">", 
+        "t": "bufitila", 
+        "d": [
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "adverb"
         ], 
@@ -1920,6 +3248,18 @@
         "t": "bufiniqqi", 
         "d": [
             "stonily"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "illness", 
+        "t": "bufiqi", 
+        "d": [
+            "illness"
         ]
     }, 
     {
@@ -1990,6 +3330,32 @@
     }, 
     {
         "p": [
+            "conjunction", 
+            "enclitic"
+        ], 
+        "l": "High Lulani", 
+        "m": "and", 
+        "t": "-ta", 
+        "d": [
+            "and"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "scent; smell; aroma", 
+        "t": "ta&rsquo;i", 
+        "d": [
+            "scent", 
+            "smell", 
+            "aroma"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "noun"
@@ -2000,6 +3366,19 @@
         "d": [
             "fragrance", 
             "aroma"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "stink", 
+        "t": "ta&rsquo;ida", 
+        "d": [
+            "stink"
         ]
     }, 
     {
@@ -2051,6 +3430,22 @@
     }, 
     {
         "p": [
+            "instransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be drunk", 
+        "t": "tapucijja", 
+        "d": [
+            "to", 
+            "be", 
+            "drunk"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -2067,6 +3462,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "order", 
+        "t": "taddi", 
+        "d": [
+            "order"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun", 
             "animal"
@@ -2076,6 +3483,19 @@
         "t": "tadu", 
         "d": [
             "pig"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "bench; plank", 
+        "t": "taca", 
+        "d": [
+            "bench", 
+            "plank"
         ]
     }, 
     {
@@ -2110,10 +3530,41 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "ability; magic power", 
+        "t": "tajihu", 
+        "d": [
+            "ability", 
+            "magic", 
+            "power"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "sound", 
         "t": "taka", 
         "d": [
             "sound"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "had stopped doing; <small-caps>pst;itr-trm</small-caps>", 
+        "t": "takaru", 
+        "d": [
+            "had", 
+            "stopped", 
+            "doing", 
+            "pst", 
+            "itr", 
+            "trm"
         ]
     }, 
     {
@@ -2141,6 +3592,26 @@
         "t": "-takki", 
         "d": [
             "many"
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "past habitual; <small-caps>pst;hab</small-caps>; did over and over; did repeatedly", 
+        "t": "taku", 
+        "d": [
+            "past", 
+            "habitual", 
+            "pst", 
+            "hab", 
+            "did", 
+            "over", 
+            "and", 
+            "over", 
+            "did", 
+            "repeatedly"
         ]
     }, 
     {
@@ -2192,6 +3663,22 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "there is; what there is", 
+        "t": "tana", 
+        "d": [
+            "there", 
+            "is", 
+            "what", 
+            "there", 
+            "is"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "memory", 
         "t": "tanna", 
         "d": [
@@ -2209,6 +3696,36 @@
         "d": [
             "belief", 
             "trust"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "motive", 
+            "dative", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to take away from someone", 
+        "t": "tali", 
+        "d": [
+            "to", 
+            "take", 
+            "away", 
+            "from", 
+            "someone"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics"
+        ], 
+        "l": "High Lulani", 
+        "m": "subtract; minus", 
+        "t": "tali", 
+        "d": [
+            "subtract", 
+            "minus"
         ]
     }, 
     {
@@ -2256,6 +3773,19 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "triadic number", 
+        "t": "tari", 
+        "d": [
+            "triadic", 
+            "number"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "midday; noon", 
         "t": "tariti", 
         "d": [
@@ -2274,6 +3804,22 @@
         "t": "tasa", 
         "d": [
             "nickel"
+        ]
+    }, 
+    {
+        "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "probability &#x2248; 0.75; probably", 
+        "t": "tasi", 
+        "d": [
+            "probability", 
+            "x2248", 
+            "0", 
+            "75", 
+            "probably"
         ]
     }, 
     {
@@ -2301,6 +3847,19 @@
             "a", 
             "certain", 
             "extent"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "legs", 
+        "t": "tiba", 
+        "d": [
+            "legs"
         ]
     }, 
     {
@@ -2355,6 +3914,22 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to tilt", 
+        "t": "tikutiqaxi", 
+        "d": [
+            "to", 
+            "tilt"
+        ]
+    }, 
+    {
+        "p": [
             "quasi-transitive", 
             "intransitive", 
             "comparative", 
@@ -2367,6 +3942,19 @@
             "to", 
             "differ", 
             "from"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "universe; multiverse", 
+        "t": "tinalli", 
+        "d": [
+            "universe", 
+            "multiverse"
         ]
     }, 
     {
@@ -2396,6 +3984,19 @@
             "to", 
             "the", 
             "multiverse"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "tilt; rotation", 
+        "t": "tiqaxi", 
+        "d": [
+            "tilt", 
+            "rotation"
         ]
     }, 
     {
@@ -2431,6 +4032,20 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "faculty of memory", 
+        "t": "tirusi", 
+        "d": [
+            "faculty", 
+            "of", 
+            "memory"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -2455,6 +4070,19 @@
             "town", 
             "city", 
             "village"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "townsperson", 
+        "t": "tisakarra", 
+        "d": [
+            "townsperson"
         ]
     }, 
     {
@@ -2485,6 +4113,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "row; line", 
+        "t": "tiha", 
+        "d": [
+            "row", 
+            "line"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "kinetic", 
             "verb"
@@ -2495,6 +4136,18 @@
         "d": [
             "to", 
             "abide"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "astonishment", 
+        "t": "tihura", 
+        "d": [
+            "astonishment"
         ]
     }, 
     {
@@ -2510,6 +4163,21 @@
             "offspring", 
             "daughter", 
             "son"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "geology"
+        ], 
+        "l": "High Lulani", 
+        "m": "plain; flatland; savanna", 
+        "t": "tu&rsquo;afu", 
+        "d": [
+            "plain", 
+            "flatland", 
+            "savanna"
         ]
     }, 
     {
@@ -2541,6 +4209,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "responsibility; task", 
+        "t": "tupa", 
+        "d": [
+            "responsibility", 
+            "task"
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -2549,6 +4230,22 @@
         "t": "tupi", 
         "d": [
             "respectfully"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to half do; to barely do", 
+        "t": "tuci", 
+        "d": [
+            "to", 
+            "half", 
+            "do", 
+            "to", 
+            "barely", 
+            "do"
         ]
     }, 
     {
@@ -2563,6 +4260,21 @@
             "sort", 
             "of", 
             "somewhat"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "place; location in space", 
+        "t": "tuja", 
+        "d": [
+            "place", 
+            "location", 
+            "in", 
+            "space"
         ]
     }, 
     {
@@ -2595,6 +4307,19 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "hotel", 
+        "t": "tujaramirra", 
+        "d": [
+            "hotel"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -2623,13 +4348,26 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "reason; logic", 
+        "t": "tukkuni", 
+        "d": [
+            "reason", 
+            "logic"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "action", 
             "verb"
         ], 
         "l": "High Lulani", 
         "m": "to repeat; to do again", 
-        "t": "tukkuni", 
+        "t": "tuni", 
         "d": [
             "to", 
             "repeat", 
@@ -2644,7 +4382,7 @@
         ], 
         "l": "High Lulani", 
         "m": "denotes a repeating infinite digit string", 
-        "t": "tukkuni", 
+        "t": "tuni", 
         "d": [
             "denotes", 
             "a", 
@@ -2665,6 +4403,20 @@
         "t": "-tuni", 
         "d": [
             "redo"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "red-head; redhead", 
+        "t": "turassi", 
+        "d": [
+            "red", 
+            "head", 
+            "redhead"
         ]
     }, 
     {
@@ -2698,6 +4450,21 @@
     }, 
     {
         "p": [
+            "transitive", 
+            "derived", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to open up", 
+        "t": "turulu", 
+        "d": [
+            "to", 
+            "open", 
+            "up"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food"
@@ -2709,6 +4476,23 @@
             "juice", 
             "tea", 
             "coffee"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be little; to shrink", 
+        "t": "tuhi", 
+        "d": [
+            "to", 
+            "be", 
+            "little", 
+            "to", 
+            "shrink"
         ]
     }, 
     {
@@ -2742,6 +4526,19 @@
     }, 
     {
         "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "farmer", 
+        "t": "tuhhisa", 
+        "d": [
+            "farmer"
+        ]
+    }, 
+    {
+        "p": [
             "proper", 
             "noun"
         ], 
@@ -2771,6 +4568,19 @@
         "d": [
             "akashic", 
             "record"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "divine vessel", 
+        "t": "tsarship", 
+        "d": [
+            "divine", 
+            "vessel"
         ]
     }, 
     {
@@ -2831,6 +4641,39 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "negative aspect", 
+        "t": "-da", 
+        "d": [
+            "negative", 
+            "aspect"
+        ]
+    }, 
+    {
+        "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "it exists; it happened; experience; it could happen", 
+        "t": "da&rsquo;aru", 
+        "d": [
+            "it", 
+            "exists", 
+            "it", 
+            "happened", 
+            "experience", 
+            "it", 
+            "could", 
+            "happen"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -2859,6 +4702,18 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "back; backwards", 
+        "t": "data", 
+        "d": [
+            "back", 
+            "backwards"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -2872,6 +4727,19 @@
             "her", 
             "3top", 
             "dat"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "divine force", 
+        "t": "dattu", 
+        "d": [
+            "divine", 
+            "force"
         ]
     }, 
     {
@@ -2904,6 +4772,20 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "destiny; fate; luck", 
+        "t": "dacca", 
+        "d": [
+            "destiny", 
+            "fate", 
+            "luck"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "compound", 
@@ -2926,6 +4808,18 @@
         "t": "dajabi", 
         "d": [
             "reading"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "tent", 
+        "t": "dajju", 
+        "d": [
+            "tent"
         ]
     }, 
     {
@@ -2954,6 +4848,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "usefulness", 
+        "t": "dalliji", 
+        "d": [
+            "usefulness"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food", 
@@ -2968,6 +4874,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "road; street", 
+        "t": "daru", 
+        "d": [
+            "road", 
+            "street"
+        ]
+    }, 
+    {
+        "p": [
             "subordinating", 
             "conjunction"
         ], 
@@ -2976,6 +4895,20 @@
         "t": "daru&rsquo;i", 
         "d": [
             "because"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "wrong way", 
+        "t": "daruli", 
+        "d": [
+            "wrong", 
+            "way"
         ]
     }, 
     {
@@ -3013,10 +4946,49 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "passion", 
+        "t": "dasatu&rsquo;i", 
+        "d": [
+            "passion"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "anger", 
         "t": "dasada", 
         "d": [
             "anger"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to place in the mouth; to eat; to chew; to suck; to lick; to drink", 
+        "t": "dasi", 
+        "d": [
+            "to", 
+            "place", 
+            "in", 
+            "the", 
+            "mouth", 
+            "to", 
+            "eat", 
+            "to", 
+            "chew", 
+            "to", 
+            "suck", 
+            "to", 
+            "lick", 
+            "to", 
+            "drink"
         ]
     }, 
     {
@@ -3062,6 +5034,31 @@
             "fork", 
             "spoon", 
             "chopsticks"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "animal", 
+        "t": "dasu", 
+        "d": [
+            "animal"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "meat", 
+        "t": "dasu", 
+        "d": [
+            "meat"
         ]
     }, 
     {
@@ -3112,6 +5109,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "tail", 
+        "t": "daxuni", 
+        "d": [
+            "tail"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "animate", 
             "compound", 
@@ -3126,6 +5136,21 @@
             "three", 
             "tail", 
             "fish"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "inanimate", 
+            "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "ice", 
+        "t": "dahi", 
+        "d": [
+            "ice"
         ]
     }, 
     {
@@ -3164,6 +5189,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "counter; bench", 
+        "t": "diba", 
+        "d": [
+            "counter", 
+            "bench"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -3177,6 +5215,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "obstacle", 
+        "t": "diccaha", 
+        "d": [
+            "obstacle"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -3185,6 +5235,19 @@
         "t": "dicci", 
         "d": [
             "cold"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "potassium", 
+        "t": "dina", 
+        "d": [
+            "potassium"
         ]
     }, 
     {
@@ -3222,6 +5285,38 @@
         "t": "difi", 
         "d": [
             "plunge"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "aluminium", 
+        "t": "disa", 
+        "d": [
+            "aluminium"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her", 
+        "t": "disi", 
+        "d": [
+            "third", 
+            "person", 
+            "animate", 
+            "genitive", 
+            "3ani", 
+            "gen", 
+            "his", 
+            "her"
         ]
     }, 
     {
@@ -3268,6 +5363,33 @@
         "d": [
             "hers", 
             "his"
+        ]
+    }, 
+    {
+        "p": [
+            "ambitransitive", 
+            "perceptive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to feel", 
+        "t": "dissu", 
+        "d": [
+            "to", 
+            "feel"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "youth; newness", 
+        "t": "dissu", 
+        "d": [
+            "youth", 
+            "newness"
         ]
     }, 
     {
@@ -3321,6 +5443,20 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "pardon", 
+        "t": "dissudanagi", 
+        "d": [
+            "pardon"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -3340,6 +5476,22 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be peaceful", 
+        "t": "dissumici", 
+        "d": [
+            "to", 
+            "be", 
+            "peaceful"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "derived", 
             "noun"
@@ -3349,6 +5501,22 @@
         "t": "dissuri", 
         "d": [
             "stranger"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "young person; youth", 
+        "t": "diss&middot;sa", 
+        "d": [
+            "young", 
+            "person", 
+            "youth"
         ]
     }, 
     {
@@ -3394,6 +5562,20 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "drink; juice", 
+        "t": "dixxa", 
+        "d": [
+            "drink", 
+            "juice"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -3410,11 +5592,41 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "bureaucrat; official; civil servant; public servant", 
+        "t": "diha", 
+        "d": [
+            "bureaucrat", 
+            "official", 
+            "civil", 
+            "servant", 
+            "public", 
+            "servant"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "other person", 
         "t": "dihha", 
         "d": [
             "other", 
             "person"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "americium", 
+        "t": "dihiqa", 
+        "d": [
+            "americium"
         ]
     }, 
     {
@@ -3454,6 +5666,18 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "beyond; opposite", 
+        "t": "du&rsquo;i", 
+        "d": [
+            "beyond", 
+            "opposite"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "dative", 
             "motive", 
@@ -3469,6 +5693,19 @@
             "own", 
             "to", 
             "possess"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "odd number", 
+        "t": "duki", 
+        "d": [
+            "odd", 
+            "number"
         ]
     }, 
     {
@@ -3500,6 +5737,33 @@
             "not", 
             "by", 
             "choice"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "nighttime hours; night; evening", 
+        "t": "dumi", 
+        "d": [
+            "nighttime", 
+            "hours", 
+            "night", 
+            "evening"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "try to", 
+        "t": "dumi", 
+        "d": [
+            "try", 
+            "to"
         ]
     }, 
     {
@@ -3543,6 +5807,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "hand", 
+        "t": "dusuni", 
+        "d": [
+            "hand"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun"
         ], 
@@ -3551,6 +5828,17 @@
         "t": "duha", 
         "d": [
             "person"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "English", 
+        "m": "after", 
+        "t": "downstream", 
+        "d": [
+            "after"
         ]
     }, 
     {
@@ -3576,6 +5864,17 @@
         "d": [
             "to", 
             "help"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "only", 
+        "t": "-ca", 
+        "d": [
+            "only"
         ]
     }, 
     {
@@ -3607,6 +5906,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "romance", 
+        "t": "ca&rsquo;i", 
+        "d": [
+            "romance"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -3629,6 +5940,20 @@
             "directory", 
             "manifest", 
             "album"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "helper; assistant", 
+        "t": "caba", 
+        "d": [
+            "helper", 
+            "assistant"
         ]
     }, 
     {
@@ -3665,10 +5990,36 @@
             "element"
         ], 
         "l": "High Lulani", 
+        "m": "polonium", 
+        "t": "cakassu", 
+        "d": [
+            "polonium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
         "m": "scandium", 
         "t": "cakina", 
         "d": [
             "scandium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "mouth", 
+        "t": "caga", 
+        "d": [
+            "mouth"
         ]
     }, 
     {
@@ -3703,6 +6054,21 @@
             "trm", 
             "gt", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "present dynamic; <small-caps>prs;dyn;</small-caps> is", 
+        "t": "cani", 
+        "d": [
+            "present", 
+            "dynamic", 
+            "prs", 
+            "dyn", 
+            "is"
         ]
     }, 
     {
@@ -3757,6 +6123,18 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "remaining; rest", 
+        "t": "-cari", 
+        "d": [
+            "remaining", 
+            "rest"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -3791,6 +6169,22 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "life processes; life signs; vitals", 
+        "t": "ci&#x294;a", 
+        "d": [
+            "life", 
+            "processes", 
+            "life", 
+            "signs", 
+            "vitals"
+        ]
+    }, 
+    {
+        "p": [
             "adverb"
         ], 
         "l": "High Lulani", 
@@ -3805,11 +6199,27 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "desire to know; ask; question", 
+        "t": "cipu", 
+        "d": [
+            "desire", 
+            "to", 
+            "know", 
+            "ask", 
+            "question"
+        ]
+    }, 
+    {
+        "p": [
             "adverb"
         ], 
         "l": "High Lulani", 
         "m": "suddenly", 
-        "t": "cipu", 
+        "t": "cidatu", 
         "d": [
             "suddenly"
         ]
@@ -3830,6 +6240,20 @@
     {
         "p": [
             "inanimate", 
+            "noun", 
+            "substance", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "alcohol", 
+        "t": "cijja", 
+        "d": [
+            "alcohol"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -3837,6 +6261,23 @@
         "t": "ciju", 
         "d": [
             "tug"
+        ]
+    }, 
+    {
+        "p": [
+            "ambitransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to hear telepathically; to see empathically", 
+        "t": "cikki", 
+        "d": [
+            "to", 
+            "hear", 
+            "telepathically", 
+            "to", 
+            "see", 
+            "empathically"
         ]
     }, 
     {
@@ -3871,6 +6312,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "topic; subject", 
+        "t": "cihafi", 
+        "d": [
+            "topic", 
+            "subject"
+        ]
+    }, 
+    {
+        "p": [
             "determiner"
         ], 
         "l": "High Lulani", 
@@ -3878,6 +6332,22 @@
         "t": "-cu", 
         "d": [
             "none"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "nothing; no one; negative object", 
+        "t": "cu&rsquo;i", 
+        "d": [
+            "nothing", 
+            "no", 
+            "one", 
+            "negative", 
+            "object"
         ]
     }, 
     {
@@ -3925,12 +6395,39 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "part; section", 
+        "t": "curri", 
+        "d": [
+            "part", 
+            "section"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "subtle bodies; psyche", 
         "t": "cussa", 
         "d": [
             "subtle", 
             "bodies", 
             "psyche"
+        ]
+    }, 
+    {
+        "p": [
+            "ambitransitive", 
+            "perceptive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "feel; touch", 
+        "t": "cussi", 
+        "d": [
+            "feel", 
+            "touch"
         ]
     }, 
     {
@@ -3951,6 +6448,25 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be cold; to feel cold", 
+        "t": "cussidicci", 
+        "d": [
+            "to", 
+            "be", 
+            "cold", 
+            "to", 
+            "feel", 
+            "cold"
+        ]
+    }, 
+    {
+        "p": [
             "proper", 
             "noun"
         ], 
@@ -3966,6 +6482,30 @@
             "the", 
             "Coelacanth", 
             "Quartet"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "along; across", 
+        "t": "ja", 
+        "d": [
+            "along", 
+            "across"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "end", 
+        "t": "ja", 
+        "d": [
+            "end"
         ]
     }, 
     {
@@ -4003,6 +6543,20 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "haze", 
+        "t": "japa&rsquo;ala", 
+        "d": [
+            "haze"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -4011,6 +6565,22 @@
         "t": "japu", 
         "d": [
             "sincerity"
+        ]
+    }, 
+    {
+        "p": [
+            "modal", 
+            "evidential", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "known through experience; apparently", 
+        "t": "jati", 
+        "d": [
+            "known", 
+            "through", 
+            "experience", 
+            "apparently"
         ]
     }, 
     {
@@ -4053,6 +6623,34 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "mass", 
+            "noun", 
+            "plant"
+        ], 
+        "l": "High Lulani", 
+        "m": "flowers", 
+        "t": "jama", 
+        "d": [
+            "flowers"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "garden", 
+        "t": "jamahi", 
+        "d": [
+            "garden"
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -4080,6 +6678,29 @@
             "old", 
             "person", 
             "elder"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to accelerate; to move around; to vibrate; to go; to come", 
+        "t": "janni", 
+        "d": [
+            "to", 
+            "accelerate", 
+            "to", 
+            "move", 
+            "around", 
+            "to", 
+            "vibrate", 
+            "to", 
+            "go", 
+            "to", 
+            "come"
         ]
     }, 
     {
@@ -4134,6 +6755,22 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to move across sideways", 
+        "t": "jannija", 
+        "d": [
+            "to", 
+            "move", 
+            "across", 
+            "sideways"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -4144,6 +6781,21 @@
         "d": [
             "to", 
             "swing"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to dance", 
+        "t": "jannimufa", 
+        "d": [
+            "to", 
+            "dance"
         ]
     }, 
     {
@@ -4176,6 +6828,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "object; item", 
+        "t": "jalla", 
+        "d": [
+            "object", 
+            "item"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "auxiliary"
         ], 
@@ -4197,6 +6862,22 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "mass", 
+            "noun", 
+            "food", 
+            "plant"
+        ], 
+        "l": "High Lulani", 
+        "m": "spices; herbs", 
+        "t": "jaffara", 
+        "d": [
+            "spices", 
+            "herbs"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -4206,6 +6887,25 @@
         "d": [
             "offence", 
             "worry"
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "present negative; <small-caps>prs;neg;</small-caps> is not; isn&rsquo;t", 
+        "t": "ji", 
+        "d": [
+            "present", 
+            "negative", 
+            "prs", 
+            "neg", 
+            "is", 
+            "not", 
+            "isn", 
+            "rsquo", 
+            "t"
         ]
     }, 
     {
@@ -4264,6 +6964,19 @@
     {
         "p": [
             "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "corridor; aisle", 
+        "t": "jifadi", 
+        "d": [
+            "corridor", 
+            "aisle"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun", 
             "geology"
         ], 
@@ -4271,6 +6984,22 @@
         "m": "lake", 
         "t": "jifiru&rsquo;i", 
         "d": [
+            "lake"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun", 
+            "geology"
+        ], 
+        "l": "High Lulani", 
+        "m": "mountain lake", 
+        "t": "jifiru&rsquo;inulli", 
+        "d": [
+            "mountain", 
             "lake"
         ]
     }, 
@@ -4299,6 +7028,31 @@
         "d": [
             "dictionary", 
             "lexicon"
+        ]
+    }, 
+    {
+        "p": [
+            "ambitransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "link; join; wear", 
+        "t": "ju&rsquo;i", 
+        "d": [
+            "link", 
+            "join", 
+            "wear"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics"
+        ], 
+        "l": "High Lulani", 
+        "m": "plus", 
+        "t": "ju&rsquo;i", 
+        "d": [
+            "plus"
         ]
     }, 
     {
@@ -4334,6 +7088,21 @@
         "p": [
             "transitive", 
             "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to meet", 
+        "t": "ju&rsquo;isatadu", 
+        "d": [
+            "to", 
+            "meet"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "derived", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -4345,6 +7114,18 @@
             "off", 
             "to", 
             "undress"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "body", 
+        "t": "juja", 
+        "d": [
+            "body"
         ]
     }, 
     {
@@ -4395,6 +7176,25 @@
     }, 
     {
         "p": [
+            "mathematics", 
+            "numeral"
+        ], 
+        "l": "High Lulani", 
+        "m": "-6; <overline>6</overline>; rix; minus six; negative six", 
+        "t": "jusiti", 
+        "d": [
+            "", 
+            "6", 
+            "6", 
+            "rix", 
+            "minus", 
+            "six", 
+            "negative", 
+            "six"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -4432,6 +7232,20 @@
     {
         "p": [
             "inflectional", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "make; <small-caps>abv</small-caps>", 
+        "t": "-ka", 
+        "d": [
+            "make", 
+            "abv"
+        ]
+    }, 
+    {
+        "p": [
+            "inflectional", 
             "suffix"
         ], 
         "l": "High Lulani", 
@@ -4446,6 +7260,27 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "being lost; being unable to find one&rsquo;s way", 
+        "t": "ka&#x294;a", 
+        "d": [
+            "being", 
+            "lost", 
+            "being", 
+            "unable", 
+            "to", 
+            "find", 
+            "one", 
+            "rsquo", 
+            "s", 
+            "way"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -4455,6 +7290,19 @@
         "t": "ka&rsquo;i", 
         "d": [
             "titanium"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "jump", 
+        "t": "ka&rsquo;u", 
+        "d": [
+            "jump"
         ]
     }, 
     {
@@ -4485,6 +7333,22 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "denotes a male animate", 
+        "t": "-kati", 
+        "d": [
+            "denotes", 
+            "a", 
+            "male", 
+            "animate"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "adverb"
         ], 
@@ -4493,6 +7357,19 @@
         "t": "katinna", 
         "d": [
             "increasingly"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "holmium", 
+        "t": "katiru", 
+        "d": [
+            "holmium"
         ]
     }, 
     {
@@ -4511,13 +7388,31 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "that way; in that manner; distal manner", 
+        "t": "kadusi", 
+        "d": [
+            "that", 
+            "way", 
+            "in", 
+            "that", 
+            "manner", 
+            "distal", 
+            "manner"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
         ], 
         "l": "High Lulani", 
         "m": "cadmium", 
-        "t": "kadusi", 
+        "t": "kaca", 
         "d": [
             "cadmium"
         ]
@@ -4533,6 +7428,20 @@
         "d": [
             "cage", 
             "pen"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "play; mucking around", 
+        "t": "kanama", 
+        "d": [
+            "play", 
+            "mucking", 
+            "around"
         ]
     }, 
     {
@@ -4567,6 +7476,25 @@
     }, 
     {
         "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "elder sibling; elder cousin; elder brother; elder sister", 
+        "t": "kaqqa", 
+        "d": [
+            "elder", 
+            "sibling", 
+            "elder", 
+            "cousin", 
+            "elder", 
+            "brother", 
+            "elder", 
+            "sister"
+        ]
+    }, 
+    {
+        "p": [
             "indefinite", 
             "pronoun"
         ], 
@@ -4579,6 +7507,40 @@
             "that", 
             "distal", 
             "action"
+        ]
+    }, 
+    {
+        "p": [
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "third person inanimate ablative; <small-caps>3ina;abl;</small-caps> because of it; from it", 
+        "t": "kalu", 
+        "d": [
+            "third", 
+            "person", 
+            "inanimate", 
+            "ablative", 
+            "3ina", 
+            "abl", 
+            "because", 
+            "of", 
+            "it", 
+            "from", 
+            "it"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "physical body", 
+        "t": "kalu", 
+        "d": [
+            "physical", 
+            "body"
         ]
     }, 
     {
@@ -4640,6 +7602,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "sacredness; enlightenment", 
+        "t": "karafi", 
+        "d": [
+            "sacredness", 
+            "enlightenment"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -4649,6 +7624,18 @@
         "t": "kari", 
         "d": [
             "uranium"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "usually; commonly", 
+        "t": "karu", 
+        "d": [
+            "usually", 
+            "commonly"
         ]
     }, 
     {
@@ -4663,6 +7650,20 @@
             "male", 
             "man", 
             "boy"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "that; distal object", 
+        "t": "kasi", 
+        "d": [
+            "that", 
+            "distal", 
+            "object"
         ]
     }, 
     {
@@ -4741,6 +7742,20 @@
     }, 
     {
         "p": [
+            "derived", 
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "trade goods", 
+        "t": "kassudu", 
+        "d": [
+            "trade", 
+            "goods"
+        ]
+    }, 
+    {
+        "p": [
             "indefinite", 
             "pronoun"
         ], 
@@ -4756,6 +7771,19 @@
     {
         "p": [
             "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "arm", 
+        "t": "kahi", 
+        "d": [
+            "arm"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -4763,6 +7791,20 @@
         "t": "kahu", 
         "d": [
             "grunt"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "big; grow; large", 
+        "t": "ki", 
+        "d": [
+            "big", 
+            "grow", 
+            "large"
         ]
     }, 
     {
@@ -4799,6 +7841,23 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be white; to turn white", 
+        "t": "ki&#x294;a", 
+        "d": [
+            "to", 
+            "be", 
+            "white", 
+            "to", 
+            "turn", 
+            "white"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "verb"
@@ -4815,6 +7874,22 @@
     }, 
     {
         "p": [
+            "animate", 
+            "noun", 
+            "animal"
+        ], 
+        "l": "High Lulani", 
+        "m": "horse; ox; draughtsbeast; <em>drif</em>", 
+        "t": "kipu", 
+        "d": [
+            "horse", 
+            "ox", 
+            "draughtsbeast", 
+            "drif"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -4825,6 +7900,18 @@
             "stick", 
             "rod", 
             "branch"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "father", 
+        "t": "kitisu", 
+        "d": [
+            "father"
         ]
     }, 
     {
@@ -4861,6 +7948,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "truth", 
+        "t": "kicu", 
+        "d": [
+            "truth"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -4876,6 +7975,21 @@
             "space", 
             "interval", 
             "over"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be tall", 
+        "t": "kimadi", 
+        "d": [
+            "to", 
+            "be", 
+            "tall"
         ]
     }, 
     {
@@ -4913,6 +8027,22 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "to spread out", 
+        "t": "kiladi", 
+        "d": [
+            "to", 
+            "spread", 
+            "out"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -4921,6 +8051,19 @@
         "t": "kiluqu", 
         "d": [
             "walk"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "plant"
+        ], 
+        "l": "High Lulani", 
+        "m": "marigold", 
+        "t": "kiri", 
+        "d": [
+            "marigold"
         ]
     }, 
     {
@@ -4951,6 +8094,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "triangle", 
+        "t": "kifissiji", 
+        "d": [
+            "triangle"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "derived", 
             "ordinal", 
@@ -4962,6 +8118,19 @@
         "d": [
             "third", 
             "3rd"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to fight", 
+        "t": "kissa", 
+        "d": [
+            "to", 
+            "fight"
         ]
     }, 
     {
@@ -4979,6 +8148,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "building column", 
+        "t": "kixxita", 
+        "d": [
+            "building", 
+            "column"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -4989,6 +8171,25 @@
             "grief", 
             "from", 
             "loss"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "third person inanimate dative; to it; <small-caps>3ina;dat</small-caps>", 
+        "t": "ku", 
+        "d": [
+            "third", 
+            "person", 
+            "inanimate", 
+            "dative", 
+            "to", 
+            "it", 
+            "3ina", 
+            "dat"
         ]
     }, 
     {
@@ -5032,6 +8233,26 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be strong; to be dense; to be heavy", 
+        "t": "kuppu", 
+        "d": [
+            "to", 
+            "be", 
+            "strong", 
+            "to", 
+            "be", 
+            "dense", 
+            "to", 
+            "be", 
+            "heavy"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -5059,6 +8280,18 @@
     }, 
     {
         "p": [
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "sky", 
+        "t": "kunubi", 
+        "d": [
+            "sky"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "compound", 
@@ -5070,6 +8303,25 @@
         "t": "kunubitu&rsquo;afu", 
         "d": [
             "flatlands"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "acquaintance; the act of being acquainted; friendship", 
+        "t": "kuli&rsquo;a", 
+        "d": [
+            "acquaintance", 
+            "the", 
+            "act", 
+            "of", 
+            "being", 
+            "acquainted", 
+            "friendship"
         ]
     }, 
     {
@@ -5107,6 +8359,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "fork", 
+        "t": "kulu", 
+        "d": [
+            "fork"
+        ]
+    }, 
+    {
+        "p": [
             "proper", 
             "noun"
         ], 
@@ -5115,6 +8379,21 @@
         "t": "Kurila", 
         "d": [
             "Corla"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "abative", 
+            "motive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to give", 
+        "t": "kuffa", 
+        "d": [
+            "to", 
+            "give"
         ]
     }, 
     {
@@ -5128,6 +8407,19 @@
         "t": "kuxalu", 
         "d": [
             "neon"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "boron", 
+        "t": "kuxxu", 
+        "d": [
+            "boron"
         ]
     }, 
     {
@@ -5166,6 +8458,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "time; while", 
+        "t": "ga&rsquo;i", 
+        "d": [
+            "time", 
+            "while"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "adverb"
         ], 
@@ -5189,6 +8494,19 @@
         "d": [
             "soup", 
             "stew"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "pendulum; swing", 
+        "t": "gata", 
+        "d": [
+            "pendulum", 
+            "swing"
         ]
     }, 
     {
@@ -5227,10 +8545,36 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "treasure", 
+        "t": "gajita", 
+        "d": [
+            "treasure"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "wound", 
         "t": "gakka", 
         "d": [
             "wound"
+        ]
+    }, 
+    {
+        "p": [
+            "adverbial", 
+            "prefix"
+        ], 
+        "l": "High Lulani", 
+        "m": "(<em>colloquial</em>) very", 
+        "t": "gani-", 
+        "d": [
+            "", 
+            "colloquial", 
+            "very"
         ]
     }, 
     {
@@ -5257,6 +8601,19 @@
         "t": "galaffidu", 
         "d": [
             "throne"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "cobalt", 
+        "t": "gaxiki", 
+        "d": [
+            "cobalt"
         ]
     }, 
     {
@@ -5319,6 +8676,21 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to understand communication", 
+        "t": "gi&rsquo;i", 
+        "d": [
+            "to", 
+            "understand", 
+            "communication"
+        ]
+    }, 
+    {
+        "p": [
             "clausal", 
             "conjunction"
         ], 
@@ -5341,6 +8713,17 @@
         "d": [
             "east", 
             "eastwards"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "instead", 
+        "t": "gicirri", 
+        "d": [
+            "instead"
         ]
     }, 
     {
@@ -5369,308 +8752,6 @@
         "t": "girammi", 
         "d": [
             "thunder"
-        ]
-    }, 
-    {
-        "p": [
-            "animate", 
-            "proper", 
-            "noun"
-        ], 
-        "l": "English", 
-        "m": "Loren&rsquo;s species, which spread out into the Tinellbian worlds from Naengi", 
-        "t": "Guozu", 
-        "d": [
-            "Loren", 
-            "rsquo", 
-            "s", 
-            "species", 
-            "which", 
-            "spread", 
-            "out", 
-            "into", 
-            "the", 
-            "Tinellbian", 
-            "worlds", 
-            "from", 
-            "Naengi"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to guard; to stay behind", 
-        "t": "gupicadi", 
-        "d": [
-            "to", 
-            "guard", 
-            "to", 
-            "stay", 
-            "behind"
-        ]
-    }, 
-    {
-        "p": [
-            "intransitive", 
-            "adjectival", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to be bad", 
-        "t": "guqqi", 
-        "d": [
-            "to", 
-            "be", 
-            "bad"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "intransitive", 
-            "adjectival", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to betray", 
-        "t": "guqqipullata", 
-        "d": [
-            "to", 
-            "betray"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "door", 
-        "t": "gurrisu", 
-        "d": [
-            "door"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "radio receiver", 
-        "t": "gufu&rsquo;iri", 
-        "d": [
-            "radio", 
-            "receiver"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "neighbour", 
-        "t": "gusu&rsquo;adi", 
-        "d": [
-            "neighbour"
-        ]
-    }, 
-    {
-        "p": [
-            "animate", 
-            "derived", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "person; non-Guozu", 
-        "t": "gusuli", 
-        "d": [
-            "person", 
-            "non", 
-            "Guozu"
-        ]
-    }, 
-    {
-        "p": [
-            "mathematics", 
-            "ordinal"
-        ], 
-        "l": "High Lulani", 
-        "m": "5; five", 
-        "t": "guhi", 
-        "d": [
-            "5", 
-            "five"
-        ]
-    }, 
-    {
-        "p": [
-            "abstract", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "time; while", 
-        "t": "ga&rsquo;i", 
-        "d": [
-            "time", 
-            "while"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "in time", 
-        "t": "ga&rsquo;iniqqi", 
-        "d": [
-            "in", 
-            "time"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "pendulum; swing", 
-        "t": "gata", 
-        "d": [
-            "pendulum", 
-            "swing"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to push into place", 
-        "t": "gajannida", 
-        "d": [
-            "to", 
-            "push", 
-            "into", 
-            "place"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "treasure", 
-        "t": "gajita", 
-        "d": [
-            "treasure"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "wound", 
-        "t": "gakka", 
-        "d": [
-            "wound"
-        ]
-    }, 
-    {
-        "p": [
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "not surprising; usual; common", 
-        "t": "gaqqu", 
-        "d": [
-            "not", 
-            "surprising", 
-            "usual", 
-            "common"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
-            "noun", 
-            "element"
-        ], 
-        "l": "High Lulani", 
-        "m": "cobalt", 
-        "t": "gaxiki", 
-        "d": [
-            "cobalt"
-        ]
-    }, 
-    {
-        "p": [
-            "subordinating", 
-            "conjunction"
-        ], 
-        "l": "High Lulani", 
-        "m": "and; that is", 
-        "t": "gi", 
-        "d": [
-            "and", 
-            "that", 
-            "is"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to understand communication", 
-        "t": "gi&rsquo;i", 
-        "d": [
-            "to", 
-            "understand", 
-            "communication"
-        ]
-    }, 
-    {
-        "p": [
-            "adposition"
-        ], 
-        "l": "High Lulani", 
-        "m": "east; eastwards", 
-        "t": "gibi", 
-        "d": [
-            "east", 
-            "eastwards"
-        ]
-    }, 
-    {
-        "p": [
-            "abstract", 
-            "noun"
-        ], 
-        "l": "English", 
-        "m": "planes of existence; ghostly realms", 
-        "t": "gingla", 
-        "d": [
-            "planes", 
-            "of", 
-            "existence", 
-            "ghostly", 
-            "realms"
         ]
     }, 
     {
@@ -5714,6 +8795,26 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to sit; to wait; to stand; to be still", 
+        "t": "gupi", 
+        "d": [
+            "to", 
+            "sit", 
+            "to", 
+            "wait", 
+            "to", 
+            "stand", 
+            "to", 
+            "be", 
+            "still"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -5740,6 +8841,21 @@
         "t": "guqqa", 
         "d": [
             "francium"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be bad", 
+        "t": "guqqi", 
+        "d": [
+            "to", 
+            "be", 
+            "bad"
         ]
     }, 
     {
@@ -5774,6 +8890,18 @@
     {
         "p": [
             "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "door", 
+        "t": "gurrisu", 
+        "d": [
+            "door"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "derived", 
             "compound", 
             "noun"
@@ -5787,6 +8915,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "radio receiver", 
+        "t": "gufu&rsquo;iri", 
+        "d": [
+            "radio", 
+            "receiver"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun"
         ], 
@@ -5796,6 +8937,19 @@
         "d": [
             "Guozu", 
             "person"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "neighbour", 
+        "t": "gusu&rsquo;adi", 
+        "d": [
+            "neighbour"
         ]
     }, 
     {
@@ -5829,6 +8983,19 @@
     }, 
     {
         "p": [
+            "mathematics", 
+            "ordinal"
+        ], 
+        "l": "High Lulani", 
+        "m": "5; five", 
+        "t": "guhi", 
+        "d": [
+            "5", 
+            "five"
+        ]
+    }, 
+    {
+        "p": [
             "clausal", 
             "conjunction"
         ], 
@@ -5858,6 +9025,33 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "terminative, used for adverbs", 
+        "t": "-ma", 
+        "d": [
+            "terminative", 
+            "used", 
+            "for", 
+            "adverbs"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "across", 
+        "t": "ma&rsquo;iki", 
+        "d": [
+            "across"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -5866,6 +9060,19 @@
         "t": "ma&#x294;u", 
         "d": [
             "gingla"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "argument; quarrel", 
+        "t": "mabarri", 
+        "d": [
+            "argument", 
+            "quarrel"
         ]
     }, 
     {
@@ -5906,6 +9113,36 @@
     {
         "p": [
             "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "selenium", 
+        "t": "matirra", 
+        "d": [
+            "selenium"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to rise; to be high", 
+        "t": "madi", 
+        "d": [
+            "to", 
+            "rise", 
+            "to", 
+            "be", 
+            "high"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -5935,6 +9172,18 @@
     }, 
     {
         "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "unexpectedly", 
+        "t": "macu", 
+        "d": [
+            "unexpectedly"
+        ]
+    }, 
+    {
+        "p": [
             "indefinite", 
             "pronoun"
         ], 
@@ -5960,6 +9209,31 @@
         "d": [
             "to", 
             "throw"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "bubble", 
+        "t": "mana", 
+        "d": [
+            "bubble"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "ascent; rising", 
+        "t": "mana", 
+        "d": [
+            "ascent", 
+            "rising"
         ]
     }, 
     {
@@ -6007,6 +9281,32 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "reflection", 
+        "t": "maladu", 
+        "d": [
+            "reflection"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "mirror", 
+        "t": "malaki", 
+        "d": [
+            "mirror"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -6032,6 +9332,27 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "there is; there exists; to be in a place", 
+        "t": "malu", 
+        "d": [
+            "there", 
+            "is", 
+            "there", 
+            "exists", 
+            "to", 
+            "be", 
+            "in", 
+            "a", 
+            "place"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -6040,6 +9361,20 @@
         "t": "mallu", 
         "d": [
             "address"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to want", 
+        "t": "marasi", 
+        "d": [
+            "to", 
+            "want"
         ]
     }, 
     {
@@ -6075,6 +9410,24 @@
             "pronoun"
         ], 
         "l": "High Lulani", 
+        "m": "this way; in this state; proximate state", 
+        "t": "marika", 
+        "d": [
+            "this", 
+            "way", 
+            "in", 
+            "this", 
+            "state", 
+            "proximate", 
+            "state"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
         "m": "to do this; proximate action", 
         "t": "marila", 
         "d": [
@@ -6097,6 +9450,21 @@
         "t": "marru", 
         "d": [
             "flies"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to decide to", 
+        "t": "mafatti", 
+        "d": [
+            "to", 
+            "decide", 
+            "to"
         ]
     }, 
     {
@@ -6132,6 +9500,18 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "surrender", 
+        "t": "masula", 
+        "d": [
+            "surrender"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "swap; a trade", 
         "t": "maha", 
         "d": [
@@ -6155,6 +9535,31 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "giver", 
+        "t": "-mi", 
+        "d": [
+            "giver"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "any; some", 
+        "t": "-mi", 
+        "d": [
+            "any", 
+            "some"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "plant"
@@ -6168,6 +9573,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "discus", 
+        "t": "mi&rsquo;ulla", 
+        "d": [
+            "discus"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -6176,6 +9593,23 @@
         "t": "mippi", 
         "d": [
             "discomfort"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "somewhere; anywhere; anytime; sometime; existential place", 
+        "t": "mituja", 
+        "d": [
+            "somewhere", 
+            "anywhere", 
+            "anytime", 
+            "sometime", 
+            "existential", 
+            "place"
         ]
     }, 
     {
@@ -6233,6 +9667,24 @@
     }, 
     {
         "p": [
+            "animate", 
+            "mass", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "unspecified group of people; some group", 
+        "t": "mika", 
+        "d": [
+            "unspecified", 
+            "group", 
+            "of", 
+            "people", 
+            "some", 
+            "group"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "adjectival", 
             "chromatic", 
@@ -6252,6 +9704,19 @@
     }, 
     {
         "p": [
+            "animate,", 
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "annoyance", 
+        "t": "mikkuddu", 
+        "d": [
+            "annoyance"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -6264,6 +9729,19 @@
             "to", 
             "be", 
             "crimson"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "denial; no", 
+        "t": "migina", 
+        "d": [
+            "denial", 
+            "no"
         ]
     }, 
     {
@@ -6295,6 +9773,23 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "surroundings; mise-en-sc&egrave;ne", 
+        "t": "milami", 
+        "d": [
+            "surroundings", 
+            "mise", 
+            "en", 
+            "sc", 
+            "egrave", 
+            "ne"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "adjectival", 
             "chromatic", 
@@ -6314,6 +9809,26 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be light brown; to turn beige", 
+        "t": "millucula", 
+        "d": [
+            "to", 
+            "be", 
+            "light", 
+            "brown", 
+            "to", 
+            "turn", 
+            "beige"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -6328,12 +9843,46 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "this point in space-time-reality-gingla", 
+        "t": "miru", 
+        "d": [
+            "this", 
+            "point", 
+            "in", 
+            "space", 
+            "time", 
+            "reality", 
+            "gingla"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "about to; on the verge of", 
+        "t": "miru", 
+        "d": [
+            "about", 
+            "to", 
+            "on", 
+            "the", 
+            "verge", 
+            "of"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun"
         ], 
         "l": "High Lulani", 
         "m": "subject; subordinate; vassal", 
-        "t": "miru", 
+        "t": "mifasu", 
         "d": [
             "subject", 
             "subordinate", 
@@ -6359,6 +9908,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "room", 
+        "t": "mixi", 
+        "d": [
+            "room"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -6380,6 +9941,21 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be good", 
+        "t": "mu", 
+        "d": [
+            "to", 
+            "be", 
+            "good"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -6392,6 +9968,22 @@
             "be", 
             "in", 
             "order"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be doing ok", 
+        "t": "mudibada", 
+        "d": [
+            "to", 
+            "be", 
+            "doing", 
+            "ok"
         ]
     }, 
     {
@@ -6415,6 +10007,26 @@
             "a", 
             "prepositional", 
             "phrase"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be right; to be correct", 
+        "t": "mukicu", 
+        "d": [
+            "to", 
+            "be", 
+            "right", 
+            "to", 
+            "be", 
+            "correct"
         ]
     }, 
     {
@@ -6444,6 +10056,21 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "page of a book", 
+        "t": "mulikki", 
+        "d": [
+            "page", 
+            "of", 
+            "a", 
+            "book"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "derived", 
             "noun"
@@ -6453,6 +10080,19 @@
         "t": "mulisa", 
         "d": [
             "fool"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "substance"
+        ], 
+        "l": "High Lulani", 
+        "m": "blood", 
+        "t": "mulu", 
+        "d": [
+            "blood"
         ]
     }, 
     {
@@ -6488,6 +10128,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "pile; cairn", 
+        "t": "muru", 
+        "d": [
+            "pile", 
+            "cairn"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -6500,6 +10153,22 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "sun; day; daylight hours; star", 
+        "t": "musa", 
+        "d": [
+            "sun", 
+            "day", 
+            "daylight", 
+            "hours", 
+            "star"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -6508,6 +10177,20 @@
         "t": "mussa", 
         "d": [
             "exoticism"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "week", 
+        "t": "musaqapi", 
+        "d": [
+            "week"
         ]
     }, 
     {
@@ -6571,10 +10254,37 @@
             "element"
         ], 
         "l": "High Lulani", 
+        "m": "actinium", 
+        "t": "na&rsquo;a", 
+        "d": [
+            "actinium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
         "m": "darmstadtium", 
         "t": "na&rsquo;ipa", 
         "d": [
             "darmstadtium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "fur; hair", 
+        "t": "napuxi", 
+        "d": [
+            "fur", 
+            "hair"
         ]
     }, 
     {
@@ -6587,6 +10297,18 @@
         "d": [
             "complete", 
             "utter"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "box", 
+        "t": "natiha", 
+        "d": [
+            "box"
         ]
     }, 
     {
@@ -6617,6 +10339,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "covering; clothing", 
+        "t": "nacca", 
+        "d": [
+            "covering", 
+            "clothing"
+        ]
+    }, 
+    {
+        "p": [
             "determiner"
         ], 
         "l": "High Lulani", 
@@ -6624,6 +10359,19 @@
         "t": "-naci", 
         "d": [
             "somewhat"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "meitnerium", 
+        "t": "nakaku", 
+        "d": [
+            "meitnerium"
         ]
     }, 
     {
@@ -6644,6 +10392,17 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "together", 
+        "t": "naku", 
+        "d": [
+            "together"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "auxiliary"
         ], 
@@ -6657,6 +10416,34 @@
             "fut", 
             "sta", 
             "trm"
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "future stative; <small-caps>fut;sta</small-caps>; will be", 
+        "t": "nagi", 
+        "d": [
+            "future", 
+            "stative", 
+            "fut", 
+            "sta", 
+            "will", 
+            "be"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "promise", 
+        "t": "nagi", 
+        "d": [
+            "promise"
         ]
     }, 
     {
@@ -6722,6 +10509,24 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "general need for intimacy; hemd&oacute;iness", 
+        "t": "nali", 
+        "d": [
+            "general", 
+            "need", 
+            "for", 
+            "intimacy", 
+            "hemd", 
+            "oacute", 
+            "iness"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food"
@@ -6731,6 +10536,19 @@
         "t": "nallimi", 
         "d": [
             "cheese"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "physical plane", 
+        "t": "naludu", 
+        "d": [
+            "physical", 
+            "plane"
         ]
     }, 
     {
@@ -6782,6 +10600,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "corner", 
+        "t": "narra", 
+        "d": [
+            "corner"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "derived", 
             "noun"
@@ -6795,6 +10625,24 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to drift off to sleep", 
+        "t": "narafiqu", 
+        "d": [
+            "to", 
+            "drift", 
+            "off", 
+            "to", 
+            "sleep"
+        ]
+    }, 
+    {
+        "p": [
             "adverb"
         ], 
         "l": "High Lulani", 
@@ -6802,6 +10650,19 @@
         "t": "naru", 
         "d": [
             "slowly"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "dry season", 
+        "t": "naffi", 
+        "d": [
+            "dry", 
+            "season"
         ]
     }, 
     {
@@ -6872,6 +10733,23 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to point out", 
+        "t": "nahusabi", 
+        "d": [
+            "to", 
+            "point", 
+            "out"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -6897,6 +10775,20 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "begin to", 
+        "t": "-ni", 
+        "d": [
+            "begin", 
+            "to"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "adjectival", 
             "verb"
@@ -6907,6 +10799,18 @@
         "d": [
             "be", 
             "wild"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "alertness", 
+        "t": "niddi", 
+        "d": [
+            "alertness"
         ]
     }, 
     {
@@ -6932,6 +10836,19 @@
         "d": [
             "with", 
             "using"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "journey; travel", 
+        "t": "nika", 
+        "d": [
+            "journey", 
+            "travel"
         ]
     }, 
     {
@@ -6962,6 +10879,18 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "quickly; suddenly", 
+        "t": "nigi", 
+        "d": [
+            "quickly", 
+            "suddenly"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun", 
             "animal"
@@ -6975,13 +10904,28 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "used for the purpose of", 
+        "t": "nina", 
+        "d": [
+            "used", 
+            "for", 
+            "the", 
+            "purpose", 
+            "of"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
         ], 
         "l": "High Lulani", 
         "m": "derives an adverb from a noun", 
-        "t": "nina", 
+        "t": "-niqqi", 
         "d": [
             "derives", 
             "an", 
@@ -7007,6 +10951,18 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "only; sole", 
+        "t": "-nisa", 
+        "d": [
+            "only", 
+            "sole"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
@@ -7016,6 +10972,24 @@
         "t": "-nissa", 
         "d": [
             "user"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "bottom; posterior; derri&egrave;re; buttocks", 
+        "t": "nisanna", 
+        "d": [
+            "bottom", 
+            "posterior", 
+            "derri", 
+            "egrave", 
+            "re", 
+            "buttocks"
         ]
     }, 
     {
@@ -7046,6 +11020,21 @@
     }, 
     {
         "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "universe <span class=\"universe\"> M<sup>204</sup>&nu;</span>", 
+        "t": "Nubi", 
+        "d": [
+            "universe", 
+            "M204", 
+            "nu", 
+            ""
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -7059,6 +11048,18 @@
     }, 
     {
         "p": [
+            "coordinating", 
+            "conjunction"
+        ], 
+        "l": "High Lulani", 
+        "m": "or", 
+        "t": "nuki", 
+        "d": [
+            "or"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food", 
@@ -7066,7 +11067,7 @@
         ], 
         "l": "High Lulani", 
         "m": "strawberry", 
-        "t": "nuki", 
+        "t": "nukki", 
         "d": [
             "strawberry"
         ]
@@ -7101,6 +11102,20 @@
         "p": [
             "inanimate", 
             "noun", 
+            "geology"
+        ], 
+        "l": "High Lulani", 
+        "m": "mountain; hill", 
+        "t": "nulli", 
+        "d": [
+            "mountain", 
+            "hill"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
             "element"
         ], 
         "l": "High Lulani", 
@@ -7108,6 +11123,28 @@
         "t": "nulina", 
         "d": [
             "lawrencium"
+        ]
+    }, 
+    {
+        "p": [
+            "kinetic", 
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to separate; to move away from someone else; to leave", 
+        "t": "nura", 
+        "d": [
+            "to", 
+            "separate", 
+            "to", 
+            "move", 
+            "away", 
+            "from", 
+            "someone", 
+            "else", 
+            "to", 
+            "leave"
         ]
     }, 
     {
@@ -7140,6 +11177,19 @@
     }, 
     {
         "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "optative; want", 
+        "t": "nufira", 
+        "d": [
+            "optative", 
+            "want"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "derived", 
             "noun"
@@ -7154,11 +11204,24 @@
     {
         "p": [
             "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "vanadium", 
+        "t": "nussa", 
+        "d": [
+            "vanadium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "noun"
         ], 
         "l": "High Lulani", 
         "m": "folded paper; origami; book", 
-        "t": "nussa", 
+        "t": "nuhu", 
         "d": [
             "folded", 
             "paper", 
@@ -7182,6 +11245,21 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "diary; journal", 
+        "t": "nuhumusa", 
+        "d": [
+            "diary", 
+            "journal"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -7190,6 +11268,38 @@
         "d": [
             "down", 
             "after"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "nominaliser; <small-caps>nmn</small-caps>", 
+        "t": "-qa", 
+        "d": [
+            "nominaliser", 
+            "nmn"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "third person inanimate genitive;<small-caps> 3ina;gen</small-caps>", 
+        "t": "-qa", 
+        "d": [
+            "third", 
+            "person", 
+            "inanimate", 
+            "genitive", 
+            "3ina", 
+            "gen"
         ]
     }, 
     {
@@ -7249,6 +11359,21 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "perspective; point of view", 
+        "t": "qaca", 
+        "d": [
+            "perspective", 
+            "point", 
+            "of", 
+            "view"
+        ]
+    }, 
+    {
+        "p": [
             "ambitransitive", 
             "perceptive", 
             "verb"
@@ -7277,6 +11402,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "palladium", 
+        "t": "qala", 
+        "d": [
+            "palladium"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "transformative", 
             "verb"
@@ -7300,6 +11438,19 @@
         "d": [
             "sorry", 
             "pardon"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner", 
+            "numeral"
+        ], 
+        "l": "High Lulani", 
+        "m": "last; final", 
+        "t": "-qafa", 
+        "d": [
+            "last", 
+            "final"
         ]
     }, 
     {
@@ -7333,6 +11484,46 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "calcium", 
+        "t": "qaxa", 
+        "d": [
+            "calcium"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "hope; fear; prediction", 
+        "t": "qaxa", 
+        "d": [
+            "hope", 
+            "fear", 
+            "prediction"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "hope; fear; prediction", 
+        "t": "qaxa", 
+        "d": [
+            "hope", 
+            "fear", 
+            "prediction"
+        ]
+    }, 
+    {
+        "p": [
             "ambitransitive", 
             "perceptive", 
             "verb"
@@ -7343,6 +11534,22 @@
         "d": [
             "to", 
             "experience"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "marks a female animate", 
+        "t": "-qi", 
+        "d": [
+            "marks", 
+            "a", 
+            "female", 
+            "animate"
         ]
     }, 
     {
@@ -7382,6 +11589,19 @@
     }, 
     {
         "p": [
+            "animate", 
+            "noun", 
+            "animal"
+        ], 
+        "l": "High Lulani", 
+        "m": "dog", 
+        "t": "qikanni", 
+        "d": [
+            "dog"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -7393,6 +11613,24 @@
         "d": [
             "to", 
             "orgasm"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "did not stop being; <small-caps>pst;neg</small-caps>-<small-caps>trm</small-caps>", 
+        "t": "qilaru", 
+        "d": [
+            "did", 
+            "not", 
+            "stop", 
+            "being", 
+            "pst", 
+            "neg", 
+            "trm"
         ]
     }, 
     {
@@ -7436,6 +11674,23 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be dirty", 
+        "t": "qirakunaqi", 
+        "d": [
+            "to", 
+            "be", 
+            "dirty"
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -7464,6 +11719,19 @@
             "dynamic", 
             "pst", 
             "dyn"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "cardinal"
+        ], 
+        "l": "High Lulani", 
+        "m": "zero; 0", 
+        "t": "qihha", 
+        "d": [
+            "zero", 
+            "0"
         ]
     }, 
     {
@@ -7506,6 +11774,20 @@
     {
         "p": [
             "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "female; woman; girl", 
+        "t": "qumu", 
+        "d": [
+            "female", 
+            "woman", 
+            "girl"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
             "mass", 
             "noun"
         ], 
@@ -7527,6 +11809,19 @@
         "t": "quffi", 
         "d": [
             "krypton"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "geology"
+        ], 
+        "l": "High Lulani", 
+        "m": "mountain", 
+        "t": "quxi", 
+        "d": [
+            "mountain"
         ]
     }, 
     {
@@ -7565,6 +11860,18 @@
     }, 
     {
         "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "Modern Tsarin", 
+        "m": "Corla", 
+        "t": "Q&#x14d;la", 
+        "d": [
+            "Corla"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "verb"
         ], 
@@ -7590,6 +11897,20 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "on a horizontal surface", 
+        "t": "la&rsquo;a", 
+        "d": [
+            "on", 
+            "a", 
+            "horizontal", 
+            "surface"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
@@ -7606,6 +11927,19 @@
             "an", 
             "intransitive", 
             "verb"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "chance; opportunity", 
+        "t": "lati", 
+        "d": [
+            "chance", 
+            "opportunity"
         ]
     }, 
     {
@@ -7631,6 +11965,36 @@
         "t": "ladi", 
         "d": [
             "spreading"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate,", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "all the rest; the others", 
+        "t": "lajja", 
+        "d": [
+            "all", 
+            "the", 
+            "rest", 
+            "the", 
+            "others"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "tin", 
+        "t": "laji", 
+        "d": [
+            "tin"
         ]
     }, 
     {
@@ -7662,6 +12026,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "protactinium", 
+        "t": "lakatti", 
+        "d": [
+            "protactinium"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -7687,6 +12064,23 @@
             "experiment", 
             "experimental", 
             "science"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "will finish doing; <small-caps>fut;dyn-trm</small-caps>", 
+        "t": "lanaru", 
+        "d": [
+            "will", 
+            "finish", 
+            "doing", 
+            "fut", 
+            "dyn", 
+            "trm"
         ]
     }, 
     {
@@ -7732,6 +12126,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "wealth", 
+        "t": "laqqu", 
+        "d": [
+            "wealth"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -7741,6 +12147,19 @@
         "t": "laqura", 
         "d": [
             "mendelevium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "tongue", 
+        "t": "lalu", 
+        "d": [
+            "tongue"
         ]
     }, 
     {
@@ -7777,6 +12196,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "year", 
+        "t": "laru", 
+        "d": [
+            "year"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics"
         ], 
         "l": "High Lulani", 
@@ -7794,6 +12225,21 @@
     {
         "p": [
             "animate", 
+            "mass", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "queue of people", 
+        "t": "lasakka", 
+        "d": [
+            "queue", 
+            "of", 
+            "people"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -7802,6 +12248,18 @@
         "d": [
             "Guozu", 
             "baby"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "secret", 
+        "t": "lasida", 
+        "d": [
+            "secret"
         ]
     }, 
     {
@@ -7815,6 +12273,18 @@
         "t": "lasu", 
         "d": [
             "tellurium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "body", 
+        "t": "lahha", 
+        "d": [
+            "body"
         ]
     }, 
     {
@@ -7858,6 +12328,31 @@
         "p": [
             "inanimate", 
             "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "helium", 
+        "t": "li&rsquo;a", 
+        "d": [
+            "helium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "bag", 
+        "t": "lidita", 
+        "d": [
+            "bag"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
             "substance"
         ], 
         "l": "High Lulani", 
@@ -7867,6 +12362,19 @@
             "thread", 
             "spiderweb", 
             "wool"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "chlorine", 
+        "t": "limma", 
+        "d": [
+            "chlorine"
         ]
     }, 
     {
@@ -7911,6 +12419,31 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "head", 
+        "t": "liqa", 
+        "d": [
+            "head"
+        ]
+    }, 
+    {
+        "p": [
+            "mass", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "stairs", 
+        "t": "lilu", 
+        "d": [
+            "stairs"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -7937,6 +12470,33 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "wheel", 
+        "t": "lisanu", 
+        "d": [
+            "wheel"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "mass", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "circle of people", 
+        "t": "lisanu", 
+        "d": [
+            "circle", 
+            "of", 
+            "people"
+        ]
+    }, 
+    {
+        "p": [
             "adverb"
         ], 
         "l": "High Lulani", 
@@ -7945,6 +12505,19 @@
         "d": [
             "by", 
             "assumption"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "sodium", 
+        "t": "lisu", 
+        "d": [
+            "sodium"
         ]
     }, 
     {
@@ -7987,6 +12560,39 @@
     }, 
     {
         "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "someone who is loved; lover", 
+        "t": "lu&rsquo;ipu&rsquo;a", 
+        "d": [
+            "someone", 
+            "who", 
+            "is", 
+            "loved", 
+            "lover"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to love romantically", 
+        "t": "lu&rsquo;ica&rsquo;i", 
+        "d": [
+            "to", 
+            "love", 
+            "romantically"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -7999,6 +12605,22 @@
             "that", 
             "which", 
             "loves"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to love unconditionally", 
+        "t": "lu&rsquo;isamma", 
+        "d": [
+            "to", 
+            "love", 
+            "unconditionally"
         ]
     }, 
     {
@@ -8024,6 +12646,17 @@
         "t": "lukku", 
         "d": [
             "wall"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "several", 
+        "t": "-lumi", 
+        "d": [
+            "several"
         ]
     }, 
     {
@@ -8056,6 +12689,39 @@
     }, 
     {
         "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "either of the languages High Lulani or Demotic Lulani", 
+        "t": "Lulani", 
+        "d": [
+            "either", 
+            "of", 
+            "the", 
+            "languages", 
+            "High", 
+            "Lulani", 
+            "or", 
+            "Demotic", 
+            "Lulani"
+        ]
+    }, 
+    {
+        "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "High Lulani", 
+        "t": "Lulani", 
+        "d": [
+            "High", 
+            "Lulani"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "derived", 
             "verb"
@@ -8081,6 +12747,19 @@
         "t": "luffu", 
         "d": [
             "eye"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "multiple birth", 
+        "t": "luxi", 
+        "d": [
+            "multiple", 
+            "birth"
         ]
     }, 
     {
@@ -8115,6 +12794,24 @@
     {
         "p": [
             "derivational", 
+            "mathematics", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "denotes a pair of something", 
+        "t": "-ra", 
+        "d": [
+            "denotes", 
+            "a", 
+            "pair", 
+            "of", 
+            "something"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
             "suffix", 
             ""
         ], 
@@ -8134,6 +12831,18 @@
     }, 
     {
         "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "Ryan", 
+        "t": "Ra&rsquo;ani", 
+        "d": [
+            "Ryan"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "auxiliary"
         ], 
@@ -8147,6 +12856,19 @@
             "prs", 
             "sta", 
             "trm"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "praseodymium", 
+        "t": "ra&#x294;asa", 
+        "d": [
+            "praseodymium"
         ]
     }, 
     {
@@ -8185,10 +12907,49 @@
             "element"
         ], 
         "l": "High Lulani", 
+        "m": "nihonium", 
+        "t": "rabaci", 
+        "d": [
+            "nihonium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
         "m": "thulium", 
         "t": "raddilla", 
         "d": [
             "thulium"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to hang", 
+        "t": "raca", 
+        "d": [
+            "to", 
+            "hang"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "formality", 
+        "t": "raca", 
+        "d": [
+            "formality"
         ]
     }, 
     {
@@ -8206,6 +12967,19 @@
             "him", 
             "3top", 
             "abl"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "geology"
+        ], 
+        "l": "High Lulani", 
+        "m": "island", 
+        "t": "rakka", 
+        "d": [
+            "island"
         ]
     }, 
     {
@@ -8249,6 +13023,19 @@
     }, 
     {
         "p": [
+            "derived", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "guest", 
+        "t": "ramirra", 
+        "d": [
+            "guest"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food", 
@@ -8259,6 +13046,19 @@
         "t": "rana", 
         "d": [
             "potato"
+        ]
+    }, 
+    {
+        "p": [
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "specialness; exaltedness; glory", 
+        "t": "ranna", 
+        "d": [
+            "specialness", 
+            "exaltedness", 
+            "glory"
         ]
     }, 
     {
@@ -8296,6 +13096,23 @@
     }, 
     {
         "p": [
+            "derived", 
+            "mathematics", 
+            "cardinal"
+        ], 
+        "l": "High Lulani", 
+        "m": "22; twenty-two; (<em>34</em>)", 
+        "t": "ranira", 
+        "d": [
+            "22", 
+            "twenty", 
+            "two", 
+            "34", 
+            ""
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -8311,6 +13128,18 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "more; additional", 
+        "t": "-raqi", 
+        "d": [
+            "more", 
+            "additional"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -8319,6 +13148,30 @@
         "d": [
             "between", 
             "among"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "bodypart"
+        ], 
+        "l": "High Lulani", 
+        "m": "back", 
+        "t": "rali", 
+        "d": [
+            "back"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "intensely", 
+        "t": "rali", 
+        "d": [
+            "intensely"
         ]
     }, 
     {
@@ -8354,6 +13207,20 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "pub; club; bar", 
+        "t": "rafiki", 
+        "d": [
+            "pub", 
+            "club", 
+            "bar"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -8384,6 +13251,24 @@
             "seven", 
             "negative", 
             "seven"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be smooth; to be easy", 
+        "t": "ri", 
+        "d": [
+            "to", 
+            "be", 
+            "smooth", 
+            "to", 
+            "be", 
+            "easy"
         ]
     }, 
     {
@@ -8433,6 +13318,19 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "by fate; fated", 
+        "t": "ritada", 
+        "d": [
+            "by", 
+            "fate", 
+            "fated"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -8441,6 +13339,23 @@
         "t": "rida", 
         "d": [
             "expectation"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "end (of a line, stick)", 
+        "t": "rica", 
+        "d": [
+            "end", 
+            "of", 
+            "a", 
+            "line", 
+            "stick", 
+            ""
         ]
     }, 
     {
@@ -8489,6 +13404,19 @@
             "element"
         ], 
         "l": "High Lulani", 
+        "m": "terbium", 
+        "t": "rila", 
+        "d": [
+            "terbium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
         "m": "moscovium", 
         "t": "rili", 
         "d": [
@@ -8516,6 +13444,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "want; desire", 
+        "t": "risu", 
+        "d": [
+            "want", 
+            "desire"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "cardinal", 
             "mathematics", 
@@ -8536,6 +13477,21 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "should; would be better to", 
+        "t": "rixi", 
+        "d": [
+            "should", 
+            "would", 
+            "be", 
+            "better", 
+            "to"
+        ]
+    }, 
+    {
+        "p": [
             "auxiliary"
         ], 
         "l": "High Lulani", 
@@ -8544,6 +13500,26 @@
         "d": [
             "present", 
             "gnomic"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives a gerund (<a href=\"http://grammar.tinellb.com/highlulani/syntax/gerunds.html\">q.v.</a>) from a verb", 
+        "t": "-ru", 
+        "d": [
+            "derives", 
+            "a", 
+            "gerund", 
+            "q", 
+            "v", 
+            "from", 
+            "a", 
+            "verb"
         ]
     }, 
     {
@@ -8569,6 +13545,19 @@
         "t": "ru&rsquo;ihaja", 
         "d": [
             "history"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "sense image", 
+        "t": "ruba", 
+        "d": [
+            "sense", 
+            "image"
         ]
     }, 
     {
@@ -8603,6 +13592,22 @@
     }, 
     {
         "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "future gnomic; <small-caps>fut;gno;</small-caps> will be", 
+        "t": "ruku", 
+        "d": [
+            "future", 
+            "gnomic", 
+            "fut", 
+            "gno", 
+            "will", 
+            "be"
+        ]
+    }, 
+    {
+        "p": [
             "quasi-transitive", 
             "intransitive", 
             "comparative", 
@@ -8632,6 +13637,23 @@
             "gno", 
             "always", 
             "was"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "did stop being; <small-caps>pst;gno</small-caps>-<small-caps>trm</small-caps>", 
+        "t": "rusara", 
+        "d": [
+            "did", 
+            "stop", 
+            "being", 
+            "pst", 
+            "gno", 
+            "trm"
         ]
     }, 
     {
@@ -8671,6 +13693,23 @@
     }, 
     {
         "p": [
+            "mathematics", 
+            "cardinal", 
+            "numeral"
+        ], 
+        "l": "English", 
+        "m": "-2, <overline>2</overline>; negative two", 
+        "t": "rwo", 
+        "d": [
+            "", 
+            "2", 
+            "2", 
+            "negative", 
+            "two"
+        ]
+    }, 
+    {
+        "p": [
             "modal", 
             "adverb"
         ], 
@@ -8684,6 +13723,18 @@
             "x2248", 
             "0", 
             "50"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "language", 
+        "t": "fa&#x294;a", 
+        "d": [
+            "language"
         ]
     }, 
     {
@@ -8717,6 +13768,20 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "the present; now", 
+        "t": "fa&rsquo;ida", 
+        "d": [
+            "the", 
+            "present", 
+            "now"
+        ]
+    }, 
+    {
+        "p": [
             "subordinating", 
             "conjunction"
         ], 
@@ -8730,6 +13795,20 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "good idea; discovery", 
+        "t": "fatti", 
+        "d": [
+            "good", 
+            "idea", 
+            "discovery"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -8739,6 +13818,20 @@
         "t": "fada", 
         "d": [
             "chromium"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "crowd of people", 
+        "t": "fajuli", 
+        "d": [
+            "crowd", 
+            "of", 
+            "people"
         ]
     }, 
     {
@@ -8767,6 +13860,22 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "somehow; existential manner; existential state", 
+        "t": "fana", 
+        "d": [
+            "somehow", 
+            "existential", 
+            "manner", 
+            "existential", 
+            "state"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -8788,6 +13897,19 @@
         "d": [
             "subtle", 
             "planes"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "curium", 
+        "t": "farra", 
+        "d": [
+            "curium"
         ]
     }, 
     {
@@ -8833,6 +13955,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "radon", 
+        "t": "fasami", 
+        "d": [
+            "radon"
+        ]
+    }, 
+    {
+        "p": [
             "quasi-transitive", 
             "intransitive", 
             "dative", 
@@ -8866,6 +14001,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "gold", 
+        "t": "fi", 
+        "d": [
+            "gold"
+        ]
+    }, 
+    {
+        "p": [
             "suffix", 
             ""
         ], 
@@ -8880,6 +14028,20 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "instrument; tool", 
+        "t": "-ffi", 
+        "d": [
+            "instrument", 
+            "tool"
+        ]
+    }, 
+    {
+        "p": [
             "determiner"
         ], 
         "l": "High Lulani", 
@@ -8888,6 +14050,19 @@
         "d": [
             "certain", 
             "particular"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "storey; level", 
+        "t": "fipa", 
+        "d": [
+            "storey", 
+            "level"
         ]
     }, 
     {
@@ -8921,10 +14096,37 @@
             "element"
         ], 
         "l": "High Lulani", 
+        "m": "neodymium", 
+        "t": "fibaku", 
+        "d": [
+            "neodymium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
         "m": "beryllium", 
         "t": "fiqqala", 
         "d": [
             "beryllium"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "float; drift", 
+        "t": "fiqu", 
+        "d": [
+            "float", 
+            "drift"
         ]
     }, 
     {
@@ -9001,6 +14203,19 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "is possible; can", 
+        "t": "fuca", 
+        "d": [
+            "is", 
+            "possible", 
+            "can"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "auxiliary"
         ], 
@@ -9018,6 +14233,40 @@
             "trm", 
             "gt", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "future negative; <small-caps>fut;neg;</small-caps> will not; won&rsquo;t", 
+        "t": "funi", 
+        "d": [
+            "future", 
+            "negative", 
+            "fut", 
+            "neg", 
+            "will", 
+            "not", 
+            "won", 
+            "rsquo", 
+            "t"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "dative", 
+            "motive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to lack", 
+        "t": "funi", 
+        "d": [
+            "to", 
+            "lack"
         ]
     }, 
     {
@@ -9108,6 +14357,40 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix", 
+            ""
+        ], 
+        "l": "High Lulani", 
+        "m": "derives an animate noun from an abstract noun", 
+        "t": "-sa", 
+        "d": [
+            "derives", 
+            "an", 
+            "animate", 
+            "noun", 
+            "from", 
+            "an", 
+            "abstract", 
+            "noun"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "light; subtle energy", 
+        "t": "sa&rsquo;i", 
+        "d": [
+            "light", 
+            "subtle", 
+            "energy"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "noun"
@@ -9138,6 +14421,22 @@
             "chaos", 
             "light", 
             "giver"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "possessed", 
+            "kinship", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "my father", 
+        "t": "sappagu", 
+        "d": [
+            "my", 
+            "father"
         ]
     }, 
     {
@@ -9185,6 +14484,17 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "different", 
+        "t": "-sabufi", 
+        "d": [
+            "different"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -9210,6 +14520,18 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "conversation", 
+        "t": "satadu", 
+        "d": [
+            "conversation"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "noun", 
@@ -9222,6 +14544,19 @@
             "how", 
             "much", 
             ""
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "rubidium", 
+        "t": "sadadu", 
+        "d": [
+            "rubidium"
         ]
     }, 
     {
@@ -9239,6 +14574,26 @@
             "father", 
             "her", 
             "father"
+        ]
+    }, 
+    {
+        "p": [
+            "personal", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "second person ablative; <small-caps>2abl</small-caps>; from you; because of you", 
+        "t": "sacu", 
+        "d": [
+            "second", 
+            "person", 
+            "ablative", 
+            "2abl", 
+            "from", 
+            "you", 
+            "because", 
+            "of", 
+            "you"
         ]
     }, 
     {
@@ -9266,6 +14621,18 @@
         "t": "sajja", 
         "d": [
             "silence"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "crack", 
+        "t": "sajimu", 
+        "d": [
+            "crack"
         ]
     }, 
     {
@@ -9311,6 +14678,40 @@
     }, 
     {
         "p": [
+            "transitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to give permission", 
+        "t": "sakimica", 
+        "d": [
+            "to", 
+            "give", 
+            "permission"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "adjectival", 
+            "chromatic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "summer half-marigold", 
+        "t": "sakiri", 
+        "d": [
+            "summer", 
+            "half", 
+            "marigold"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "substance"
@@ -9344,6 +14745,19 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "unconditional love", 
+        "t": "samma", 
+        "d": [
+            "unconditional", 
+            "love"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "jealousy; envy", 
         "t": "sanna", 
         "d": [
@@ -9367,6 +14781,17 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "north", 
+        "t": "sani", 
+        "d": [
+            "north"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -9376,6 +14801,26 @@
         "t": "saniki", 
         "d": [
             "seaborgium"
+        ]
+    }, 
+    {
+        "p": [
+            "directional", 
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "right; to the right; on the right-hand side", 
+        "t": "saqa", 
+        "d": [
+            "right", 
+            "to", 
+            "the", 
+            "right", 
+            "on", 
+            "the", 
+            "right", 
+            "hand", 
+            "side"
         ]
     }, 
     {
@@ -9390,6 +14835,18 @@
             "how", 
             "interrogative", 
             "state"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "word", 
+        "t": "saqala", 
+        "d": [
+            "word"
         ]
     }, 
     {
@@ -9422,6 +14879,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "night sky", 
+        "t": "salilu", 
+        "d": [
+            "night", 
+            "sky"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "cardinal"
         ], 
@@ -9435,6 +14905,22 @@
     }, 
     {
         "p": [
+            "derived", 
+            "mathematics", 
+            "cardinal"
+        ], 
+        "l": "High Lulani", 
+        "m": "12; twelve; (17)", 
+        "t": "salura", 
+        "d": [
+            "12", 
+            "twelve", 
+            "17", 
+            ""
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -9443,6 +14929,21 @@
         "t": "sara", 
         "d": [
             "reins"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "without; instead of; rather than", 
+        "t": "sarru", 
+        "d": [
+            "without", 
+            "instead", 
+            "of", 
+            "rather", 
+            "than"
         ]
     }, 
     {
@@ -9474,6 +14975,23 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "noun", 
+            "substance"
+        ], 
+        "l": "High Lulani", 
+        "m": "water, dihydrogen monoxide, H<sub>2</sub>O", 
+        "t": "saxita&nbsp;lara", 
+        "d": [
+            "water", 
+            "dihydrogen", 
+            "monoxide", 
+            "H2O"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -9483,6 +15001,19 @@
         "t": "saxxuru", 
         "d": [
             "berkelium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "xenon", 
+        "t": "sahha", 
+        "d": [
+            "xenon"
         ]
     }, 
     {
@@ -9515,6 +15046,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "meal", 
+        "t": "si&rsquo;apa", 
+        "d": [
+            "meal"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -9528,6 +15071,23 @@
             "solve", 
             "a", 
             "problem"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to heal the body", 
+        "t": "si&rsquo;akalu", 
+        "d": [
+            "to", 
+            "heal", 
+            "the", 
+            "body"
         ]
     }, 
     {
@@ -9553,6 +15113,19 @@
         "t": "sida", 
         "d": [
             "heart"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "astatine", 
+        "t": "sicu", 
+        "d": [
+            "astatine"
         ]
     }, 
     {
@@ -9609,6 +15182,21 @@
     {
         "p": [
             "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to die; to kill", 
+        "t": "siku", 
+        "d": [
+            "to", 
+            "die", 
+            "to", 
+            "kill"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
             "derived", 
             "compound", 
             "verb"
@@ -9619,6 +15207,19 @@
         "d": [
             "to", 
             "starve"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "spear", 
+        "t": "sikuffi", 
+        "d": [
+            "spear"
         ]
     }, 
     {
@@ -9655,6 +15256,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "story; tale", 
+        "t": "sinna", 
+        "d": [
+            "story", 
+            "tale"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "noun"
@@ -9677,6 +15291,19 @@
         "t": "siqi", 
         "d": [
             "europium"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "thallium", 
+        "t": "silla", 
+        "d": [
+            "thallium"
         ]
     }, 
     {
@@ -9727,6 +15354,19 @@
     }, 
     {
         "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "comparative; more than", 
+        "t": "su", 
+        "d": [
+            "comparative", 
+            "more", 
+            "than"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -9754,6 +15394,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "osmium", 
+        "t": "supu", 
+        "d": [
+            "osmium"
+        ]
+    }, 
+    {
+        "p": [
             "adjective"
         ], 
         "l": "English", 
@@ -9766,6 +15419,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "nitrogen", 
+        "t": "sutta", 
+        "d": [
+            "nitrogen"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -9774,6 +15440,21 @@
         "t": "sutti", 
         "d": [
             "fear"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "hesitation; <em>voidfear</em>", 
+        "t": "sutti&rsquo;ima", 
+        "d": [
+            "hesitation", 
+            "voidfear"
         ]
     }, 
     {
@@ -9804,6 +15485,19 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "entire; whole; all", 
+        "t": "-sukki", 
+        "d": [
+            "entire", 
+            "whole", 
+            "all"
+        ]
+    }, 
+    {
+        "p": [
             "personal", 
             "pronoun"
         ], 
@@ -9817,6 +15511,17 @@
             "I", 
             "me", 
             "1tra"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "westwards", 
+        "t": "sumika", 
+        "d": [
+            "westwards"
         ]
     }, 
     {
@@ -9842,6 +15547,27 @@
         "t": "sunufi", 
         "d": [
             "robes"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be ready; to be completed; to be prepared", 
+        "t": "suqa", 
+        "d": [
+            "to", 
+            "be", 
+            "ready", 
+            "to", 
+            "be", 
+            "completed", 
+            "to", 
+            "be", 
+            "prepared"
         ]
     }, 
     {
@@ -9890,6 +15616,22 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "pronoun"
+        ], 
+        "l": "High Lulani", 
+        "m": "to do what?; interrogative action", 
+        "t": "sulla", 
+        "d": [
+            "to", 
+            "do", 
+            "what", 
+            "interrogative", 
+            "action"
+        ]
+    }, 
+    {
+        "p": [
             "subordinating", 
             "conjunction"
         ], 
@@ -9927,6 +15669,18 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "heart", 
+        "t": "soul", 
+        "d": [
+            "heart"
+        ]
+    }, 
+    {
+        "p": [
             "adjective"
         ], 
         "l": "Demotic Lulani", 
@@ -9934,6 +15688,18 @@
         "t": "sb&uuml;fi", 
         "d": [
             "shy"
+        ]
+    }, 
+    {
+        "p": [
+            "noun", 
+            "element"
+        ], 
+        "l": "Demotic Lulani", 
+        "m": "lanthanum", 
+        "t": "sneki", 
+        "d": [
+            "lanthanum"
         ]
     }, 
     {
@@ -9964,6 +15730,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "substance"
+        ], 
+        "l": "High Lulani", 
+        "m": "gas", 
+        "t": "xa&#x294;a", 
+        "d": [
+            "gas"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "noun"
         ], 
@@ -9977,13 +15756,27 @@
     {
         "p": [
             "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "noise; meaningless sound", 
+        "t": "xaba", 
+        "d": [
+            "noise", 
+            "meaningless", 
+            "sound"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "mass", 
             "noun", 
             "food"
         ], 
         "l": "High Lulani", 
         "m": "flour; porridge; gruel", 
-        "t": "xaba", 
+        "t": "xati", 
         "d": [
             "flour", 
             "porridge", 
@@ -10017,6 +15810,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "magnesium", 
+        "t": "xaki", 
+        "d": [
+            "magnesium"
+        ]
+    }, 
+    {
+        "p": [
             "adverb"
         ], 
         "l": "High Lulani", 
@@ -10026,6 +15832,19 @@
             "thought", 
             "to", 
             "be"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "lanthanum", 
+        "t": "xanaki", 
+        "d": [
+            "lanthanum"
         ]
     }, 
     {
@@ -10059,6 +15878,19 @@
     {
         "p": [
             "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "rocket; starship", 
+        "t": "xara", 
+        "d": [
+            "rocket", 
+            "starship"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
             "derived", 
             "compound", 
             "noun"
@@ -10072,6 +15904,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "neptunium", 
+        "t": "xasagi", 
+        "d": [
+            "neptunium"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -10080,6 +15925,24 @@
         "t": "xaha", 
         "d": [
             "name"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "apparent", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to appear to be; to project", 
+        "t": "xi", 
+        "d": [
+            "to", 
+            "appear", 
+            "to", 
+            "be", 
+            "to", 
+            "project"
         ]
     }, 
     {
@@ -10119,6 +15982,22 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "over and done with; never again", 
+        "t": "xibbuti", 
+        "d": [
+            "over", 
+            "and", 
+            "done", 
+            "with", 
+            "never", 
+            "again"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "cardinal", 
             "number", 
@@ -10130,6 +16009,22 @@
         "t": "xita", 
         "d": [
             "one"
+        ]
+    }, 
+    {
+        "p": [
+            "mathematics", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "one particle of a mass", 
+        "t": "-xita", 
+        "d": [
+            "one", 
+            "particle", 
+            "of", 
+            "a", 
+            "mass"
         ]
     }, 
     {
@@ -10179,6 +16074,18 @@
     }, 
     {
         "p": [
+            "particle"
+        ], 
+        "l": "High Lulani", 
+        "m": "relativiser; <small-caps>rel</small-caps>", 
+        "t": "xiku", 
+        "d": [
+            "relativiser", 
+            "rel"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -10215,6 +16122,23 @@
             "verb"
         ], 
         "l": "High Lulani", 
+        "m": "to be exalted", 
+        "t": "xiranna", 
+        "d": [
+            "to", 
+            "be", 
+            "exalted"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "apparent", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
         "m": "to be rude", 
         "t": "xifipu", 
         "d": [
@@ -10234,6 +16158,19 @@
         "d": [
             "musical", 
             "instrument"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "animate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "musician", 
+        "t": "xissatanissa", 
+        "d": [
+            "musician"
         ]
     }, 
     {
@@ -10288,6 +16225,32 @@
     {
         "p": [
             "animate", 
+            "noun", 
+            "animal"
+        ], 
+        "l": "High Lulani", 
+        "m": "bird", 
+        "t": "xu&rsquo;a", 
+        "d": [
+            "bird"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "smile; grin", 
+        "t": "xu&#x294;a", 
+        "d": [
+            "smile", 
+            "grin"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
             "derived", 
             "compound", 
             "noun", 
@@ -10298,6 +16261,19 @@
         "t": "xu&rsquo;abaju", 
         "d": [
             "bluebird"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "noun", 
+            "animal"
+        ], 
+        "l": "High Lulani", 
+        "m": "elephant", 
+        "t": "xudda", 
+        "d": [
+            "elephant"
         ]
     }, 
     {
@@ -10330,6 +16306,17 @@
     }, 
     {
         "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "suddenly", 
+        "t": "xuga", 
+        "d": [
+            "suddenly"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "derived", 
             "compound", 
@@ -10346,6 +16333,29 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "apparent", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be pretty; to be cute; to be beautiful", 
+        "t": "xusina", 
+        "d": [
+            "to", 
+            "be", 
+            "pretty", 
+            "to", 
+            "be", 
+            "cute", 
+            "to", 
+            "be", 
+            "beautiful"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "substance"
@@ -10355,6 +16365,19 @@
         "t": "xuhha", 
         "d": [
             "fire"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "germanium", 
+        "t": "xuhhi", 
+        "d": [
+            "germanium"
         ]
     }, 
     {
@@ -10387,11 +16410,36 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "concentration", 
+        "t": "hapi", 
+        "d": [
+            "concentration"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "interest; concern", 
         "t": "hata", 
         "d": [
             "interest", 
             "concern"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "copernicium", 
+        "t": "hatanu", 
+        "d": [
+            "copernicium"
         ]
     }, 
     {
@@ -10404,6 +16452,19 @@
         "d": [
             "good", 
             "morning"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to awaken", 
+        "t": "hacci", 
+        "d": [
+            "to", 
+            "awaken"
         ]
     }, 
     {
@@ -10421,6 +16482,18 @@
             "reven", 
             "minus", 
             "seven"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "midnight", 
+        "t": "hami", 
+        "d": [
+            "midnight"
         ]
     }, 
     {
@@ -10458,11 +16531,93 @@
             "noun"
         ], 
         "l": "High Lulani", 
+        "m": "algorithm; computer program", 
+        "t": "halu", 
+        "d": [
+            "algorithm", 
+            "computer", 
+            "program"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
         "m": "voice; speech", 
         "t": "hari", 
         "d": [
             "voice", 
             "speech"
+        ]
+    }, 
+    {
+        "p": [
+            "quasi-transitive", 
+            "intransitive", 
+            "symmetric", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to accompany", 
+        "t": "haru", 
+        "d": [
+            "to", 
+            "accompany"
+        ]
+    }, 
+    {
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "with; consisting of", 
+        "t": "haru", 
+        "d": [
+            "with", 
+            "consisting", 
+            "of"
+        ]
+    }, 
+    {
+        "p": [
+            "subordinating", 
+            "conjunction"
+        ], 
+        "l": "High Lulani", 
+        "m": "at the same time; alongside; while; as", 
+        "t": "haru", 
+        "d": [
+            "at", 
+            "the", 
+            "same", 
+            "time", 
+            "alongside", 
+            "while", 
+            "as"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "will quit; will stop doing; <small-caps>fut;hab</small-caps>&lt;<small-caps>trm</small-caps>&gt;", 
+        "t": "haru", 
+        "d": [
+            "will", 
+            "quit", 
+            "will", 
+            "stop", 
+            "doing", 
+            "fut", 
+            "hab", 
+            "lt", 
+            "trm", 
+            "gt", 
+            ""
         ]
     }, 
     {
@@ -10511,12 +16666,25 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "rhenium", 
+        "t": "hasuki", 
+        "d": [
+            "rhenium"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
         "l": "High Lulani", 
         "m": "even number", 
-        "t": "hasuki", 
+        "t": "haxxa", 
         "d": [
             "even", 
             "number"
@@ -10562,6 +16730,38 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "work; employment; job", 
+        "t": "hiputi", 
+        "d": [
+            "work", 
+            "employment", 
+            "job"
+        ]
+    }, 
+    {
+        "p": [
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "allowing oneself; making oneself; taking responsibility for oneself", 
+        "t": "hibu", 
+        "d": [
+            "allowing", 
+            "oneself", 
+            "making", 
+            "oneself", 
+            "taking", 
+            "responsibility", 
+            "for", 
+            "oneself"
+        ]
+    }, 
+    {
+        "p": [
             "derivational", 
             "suffix", 
             ""
@@ -10573,6 +16773,19 @@
             "negative", 
             "not", 
             "neg"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "zinc", 
+        "t": "hika", 
+        "d": [
+            "zinc"
         ]
     }, 
     {
@@ -10604,6 +16817,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun", 
+            "element"
+        ], 
+        "l": "High Lulani", 
+        "m": "tantalum", 
+        "t": "hila", 
+        "d": [
+            "tantalum"
+        ]
+    }, 
+    {
+        "p": [
             "interjection"
         ], 
         "l": "High Lulani", 
@@ -10613,6 +16839,34 @@
             "please", 
             "thank", 
             "you"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "gratitude", 
+        "t": "hiru", 
+        "d": [
+            "gratitude"
+        ]
+    }, 
+    {
+        "p": [
+            "modal", 
+            "adverb"
+        ], 
+        "l": "High Lulani", 
+        "m": "on the other hand; contrariwise", 
+        "t": "hiru", 
+        "d": [
+            "on", 
+            "the", 
+            "other", 
+            "hand", 
+            "contrariwise"
         ]
     }, 
     {
@@ -10642,6 +16896,26 @@
     }, 
     {
         "p": [
+            "transitive", 
+            "vital", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to administer; to manage; to run; to rule", 
+        "t": "hisu", 
+        "d": [
+            "to", 
+            "administer", 
+            "to", 
+            "manage", 
+            "to", 
+            "run", 
+            "to", 
+            "rule"
+        ]
+    }, 
+    {
+        "p": [
             "animate", 
             "derived", 
             "noun"
@@ -10665,6 +16939,22 @@
         "t": "hisubajana", 
         "d": [
             "elder"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "transitive", 
+            "compound", 
+            "vital", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to babysit", 
+        "t": "hisutu", 
+        "d": [
+            "to", 
+            "babysit"
         ]
     }, 
     {
@@ -10697,6 +16987,19 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "painting; portrait", 
+        "t": "hu&rsquo;asa", 
+        "d": [
+            "painting", 
+            "portrait"
+        ]
+    }, 
+    {
+        "p": [
             "intransitive", 
             "verb"
         ], 
@@ -10720,6 +17023,34 @@
         "t": "huba", 
         "d": [
             "importance"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "information", 
+        "t": "hucu", 
+        "d": [
+            "information"
+        ]
+    }, 
+    {
+        "p": [
+            "quasi-transitive", 
+            "intransitive", 
+            "symmetric", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to have sex", 
+        "t": "hulla", 
+        "d": [
+            "to", 
+            "have", 
+            "sex"
         ]
     }, 
     {
@@ -10775,6 +17106,19 @@
         "p": [
             "inanimate", 
             "noun", 
+            "food"
+        ], 
+        "l": "High Lulani", 
+        "m": "yeast", 
+        "t": "hurru", 
+        "d": [
+            "yeast"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun", 
             "bodypart"
         ], 
         "l": "High Lulani", 
@@ -10801,6 +17145,23 @@
             "to", 
             "be", 
             "low"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "kinetic", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to trip over", 
+        "t": "hussudiccaha", 
+        "d": [
+            "to", 
+            "trip", 
+            "over"
         ]
     }
 ]
