@@ -121,9 +121,9 @@ h2 { /* language */
 	margin-top: 2rem;
 }
 
-h3 { /* Tinellbian script */
+.native-script p { /* Tinellbian script */
 	font-weight: normal;
-	margin-left: 5%;
+	margin-left: 4%;
 	padding-top: 1em;
 }
 
@@ -139,7 +139,7 @@ h3 { /* Tinellbian script */
 	letter-spacing: 2px;
 }
 
-h4 { /* part of speech */
+h3 { /* part of speech */
 	font-size: large;
 	font-family: garamond, serif;
 	margin-left: 10%;
@@ -147,24 +147,24 @@ h4 { /* part of speech */
 	margin-top: 1em;
 }
 
-.content h4 a {
+.content h3 a {
 	color: black;
 	text-decoration-style: dashed;
 }
 
-.content h4 a:hover {
+.content h3 a:hover {
 	text-decoration-style: dotted;
 }
 
-h4 .definition {
+.content .definition p {
 	font-size: medium;
 	font-family: sans-serif;
 	font-weight: normal;
-	margin-left: 5%;
+	margin-left: 13%;
 	padding-top: 2em;
 }
 
-h5 { /* subheadings */
+h4 { /* subheadings */
 		font-family: sans-serif;
 		text-decoration: overline;
 		margin-left: 15%;
