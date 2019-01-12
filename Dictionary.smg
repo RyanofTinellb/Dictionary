@@ -14,20 +14,12 @@
     "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
     "name": "Dictionary"
   }, 
-  "links": {}, 
+  "links": {
+    "Glossary": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
+    "InternalDictionary": "", 
+    "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
+  }, 
   "history": [
-    [
-      "rana"
-    ], 
-    [
-      "xuci"
-    ], 
-    [
-      "hafi"
-    ], 
-    [
-      "'issu"
-    ], 
     [
       "'ixxa"
     ], 
@@ -615,6 +607,18 @@
     ], 
     [
       "'a'ami"
+    ], 
+    [
+      "'anu"
+    ], 
+    [
+      "pixi"
+    ], 
+    [
+      "rix"
+    ], 
+    [
+      "haki"
     ]
   ]
 }
