@@ -14,15 +14,8 @@
     "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
     "name": "Dictionary"
   }, 
-  "links": {
-    "Glossary": "c:/users/ryan/documents/tinellbianlanguages/grammar/glossary.gls", 
-    "InternalDictionary": null, 
-    "ExternalGrammar": "c:/users/ryan/documents/tinellbianlanguages/dictionary/links.glk"
-  }, 
+  "links": {}, 
   "history": [
-    [
-      "nukki"
-    ], 
     [
       "linu"
     ], 
@@ -619,6 +612,9 @@
     ], 
     [
       "lanaru"
+    ], 
+    [
+      "'anu"
     ]
   ]
 }
