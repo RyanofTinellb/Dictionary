@@ -5,12 +5,18 @@ const SEARCH = 'searching.json';
 const MARKDOWN = {
     '&rsquo;': "'",
     '&#x294;': "''",
-    '&uuml;': '!u'
+    '&uuml;': '!u',
+    '&ecirc;': '()e',
+    '&igrave;': ')i',
+    '&middot;': '..',
+    '&nbsp;': ' ',
+    '&#x157;': ',r',
+    '&#x14d;': '_o'
 };
 
 function markdown(text) {
     for (md in MARKDOWN) {
-        text = text.replace(md, MARKDOWN[md]);
+        text = text.split(md).join(MARKDOWN[md]);
     }
     return sellCaps(text);
 }

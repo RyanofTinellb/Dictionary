@@ -122,9 +122,18 @@ h2 { /* language */
 }
 
 .native-script p { /* Tinellbian script */
+	font-size: x-large;
 	font-weight: normal;
 	margin-left: 4%;
-	padding-top: 1em;
+}
+
+.native-script p high-lulani {
+	transition-duration: 0.2s;
+}
+
+.native-script p high-lulani:hover {
+	padding: inherit;
+	font-size: 2em;
 }
 
 .content .pronunciation p {
@@ -161,14 +170,15 @@ h3 { /* part of speech */
 	font-family: sans-serif;
 	font-weight: normal;
 	margin-left: 13%;
-	padding-top: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 h4 { /* subheadings */
 		font-family: sans-serif;
 		text-decoration: overline;
 		margin-left: 15%;
-		margin-top: 2em;
+		margin-top: 1em;
 		font-variant: small-caps;
 		font-family: serif;
 		font-size: large;
