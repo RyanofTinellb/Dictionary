@@ -21,7 +21,7 @@ function search() {
 }
 
 function findInitial(text) {
-    return text.replace(/&.*?;/g, '').charAt(0).toLowerCase();
+    return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
 }
 
 function createUrl(text) {

@@ -137,6 +137,11 @@ input[type='checkbox'] {
   text-align: center;
 }
 
+.content .message p {
+    font-size: smaller;
+    color: red;
+}
+
 .content div.mobile-table {
   display: none;
 }

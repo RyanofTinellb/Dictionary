@@ -10,7 +10,14 @@
     <link rel="stylesheet" type="text/css" href="../basic_style.css">
 <link rel="stylesheet" type="text/css" href="../style.css">
  <link rel="icon" type="image/png" href="../favicon.png">
- <script type="text/javascript">if (window.location.href.indexOf("?") != -1) {window.location.href = "../search.html" +window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";}</script>
+     <script type="text/javascript">
+let href = window.location.href;
+if (href.indexOf("?") != -1) {
+    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+    window.location.href = `../search.html?${term}&andOr=and`;
+}
+</script>
+
     <script src="../word_search.js" charset="utf-8"></script>
 </head>
 
@@ -90,9 +97,13 @@
 <h4 id="seealso">See Also</h4>
 
 <p><a href="../search.html?term=bodypart">Other Parts of the Body</a></p>
-<h3 id="inanimatenounsubstance"><a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun">inanimate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <span class="hidden">substance</span><div class="definition">water</div></h3>
+<h3 id="inanimatenounsubstance"><a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#inanimatenoun">inanimate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a> <span class="hidden">substance</span></h3>
 
-<p> <div class="definition"></p>
+
+<div class="definition">
+<p>water</p>
+</div>
+
 <h4 id="derivedterms">Derived Terms</h4>
 
 
@@ -140,7 +151,7 @@
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>. 
                 </span>
                 <span class="no-breaks">
-                    Last updated: Monday, January 7th, 2019.
+                    Last updated: Saturday, January 19th, 2019.
                 </span>
             </div>
         </div>
