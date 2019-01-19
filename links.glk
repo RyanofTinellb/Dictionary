@@ -34,7 +34,7 @@
                     "compound"
                 ]
             },
-            "derivational": "morphology/suffixes.html#derivationalsuffixes",
+            "derivational": "morphology/suffixes/index.html#derivationalsuffixes",
             "determiner": "morphology/determiners.html",
             "element": {
                 "not with": [
@@ -155,6 +155,7 @@
         }
     }
 }
+
 
 
 
