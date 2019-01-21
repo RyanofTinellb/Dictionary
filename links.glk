@@ -35,7 +35,7 @@
                 ]
             },
             "derivational": "morphology/suffixes/index.html#derivationalsuffixes",
-            "determiner": "morphology/determiners.html",
+            "determiner": "morphology/suffixes/determiners.html",
             "element": {
                 "not with": [
                     "noun"
@@ -52,7 +52,7 @@
                 ]
             },
             "inanimate": "morphology/nouns.html#inanimatenoun",
-            "indefinite": "morphology/deixis.html#indefinitepro-forms",
+            "indefinite": "morphology/deixis/indefinitepro-forms.html",
             "intransitive": "morphology/verbs/intransitivity.html",
             "kinetic": "morphology/verbs/intransitivity.html#kineticverbs",
             "kinship": {
@@ -129,7 +129,7 @@
                     "noun"
                 ]
             },
-            "suffix": "morphology/suffixes.html",
+            "suffix": "morphology/suffixes/index.html",
             "symmetric": "morphology/verbs/intransitivity.html#symmetricrelations",
             "transformative": "morphology/verbs/transitivity.html#transformativeverbs",
             "transitive": "morphology/verbs/transitivity.html",
@@ -155,6 +155,7 @@
         }
     }
 }
+
 
 
 
