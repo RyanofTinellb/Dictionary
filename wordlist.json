@@ -2214,6 +2214,30 @@
             "proper", 
             "noun"
         ], 
+        "l": "Koine Fezhl&ecirc;", 
+        "m": "Piado", 
+        "t": "Piad&ucirc;", 
+        "d": [
+            "Piado"
+        ]
+    }, 
+    {
+        "p": [
+            "proper", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "Piado", 
+        "t": "Pi&rsquo;adu", 
+        "d": [
+            "Piado"
+        ]
+    }, 
+    {
+        "p": [
+            "proper", 
+            "noun"
+        ], 
         "l": "English", 
         "m": "Toresh&rsquo;s father, in &ldquo;The Crackled Egg&rdquo;", 
         "t": "Piado", 
@@ -3506,13 +3530,24 @@
             "auxiliary"
         ], 
         "l": "High Lulani", 
-        "m": "had stopped doing; pst;itr-trm", 
+        "m": "had stopped doing; pst;hab&lt;trm&gt;", 
         "t": "takaru", 
         "d": [
             "had", 
             "stopped", 
             "doing;", 
-            "pst;itr-trm"
+            "pst;hab&lt;trm&gt;"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -3528,17 +3563,6 @@
             "one", 
             "hundred;", 
             "(225)"
-        ]
-    }, 
-    {
-        "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -6203,6 +6227,20 @@
             "to", 
             "see", 
             "empathically"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "telepath", 
+        "t": "cikkipu&rsquo;a", 
+        "d": [
+            "telepath"
         ]
     }, 
     {
