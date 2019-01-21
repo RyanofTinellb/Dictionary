@@ -35,7 +35,12 @@
                 ]
             },
             "derivational": "morphology/suffixes/index.html#derivationalsuffixes",
-            "determiner": "morphology/suffixes/determiners.html",
+            "determiner": {
+                "not with": [
+                    "prodeterminer"
+                ],
+                "link": "morphology/suffixes/determiners.html"
+            },
             "element": {
                 "not with": [
                     "noun"
@@ -84,17 +89,6 @@
             },
             "numeral": "apocrypha/numbers.html",
             "ordinal": "apocrypha/numbers.html#ordinalnumbers",
-            "plant": {
-                "not with": [
-                    "noun"
-                ]
-            },
-            "quasi-transitive": {
-                "link": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
-                "not with": [
-                    "intransitive"
-                ]
-            },
             "particle": {
                 "link": "morphology/particles/index.html",
                 "not with": [
@@ -104,15 +98,29 @@
             "passive": "syntax/argumentpromotion.html",
             "perceptive": "morphology/verbs/ambitransitivity.html#perceptiveverbs",
             "personal": "morphology/deixis/personalpro-forms.html",
-            "possessive": "morphology/nouns/pronouns.html#possessives",
-            "pro-determiner": {
-                "link": "morphology/deixis/index.html",
+            "plant": {
                 "not with": [
-                    "determiner"
+                    "noun"
                 ]
             },
-            "pronoun": "morphology/deixis/index.html",
+            "possessive": "apocrypha/kinship.html#nuclearfamily",
+            "prodeterminer": "morphology/suffixes/determiners.html",
+            "pro-form": {
+                "not with": [
+                    "prodeterminer",
+                    "pronoun",
+                    "pro-verb"
+                ]
+            },
+            "pronoun": "morphology/nouns.html",
+            "pro-verb" : "morphology/verbs/index.html",
             "proper": "morphology/nouns.html#propernouns",
+            "quasi-transitive": {
+                "link": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
+                "not with": [
+                    "intransitive"
+                ]
+            },
             "stem": {
                 "not with": [
                     "verb",
@@ -155,7 +163,6 @@
         }
     }
 }
-
 
 
 

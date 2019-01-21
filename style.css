@@ -87,6 +87,15 @@ body {
 	margin-top: 1em;
 }
 
+.content table td {
+	padding: 2px 6px;
+}
+
+.content table th {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
 .content .also p {
 	margin-left: 5%;
 }

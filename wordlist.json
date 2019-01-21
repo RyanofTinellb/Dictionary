@@ -112,23 +112,42 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "prodeterminer", 
+            "pro-form", 
+            "determiner"
         ], 
         "l": "High Lulani", 
-        "m": "all; every; everything; universal object", 
-        "t": "&rsquo;aba", 
+        "m": "all; every; universal object determiner", 
+        "t": "-&rsquo;aba", 
         "d": [
             "all;", 
             "every;", 
+            "universal", 
+            "object", 
+            "determiner"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "everything; universal noun object", 
+        "t": "&rsquo;aba", 
+        "d": [
             "everything;", 
             "universal", 
+            "noun", 
             "object"
         ]
     }, 
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-form", 
+            "pro-verb"
         ], 
         "l": "High Lulani", 
         "m": "to do everything; universal action", 
@@ -288,7 +307,8 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-verb", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "to do something; existential action", 
@@ -1010,18 +1030,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1032,6 +1040,18 @@
             "heart;", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -1393,10 +1413,11 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pronoun", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
-        "m": "anything; something; anyone; anything; existential object", 
+        "m": "anything; something; anyone; anything; existential object noun", 
         "t": "&rsquo;umi", 
         "d": [
             "anything;", 
@@ -1404,7 +1425,8 @@
             "anyone;", 
             "anything;", 
             "existential", 
-            "object"
+            "object", 
+            "noun"
         ]
     }, 
     {
@@ -3126,7 +3148,8 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-verb", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "do something; existential action", 
@@ -5134,6 +5157,23 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "prodeterminer", 
+            "determiner", 
+            "pro-form"
+        ], 
+        "l": "High Lulani", 
+        "m": "which; indefinite interrogative determiner", 
+        "t": "-diku", 
+        "d": [
+            "which;", 
+            "indefinite", 
+            "interrogative", 
+            "determiner"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -6209,19 +6249,26 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "prodeterminer", 
+            "pro-form", 
             "determiner"
         ], 
         "l": "High Lulani", 
-        "m": "none", 
+        "m": "none; negative object determiner", 
         "t": "-cu", 
         "d": [
-            "none"
+            "none;", 
+            "negative", 
+            "object", 
+            "determiner"
         ]
     }, 
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pronoun", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "nothing; no one; negative object", 
@@ -7365,7 +7412,8 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-verb", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "to do that; distal action", 
@@ -7527,6 +7575,20 @@
         "l": "High Lulani", 
         "m": "that; distal object", 
         "t": "kasi", 
+        "d": [
+            "that;", 
+            "distal", 
+            "object"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "prodeterminer"
+        ], 
+        "l": "High Lulani", 
+        "m": "that; distal object", 
+        "t": "-kasi", 
         "d": [
             "that;", 
             "distal", 
@@ -8905,6 +8967,21 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be considerate", 
+        "t": "ma&rsquo;iludihha", 
+        "d": [
+            "to", 
+            "be", 
+            "considerate"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -9278,7 +9355,8 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-form", 
+            "pro-verb"
         ], 
         "l": "High Lulani", 
         "m": "to do this; proximate action", 
@@ -9400,6 +9478,9 @@
     }, 
     {
         "p": [
+            "indefinite", 
+            "prodeterminer", 
+            "pro-form", 
             "determiner"
         ], 
         "l": "High Lulani", 
@@ -11130,7 +11211,7 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "nowhere; never; negative place", 
@@ -11537,6 +11618,20 @@
             "past", 
             "dynamic;", 
             "pst;dyn"
+        ]
+    }, 
+    {
+        "p": [
+            "inflected", 
+            "auxiliary"
+        ], 
+        "l": "High Lulani", 
+        "m": "stopped being; pst;dyn&lt;trm&gt;", 
+        "t": "qixara", 
+        "d": [
+            "stopped", 
+            "being;", 
+            "pst;dyn&lt;trm&gt;"
         ]
     }, 
     {
@@ -11978,15 +12073,15 @@
     {
         "p": [
             "indefinite", 
-            "proform"
+            "pro-form"
         ], 
         "l": "High Lulani", 
-        "m": "interrogative manner; how?", 
+        "m": "interrogative manner; how", 
         "t": "lara", 
         "d": [
             "interrogative", 
             "manner;", 
-            "how?"
+            "how"
         ]
     }, 
     {
@@ -12571,6 +12666,35 @@
         "d": [
             "multiple", 
             "birth"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "birth of twins", 
+        "t": "luxira", 
+        "d": [
+            "birth", 
+            "of", 
+            "twins"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "twin", 
+        "t": "luxirasa", 
+        "d": [
+            "twin"
         ]
     }, 
     {
@@ -13645,7 +13769,7 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "somehow; existential manner; existential state", 
@@ -14275,7 +14399,8 @@
     {
         "p": [
             "indefinite", 
-            "proform"
+            "pronoun", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "where; interrogative place", 
@@ -14591,7 +14716,7 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-form"
         ], 
         "l": "High Lulani", 
         "m": "how; interrogative state", 
@@ -15378,15 +15503,16 @@
     {
         "p": [
             "indefinite", 
-            "pronoun"
+            "pro-verb", 
+            "pro-form"
         ], 
         "l": "High Lulani", 
-        "m": "to do what?; interrogative action", 
+        "m": "to do what; interrogative action", 
         "t": "sulla", 
         "d": [
             "to", 
             "do", 
-            "what?;", 
+            "what;", 
             "interrogative", 
             "action"
         ]

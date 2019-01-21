@@ -34,6 +34,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x2c8; | =' | <br> <!-- primary stress -->
 &#x2cc; | _' | <br> <!-- secondary stress -->
 &#x2d0; | :: | <br> <!-- length mark -->
+&ccedil; | ,c | <br>
 &eth; | (d | <br>
 &#x259; | !e | <br> <!-- schwa -->
 &egrave; | )e | <br>
@@ -42,16 +43,13 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x14b; | ,g | <br> <!-- eng -->
 &#x2b0; | +h | <br> <!-- aspiration -->
 &#x2b1; | ++h | <br> <!-- breathy voice -->
-h&#x330; | !!h | <br> <!-- h with tilde below -->
 &igrave; | )i | <br>
 &iacute; | (i | <br>
 &#x268; | =i | <br> <!-- barred i -->
 &#x26a; | Ii | <br> <!-- small caps I -->
 &#x25f; | =j | <br> <!-- barred j -->
 &#x28e; | %l | <br> <!-- palatal l -->
-l&#x330; | !!l | <br> <!-- l with tilde below -->
 &#x272; | ,n | <br> <!-- palatal n -->
-&ntilde; | !!n | <br> <!-- n with tilde -->
 &#x254; | +o | <br> <!-- turned c / /or/ sound -->
 &#x27d; | %r | <br> <!-- retroflex flap -->
 &#x279; | ^r | <br> <!-- turned r -->
@@ -79,6 +77,9 @@ d definition]\n | def:  | <br>
 <overline>6</overline> | &rix; | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
+
+
+
 
 
 
