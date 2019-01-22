@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "hl: High Lulani"
+    "language": "en: English"
   }, 
   "site": {
     "files": {
@@ -20,36 +20,6 @@
     "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
   }, 
   "history": [
-    [
-      "&rsquo;amila"
-    ], 
-    [
-      "&rsquo;anni"
-    ], 
-    [
-      "&rsquo;anu"
-    ], 
-    [
-      "&rsquo;aqqixi"
-    ], 
-    [
-      "&rsquo;ala"
-    ], 
-    [
-      "&rsquo;alla"
-    ], 
-    [
-      "&rsquo;ala"
-    ], 
-    [
-      "&rsquo;aqqixi"
-    ], 
-    [
-      "&rsquo;anu"
-    ], 
-    [
-      "&rsquo;anni"
-    ], 
     [
       "&rsquo;amila"
     ], 
@@ -617,6 +587,34 @@
     ], 
     [
       "la"
+    ], 
+    [
+      "nu"
+    ], 
+    [
+      "xu"
+    ], 
+    [
+      "ssb!ufi"
+    ], 
+    [
+      "soul"
+    ], 
+    [], 
+    [
+      "soul"
+    ], 
+    [
+      "gingla"
+    ], 
+    [
+      "tsarship"
+    ], 
+    [
+      "tsar"
+    ], 
+    [
+      "tsarship"
     ]
   ]
 }
