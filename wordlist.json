@@ -3541,17 +3541,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3563,6 +3552,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
