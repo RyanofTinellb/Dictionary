@@ -269,7 +269,7 @@ function getTerms() {
     for (const elt of QUERY.split('&')) {
         query = elt.split('=');
         if (query[0] == 'term') {
-            text = removeTrailingPlus(query[1]);
+            text = removeTrailingPlus(query[1]).split('#')[0];
         }
     }
     for (let i = 0; i < MARKUP.length; i++) {

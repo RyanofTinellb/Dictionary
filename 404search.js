@@ -16,7 +16,7 @@ function getTermfrom404() {
     /* searches for the term after the final slash of the url, without the .html ending */
     let terms = HREF.split('/');
     terms = terms[terms.length - 1].split('#');
-    let term = terms[terms.length - 1];
+    let term = terms[0];
     if (term == 'index.html') {
         term = terms[terms.length - 2];
     } else {
