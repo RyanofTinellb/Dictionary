@@ -112,6 +112,22 @@
     {
         "p": [
             "indefinite", 
+            "pronoun", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "everything; universal noun object", 
+        "t": "&rsquo;aba", 
+        "d": [
+            "everything;", 
+            "universal", 
+            "noun", 
+            "object"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
             "prodeterminer", 
             "pro-form", 
             "determiner"
@@ -125,22 +141,6 @@
             "universal", 
             "object", 
             "determiner"
-        ]
-    }, 
-    {
-        "p": [
-            "indefinite", 
-            "pronoun", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "everything; universal noun object", 
-        "t": "&rsquo;aba", 
-        "d": [
-            "everything;", 
-            "universal", 
-            "noun", 
-            "object"
         ]
     }, 
     {
@@ -494,13 +494,14 @@
             "adposition"
         ], 
         "l": "High Lulani", 
-        "m": "in front of; before", 
+        "m": "in front of; before; upstream", 
         "t": "&rsquo;ari", 
         "d": [
             "in", 
             "front", 
             "of;", 
-            "before"
+            "before;", 
+            "upstream"
         ]
     }, 
     {
@@ -2214,9 +2215,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2226,9 +2227,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -5924,11 +5925,12 @@
             "adposition"
         ], 
         "l": "High Lulani", 
-        "m": "after; behind", 
+        "m": "after; behind; downstream", 
         "t": "capi", 
         "d": [
             "after;", 
-            "behind"
+            "behind;", 
+            "downstream"
         ]
     }, 
     {
@@ -8217,19 +8219,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
-        ]
-    }, 
-    {
-        "p": [
             "case", 
             "marker", 
             "prefix"
@@ -8240,6 +8229,19 @@
         "d": [
             "dative;", 
             "dat"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
         ]
     }, 
     {
@@ -8329,6 +8331,22 @@
     }, 
     {
         "p": [
+            "transitive", 
+            "vital", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to meet; to know", 
+        "t": "kuli", 
+        "d": [
+            "to", 
+            "meet;", 
+            "to", 
+            "know"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "derived", 
             "noun"
@@ -8353,12 +8371,12 @@
             "particle"
         ], 
         "l": "High Lulani", 
-        "m": "to the &#xff5e; dat-com", 
+        "m": "to the &#xff5e;; dat-com", 
         "t": "ku&middot;li", 
         "d": [
             "to", 
             "the", 
-            "&#xff5e;", 
+            "&#xff5e;;", 
             "dat-com"
         ]
     }, 

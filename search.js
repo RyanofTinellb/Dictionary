@@ -154,7 +154,7 @@ function place(terms) {
 }
 
 function pos_lang(data, terms) {
-    terms = terms.map(clean);
+    terms = terms.map(keep_hyphen);
     let totalLength = data.length;
     if (includesAll(LANGUAGES, terms)) {
         return [];
@@ -182,7 +182,6 @@ function def_lang(data, terms) {
     for (let term of terms) {
         quote = term.search('"') != -1;
         term = term.replace(/"/g, '');
-        console.log(quote, term);
         data = data.filter(entry => entry.d.map(
             word => clean(markdown(word.toLowerCase()))
         ).includes(term) ||
@@ -210,6 +209,10 @@ function clean(text) {
 
 function keep_quotes(text) {
     return text.toLowerCase().replace(/[^a-z'" ]/g, '');
+}
+
+function keep_hyphen(text) {
+    return text.toLowerCase().replace(/[^a-z-' ]/g, '')
 }
 
 function clean_split(text) {

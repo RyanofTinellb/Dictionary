@@ -63,7 +63,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &eqls; | == | <br>
 &rarr; | ==> | <br>
 &dquot; | "" | <br>
-&middot; | (.) | <br>
+&middot; | .. | <br>
 &#xff5e; | ~ | <br>
 &lparen; | \( | <br>
 &rparen; | )/ | <br>
@@ -78,6 +78,7 @@ d definition]\n | def:  | <br>
 <overline>6</overline> | &rix; | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
+
 
 
 

@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "en: English"
+    "language": "hl: High Lulani"
   }, 
   "site": {
     "files": {
@@ -20,24 +20,6 @@
     "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
   }, 
   "history": [
-    [
-      "&rsquo;amila"
-    ], 
-    [
-      "&rsquo;ama"
-    ], 
-    [
-      "&rsquo;agusa"
-    ], 
-    [
-      "&rsquo;aggini"
-    ], 
-    [
-      "&rsquo;aggami"
-    ], 
-    [
-      "&rsquo;agga"
-    ], 
     [
       "-aku"
     ], 
@@ -615,6 +597,24 @@
     ], 
     [
       "'u'ili"
+    ], 
+    [
+      "capi"
+    ], 
+    [
+      "'ari"
+    ], 
+    [
+      "kuli"
+    ], 
+    [
+      "kuli'a"
+    ], 
+    [
+      "ku..li"
+    ], 
+    [
+      "puxila"
     ]
   ]
 }
