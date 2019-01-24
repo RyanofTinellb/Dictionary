@@ -7,7 +7,6 @@ href="https://en.wikipedia.org/wiki/Help:IPA#kf"> | kf] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA#mt"> | mt] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 </a></ipa>[/d] | [/p] | <br>
-<div class="definition"> | {{ | <br>
 <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><span class="desktop">Periodic Table</span><span class="mobile">List of Elements</span></a> | hl:List of Elements | <br>
 <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship Terms</a> | *hl:kinship* | <br>
 <a href="../search.html?term=animal">List of Animals</a> | *animals* | <br>
@@ -16,11 +15,13 @@ href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 <a href="../search.html?term=bodypart">Other Parts of the Body</a> | *bodyparts* | <br>
 <a href="../search.html?term=substance">Other Substances</a> | *substances* | <br>
 <a href="../search.html?term=food">Food and Drink</a> | *foods* | <br>
+<a href=" | {{ | <br>
+"> | <> | <br>
+</a> | }} | <br>
 hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 [d wordlist] | [[w | <br>
 [d folding] | [[f | <br>
 [/d] | ]] | <br>
-</div> | }} | <br>
 ' | &quot; | <br>
 " | &dquot; | <br>
 = | &eqls; | <br>
@@ -78,6 +79,8 @@ d definition]\n | def:  | <br>
 <overline>6</overline> | &rix; | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
+
+
 
 
 
