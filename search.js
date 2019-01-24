@@ -37,8 +37,8 @@ async function search(termsGetter) {
     if (!terms) {
         results = '';
     } else {
-        results = [collate, pos_lang, def_lang]
-                   .map(fn => display(fn(data, terms.map(LOWER))))
+        results = [translit, pos_lang, def_lang]
+                   .map(fn => display(fn(data, terms)))
                    .filter(entry => entry.length)
                    .sort((a, b) => a.length - b.length)
                    .join('');
@@ -154,6 +154,8 @@ function place(terms) {
 }
 
 function pos_lang(data, terms) {
+    terms = terms.map(clean);
+    let totalLength = data.length;
     if (includesAll(LANGUAGES, terms)) {
         return [];
     }
@@ -169,14 +171,22 @@ function pos_lang(data, terms) {
             return data;
         }
     }
+    if (data.length == totalLength) {
+        return [];
+    }
     return data;
 }
 
 function def_lang(data, terms) {
+    terms = terms.map(keep_quotes);
     for (let term of terms) {
+        quote = term.search('"') != -1;
+        term = term.replace(/"/g, '');
+        console.log(quote, term);
         data = data.filter(entry => entry.d.map(
             word => clean(markdown(word.toLowerCase()))
-        ).includes(term) || language(entry).includes(term));
+        ).includes(term) ||
+            (quote ? false : language(entry).includes(term)));
         if (!data.length) {
             return data;
         }
@@ -188,13 +198,18 @@ function language(entry) {
     return entry.l.toLowerCase().split(' ');
 }
 
-function collate(data, terms) {
+function translit(data, terms) {
+    terms = terms.map(clean);
     return data.filter(entry =>
         includesAll(clean_split(entry.t), terms));
 }
 
 function clean(text) {
     return text.toLowerCase().replace(/[^a-z' ]/g, '');
+}
+
+function keep_quotes(text) {
+    return text.toLowerCase().replace(/[^a-z'" ]/g, '');
 }
 
 function clean_split(text) {
@@ -263,7 +278,8 @@ function getTerms() {
         "%25", "%",
         "%3b", " ",
         "%26", "&",
-        "%2cr", ",r"
+        "%2cr", ",r",
+        '%22', '"'
     ];
     let text = '';
     for (const elt of QUERY.split('&')) {
