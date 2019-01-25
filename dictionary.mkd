@@ -58,6 +58,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &uuml; | !u | <br>
 &ucirc; | ()u | <br>
 &#x26f; | ^u | <br> <!-- turned m -->
+&#x28a | Uu | <br> <!-- horseshoe -->
 &#x289; | =u | <br> <!-- barred u -->
 &#x291; | ,z | <br> <!-- curl-tailed z -->
 &#x17e; | )(z | <br> <!-- z with hacek -->
@@ -79,6 +80,7 @@ d definition]\n | def:  | <br>
 <overline>6</overline> | &rix; | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
+
 
 
 
