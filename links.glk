@@ -69,7 +69,9 @@
             "mathematics": {
                 "link": "apocrypha/numbers.html",
                 "not with": [
-                    "cardinal"
+                    "cardinal",
+                    "numeral",
+                    "prefix"
                 ]
             },
             "modal": "morphology/adverbs.html#modals",
@@ -163,6 +165,8 @@
         }
     }
 }
+
+
 
 
 
