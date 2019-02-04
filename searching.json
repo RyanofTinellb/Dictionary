@@ -30833,11 +30833,6 @@
                 16204
             ]
         }, 
-        "lusufi": {
-            "879": [
-                15186
-            ]
-        }, 
         "romantic": {
             "382": [
                 6601
@@ -52236,6 +52231,11 @@
             ], 
             "376": [
                 6340
+            ]
+        }, 
+        "lusubi": {
+            "879": [
+                15186
             ]
         }, 
         "uesd": {
@@ -74829,7 +74829,7 @@
         "Lulani", 
         "lulu", 
         "luffu", 
-        "Lusufi", 
+        "Lusubi", 
         "L&#x16b;sob", 
         "Lusov", 
         "luxi", 
@@ -76012,7 +76012,7 @@
         "l/$lulani.html", 
         "l/lulu.html", 
         "l/luffu.html", 
-        "l/$lusufi.html", 
+        "l/$lusubi.html", 
         "l/$l_usob.html", 
         "l/$lusov.html", 
         "l/luxi.html", 
@@ -91504,7 +91504,7 @@
         "Zhaladi town", 
         "Transliterations", 
         "", 
-        " High Lulani Lusufi ", 
+        " High Lulani Lusubi ", 
         "High Lulani", 
         "", 
         "", 
