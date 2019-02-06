@@ -13920,6 +13920,33 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "glass", 
+        "t": "ruka", 
+        "d": [
+            "glass"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "obsidian, blackglass", 
+        "t": "rukaga", 
+        "d": [
+            "obsidian,", 
+            "blackglass"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "auxiliary"
         ], 
