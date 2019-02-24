@@ -14,7 +14,8 @@ const MARKDOWN = {
     '&middot;': '..',
     '&nbsp;': ' ',
     '&#x157;': ',r',
-    '&#x14d;': '_o'
+    '&#x14d;': '_o',
+    '&#x1e6c;': ')T'
 };
 const LANGUAGES = [
     'english', 'lulani', 'high', 'demotic', 'fezhle', 'early', 'late', 'koine',
@@ -250,7 +251,8 @@ function createUrl(text) {
 }
 
 function createPlainUrl(text) {
-    return `${findInitial(text)}/${sellCaps(markdown(text))}.html`
+    text = markdown(text);
+    return `${findInitial(text)}/${sellCaps(text)}.html`
 }
 
 function sellCaps(text) {
