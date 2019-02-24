@@ -12,7 +12,7 @@
  <link rel="icon" type="image/png" href="../favicon.png">
      <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `../search.html?${term}&andOr=and`;
 }
@@ -55,6 +55,7 @@ if (href.indexOf("?") != -1) {
 <li><a href="index.html">R</a></li>
 <li><a href="../f/index.html">F</a></li>
 <li><a href="../s/index.html">S</a></li>
+<li><a href="../z/index.html">Z</a></li>
 <li><a href="../x/index.html">X</a></li>
 <li><a href="../h/index.html">H</a></li>
 </ul>   </div></ul></label>
@@ -131,5 +132,6 @@ if (href.indexOf("?") != -1) {
         }
     </script>
 </body>
+
 
 

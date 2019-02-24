@@ -12,7 +12,7 @@
  <link rel="icon" type="image/png" href="../favicon.png">
      <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `../search.html?${term}&andOr=and`;
 }
@@ -55,6 +55,7 @@ if (href.indexOf("?") != -1) {
 <li><a href="../r/index.html">R</a></li>
 <li><a href="../f/index.html">F</a></li>
 <li><a href="../s/index.html">S</a></li>
+<li><a href="../z/index.html">Z</a></li>
 <li><a href="../x/index.html">X</a></li>
 <li><a href="../h/index.html">H</a></li>
 </ul>   </div></ul></label>
@@ -92,7 +93,10 @@ if (href.indexOf("?") != -1) {
 <p class="example">
 <a href="../i/'ifuhhanaku.html#highlulani">&rsquo;ifuhhanaku</a> <high-lulani>iv;hn&gt;</high-lulani> <em>to agree</em></p>
 </div>
-</div>
+
+<h4 id="notes">Notes</h4>
+
+<p>Moves verbs into the <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#symmetricrelations">symmetric</a> class.</p></div>
             <div class="javascript">
                 <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
                 <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
@@ -101,10 +105,10 @@ if (href.indexOf("?") != -1) {
             <br>
             <div class="copyright">
                 <span class="no-breaks">
-                    &copy;2017-2018 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>. 
+                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>. 
                 </span>
                 <span class="no-breaks">
-                    Last updated: Thursday, April 12th, 2018.
+                    Last updated: Thursday, February 14th, 2019.
                 </span>
             </div>
         </div>
@@ -115,5 +119,6 @@ if (href.indexOf("?") != -1) {
         }
     </script>
 </body>
+
 
 
