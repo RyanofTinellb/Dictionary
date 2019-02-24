@@ -3633,17 +3633,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3655,6 +3644,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -9028,6 +9028,21 @@
     }, 
     {
         "p": [
+            "intransitive", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to stand still", 
+        "t": "gupitiba", 
+        "d": [
+            "to", 
+            "stand", 
+            "still"
+        ]
+    }, 
+    {
+        "p": [
             "derived", 
             "compound", 
             "verb"
@@ -9516,6 +9531,23 @@
             "infinite", 
             "digit", 
             "string"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "proper", 
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "planet in universe  M204&nu;", 
+        "t": "Mala&nbsp;Ptokonoi", 
+        "d": [
+            "planet", 
+            "in", 
+            "universe", 
+            "", 
+            "M204&nu;"
         ]
     }, 
     {
@@ -10637,13 +10669,13 @@
             "auxiliary"
         ], 
         "l": "High Lulani", 
-        "m": "will stop being; fut;sta-trm", 
+        "m": "will stop being; fut;sta&lt;trm&gt;", 
         "t": "nagari", 
         "d": [
             "will", 
             "stop", 
             "being;", 
-            "fut;sta-trm"
+            "fut;sta&lt;trm&gt;"
         ]
     }, 
     {
