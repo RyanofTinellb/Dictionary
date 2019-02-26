@@ -122,12 +122,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { /* headword */
-	font-family: "trebuchet ms", sans-serif;
+	font-family: "gentium plus", serif;
 }
 
 h2 { /* language */
-	font-family: garamond, serif;
-	margin-top: 2rem;
+	font-family: andika, sans-serif;
 }
 
 .native-script p { /* Tinellbian script */

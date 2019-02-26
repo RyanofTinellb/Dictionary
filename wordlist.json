@@ -661,6 +661,7 @@
     {
         "p": [
             "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -705,6 +706,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -731,6 +734,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -815,6 +820,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -834,6 +841,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -851,6 +860,7 @@
     {
         "p": [
             "transitive", 
+            "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -867,6 +877,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -894,6 +906,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -967,6 +981,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -986,6 +1002,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1043,6 +1061,18 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1053,18 +1083,6 @@
             "heart;", 
             "emotional", 
             "body"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
         ]
     }, 
     {
@@ -1128,6 +1146,24 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to argue", 
+        "t": "&rsquo;ifuhha", 
+        "d": [
+            "to", 
+            "argue"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "intransitive", 
+            "symmetric", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1194,6 +1230,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8396,19 +8434,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
-        ]
-    }, 
-    {
-        "p": [
             "case", 
             "marker", 
             "prefix"
@@ -8419,6 +8444,19 @@
         "d": [
             "dative;", 
             "dat"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
         ]
     }, 
     {
@@ -14683,10 +14721,11 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "decision", 
+        "m": "argument; debate", 
         "t": "fuhha", 
         "d": [
-            "decision"
+            "argument;", 
+            "debate"
         ]
     }, 
     {

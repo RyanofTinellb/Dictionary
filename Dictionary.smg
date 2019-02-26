@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "en: English"
+    "language": "hl: High Lulani"
   }, 
   "site": {
     "files": {
@@ -20,70 +20,6 @@
     "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
   }, 
   "history": [
-    [
-      "capi"
-    ], 
-    [
-      "'ari"
-    ], 
-    [
-      "kuli"
-    ], 
-    [
-      "kuli'a"
-    ], 
-    [
-      "ku..li"
-    ], 
-    [
-      "puxila"
-    ], 
-    [
-      "gufu'iri"
-    ], 
-    [
-      "gufu'iribuma"
-    ], 
-    [
-      "Xucipura Cula"
-    ], 
-    [
-      "ducini"
-    ], 
-    [
-      "jannulu"
-    ], 
-    [
-      "latuni"
-    ], 
-    [], 
-    [
-      "downstream"
-    ], 
-    [
-      "upstream"
-    ], 
-    [
-      "downstream"
-    ], 
-    [
-      "-pa"
-    ], 
-    [
-      "'adi"
-    ], 
-    [
-      "-pa"
-    ], 
-    [
-      "'adi"
-    ], 
-    [
-      "-pa"
-    ], 
-    [
-      "pa-"
-    ], 
     [
       "fixi"
     ], 
@@ -594,7 +530,73 @@
       "janni"
     ], 
     [
-      "ju'i"
+      "'anu"
+    ], 
+    [
+      "lu'iki"
+    ], 
+    [
+      "kassu"
+    ], 
+    [
+      "'i"
+    ], 
+    [
+      "'i'issi"
+    ], 
+    [
+      "'ibibu"
+    ], 
+    [
+      "'idata"
+    ], 
+    [
+      "'idajabi"
+    ], 
+    [
+      "'idu"
+    ], 
+    [
+      "du"
+    ], 
+    [
+      "'icipu"
+    ], 
+    [
+      "'ikahu"
+    ], 
+    [
+      "'iqaca"
+    ], 
+    [
+      "'ilagi"
+    ], 
+    [
+      "'ifuhhanaku"
+    ], 
+    [
+      "'ifuhha"
+    ], 
+    [
+      "'ifuhhanaku"
+    ], 
+    [
+      "fuhha"
+    ], 
+    [
+      "'ifuhha"
+    ], 
+    [
+      "'isinna"
+    ], 
+    [
+      "'ihucu"
+    ], 
+    [
+      "'usa"
+    ], 
+    [
+      "'ussa"
     ]
   ]
 }
