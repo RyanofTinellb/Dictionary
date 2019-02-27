@@ -9,6 +9,7 @@ const MARKDOWN = {
     '&rsquo;': "'",
     '&#x294;': "''",
     '&uuml;': '!u',
+    '&ucirc;': '()u',
     '&ecirc;': '()e',
     '&igrave;': ')i',
     '&middot;': '..',
@@ -161,10 +162,11 @@ function pos_lang(data, terms) {
         return [];
     }
     for (let term of terms) {
+        console.log(term);
         let neg = term.charAt(0) == '-' ? a => !a : a => a;
         term = term.replace('-', '');
         let arr = data.filter(entry => neg(entry.p.includes(term)));
-        if (!arr.length || arr.length == data.length) {
+        if (!arr.length || arr.length == totalLength) {
             arr = data.filter(entry => neg(language(entry).includes(term)));
         }
         data = arr;
@@ -195,7 +197,7 @@ function def_lang(data, terms) {
 }
 
 function language(entry) {
-    return entry.l.toLowerCase().split(' ');
+    return entry.l.toLowerCase().replace(/&.*?;/g, 'e').split(' ');
 }
 
 function translit(data, terms) {

@@ -1061,18 +1061,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1083,6 +1071,18 @@
             "heart;", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -1377,6 +1377,8 @@
         "p": [
             "derived", 
             "compound", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1523,6 +1525,7 @@
     {
         "p": [
             "ambitransitive", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3236,7 +3239,7 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to draw; to write; to project on screen", 
+        "m": "to draw; to write; to project (e. by a screen)", 
         "t": "buma", 
         "d": [
             "to", 
@@ -3245,8 +3248,10 @@
             "write;", 
             "to", 
             "project", 
-            "on", 
-            "screen"
+            "(e.", 
+            "by", 
+            "a", 
+            "screen)"
         ]
     }, 
     {
@@ -16877,12 +16882,18 @@
         ]
     }, 
     {
-        "p": [], 
-        "l": "English", 
-        "m": "", 
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "for; for the benefit of", 
         "t": "ha", 
         "d": [
-            ""
+            "for;", 
+            "for", 
+            "the", 
+            "benefit", 
+            "of"
         ]
     }, 
     {
