@@ -1555,22 +1555,37 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "intransitive", 
+            "kinetic", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to follow; to obey", 
+        "m": "to obey", 
         "t": "&rsquo;ussa", 
         "d": [
-            "to", 
-            "follow;", 
             "to", 
             "obey"
         ]
     }, 
     {
         "p": [
+            "transitive", 
+            "vital", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to obey", 
+        "t": "&rsquo;ussa", 
+        "d": [
+            "to", 
+            "obey"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
             "derived", 
+            "compound", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1609,9 +1624,10 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1624,9 +1640,10 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1854,9 +1871,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1894,8 +1912,10 @@
     }, 
     {
         "p": [
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1935,8 +1955,10 @@
     }, 
     {
         "p": [
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -1981,9 +2003,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2001,9 +2024,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2052,9 +2076,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2067,9 +2092,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicaive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2087,9 +2113,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2178,9 +2205,10 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2221,8 +2249,10 @@
     }, 
     {
         "p": [
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2235,8 +2265,10 @@
     }, 
     {
         "p": [
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2265,8 +2297,10 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
+            "kinetic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2454,6 +2488,7 @@
     {
         "p": [
             "transitive", 
+            "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2676,22 +2711,21 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "transitive", 
             "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to change; to become", 
+        "m": "to change", 
         "t": "pura", 
         "d": [
             "to", 
-            "change;", 
-            "to", 
-            "become"
+            "change"
         ]
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
             "verb"
@@ -2932,6 +2966,8 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
+            "chromatic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -2951,6 +2987,8 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
+            "chromatic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3056,6 +3094,7 @@
         "p": [
             "intransitive", 
             "derived", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3539,9 +3578,10 @@
     }, 
     {
         "p": [
-            "instransitive", 
+            "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3558,6 +3598,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -3676,6 +3717,17 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3687,17 +3739,6 @@
             "one", 
             "hundred;", 
             "(225)"
-        ]
-    }, 
-    {
-        "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -5252,19 +5293,6 @@
     }, 
     {
         "p": [
-            "abstract", 
-            "derived", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "mealtime", 
-        "t": "das&middot;sippa", 
-        "d": [
-            "mealtime"
-        ]
-    }, 
-    {
-        "p": [
             "derived", 
             "compound", 
             "noun"
@@ -6601,11 +6629,13 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to change; (time) passes", 
+        "m": "to change; to become; (time) passes", 
         "t": "cura", 
         "d": [
             "to", 
             "change;", 
+            "to", 
+            "become;", 
             "(time)", 
             "passes"
         ]
@@ -9465,6 +9495,20 @@
             "manner;", 
             "proximate", 
             "manner"
+        ]
+    }, 
+    {
+        "p": [
+            "verb"
+        ], 
+        "l": "Early Fezhl&ecirc;", 
+        "m": "to see out of", 
+        "t": "madh", 
+        "d": [
+            "to", 
+            "see", 
+            "out", 
+            "of"
         ]
     }, 
     {
@@ -15558,18 +15602,6 @@
             "heal", 
             "the", 
             "body"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "time", 
-        "t": "-sippa", 
-        "d": [
-            "time"
         ]
     }, 
     {

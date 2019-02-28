@@ -4,7 +4,12 @@
         "High Lulani": {
             "abstract": "morphology/nouns.html#abstractnoun",
             "action": "morphology/verbs/transitivity.html#actionverbs",
-            "adjectival": "morphology/verbs/intransitivity.html#adjectivalverbs",
+            "adjectival": {
+                "link": "morphology/verbs/intransitivity.html#adjectivalverbs",
+                "not with": [
+                    "chromatic"
+                ]
+            },
             "adposition": "morphology/adpositions",
             "adverb": "morphology/adverbs.html",
             "animal": {
@@ -165,6 +170,7 @@
         }
     }
 }
+
 
 
 
