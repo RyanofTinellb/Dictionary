@@ -112,22 +112,6 @@
     {
         "p": [
             "indefinite", 
-            "pronoun", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "everything; universal noun object", 
-        "t": "&rsquo;aba", 
-        "d": [
-            "everything;", 
-            "universal", 
-            "noun", 
-            "object"
-        ]
-    }, 
-    {
-        "p": [
-            "indefinite", 
             "prodeterminer", 
             "pro-form", 
             "determiner"
@@ -141,6 +125,22 @@
             "universal", 
             "object", 
             "determiner"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "everything; universal noun object", 
+        "t": "&rsquo;aba", 
+        "d": [
+            "everything;", 
+            "universal", 
+            "noun", 
+            "object"
         ]
     }, 
     {
@@ -1560,11 +1560,11 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to obey", 
+        "m": "to follow", 
         "t": "&rsquo;ussa", 
         "d": [
             "to", 
-            "obey"
+            "follow"
         ]
     }, 
     {
@@ -3222,18 +3222,6 @@
     }, 
     {
         "p": [
-            "indefinite", 
-            "noun"
-        ], 
-        "l": "Demotic Lulani", 
-        "m": "everything", 
-        "t": "biri", 
-        "d": [
-            "everything"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -3717,17 +3705,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3739,6 +3716,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -4336,9 +4324,12 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to abide", 
+        "m": "to move to; to abide", 
         "t": "tihu", 
         "d": [
+            "to", 
+            "move", 
+            "to;", 
             "to", 
             "abide"
         ]
@@ -4652,9 +4643,9 @@
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
-            "transitive", 
             "transformative", 
             "verb"
         ], 
@@ -4674,6 +4665,7 @@
         "p": [
             "transitive", 
             "derived", 
+            "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -4734,6 +4726,8 @@
         "p": [
             "intransitive", 
             "derived", 
+            "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5185,6 +5179,7 @@
     {
         "p": [
             "transitive", 
+            "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5609,7 +5604,9 @@
     {
         "p": [
             "intransitive", 
+            "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5624,7 +5621,9 @@
     {
         "p": [
             "intransitive", 
+            "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5641,6 +5640,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5658,7 +5658,9 @@
     {
         "p": [
             "intransitive", 
+            "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5689,6 +5691,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5708,6 +5711,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -5775,6 +5779,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -6507,6 +6512,7 @@
     {
         "p": [
             "ambitransitive", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -6698,6 +6704,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -6714,6 +6721,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -6949,7 +6957,7 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to accelerate; to move around; to vibrate; to go; to come", 
+        "m": "to accelerate; to move around; to vibrate", 
         "t": "janni", 
         "d": [
             "to", 
@@ -6958,30 +6966,7 @@
             "move", 
             "around;", 
             "to", 
-            "vibrate;", 
-            "to", 
-            "go;", 
-            "to", 
-            "come"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to slide; to move through parallel worlds", 
-        "t": "janni&rsquo;u&rsquo;ili", 
-        "d": [
-            "to", 
-            "slide;", 
-            "to", 
-            "move", 
-            "through", 
-            "parallel", 
-            "worlds"
+            "vibrate"
         ]
     }, 
     {
@@ -7004,65 +6989,6 @@
     {
         "p": [
             "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to nod", 
-        "t": "jannidifi", 
-        "d": [
-            "to", 
-            "nod"
-        ]
-    }, 
-    {
-        "p": [
-            "intransitive", 
-            "derived", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to move across sideways", 
-        "t": "jannija", 
-        "d": [
-            "to", 
-            "move", 
-            "across", 
-            "sideways"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to swing", 
-        "t": "jannigata", 
-        "d": [
-            "to", 
-            "swing"
-        ]
-    }, 
-    {
-        "p": [
-            "intransitive", 
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to dance", 
-        "t": "jannimufa", 
-        "d": [
-            "to", 
-            "dance"
-        ]
-    }, 
-    {
-        "p": [
-            "inflected", 
             "intransitive", 
             "kinetic", 
             "verb"
@@ -7076,21 +7002,6 @@
             "down;", 
             "to", 
             "decelerate"
-        ]
-    }, 
-    {
-        "p": [
-            "intransitive", 
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to travel", 
-        "t": "jann&middot;nika", 
-        "d": [
-            "to", 
-            "travel"
         ]
     }, 
     {
@@ -7305,7 +7216,9 @@
     }, 
     {
         "p": [
-            "ambitransitive", 
+            "quasi-transitive", 
+            "intransitive", 
+            "symmetric", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -7344,9 +7257,11 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "quasi-transitive", 
+            "intransitive", 
             "derived", 
             "compound", 
+            "symmetric", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -7359,9 +7274,11 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "quasi-transitive", 
+            "intransitive", 
             "derived", 
             "compound", 
+            "symmetric", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -7374,8 +7291,10 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "quasi-transitive", 
+            "intransitive", 
             "derived", 
+            "symmetric", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8063,6 +7982,7 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8107,6 +8027,8 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
+            "chromatic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8136,18 +8058,23 @@
     }, 
     {
         "p": [
-            "inanimate", 
+            "intransitive", 
             "derived", 
+            "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to grow in number", 
+        "m": "to grow in number; to be lots", 
         "t": "kipacca", 
         "d": [
             "to", 
             "grow", 
             "in", 
-            "number"
+            "number;", 
+            "to", 
+            "be", 
+            "lots"
         ]
     }, 
     {
@@ -8256,8 +8183,10 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8399,6 +8328,7 @@
     {
         "p": [
             "transitive", 
+            "vital", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8508,6 +8438,7 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -8815,22 +8746,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "compound", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to push into place", 
-        "t": "gajannida", 
-        "d": [
-            "to", 
-            "push", 
-            "into", 
-            "place"
-        ]
-    }, 
-    {
-        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -8964,8 +8879,11 @@
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
+            "dative", 
+            "motive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -9102,6 +9020,7 @@
     {
         "p": [
             "intransitive", 
+            "derived", 
             "compound", 
             "verb"
         ], 
@@ -9116,19 +9035,35 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to guard; to stay behind", 
+        "m": "to stay behind", 
         "t": "gupicadi", 
         "d": [
             "to", 
-            "guard;", 
-            "to", 
             "stay", 
             "behind"
+        ]
+    }, 
+    {
+        "p": [
+            "ablative", 
+            "quasi-transitive", 
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to guard", 
+        "t": "gupicadi", 
+        "d": [
+            "to", 
+            "guard"
         ]
     }, 
     {
@@ -9161,10 +9096,11 @@
     }, 
     {
         "p": [
+            "dative", 
+            "quasi-transitive", 
+            "intransitive", 
             "derived", 
             "compound", 
-            "intransitive", 
-            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -9322,7 +9258,8 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "ambitransitive", 
+            "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -9364,8 +9301,10 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -9495,20 +9434,6 @@
             "manner;", 
             "proximate", 
             "manner"
-        ]
-    }, 
-    {
-        "p": [
-            "verb"
-        ], 
-        "l": "Early Fezhl&ecirc;", 
-        "m": "to see out of", 
-        "t": "madh", 
-        "d": [
-            "to", 
-            "see", 
-            "out", 
-            "of"
         ]
     }, 
     {
@@ -9695,9 +9620,11 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "there is; there exists; to be in a place", 
+        "m": "move to; there is; there exists; to be in a place", 
         "t": "malu", 
         "d": [
+            "move", 
+            "to;", 
             "there", 
             "is;", 
             "there", 
@@ -9723,16 +9650,19 @@
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to want", 
+        "m": "to want to", 
         "t": "marasi", 
         "d": [
             "to", 
-            "want"
+            "want", 
+            "to"
         ]
     }, 
     {
@@ -9813,8 +9743,10 @@
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10081,6 +10013,8 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
+            "chromatic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10169,6 +10103,8 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
+            "chromatic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10308,8 +10244,10 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10324,8 +10262,10 @@
     }, 
     {
         "p": [
+            "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10554,18 +10494,6 @@
         "t": "musaqu", 
         "d": [
             "lead"
-        ]
-    }, 
-    {
-        "p": [
-            "verb"
-        ], 
-        "l": "Demotic Lulani", 
-        "m": "to obtain", 
-        "t": "mrexi", 
-        "d": [
-            "to", 
-            "obtain"
         ]
     }, 
     {
@@ -12669,18 +12597,6 @@
         "l": "High Lulani", 
         "m": "complementiser; com", 
         "t": "li", 
-        "d": [
-            "complementiser;", 
-            "com"
-        ]
-    }, 
-    {
-        "p": [
-            "particle"
-        ], 
-        "l": "High Lulani", 
-        "m": "complementiser; com", 
-        "t": "-li", 
         "d": [
             "complementiser;", 
             "com"
@@ -14902,22 +14818,6 @@
             "and", 
             "chaos;", 
             "light-giver"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "possessed", 
-            "kinship", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "my father", 
-        "t": "sappagu", 
-        "d": [
-            "my", 
-            "father"
         ]
     }, 
     {
@@ -17661,13 +17561,16 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to drop; to fall; to be low", 
+        "m": "to drop; to fall; to move down; to be low", 
         "t": "hussu", 
         "d": [
             "to", 
             "drop;", 
             "to", 
             "fall;", 
+            "to", 
+            "move", 
+            "down;", 
             "to", 
             "be", 
             "low"
@@ -17688,6 +17591,20 @@
             "to", 
             "trip", 
             "over"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to nod", 
+        "t": "hussudifi", 
+        "d": [
+            "to", 
+            "nod"
         ]
     }
 ]

@@ -63,7 +63,12 @@
             },
             "inanimate": "morphology/nouns.html#inanimatenoun",
             "indefinite": "morphology/deixis/indefinitepro-forms.html",
-            "intransitive": "morphology/verbs/intransitivity.html",
+            "intransitive": {
+                "link": "morphology/verbs/intransitivity.html",
+                "not with": [
+                    "quasi-transitive"
+                ]
+            },
             "kinetic": "morphology/verbs/intransitivity.html#kineticverbs",
             "kinship": {
                 "not with": [
@@ -122,23 +127,7 @@
             "pronoun": "morphology/nouns.html",
             "pro-verb" : "morphology/verbs/index.html",
             "proper": "morphology/nouns.html#propernouns",
-            "quasi-transitive": {
-                "link": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
-                "not with": [
-                    "intransitive"
-                ]
-            },
-            "stem": {
-                "not with": [
-                    "verb",
-                    "noun",
-                    "adverb",
-                    "particle",
-                    "determiner",
-                    "adposition",
-                    "suffix"
-                ]
-            },
+            "quasi-transitive": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
             "substance": {
                 "not with": [
                     "noun"
@@ -170,6 +159,8 @@
         }
     }
 }
+
+
 
 
 

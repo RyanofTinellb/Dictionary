@@ -155,23 +155,23 @@ function place(terms) {
     SEARCH.value = terms.join(' ');
 }
 
-function pos_lang(data, terms) {
+function pos_lang(data, terms, back) {
     terms = terms.map(keep_hyphen);
     let totalLength = data.length;
     if (includesAll(LANGUAGES, terms)) {
         return [];
     }
     for (let term of terms) {
-        console.log(term);
         let neg = term.charAt(0) == '-' ? a => !a : a => a;
-        term = term.replace('-', '');
+        term = term.replace(/^-/, '');
         let arr = data.filter(entry => neg(entry.p.includes(term)));
         if (!arr.length || arr.length == data.length) {
             arr = data.filter(entry => neg(language(entry).includes(term)));
         }
-        data = arr;
-        if (!data.length) {
-            return data;
+        if (!arr.length && !back) {
+            return pos_lang(data, terms.reverse(), true)
+        } else {
+            data = arr;
         }
     }
     if (data.length == totalLength) {
