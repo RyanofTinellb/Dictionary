@@ -15979,13 +15979,15 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to book; to reserve", 
+        "m": "to be booked; to be reserved", 
         "t": "suqanatiha", 
         "d": [
             "to", 
-            "book;", 
+            "be", 
+            "booked;", 
             "to", 
-            "reserve"
+            "be", 
+            "reserved"
         ]
     }, 
     {
