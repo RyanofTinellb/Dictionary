@@ -21,176 +21,6 @@
   }, 
   "history": [
     [
-      "qapi"
-    ], 
-    [
-      "saki"
-    ], 
-    [
-      "sa"
-    ], 
-    [
-      "saki"
-    ], 
-    [
-      "kuli'anaci"
-    ], 
-    [
-      "miku"
-    ], 
-    [
-      "sa-"
-    ], 
-    [
-      "-sa"
-    ], 
-    [
-      "sa"
-    ], 
-    [
-      "naqi"
-    ], 
-    [
-      "Naqi"
-    ], 
-    [
-      "Mala Ptokonoi"
-    ], 
-    [
-      "Nubi"
-    ], 
-    [], 
-    [
-      "malu"
-    ], 
-    [
-      "tepeth"
-    ], 
-    [
-      "Tepeth"
-    ], 
-    [
-      "mippi"
-    ], 
-    [
-      "janni"
-    ], 
-    [
-      "tiqaxi"
-    ], 
-    [
-      "janni"
-    ], 
-    [
-      "'anu"
-    ], 
-    [
-      "lu'iki"
-    ], 
-    [
-      "kassu"
-    ], 
-    [
-      "'i"
-    ], 
-    [
-      "'i'issi"
-    ], 
-    [
-      "'ibibu"
-    ], 
-    [
-      "'idata"
-    ], 
-    [
-      "'idajabi"
-    ], 
-    [
-      "'idu"
-    ], 
-    [
-      "du"
-    ], 
-    [
-      "'icipu"
-    ], 
-    [
-      "'ikahu"
-    ], 
-    [
-      "'iqaca"
-    ], 
-    [
-      "'ilagi"
-    ], 
-    [
-      "'ifuhhanaku"
-    ], 
-    [
-      "'ifuhha"
-    ], 
-    [
-      "'ifuhhanaku"
-    ], 
-    [
-      "fuhha"
-    ], 
-    [
-      "'ifuhha"
-    ], 
-    [
-      "'isinna"
-    ], 
-    [
-      "'ihucu"
-    ], 
-    [
-      "'usa"
-    ], 
-    [
-      "'ussa"
-    ], 
-    [], 
-    [
-      "ha"
-    ], 
-    [
-      "faxila'i"
-    ], 
-    [
-      "bumaki"
-    ], 
-    [
-      "malaki"
-    ], 
-    [
-      "lui'ki"
-    ], 
-    [
-      "lu'iki"
-    ], 
-    [
-      "t,rsh"
-    ], 
-    [
-      "madh"
-    ], 
-    [
-      "qirakunaqi"
-    ], 
-    [
-      "tariti"
-    ], 
-    [
-      "hami"
-    ], 
-    [
-      "salilu"
-    ], 
-    [
-      "'ussa"
-    ], 
-    [
       "'usapacca"
     ], 
     [
@@ -529,60 +359,230 @@
     [
       "mudibada"
     ], 
+    [
+      "mukicu"
+    ], 
+    [
+      "na"
+    ], 
+    [
+      "nakalu"
+    ], 
+    [
+      "nahusabi"
+    ], 
+    [
+      "nama"
+    ], 
+    [
+      "naqanaludu"
+    ], 
+    [
+      "naqi"
+    ], 
+    [
+      "$naqi"
+    ], 
+    [
+      "nali"
+    ], 
+    [
+      "$naqi"
+    ], 
+    [
+      "nali"
+    ], 
+    [
+      "nallimi"
+    ], 
+    [
+      "naludu"
+    ], 
+    [
+      "nara"
+    ], 
+    [
+      "narra"
+    ], 
+    [
+      "narafiqu"
+    ], 
+    [
+      "nittu"
+    ], 
+    [
+      "nidu"
+    ], 
+    [
+      "nu"
+    ], 
+    [
+      "nu'ifi"
+    ], 
+    [
+      "nura"
+    ], 
+    [
+      "qacca"
+    ], 
+    [
+      "qarri"
+    ], 
+    [
+      "qi'axasi"
+    ], 
+    [
+      "qi'iku"
+    ], 
+    [
+      "qimalliju"
+    ], 
+    [
+      "qirakunaqi"
+    ], 
+    [
+      "saxita"
+    ], 
+    [
+      "saxita lara"
+    ], 
+    [
+      "latuni"
+    ], 
+    [
+      "tuni"
+    ], 
+    [], 
     [], 
     [
-      "Zhalad"
+      "lakka"
     ], 
     [
-      "-li"
+      "lu'i"
     ], 
     [
-      "li"
+      "lu'ica'i"
     ], 
     [
-      "-li"
+      "lu'isamma"
     ], 
     [
-      "lulani"
+      "lulu"
     ], 
     [
-      "-li"
+      "raca"
     ], 
     [
-      "li"
+      "ri"
     ], 
     [
-      "ni"
+      "runihi"
     ], 
     [
-      "-kku"
+      "faxi"
     ], 
     [
-      "-da"
+      "fiqu"
     ], 
     [
-      "da"
+      "funi"
     ], 
     [
-      "subtle"
+      "sa"
+    ], 
+    [
+      "saja"
+    ], 
+    [
+      "saki"
+    ], 
+    [
+      "sakimica"
+    ], 
+    [
+      "sakiri"
+    ], 
+    [
+      "si'a"
+    ], 
+    [
+      "si'abassa"
+    ], 
+    [
+      "si'akalu"
+    ], 
+    [], 
+    [
+      "sikuppa"
+    ], 
+    [
+      "tuhhiasa"
+    ], 
+    [
+      "tuhhisa"
+    ], 
+    [
+      "siku'iku"
+    ], 
+    [
+      "sisa"
     ], 
     [
       "suqanatiha"
     ], 
     [
-      "sutti'ima"
+      "xi'axasi"
     ], 
     [
-      "takaru"
+      "xijapu"
     ], 
     [
-      "fuhha"
+      "ximussa"
     ], 
     [
-      "tarrada"
+      "xiranna"
     ], 
     [
-      "'ili"
+      "xifipu"
+    ], 
+    [
+      "xihuba"
+    ], 
+    [
+      "xu"
+    ], 
+    [
+      "xulagi"
+    ], 
+    [
+      "xusina"
+    ], 
+    [
+      "hacci"
+    ], 
+    [
+      "haru"
+    ], 
+    [
+      "hisu"
+    ], 
+    [
+      "hisutu"
+    ], 
+    [
+      "huba"
+    ], 
+    [
+      "hullasisa"
+    ], 
+    [
+      "hulu"
+    ], 
+    [
+      "hussudiccaha"
+    ], 
+    [
+      "hussudifi"
     ]
   ]
 }

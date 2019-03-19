@@ -3705,6 +3705,17 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3716,17 +3727,6 @@
             "one", 
             "hundred;", 
             "(225)"
-        ]
-    }, 
-    {
-        "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -4585,18 +4585,6 @@
             "infinite", 
             "digit", 
             "string"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "redo", 
-        "t": "-tuni", 
-        "d": [
-            "redo"
         ]
     }, 
     {
@@ -10723,6 +10711,7 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10743,6 +10732,7 @@
     {
         "p": [
             "transitive", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10757,6 +10747,7 @@
             "transitive", 
             "derived", 
             "compound", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -10871,13 +10862,13 @@
             "auxiliary"
         ], 
         "l": "High Lulani", 
-        "m": "to finish doing; prs;hab-trm", 
+        "m": "to finish doing; prs;hab&lt;trm&gt;", 
         "t": "nara", 
         "d": [
             "to", 
             "finish", 
             "doing;", 
-            "prs;hab-trm"
+            "prs;hab&lt;trm&gt;"
         ]
     }, 
     {
@@ -11404,8 +11395,8 @@
     }, 
     {
         "p": [
-            "kinetic", 
             "intransitive", 
+            "kinetic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -11831,6 +11822,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -11850,6 +11842,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -11924,6 +11917,7 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -12154,6 +12148,7 @@
     {
         "p": [
             "transitive", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -12220,22 +12215,6 @@
         "d": [
             "chance;", 
             "opportunity"
-        ]
-    }, 
-    {
-        "p": [
-            "inflected", 
-            "transitive", 
-            "action", 
-            "verb"
-        ], 
-        "l": "High Lulani", 
-        "m": "to do again", 
-        "t": "latuni", 
-        "d": [
-            "to", 
-            "do", 
-            "again"
         ]
     }, 
     {
@@ -12880,9 +12859,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -12912,9 +12892,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "ambitransitive", 
             "derived", 
             "compound", 
+            "perceptive", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -13027,6 +13008,7 @@
         "p": [
             "transitive", 
             "derived", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -14724,6 +14706,7 @@
     {
         "p": [
             "intransitive", 
+            "adjectival", 
             "chromatic", 
             "verb"
         ], 
@@ -15041,6 +15024,8 @@
     {
         "p": [
             "transitive", 
+            "ablative", 
+            "kinetic", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -15084,6 +15069,7 @@
             "transitive", 
             "derived", 
             "compound", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -15472,9 +15458,10 @@
     }, 
     {
         "p": [
-            "intransitive", 
+            "transitive", 
             "derived", 
             "compound", 
+            "action", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -15492,6 +15479,7 @@
             "transitive", 
             "derived", 
             "compound", 
+            "transformative", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -15612,6 +15600,24 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "time or date of death; funeral", 
+        "t": "sikuppa", 
+        "d": [
+            "time", 
+            "or", 
+            "date", 
+            "of", 
+            "death;", 
+            "funeral"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "derived", 
             "noun"
@@ -15621,24 +15627,6 @@
         "t": "sikuffi", 
         "d": [
             "spear"
-        ]
-    }, 
-    {
-        "p": [
-            "abstract", 
-            "derived", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "time or date of death; funeral", 
-        "t": "sikusippa", 
-        "d": [
-            "time", 
-            "or", 
-            "date", 
-            "of", 
-            "death;", 
-            "funeral"
         ]
     }, 
     {
@@ -15725,8 +15713,8 @@
     }, 
     {
         "p": [
-            "symmetric", 
             "quasi-transitive", 
+            "symmetric", 
             "intransitive", 
             "verb"
         ], 
@@ -16369,6 +16357,7 @@
             "intransitive", 
             "derived", 
             "compound", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16476,7 +16465,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16520,7 +16509,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16537,7 +16526,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16554,7 +16543,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16597,7 +16586,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16755,7 +16744,6 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -16771,7 +16759,7 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "apparent", 
+            "adjectival", 
             "verb"
         ], 
         "l": "High Lulani", 
@@ -17597,16 +17585,22 @@
     }, 
     {
         "p": [
+            "transitive", 
             "derived", 
             "compound", 
+            "kinetic", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to nod", 
+        "m": "to nod; to move sharply downwards", 
         "t": "hussudifi", 
         "d": [
             "to", 
-            "nod"
+            "nod;", 
+            "to", 
+            "move", 
+            "sharply", 
+            "downwards"
         ]
     }
 ]
