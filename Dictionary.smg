@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "hl: High Lulani"
+    "language": "en: English"
   }, 
   "site": {
     "files": {
@@ -20,81 +20,6 @@
     "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
   }, 
   "history": [
-    [
-      "'usapacca"
-    ], 
-    [
-      "'usadajabi"
-    ], 
-    [
-      "'usaju'i"
-    ], 
-    [
-      "pa"
-    ], 
-    [
-      "pa'usa"
-    ], 
-    [
-      "patirusi"
-    ], 
-    [
-      "padissu"
-    ], 
-    [
-      "pajagaru"
-    ], 
-    [
-      "pakicu"
-    ], 
-    [
-      "pgi"
-    ], 
-    [
-      "pagi"
-    ], 
-    [
-      "pamana"
-    ], 
-    [
-      "pamasi"
-    ], 
-    [
-      "pamilami"
-    ], 
-    [
-      "pani"
-    ], 
-    [
-      "palinu"
-    ], 
-    [
-      "parida"
-    ], 
-    [
-      "paxici"
-    ], 
-    [
-      "pahini"
-    ], 
-    [
-      "pifa"
-    ], 
-    [
-      "cura"
-    ], 
-    [
-      "purakassu"
-    ], 
-    [
-      "baju"
-    ], 
-    [
-      "bajukunubi"
-    ], 
-    [
-      "bi'ini"
-    ], 
     [
       "bi'u"
     ], 
@@ -583,6 +508,73 @@
     ], 
     [
       "hussudifi"
+    ], 
+    [
+      "dapi"
+    ], 
+    [], 
+    [
+      "'aga"
+    ], 
+    [
+      "'ari"
+    ], 
+    [
+      "ka"
+    ], 
+    [
+      "kala"
+    ], 
+    [
+      "du'ami"
+    ], 
+    [
+      "'u"
+    ], 
+    [
+      "fisi"
+    ], 
+    [
+      "fixi"
+    ], 
+    [
+      "madi"
+    ], 
+    [
+      "tiba"
+    ], 
+    [
+      "-ra"
+    ], 
+    [
+      "qarri"
+    ], 
+    [
+      "tuja"
+    ], 
+    [], 
+    [
+      "dajabituja"
+    ], 
+    [], 
+    [], 
+    [
+      "-ss..su"
+    ], 
+    [
+      "supertriadic"
+    ], 
+    [
+      "subtriadic"
+    ], 
+    [
+      "tari"
+    ], 
+    [
+      "ramaha"
+    ], 
+    [
+      "mi"
     ]
   ]
 }

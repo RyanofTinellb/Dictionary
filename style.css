@@ -182,6 +182,19 @@ h3 { /* part of speech */
 	padding-bottom: 1em;
 }
 
+.content .definition .note {
+	font-style: italic;
+}
+
+.content .definition .note::before {
+	content: "("
+}
+
+.content .definition .note::after {
+	content: ")"
+}
+
+
 h4 { /* subheadings */
 		font-family: sans-serif;
 		text-decoration: overline;

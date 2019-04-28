@@ -148,7 +148,8 @@
             },
             "mathematics": {
                 "not with": [
-                    "numeral"
+                    "numeral",
+                    "adjective"
                 ]
             },
             "number": {
@@ -159,6 +160,7 @@
         }
     }
 }
+
 
 
 
