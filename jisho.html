@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <title>Printable Dictionary</title>
+    <style>
+        dt {
+            font-weight: bold;
+            display: inline;
+        }
+
+        dd {
+            display: inline;
+            margin: 0;
+        }
+
+        dd::before {
+            content: " ";
+        }
+
+        dd:after {
+            white-space: pre;
+            content: "\A";
+        }
+    </style>
+</head>
+
+<body>
+    <div id="jisho"></div>
+    <script src="jisho.js"></script>
+</body>
+
+</html>

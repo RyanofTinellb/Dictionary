@@ -3,7 +3,7 @@
     "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
     "fontsize": 18, 
-    "language": "en: English"
+    "language": "hl: High Lulani"
   }, 
   "site": {
     "files": {
@@ -20,26 +20,6 @@
     "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
   }, 
   "history": [
-    [
-      "bi'u"
-    ], 
-    [
-      "buma"
-    ], 
-    [
-      "tapu"
-    ], 
-    [
-      "tapucijja"
-    ], 
-    [
-      "tapu"
-    ], 
-    [], 
-    [], 
-    [
-      "tali"
-    ], 
     [
       "tara"
     ], 
@@ -575,6 +555,30 @@
     ], 
     [
       "mi"
+    ], 
+    [
+      "bada"
+    ], 
+    [
+      "lassi"
+    ], 
+    [
+      "bada"
+    ], 
+    [
+      "xipiki"
+    ], 
+    [
+      "guhi"
+    ], 
+    [
+      "missu"
+    ], 
+    [
+      "haki"
+    ], 
+    [
+      "saxita lara"
     ]
   ]
 }
