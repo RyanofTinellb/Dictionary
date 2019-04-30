@@ -8,17 +8,19 @@ async function Jisho(wordlist) {
     let jisho = `<dl>${words.map(
             word => `<dt>${word.t}</dt><dd><em>${POS(word)}</em> ${word.n}</dd>`
         ).join('\n')}</dl>`
+    let destination = document.getElementById('english');
+    destination.innerHTML = jisho;
     words.forEach(word => word.q = STRIP(word.n));
     words.sort((a, b) => a.q > b.q ? 1 : a.q < b.q ? -1 : 0);
-    jisho += `<dl>${words.map(
+    jisho = `<dl>${words.map(
             word => `<dt>${word.n}</dt><dd><em>${POS(word)}</em> ${word.t}</dd>`
         ).join('\n')}</dl>`
-    const destination = document.getElementById('jisho');
+    destination = document.getElementById('lulani');
     destination.innerHTML = jisho;
 }
 
 const LEMMA = word => STRIP(FIRST(word));
-const STRIP = word => word.replace(/^(to )*(be )*(.*?)/, '$3');
+const STRIP = word => word.replace(/^(to )*(be )*(the )*(.*?)/, '$4');
 const SAVE = word => word.replace(/&(.*?);/g, '&$1&&&').replace(/;/g, '&sem;')
                             .replace(/&(.*?)&&&/g, '&$1;')
 const FIRST = word => SAVE(word).split('&sem;')[0];
@@ -46,10 +48,10 @@ const POS = word => {
     else if (word.p.includes('conjunction')) {return 'sub. conj.' }
     else if (word.p.includes('auxiliary')) {return 'aux.' }
     else if (word.p.includes('suffix')) {return 'suff.' }
-    else if (word.p.includes('particle')) {return 'part.' }
     else if (word.p.includes('determiner')) {return 'det.' }
     else if (word.p.includes('cardinal')) {return 'num.' }
     else if (word.p.includes('ordinal')) {return 'num.' }
     else if (word.p.includes('mathematics')) {return 'math.' }
+    else if (word.p.includes('particle')) {return 'part.' }
     else return word.p.join(' ');
 }
