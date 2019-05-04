@@ -112,22 +112,6 @@
     {
         "p": [
             "indefinite", 
-            "pronoun", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "everything; universal noun object", 
-        "t": "&rsquo;aba", 
-        "d": [
-            "everything;", 
-            "universal", 
-            "noun", 
-            "object"
-        ]
-    }, 
-    {
-        "p": [
-            "indefinite", 
             "prodeterminer", 
             "pro-form", 
             "determiner"
@@ -141,6 +125,22 @@
             "universal", 
             "object", 
             "determiner"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "pronoun", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "everything; universal noun object", 
+        "t": "&rsquo;aba", 
+        "d": [
+            "everything;", 
+            "universal", 
+            "noun", 
+            "object"
         ]
     }, 
     {
@@ -521,6 +521,7 @@
         "p": [
             "abstract", 
             "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -1092,18 +1093,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1114,6 +1103,18 @@
             "heart;", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -1740,7 +1741,9 @@
     {
         "p": [
             "animate", 
-            "noun"
+            "generic", 
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
         "m": "group of people", 
@@ -2199,6 +2202,7 @@
         "p": [
             "animate", 
             "derived", 
+            "generic", 
             "compound", 
             "mass", 
             "noun"
@@ -2406,9 +2410,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -2418,9 +2422,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2921,7 +2925,9 @@
     {
         "p": [
             "inanimate", 
-            "noun"
+            "generic", 
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
         "m": "collection; group; store", 
@@ -3740,6 +3746,17 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3751,17 +3768,6 @@
             "one", 
             "hundred;", 
             "(225)"
-        ]
-    }, 
-    {
-        "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -3869,13 +3875,16 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
+            "abstract", 
+            "generic", 
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
-        "m": "action", 
-        "t": "-tanu", 
+        "m": "study; action", 
+        "t": "tanu", 
         "d": [
+            "study;", 
             "action"
         ]
     }, 
@@ -4508,7 +4517,9 @@
     {
         "p": [
             "inanimate", 
-            "noun"
+            "generic", 
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
         "m": "place; location in space", 
@@ -4831,6 +4842,7 @@
         "p": [
             "inanimate", 
             "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -5056,6 +5068,7 @@
         "p": [
             "inanimate", 
             "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -10591,6 +10604,22 @@
         "p": [
             "abstract", 
             "derived", 
+            "generic", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "astronomy", 
+        "t": "musatanu", 
+        "d": [
+            "astronomy"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -11656,6 +11685,7 @@
         "p": [
             "inanimate", 
             "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -11754,7 +11784,9 @@
     {
         "p": [
             "inanimate", 
-            "noun"
+            "generic", 
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
         "m": "chain; rope; string; collection", 
@@ -13552,7 +13584,9 @@
     }, 
     {
         "p": [
+            "inanimate", 
             "derived", 
+            "generic", 
             "compound", 
             "noun"
         ], 
@@ -15090,6 +15124,19 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "loneliness", 
+        "t": "sada", 
+        "d": [
+            "loneliness"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -15159,6 +15206,7 @@
     {
         "p": [
             "abstract", 
+            "negative", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -15708,7 +15756,8 @@
         "p": [
             "inanimate", 
             "generic", 
-            "noun"
+            "noun", 
+            "quasi-suffix"
         ], 
         "l": "High Lulani", 
         "m": "shape; form", 
@@ -15881,6 +15930,7 @@
     {
         "p": [
             "abstract", 
+            "negative", 
             "noun"
         ], 
         "l": "High Lulani", 

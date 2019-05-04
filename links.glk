@@ -56,6 +56,12 @@
                     "noun"
                 ]
             },
+            "generic": {
+                "link": "morphology/suffixes/index.html#quasi-suffixes",
+                "not with": [
+                    "quasi-suffix"
+                ]
+            },
             "geology": {
                 "not with": [
                     "noun"
@@ -128,6 +134,7 @@
             "pronoun": "morphology/nouns.html",
             "pro-verb" : "morphology/verbs/index.html",
             "proper": "morphology/nouns.html#propernouns",
+            "quasi-suffix": "morphology/suffixes/index.html#quasi-suffixes",
             "quasi-transitive": "morphology/verbs/intransitivity.html#quasi-transitiveverbs",
             "substance": {
                 "not with": [
@@ -161,6 +168,8 @@
         }
     }
 }
+
+
 
 
 
