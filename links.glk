@@ -86,6 +86,7 @@
             },
             "modal": "morphology/adverbs.html#modals",
             "motive": "morphology/verbs/transitivity.html#motiveverbs",
+            "negative": "syntax/matrixclauses/negativecomplement.html",
             "noun": {
                 "link": "morphology/nouns.html",
                 "not with": [
@@ -160,6 +161,7 @@
         }
     }
 }
+
 
 
 

@@ -519,6 +519,21 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "facial shape", 
+        "t": "&rsquo;arasikahi", 
+        "d": [
+            "facial", 
+            "shape"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -1077,6 +1092,18 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
+        ]
+    }, 
+    {
+        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1087,18 +1114,6 @@
             "heart;", 
             "emotional", 
             "body"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
         ]
     }, 
     {
@@ -3725,17 +3740,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3747,6 +3751,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -3850,6 +3865,18 @@
         "d": [
             "belief;", 
             "trust"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "action", 
+        "t": "-tanu", 
+        "d": [
+            "action"
         ]
     }, 
     {
@@ -4496,33 +4523,6 @@
     {
         "p": [
             "inanimate", 
-            "derived", 
-            "compound", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "home", 
-        "t": "tujatihu", 
-        "d": [
-            "home"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "compound", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "hotel", 
-        "t": "tujaramirra", 
-        "d": [
-            "hotel"
-        ]
-    }, 
-    {
-        "p": [
-            "inanimate", 
             "noun", 
             "element"
         ], 
@@ -4825,6 +4825,20 @@
         "t": "T&#x157;sh", 
         "d": [
             "Toresh"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "home", 
+        "t": "tihutuja", 
+        "d": [
+            "home"
         ]
     }, 
     {
@@ -8380,6 +8394,51 @@
     }, 
     {
         "p": [
+            "derived", 
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "martial art", 
+        "t": "kissatanu", 
+        "d": [
+            "martial", 
+            "art"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "transitive", 
+            "vital", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to do t&rsquo;ai chi", 
+        "t": "kissari", 
+        "d": [
+            "to", 
+            "do", 
+            "t&rsquo;ai", 
+            "chi"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "t&rsquo;ai chi", 
+        "t": "kissaritanu", 
+        "d": [
+            "t&rsquo;ai", 
+            "chi"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -10802,6 +10861,31 @@
     }, 
     {
         "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "brothel", 
+        "t": "nammu", 
+        "d": [
+            "brothel"
+        ]
+    }, 
+    {
+        "p": [
+            "animate", 
+            "derived", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "prostitute", 
+        "t": "nammurra", 
+        "d": [
+            "prostitute"
+        ]
+    }, 
+    {
+        "p": [
             "transitive", 
             "action", 
             "verb"
@@ -11716,11 +11800,13 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "choose; decide", 
+        "m": "choose; decide; prefer; rather", 
         "t": "qacca", 
         "d": [
             "choose;", 
-            "decide"
+            "decide;", 
+            "prefer;", 
+            "rather"
         ]
     }, 
     {
@@ -13466,6 +13552,19 @@
     }, 
     {
         "p": [
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "hotel", 
+        "t": "ramirratuja", 
+        "d": [
+            "hotel"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun", 
             "food", 
@@ -14737,6 +14836,7 @@
     {
         "p": [
             "abstract", 
+            "negative", 
             "noun"
         ], 
         "l": "High Lulani", 
@@ -15585,21 +15685,10 @@
             "suffix"
         ], 
         "l": "High Lulani", 
-        "m": "derives the names of shapes from the number of edges or vertices", 
+        "m": "shape", 
         "t": "-ssiji", 
         "d": [
-            "derives", 
-            "the", 
-            "names", 
-            "of", 
-            "shapes", 
-            "from", 
-            "the", 
-            "number", 
-            "of", 
-            "edges", 
-            "or", 
-            "vertices"
+            "shape"
         ]
     }, 
     {
@@ -15613,6 +15702,20 @@
         "t": "sikka", 
         "d": [
             "skin"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "generic", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "shape; form", 
+        "t": "sikahi", 
+        "d": [
+            "shape;", 
+            "form"
         ]
     }, 
     {
@@ -17136,6 +17239,21 @@
             "stop", 
             "doing;", 
             "fut;hab&lt;trm&gt;"
+        ]
+    }, 
+    {
+        "p": [
+            "intransitive", 
+            "adjectival", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to be alone", 
+        "t": "harusa", 
+        "d": [
+            "to", 
+            "be", 
+            "alone"
         ]
     }, 
     {
