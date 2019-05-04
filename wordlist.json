@@ -3746,17 +3746,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3768,6 +3757,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -4851,6 +4851,22 @@
         "t": "tihutuja", 
         "d": [
             "home"
+        ]
+    }, 
+    {
+        "p": [
+            "transitive", 
+            "derived", 
+            "compound", 
+            "transformative", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to cover", 
+        "t": "turubasi", 
+        "d": [
+            "to", 
+            "cover"
         ]
     }, 
     {
