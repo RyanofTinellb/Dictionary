@@ -3,7 +3,7 @@ a:link {
 }
 
 a:visited {
-  color: #9955AA; /* light violet */
+  color: #95A; /* light violet */
 }
 
 .symbol {
@@ -62,6 +62,11 @@ table high-lulani:hover {
     font-weight: inherit;
     padding: inherit;
     cursor: inherit;
+}
+
+h1 a:visited, h1 a:link {
+    color: black;
+    text-decoration: none;
 }
 
 .flex {
@@ -131,6 +136,8 @@ input[type='checkbox'] {
 }
 
 .content .message p {
+    margin-top: 1em;
+    margin-bottom: 1em;
     font-size: smaller;
     color: red;
 }
@@ -301,6 +308,6 @@ input[type='checkbox'] {
     }
 
     .mobile {
-        display: inherit;
+        display: initial;
     }
 }

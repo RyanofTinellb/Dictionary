@@ -4315,6 +4315,7 @@
                 3793
             ], 
             "228": [
+                3608, 
                 3614, 
                 3637
             ], 
@@ -6113,17 +6114,14 @@
             ]
         }, 
         "personal": {
-            "144": [
-                2244
-            ], 
             "339": [
                 4997
             ], 
             "143": [
                 2189
             ], 
-            "195": [
-                3080
+            "898": [
+                13367
             ], 
             "194": [
                 3028
@@ -6155,8 +6153,8 @@
             "173": [
                 2662
             ], 
-            "898": [
-                13367
+            "687": [
+                10296
             ], 
             "783": [
                 11592
@@ -6179,8 +6177,8 @@
             "158": [
                 2417
             ], 
-            "687": [
-                10296
+            "195": [
+                3080
             ], 
             "502": [
                 7293
@@ -19997,6 +19995,9 @@
             "710": [
                 10640
             ], 
+            "618": [
+                9092
+            ], 
             "1069": [
                 15938
             ], 
@@ -20475,8 +20476,8 @@
             "1176": [
                 17308
             ], 
-            "618": [
-                9092
+            "144": [
+                2244
             ], 
             "619": [
                 9100
@@ -20705,9 +20706,6 @@
             ], 
             "397": [
                 5888
-            ], 
-            "395": [
-                5868
             ], 
             "176": [
                 2737
@@ -21252,9 +21250,6 @@
                 9849, 
                 9854
             ], 
-            "215": [
-                3433
-            ], 
             "693": [
                 10407
             ], 
@@ -21656,7 +21651,7 @@
                 2526
             ], 
             "163": [
-                2536
+                2538
             ], 
             "964": [
                 14283
@@ -33708,6 +33703,9 @@
             "566": [
                 8446
             ], 
+            "228": [
+                3608
+            ], 
             "227": [
                 3589, 
                 3591
@@ -34110,7 +34108,7 @@
                 6826
             ], 
             "163": [
-                2539
+                2541
             ], 
             "329": [
                 4848
@@ -34149,6 +34147,9 @@
         "verb": {
             "214": [
                 3413
+            ], 
+            "215": [
+                3433
             ], 
             "1146": [
                 16919
@@ -34238,9 +34239,6 @@
             ], 
             "991": [
                 14734
-            ], 
-            "1117": [
-                16586
             ], 
             "719": [
                 10753
@@ -34353,8 +34351,8 @@
             "396": [
                 5878
             ], 
-            "113": [
-                1730
+            "395": [
+                5868
             ], 
             "112": [
                 1712, 
@@ -34378,8 +34376,8 @@
             "792": [
                 11816
             ], 
-            "141": [
-                2169
+            "206": [
+                3317
             ], 
             "799": [
                 11905
@@ -34487,6 +34485,9 @@
             "579": [
                 8653
             ], 
+            "897": [
+                13349
+            ], 
             "571": [
                 8537
             ], 
@@ -34574,6 +34575,9 @@
             ], 
             "750": [
                 11194
+            ], 
+            "113": [
+                1730
             ], 
             "637": [
                 9321
@@ -34691,8 +34695,8 @@
             "321": [
                 4761
             ], 
-            "206": [
-                3317
+            "1117": [
+                16586
             ], 
             "1154": [
                 17054
@@ -34718,8 +34722,8 @@
             "1172": [
                 17259
             ], 
-            "897": [
-                13349
+            "141": [
+                2169
             ], 
             "612": [
                 9017
@@ -37806,6 +37810,9 @@
             "444": [
                 6492
             ], 
+            "1175": [
+                17300
+            ], 
             "381": [
                 5605
             ], 
@@ -37875,8 +37882,8 @@
             "338": [
                 4989
             ], 
-            "882": [
-                13129
+            "1165": [
+                17188
             ], 
             "334": [
                 4919
@@ -38053,8 +38060,8 @@
             "891": [
                 13228
             ], 
-            "1175": [
-                17300
+            "144": [
+                2244
             ], 
             "619": [
                 9103
@@ -38251,8 +38258,8 @@
             "52": [
                 871
             ], 
-            "537": [
-                8056
+            "379": [
+                5577
             ], 
             "370": [
                 5410
@@ -38315,8 +38322,8 @@
             "1172": [
                 17262
             ], 
-            "379": [
-                5577
+            "537": [
+                8056
             ], 
             "790": [
                 11791
@@ -38536,8 +38543,8 @@
             "729": [
                 10920
             ], 
-            "1165": [
-                17188
+            "882": [
+                13129
             ], 
             "155": [
                 2362
@@ -40217,8 +40224,8 @@
             "147": [
                 2280
             ], 
-            "144": [
-                2244
+            "1175": [
+                17295
             ], 
             "448": [
                 6537
@@ -40250,9 +40257,6 @@
             ], 
             "998": [
                 14855
-            ], 
-            "1175": [
-                17295
             ], 
             "247": [
                 3850
@@ -40528,7 +40532,7 @@
                 2548
             ], 
             "163": [
-                2538
+                2540
             ]
         }, 
         "mental": {
@@ -41280,7 +41284,6 @@
                 15386
             ], 
             "228": [
-                3608, 
                 3616, 
                 3645
             ], 
@@ -42557,6 +42560,9 @@
         "nothing": {
             "453": [
                 6639
+            ], 
+            "228": [
+                3608
             ]
         }, 
         "xuhha": {
@@ -50399,11 +50405,11 @@
             ]
         }, 
         "piad()u": {
-            "164": [
-                2550
-            ], 
             "165": [
                 2559
+            ], 
+            "163": [
+                2542
             ]
         }, 
         "eating": {
@@ -52809,8 +52815,8 @@
             ]
         }, 
         "fezhle": {
-            "164": [
-                2550
+            "163": [
+                2542
             ]
         }, 
         "ulu": {
@@ -53272,7 +53278,7 @@
                 4806
             ], 
             "164": [
-                2550
+                2543
             ], 
             "165": [
                 2559
@@ -53284,7 +53290,7 @@
                 4702
             ], 
             "163": [
-                2533
+                2542
             ]
         }, 
         "spices": {
@@ -56224,7 +56230,7 @@
                 2600
             ], 
             "164": [
-                2541
+                2550
             ], 
             "165": [
                 2558
@@ -56245,7 +56251,7 @@
                 2521
             ], 
             "163": [
-                2540
+                2533
             ], 
             "964": [
                 14278
@@ -57392,9 +57398,6 @@
             "263": [
                 4094
             ], 
-            "228": [
-                3608
-            ], 
             "967": [
                 14328
             ], 
@@ -57852,6 +57855,9 @@
             "214": [
                 3413
             ], 
+            "215": [
+                3433
+            ], 
             "213": [
                 3403
             ], 
@@ -58239,6 +58245,9 @@
             ], 
             "1172": [
                 17259
+            ], 
+            "395": [
+                5868
             ], 
             "112": [
                 1720
@@ -62417,6 +62426,9 @@
                 4803, 
                 4806
             ], 
+            "164": [
+                2543
+            ], 
             "165": [
                 2559
             ], 
@@ -62425,9 +62437,6 @@
             ], 
             "316": [
                 4702
-            ], 
-            "163": [
-                2533
             ]
         }, 
         "tapu": {
@@ -62573,11 +62582,11 @@
             ]
         }, 
         "pi'adu": {
+            "164": [
+                2550
+            ], 
             "165": [
                 2558
-            ], 
-            "163": [
-                2540
             ]
         }, 
         "unable": {
@@ -63632,9 +63641,6 @@
             ], 
             "200": [
                 3198
-            ], 
-            "144": [
-                2244
             ], 
             "453": [
                 6637
@@ -67397,7 +67403,7 @@
                 1253
             ], 
             "163": [
-                2536
+                2538
             ], 
             "973": [
                 14375
@@ -72215,7 +72221,7 @@
                 2600
             ], 
             "164": [
-                2541
+                2550
             ], 
             "165": [
                 2558
@@ -72236,7 +72242,7 @@
                 2521
             ], 
             "163": [
-                2540
+                2533
             ], 
             "964": [
                 14278
@@ -74265,8 +74271,8 @@
         "pi", 
         "pi&rsquo;apahi", 
         "pi&rsquo;adisi", 
-        "Piad&ucirc;", 
         "Pi&rsquo;adu", 
+        "Piad&ucirc;", 
         "Piado", 
         "piba", 
         "pibi", 
@@ -75457,8 +75463,8 @@
         "p/pi.html", 
         "p/pi'apahi.html", 
         "p/pi'adisi.html", 
-        "p/$piad()u.html", 
         "p/$pi'adu.html", 
+        "p/$piad()u.html", 
         "p/$piado.html", 
         "p/piba.html", 
         "p/pibi.html", 
@@ -78730,15 +78736,15 @@
         "", 
         "", 
         "", 
-        "compound personal pronoun", 
+        "derived noun", 
         "", 
         "my object; mine", 
         "Etymology", 
-        "pagu my + -qa", 
+        "pagu &nbsp; &nbsp; my + -qa &nbsp; &nbsp;", 
         "See Also", 
         "", 
-        " baqa yours", 
-        " disiqa hers ", 
+        " baqa &nbsp; &nbsp; yours", 
+        " disiqa &nbsp; &nbsp; hers ", 
         "High Lulani", 
         "", 
         "", 
@@ -79019,14 +79025,6 @@
         "piha mother + -disi", 
         "See Also", 
         "Kinship Terms", 
-        "Koine Fezhl&ecirc;", 
-        "", 
-        "", 
-        "proper noun", 
-        "", 
-        "Piado ", 
-        "Translations", 
-        "High Lulani Pi&rsquo;adu", 
         "High Lulani", 
         "", 
         "", 
@@ -79037,6 +79035,14 @@
         "Piado ", 
         "Translations", 
         "Koine Fezhle Piad&ucirc;", 
+        "Koine Fezhl&ecirc;", 
+        "", 
+        "", 
+        "proper noun", 
+        "", 
+        "Piado ", 
+        "Translations", 
+        "High Lulani Pi&rsquo;adu", 
         "English", 
         "", 
         "", 
@@ -79919,7 +79925,7 @@
         "", 
         "", 
         "", 
-        "intransitive compound noun", 
+        "intransitive compound adjectival verb", 
         "", 
         "to be starving", 
         "Definition", 
@@ -80094,7 +80100,7 @@
         "", 
         "indefinite pro-verb", 
         "", 
-        "do something; existential action", 
+        "to do nothing; negative action", 
         "See Also", 
         " object place action manner state", 
         "h proximate mari majja marila madusi marika", 
@@ -80106,36 +80112,36 @@
         "", 
         "", 
         "proximate", 
-        "object mari", 
-        "place majja", 
-        "action marila", 
-        "manner madusi", 
-        "state marika", 
+        "object mari &nbsp;", 
+        "place majja &nbsp;", 
+        "action marila &nbsp;", 
+        "manner madusi &nbsp;", 
+        "state marika &nbsp;", 
         "distal", 
-        "object kasi", 
-        "place kasuja", 
-        "action kalisa", 
-        "manner kadusi", 
-        "state kasika", 
+        "object kasi &nbsp;", 
+        "place kasuja &nbsp;", 
+        "action kalisa &nbsp;", 
+        "manner kadusi &nbsp;", 
+        "state kasika &nbsp;", 
         "interrogative", 
-        "object sama", 
-        "place satta", 
-        "action sulla", 
-        "manner lara", 
-        "state saqqa", 
+        "object sama &nbsp;", 
+        "place satta &nbsp;", 
+        "action sulla &nbsp;", 
+        "manner lara &nbsp;", 
+        "state saqqa &nbsp;", 
         "negative", 
-        "object cu&rsquo;i", 
-        "place qa&rsquo;i", 
+        "object cu&rsquo;i &nbsp;", 
+        "place qa&rsquo;i &nbsp;", 
         "action buni", 
         "universal", 
-        "object &rsquo;aba", 
-        "place batuja", 
-        "action &rsquo;abala", 
+        "object &rsquo;aba &nbsp;", 
+        "place batuja &nbsp;", 
+        "action &rsquo;abala &nbsp;", 
         "existential", 
-        "object &rsquo;umi", 
-        "place mituja", 
-        "action &rsquo;amila", 
-        "manner / state fana", 
+        "object &rsquo;umi &nbsp;", 
+        "place mituja &nbsp;", 
+        "action &rsquo;amila &nbsp;", 
+        "manner / state fana &nbsp;", 
         "High Lulani", 
         "", 
         "", 
@@ -82354,11 +82360,11 @@
         "", 
         "", 
         "", 
-        "intransitive compound noun", 
+        "intransitive compound vital verb", 
         "", 
         "to romantically love; to truly love; to inconditionally love", 
         "Etymology", 
-        "dissu feel + samma true-love", 
+        "dissu &nbsp; &nbsp; feel + samma &nbsp; &nbsp; true-love", 
         "High Lulani", 
         "", 
         "", 

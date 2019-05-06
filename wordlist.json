@@ -2100,10 +2100,7 @@
     {
         "p": [
             "derived", 
-            "compound", 
-            "noun", 
-            "personal", 
-            "pronoun"
+            "noun"
         ], 
         "l": "High Lulani", 
         "m": "my object; mine", 
@@ -2410,9 +2407,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2422,9 +2419,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -3177,7 +3174,8 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "noun"
+            "adjectival", 
+            "verb"
         ], 
         "l": "High Lulani", 
         "m": "to be starving", 
@@ -3367,12 +3365,13 @@
             "pro-form"
         ], 
         "l": "High Lulani", 
-        "m": "do something; existential action", 
+        "m": "to do nothing; negative action", 
         "t": "buni", 
         "d": [
+            "to", 
             "do", 
-            "something;", 
-            "existential", 
+            "nothing;", 
+            "negative", 
             "action"
         ]
     }, 
@@ -5832,7 +5831,8 @@
             "intransitive", 
             "derived", 
             "compound", 
-            "noun"
+            "vital", 
+            "verb"
         ], 
         "l": "High Lulani", 
         "m": "to romantically love; to truly love; to inconditionally love", 
