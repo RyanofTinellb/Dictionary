@@ -1393,20 +1393,6 @@
     }, 
     {
         "p": [
-            "abstract", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "the four planes", 
-        "t": "&rsquo;ihafi", 
-        "d": [
-            "the", 
-            "four", 
-            "planes"
-        ]
-    }, 
-    {
-        "p": [
             "derived", 
             "compound", 
             "ambitransitive", 
@@ -6038,18 +6024,15 @@
     {
         "p": [
             "inanimate", 
+            "generic", 
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "the four bodies; ones whole self", 
+        "m": "complete set", 
         "t": "duku", 
         "d": [
-            "the", 
-            "four", 
-            "bodies;", 
-            "ones", 
-            "whole", 
-            "self"
+            "complete", 
+            "set"
         ]
     }, 
     {
@@ -8526,19 +8509,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
-        ]
-    }, 
-    {
-        "p": [
             "case", 
             "marker", 
             "prefix"
@@ -8549,6 +8519,19 @@
         "d": [
             "dative;", 
             "dat"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
         ]
     }, 
     {
@@ -12756,6 +12739,22 @@
         "m": "body", 
         "t": "lahha", 
         "d": [
+            "body"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "generic", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "whole body", 
+        "t": "lahhaduku", 
+        "d": [
+            "whole", 
             "body"
         ]
     }, 
