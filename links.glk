@@ -30,6 +30,7 @@
             "case": "syntax/case.html",
             "cardinal": "apocrypha/numbers.html#cardinalnumbers",
             "chromatic": "morphology/verbs/intransitivity.html#chromaticverbs",
+            "cisclass": "morphology/suffixes/index.html#cisclasssuffixes",
             "communicative": "morphology/verbs/ambitransitivity.html#communicativeverbs",
             "comparative": "apocrypha/comparatives.html",
             "conjunction": "morphology/conjunctions.html",
@@ -143,6 +144,7 @@
             },
             "suffix": "morphology/suffixes/index.html",
             "symmetric": "morphology/verbs/intransitivity.html#symmetricrelations",
+            "transclass": "morphology/suffixes/index.html#transclasssuffixes",
             "transformative": "morphology/verbs/transitivity.html#transformativeverbs",
             "transitive": "morphology/verbs/transitivity.html",
             "verb": "morphology/verbs/index.html",
@@ -168,21 +170,3 @@
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

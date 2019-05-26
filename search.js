@@ -8,9 +8,11 @@ const LOWER = word => word.toLowerCase()
 const MARKDOWN = {
     '&rsquo;': "'",
     '&#x294;': "''",
+    '&aacute;': '(a',
     '&uuml;': '!u',
     '&ucirc;': '()u',
     '&ecirc;': '()e',
+    '&iacute;': '(i',
     '&igrave;': ')i',
     '&middot;': '..',
     '&nbsp;': ' ',
@@ -253,8 +255,8 @@ function createUrl(text) {
 }
 
 function createPlainUrl(text) {
-    text = markdown(text);
-    return `${findInitial(text)}/${sellCaps(text)}.html`
+    let href = markdown(text);
+    return `${findInitial(href)}/${sellCaps(href)}.html`
 }
 
 function sellCaps(text) {

@@ -22,6 +22,8 @@ href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
 <a href=" | {{ | <br>
 "> | <> | <br>
 </a> | }} | <br>
+<span class="note"> | <note> | <br>
+</span> | </> | <br>
 hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 [d wordlist] | [[w | <br>
 [d folding] | [[f | <br>
@@ -39,6 +41,8 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x2c8; | =' | <br> <!-- primary stress -->
 &#x2cc; | _' | <br> <!-- secondary stress -->
 &#x2d0; | :: | <br> <!-- length mark -->
+&aacute; | (a | <br>
+&agrave; | )a | <br>
 &ccedil; | ,c | <br>
 &eth; | (d | <br>
 &#x259; | !e | <br> <!-- schwa -->
@@ -60,6 +64,8 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x254; | +o | <br> <!-- turned c / /or/ sound -->
 &#x27d; | %r | <br> <!-- retroflex flap -->
 &#x279; | ^r | <br> <!-- turned r -->
+&#x0283; | &esh; | <br> <!-- esh -->
+&esh; | %s | <br>
 &#x1e6c; | )T | <br>
 &#x1e6d; | )t | <br>
 &uuml; | !u | <br>
@@ -70,7 +76,8 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x28c; | ^v | <br> <!--turned v-->>
 &#x255; | ,x | <br> <!-- curl-tailed c -->
 &#x291; | ,z | <br> <!-- curl-tailed z -->
-&#x292; | =z | <br> <!-- ezh -->
+&#x292; | &ezh; | <br> <!-- ezh -->
+&ezh; | =z | <br> <!-- ezh -->
 &#x17e; | )(z | <br> <!-- z with hacek -->
 &eqls; | == | <br>
 &rarr; | ==> | <br>
@@ -91,6 +98,10 @@ d definition]\n | def:  | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
 animate derived possessive kinship noun | <kinship> | <br>
+
+
+
+
 
 
 

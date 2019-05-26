@@ -310,4 +310,16 @@ input[type='checkbox'] {
     .mobile {
         display: initial;
     }
+
+    .content input.folder:checked + div.folding .tooltip-text {
+        display: none;
+    }
+
+    .content span.tooltip:hover .tooltip-text {
+        display: none;
+    }
+
+    .content span.tooltip::after {
+        content: none;
+    }
 }

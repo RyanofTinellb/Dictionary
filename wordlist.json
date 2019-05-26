@@ -112,6 +112,22 @@
     {
         "p": [
             "indefinite", 
+            "pronoun", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "everything; universal noun object", 
+        "t": "&rsquo;aba", 
+        "d": [
+            "everything;", 
+            "universal", 
+            "noun", 
+            "object"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
             "prodeterminer", 
             "pro-form", 
             "determiner"
@@ -125,22 +141,6 @@
             "universal", 
             "object", 
             "determiner"
-        ]
-    }, 
-    {
-        "p": [
-            "indefinite", 
-            "pronoun", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "everything; universal noun object", 
-        "t": "&rsquo;aba", 
-        "d": [
-            "everything;", 
-            "universal", 
-            "noun", 
-            "object"
         ]
     }, 
     {
@@ -200,6 +200,45 @@
         "d": [
             "close;", 
             "near"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "Demotic Lulani", 
+        "m": "office", 
+        "t": "&aacute;d&middot;duj", 
+        "d": [
+            "office"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "writing", 
+        "t": "&rsquo;ajja", 
+        "d": [
+            "writing"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "derived", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "study; office", 
+        "t": "&rsquo;ajjatuja", 
+        "d": [
+            "study;", 
+            "office"
         ]
     }, 
     {
@@ -361,6 +400,22 @@
             "plane", 
             "of", 
             "existence"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "generic", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "four planes", 
+        "t": "&rsquo;anniduku", 
+        "d": [
+            "four", 
+            "planes"
         ]
     }, 
     {
@@ -989,10 +1044,11 @@
     {
         "p": [
             "derivational", 
+            "cisclass", 
             "suffix"
         ], 
         "l": "High Lulani", 
-        "m": "diminutive; derives a term of lesser intensity or size from another term", 
+        "m": "diminutive; derives a term of lesser intensity or size from another term; dim", 
         "t": "-ini", 
         "d": [
             "diminutive;", 
@@ -1006,7 +1062,8 @@
             "size", 
             "from", 
             "another", 
-            "term"
+            "term;", 
+            "dim"
         ]
     }, 
     {
@@ -1471,14 +1528,14 @@
     }, 
     {
         "p": [
-            "mathematics", 
-            "suffix"
+            "inanimate", 
+            "noun"
         ], 
         "l": "High Lulani", 
-        "m": "ordinal", 
+        "m": "reality", 
         "t": "-uju", 
         "d": [
-            "ordinal"
+            "reality"
         ]
     }, 
     {
@@ -2393,9 +2450,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -2405,9 +2462,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2511,20 +2568,17 @@
     }, 
     {
         "p": [
-            "transitive", 
-            "transformative", 
-            "verb"
+            "auxiliary"
         ], 
         "l": "High Lulani", 
-        "m": "to create ex nihilo; to make", 
+        "m": "past stative; pst;sta; was; were", 
         "t": "pifa", 
         "d": [
-            "to", 
-            "create", 
-            "ex", 
-            "nihilo;", 
-            "to", 
-            "make"
+            "past", 
+            "stative;", 
+            "pst;sta;", 
+            "was;", 
+            "were"
         ]
     }, 
     {
@@ -3286,12 +3340,12 @@
     }, 
     {
         "p": [
-            "transitive", 
+            "ambitransitive", 
             "communicative", 
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to draw; to write; to project (e. by a screen)", 
+        "m": "to draw; to write; to project onto a screen", 
         "t": "buma", 
         "d": [
             "to", 
@@ -3300,10 +3354,25 @@
             "write;", 
             "to", 
             "project", 
-            "(e.", 
-            "by", 
+            "onto", 
             "a", 
-            "screen)"
+            "screen"
+        ]
+    }, 
+    {
+        "p": [
+            "derived", 
+            "compound", 
+            "ambitransitive", 
+            "communicative", 
+            "verb"
+        ], 
+        "l": "High Lulani", 
+        "m": "to write", 
+        "t": "buma&rsquo;ajja", 
+        "d": [
+            "to", 
+            "write"
         ]
     }, 
     {
@@ -3731,6 +3800,17 @@
     }, 
     {
         "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
+        ]
+    }, 
+    {
+        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3742,17 +3822,6 @@
             "one", 
             "hundred;", 
             "(225)"
-        ]
-    }, 
-    {
-        "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
         ]
     }, 
     {
@@ -4348,6 +4417,37 @@
     }, 
     {
         "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "department university; school; college; faculty", 
+        "t": "tisiqqi", 
+        "d": [
+            "department", 
+            "university;", 
+            "school;", 
+            "college;", 
+            "faculty"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "derived", 
+            "generic", 
+            "compound", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "university", 
+        "t": "tisiqqiduku", 
+        "d": [
+            "university"
+        ]
+    }, 
+    {
+        "p": [
             "inanimate", 
             "noun"
         ], 
@@ -4765,24 +4865,20 @@
     }, 
     {
         "p": [
-            "mathematics", 
-            "adjective"
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "adjectival", 
+            "verb"
         ], 
-        "l": "English", 
-        "m": "of a number divisible by three; conguent to zero, modulo three", 
+        "l": "High Lulani", 
+        "m": "to be folded up", 
         "t": "triadic", 
         "d": [
-            "of", 
-            "a", 
-            "number", 
-            "divisible", 
-            "by", 
-            "three;", 
-            "conguent", 
             "to", 
-            "zero,", 
-            "modulo", 
-            "three"
+            "be", 
+            "folded", 
+            "up"
         ]
     }, 
     {
@@ -5243,14 +5339,11 @@
             "verb"
         ], 
         "l": "High Lulani", 
-        "m": "to place in the mouth; to eat; to chew; to suck; to lick; to drink", 
+        "m": "to consume; to eat; to chew; to suck; to lick; to drink", 
         "t": "dasi", 
         "d": [
             "to", 
-            "place", 
-            "in", 
-            "the", 
-            "mouth;", 
+            "consume;", 
             "to", 
             "eat;", 
             "to", 
@@ -6629,6 +6722,18 @@
         "d": [
             "air;", 
             "atmosphere"
+        ]
+    }, 
+    {
+        "p": [
+            "inanimate", 
+            "noun"
+        ], 
+        "l": "Demotic Lulani", 
+        "m": "university", 
+        "t": "cix&iacute;ndoku", 
+        "d": [
+            "university"
         ]
     }, 
     {
@@ -10343,17 +10448,16 @@
             "pronoun"
         ], 
         "l": "High Lulani", 
-        "m": "third person animate intransitive; she; her; he; him; 3ani;int", 
+        "m": "they; she; he; third person animate intransitive; 3ani;int", 
         "t": "mihu", 
         "d": [
+            "they;", 
+            "she;", 
+            "he;", 
             "third", 
             "person", 
             "animate", 
             "intransitive;", 
-            "she;", 
-            "her;", 
-            "he;", 
-            "him;", 
             "3ani;int"
         ]
     }, 
@@ -10826,17 +10930,15 @@
     }, 
     {
         "p": [
-            "derived", 
-            "auxiliary"
+            "inanimate", 
+            "noun", 
+            "element"
         ], 
         "l": "High Lulani", 
-        "m": "will stop being; fut;sta&lt;trm&gt;", 
+        "m": "meitnerium", 
         "t": "nagari", 
         "d": [
-            "will", 
-            "stop", 
-            "being;", 
-            "fut;sta&lt;trm&gt;"
+            "meitnerium"
         ]
     }, 
     {
@@ -15975,12 +16077,10 @@
             "pronoun"
         ], 
         "l": "High Lulani", 
-        "m": "self; reflexive particle", 
+        "m": "", 
         "t": "su&rsquo;a", 
         "d": [
-            "self;", 
-            "reflexive", 
-            "particle"
+            ""
         ]
     }, 
     {
