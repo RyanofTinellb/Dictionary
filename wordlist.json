@@ -1810,6 +1810,23 @@
     }, 
     {
         "p": [
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "the 23rd letter of the Latin alphabet", 
+        "t": "w", 
+        "d": [
+            "the", 
+            "23rd", 
+            "letter", 
+            "of", 
+            "the", 
+            "Latin", 
+            "alphabet"
+        ]
+    }, 
+    {
+        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -5237,6 +5254,23 @@
         "t": "dara", 
         "d": [
             "lentil"
+        ]
+    }, 
+    {
+        "p": [
+            "noun"
+        ], 
+        "l": "English", 
+        "m": "fundamental particle making up quarks and leptons", 
+        "t": "darill", 
+        "d": [
+            "fundamental", 
+            "particle", 
+            "making", 
+            "up", 
+            "quarks", 
+            "and", 
+            "leptons"
         ]
     }, 
     {
@@ -17170,18 +17204,12 @@
         ]
     }, 
     {
-        "p": [
-            "adposition"
-        ], 
-        "l": "High Lulani", 
-        "m": "for; for the benefit of", 
+        "p": [], 
+        "l": "English", 
+        "m": "", 
         "t": "ha", 
         "d": [
-            "for;", 
-            "for", 
-            "the", 
-            "benefit", 
-            "of"
+            ""
         ]
     }, 
     {
