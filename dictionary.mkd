@@ -56,7 +56,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &igrave; | )i | <br>
 &iacute; | (i | <br>
 &#x268; | =i | <br> <!-- barred i -->
-&#x26a; | Ii | <br> <!-- small caps I -->
+&#x26a; | __i | <br> <!-- small caps I -->
 &#x25f; | =j | <br> <!-- barred j -->
 &#x28e; | %l | <br> <!-- palatal l -->
 &#x272; | ,n | <br> <!-- palatal n -->
@@ -71,7 +71,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &uuml; | !u | <br>
 &ucirc; | ()u | <br>
 &#x26f; | ^u | <br> <!-- turned m -->
-&#x28a | Uu | <br> <!-- horseshoe -->
+&#x28a | __u | <br> <!-- horseshoe -->
 &#x289; | =u | <br> <!-- barred u -->
 &#x28c; | ^v | <br> <!--turned v-->>
 &#x255; | ,x | <br> <!-- curl-tailed c -->
@@ -98,6 +98,7 @@ d definition]\n | def:  | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
 animate derived possessive kinship noun | <kinship> | <br>
+
 
 
 

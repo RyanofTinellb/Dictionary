@@ -2467,9 +2467,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2479,9 +2479,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -2585,17 +2585,20 @@
     }, 
     {
         "p": [
-            "auxiliary"
+            "transitive", 
+            "transformative", 
+            "verb"
         ], 
         "l": "High Lulani", 
-        "m": "past stative; pst;sta; was; were", 
+        "m": "to create ex nihilo; to make", 
         "t": "pifa", 
         "d": [
-            "past", 
-            "stative;", 
-            "pst;sta;", 
-            "was;", 
-            "were"
+            "to", 
+            "create", 
+            "ex", 
+            "nihilo;", 
+            "to", 
+            "make"
         ]
     }, 
     {
@@ -9781,6 +9784,18 @@
         "t": "manafa", 
         "d": [
             "country"
+        ]
+    }, 
+    {
+        "p": [
+            "abstract", 
+            "noun"
+        ], 
+        "l": "High Lulani", 
+        "m": "culture", 
+        "t": "maniki", 
+        "d": [
+            "culture"
         ]
     }, 
     {
