@@ -11,7 +11,6 @@
                 ]
             },
             "adposition": "morphology/adpositions",
-            "adverb": "morphology/adverbs.html",
             "animal": {
                 "not with": [
                     "noun"
@@ -170,3 +169,6 @@
         }
     }
 }
+
+
+
