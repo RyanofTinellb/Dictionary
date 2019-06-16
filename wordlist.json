@@ -162,23 +162,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an adverb from a verb", 
-        "t": "-atinna", 
-        "d": [
-            "derives", 
-            "an", 
-            "adverb", 
-            "from", 
-            "a", 
-            "verb"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -718,43 +701,20 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
+            "ambitransitive", 
+            "communicative", 
+            "verb"
         ], 
         "l": "High Lulani", 
-        "m": "happily", 
-        "t": "&rsquo;ahatiniqqi", 
-        "d": [
-            "happily"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "derives a noun from an adverb", 
-        "t": "-ahi", 
-        "d": [
-            "derives", 
-            "a", 
-            "noun", 
-            "from", 
-            "an", 
-            "adverb"
-        ]
-    }, 
-    {
-        "p": [
-            "abstract", 
-            "noun"
-        ], 
-        "l": "High Lulani", 
-        "m": "happiness", 
+        "m": "to say; to speak; to tell", 
         "t": "&rsquo;i", 
         "d": [
-            "happiness"
+            "to", 
+            "say;", 
+            "to", 
+            "speak;", 
+            "to", 
+            "tell"
         ]
     }, 
     {
@@ -2461,9 +2421,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "Koine Fezhl&ecirc;", 
+        "l": "High Lulani", 
         "m": "Piado", 
-        "t": "Piad&ucirc;", 
+        "t": "Pi&rsquo;adu", 
         "d": [
             "Piado"
         ]
@@ -2473,9 +2433,9 @@
             "proper", 
             "noun"
         ], 
-        "l": "High Lulani", 
+        "l": "Koine Fezhl&ecirc;", 
         "m": "Piado", 
-        "t": "Pi&rsquo;adu", 
+        "t": "Piad&ucirc;", 
         "d": [
             "Piado"
         ]
@@ -2706,20 +2666,22 @@
     }, 
     {
         "p": [
-            "animate", 
-            "derived", 
-            "possessive", 
-            "kinship", 
-            "noun"
+            "personal", 
+            "pronoun"
         ], 
         "l": "High Lulani", 
-        "m": "his mother; her mother", 
+        "m": "first person ablative; because of me; from me; 1abl", 
         "t": "puttu", 
         "d": [
-            "his", 
-            "mother;", 
-            "her", 
-            "mother"
+            "first", 
+            "person", 
+            "ablative;", 
+            "because", 
+            "of", 
+            "me;", 
+            "from", 
+            "me;", 
+            "1abl"
         ]
     }, 
     {
@@ -7051,19 +7013,15 @@
     }, 
     {
         "p": [
-            "indefinite", 
-            "prodeterminer", 
-            "pro-form", 
-            "determiner"
+            "inanimate", 
+            "noun"
         ], 
         "l": "High Lulani", 
-        "m": "none; negative object determiner", 
+        "m": "haze; mist", 
         "t": "japa", 
         "d": [
-            "none;", 
-            "negative", 
-            "object", 
-            "determiner"
+            "haze;", 
+            "mist"
         ]
     }, 
     {
@@ -10173,14 +10131,29 @@
     }, 
     {
         "p": [
-            "indefinite", 
-            "pro-determiner"
+            "derivational", 
+            "suffix"
         ], 
         "l": "High Lulani", 
-        "m": "this", 
+        "m": "giver", 
         "t": "-mi", 
         "d": [
-            "this"
+            "giver"
+        ]
+    }, 
+    {
+        "p": [
+            "indefinite", 
+            "prodeterminer", 
+            "pro-form", 
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "any; some", 
+        "t": "-mi", 
+        "d": [
+            "any;", 
+            "some"
         ]
     }, 
     {
@@ -10959,21 +10932,15 @@
     }, 
     {
         "p": [
-            "personal", 
-            "pronoun"
+            "inanimate", 
+            "noun"
         ], 
         "l": "High Lulani", 
-        "m": "they; she; he; third person animate intransitive; 3ani;int", 
+        "m": "covering; clothing", 
         "t": "nacca", 
         "d": [
-            "they;", 
-            "she;", 
-            "he;", 
-            "third", 
-            "person", 
-            "animate", 
-            "intransitive;", 
-            "3ani;int"
+            "covering;", 
+            "clothing"
         ]
     }, 
     {
@@ -12238,17 +12205,15 @@
     }, 
     {
         "p": [
-            "indefinite", 
-            "pro-form"
+            "animate", 
+            "noun", 
+            "animal"
         ], 
         "l": "High Lulani", 
-        "m": "nowhere; never; negative place", 
+        "m": "dog", 
         "t": "qikanni", 
         "d": [
-            "nowhere;", 
-            "never;", 
-            "negative", 
-            "place"
+            "dog"
         ]
     }, 
     {
