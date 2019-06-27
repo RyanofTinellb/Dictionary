@@ -72,7 +72,28 @@
         <div class="content">
             <h1>Sound Change Applier</h1>
             <div class="main-content">
-                <p>’∅ː</p>
+                <p>
+                    <table>
+                        <tr>
+                            <th>
+                                <ipa>∅</ipa>
+                            </th>
+                            <td>null phoneme</td>
+                        </tr>
+                        <tr>
+                            <th>
+                                <ipa>ː</ipa>
+                            </th>
+                            <td>geminate</td>
+                        </tr>
+                        <tr>
+                            <th>
+                                <ipa>↻</ipa>
+                            </th>
+                            <td>infinite repeat of rule</td>
+                        </tr>
+                    </table>
+                </p>
                 <label for="rules">
                     <h2>Rules</h2>
                 </label>
@@ -82,8 +103,9 @@
 [fricative] = fsx
 C = [-palatal][+palatal]pbkgmqrf’
 V = aiu
-[-palatal]ː > [+palatal]ː / _i
-i > ∅ / _#</textarea></p>
+↻ [-palatal] > [+palatal] / _(C)i
+i > ∅ / Cː_#
+Cː > C / _#</textarea></p>
                 <label for="words">
                     <h2>Words</h2>
                 </label>

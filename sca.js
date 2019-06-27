@@ -14,7 +14,7 @@ function change() {
         } else {
             soundChanges.push({
                 rule: replacement(rule),
-                repeat: rule.includes('&')
+                repeat: rule.includes('↻')
             });
         }
     }
@@ -77,7 +77,7 @@ function replacement(rule) {
     //
     // ()([+palatal])(C(?:C)i)
     // ()([tdnlsh])([bnklmnspw](?:[bnklmnspw])i)
-    let [before, after, environment] = rule.replace(/[&]/g, '').split(/[>/]/);
+    let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
     environment = replaceCategories(createEnvironment(environment, before));
     console.log(environment);
     geminate = after.includes('ː');
