@@ -52,8 +52,10 @@ createEnvironment = (environment, before) => {
     before = `(${clean(before)})${geminate}`;
     return environment ? `(${clean(environment).replace(/\(/g, '(?:')
                    .replace(/\)/g, ')*')
-                   .replace('_', `)${before}(`)})`
-                : `()${before}()`;
+                   .replace(/#$/, '$')
+                   .replace(/^#/, '^')
+                   .replace('_', `)${before}(`)})` :
+        `()${before}()`;
 }
 
 
@@ -78,15 +80,25 @@ function replacement(rule) {
     let [before, after, environment] = rule.replace(/[&]/g, '').split(/[>/]/);
     environment = replaceCategories(createEnvironment(environment, before));
     console.log(environment);
+    geminate = after.includes('ː');
+    after = clean(after);
     if (categories[after]) {
         let matchHash = categoryMatch(before, after);
         console.log(matchHash);
-        var alter = (match, p1, p2, p3) => `${p1}${matchHash[p2]}${p3}`;
+        var alter = factory(matchHash, geminate);
     } else {
         console.table(after);
-        var alter = (match, p1, p2, p3) => `${p1}${clean(after)}${p3}`;
+        var alter = factory(after, geminate);
     }
     let regex = new RegExp(environment, 'g');
     let runRegex = word => word.replace(regex, alter).replace(/∅/g, '');
     return runRegex;
+}
+
+function factory(after, geminate) {
+    return (match, p1, p2, p3) => {
+        p2 = after instanceof Object ? after[p2] : after;
+        p2 = geminate ? p2 + p2 : p2;
+        return `${p1}${p2}${p3}`;
+    };
 }
