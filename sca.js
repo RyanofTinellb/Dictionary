@@ -20,16 +20,23 @@ function change() {
     }
     return words.map(word => {
         let old;
+        let dupword;
+        let olddup;
         for (soundChange of soundChanges) {
             do {
                 old = word;
+                olddup = dupword = addGeminate(word);
                 word = soundChange.rule(word);
+                dupword = soundChange.rule(dupword);
+                if (olddup != dupword) word = removeGeminate(dupword);
             } while (soundChange.repeat && old != word);
         }
         return word;
     }).join('<br>');
-    // return words.join('<br>');
 }
+
+addGeminate = str => str.replace(/(.)\1/, '$1ː');
+removeGeminate = str => str.replace(/(.)ː/, '$1$1');
 
 function replaceSounds(str) {
     for (let [category, sounds] of Object.entries(categories)) {
@@ -48,7 +55,9 @@ function replaceCategories(str) {
 clean = str => str.replace(/[∅]/g, '');
 
 createEnvironment = (environment, before) => {
-    before = `(${clean(before)})`;
+    let geminate = before.includes('ː') ? '\\2' : ''
+    geminate = '';
+    before = `(${clean(before)})${geminate}`;
     return environment ? `(${clean(environment).replace(/\(/g, '(?:')
                    .replace(/\)/g, ')*')
                    .replace(/#$/, '$')
@@ -57,8 +66,7 @@ createEnvironment = (environment, before) => {
         `()${before}()`;
 }
 
-findCategory = str => {
-    clean(str.match(/\[(.*?)\]/)[1]);
+findCategory = str => clean(str.match(/\[(.*?)\]/)[1]);
 
 function categoryMatch(arr) {
     output = {};
@@ -70,16 +78,10 @@ function categoryMatch(arr) {
 }
 
 function replacement(rule) {
-    // [-palatal] > [+palatal] / _C(C)i >> [/([tdnlsh])/, function dull]
-    // [tdnlsh]
-    // [cjnlxh]
-    //
-    // ()([+palatal])(C(?:C)i)
-    // ()([tdnlsh])([bnklmnspw](?:[bnklmnspw])i)
     let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
     environment = replaceCategories(createEnvironment(environment, before));
     [before, after] = [before, after].map(replaceCategories);
-    console.log(environment);
+    console.log('before:', environment);
     after = clean(after);
     let alter = factory(before, after);
     let regex = new RegExp(environment, 'g');
@@ -90,11 +92,13 @@ function replacement(rule) {
 factory = (before, after) => {
     if (after.includes('[')) {
         let matchHash = categoryMatch([before, after]);
+        console.log('hash:', matchHash, 'after:', after);
         return (match, p1, p2, p3) => {
-            p2 = after.replace(/\[.*?\]/, matchHash[p2]);
+            p2 = after.replace(/\[.*?\]/, matchHash[p2[before.indexOf('[')]]);
             return `${p1}${p2}${p3}`;
         };
     } else {
+        console.log('after:', after);
         return (match, p1, p2, p3) => `${p1}${after}${p3}`;
     }
 }
