@@ -1,9 +1,23 @@
 let categories;
 
+async function fillWords() {
+    words = document.getElementById('words');
+    let data = await fetch('wordlist.json');
+    data = await data.json();
+    data = data.filter(a => a.l == 'High Lulani');
+    let wordList = [];
+    for (let i = 0; i < 5; i++) {
+        wordList.push(data[Math.floor(Math.random() * data.length)].t);
+    }
+    console.log(wordList);
+    words.innerHTML = wordList.join('\n');
+}
+
 function change() {
     console.clear();
     let rules = document.getElementById('rules').value.split('\n');
     let words = document.getElementById('words').value.split('\n');
+    let chain = document.getElementById('chain').checked;
     let soundChanges = [];
     categories = {};
     for (let rule of rules) {
@@ -19,10 +33,12 @@ function change() {
         }
     }
     return words.map(word => {
+        let wordList = [word];
         let old;
         let dupword;
         let olddup;
         for (soundChange of soundChanges) {
+            original = word;
             do {
                 old = word;
                 olddup = dupword = addGeminate(word);
@@ -30,8 +46,9 @@ function change() {
                 dupword = soundChange.rule(dupword);
                 if (olddup != dupword) word = removeGeminate(dupword);
             } while (soundChange.repeat && old != word);
+            if (original != word) wordList.push(word);
         }
-        return word;
+        return chain? wordList.join(' > ') : word;
     }).join('<br>');
 }
 
@@ -55,9 +72,7 @@ function replaceCategories(str) {
 clean = str => str.replace(/[∅]/g, '');
 
 createEnvironment = (environment, before) => {
-    let geminate = before.includes('ː') ? '\\2' : ''
-    geminate = '';
-    before = `(${clean(before)})${geminate}`;
+    before = `(${clean(before)})`;
     return environment ? `(${clean(environment).replace(/\(/g, '(?:')
                    .replace(/\)/g, ')*')
                    .replace(/#$/, '$')

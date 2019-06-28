@@ -119,12 +119,15 @@ r > \s</textarea></p>
                 <label for="words">
                     <h2>Words</h2>
                 </label>
-                <p><textarea id="words">turassi
-khaleesi</textarea></p>
-                <p><button onclick="outputArea.innerHTML=change()">Change</button></p>
+                <p><textarea id="words"></textarea></p>
+                <p><button onclick="outputArea.innerHTML=change()">Change</button>
+                    <input type="checkbox" id="chain" onclick="outputArea.innerHTML=change()">
+                    <label for="chain">See intermediate steps?</label></input>
+                </p>
                 <p id="output"></p>
             </div>
             <script type="text/javascript">
+                fillWords();
                 for (elt of document.getElementsByClassName('javascript')) {
                     elt.style.display = "block";
                 }
