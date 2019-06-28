@@ -20,16 +20,23 @@ function change() {
     }
     return words.map(word => {
         let old;
+        let dupword;
+        let olddup;
         for (soundChange of soundChanges) {
             do {
                 old = word;
+                olddup = dupword = addGeminate(word);
                 word = soundChange.rule(word);
+                dupword = soundChange.rule(dupword);
+                if (olddup != dupword) word = removeGeminate(dupword);
             } while (soundChange.repeat && old != word);
         }
         return word;
     }).join('<br>');
-    // return words.join('<br>');
 }
+
+addGeminate = str => str.replace(/(.)\1/, '$1ː');
+removeGeminate = str => str.replace(/(.)ː/, '$1$1');
 
 function replaceSounds(str) {
     for (let [category, sounds] of Object.entries(categories)) {
@@ -45,10 +52,11 @@ function replaceCategories(str) {
     return str;
 }
 
-clean = str => str.replace(/[ː∅]/g, '');
+clean = str => str.replace(/[∅]/g, '');
 
 createEnvironment = (environment, before) => {
     let geminate = before.includes('ː') ? '\\2' : ''
+    geminate = '';
     before = `(${clean(before)})${geminate}`;
     return environment ? `(${clean(environment).replace(/\(/g, '(?:')
                    .replace(/\)/g, ')*')
@@ -58,47 +66,39 @@ createEnvironment = (environment, before) => {
         `()${before}()`;
 }
 
+findCategory = str => clean(str.match(/\[(.*?)\]/)[1]);
 
-function categoryMatch(before, after) {
+function categoryMatch(arr) {
     output = {};
-    [before, after] = [before, after].map(str => categories[clean(str)]);
-    if (before && after) {
-        for (let i = 0; i < before.length; i++) {
-            output[before.charAt(i)] = after.charAt(i);
-        }
+    [before, after] = arr.map(findCategory);
+    for (let i = 0; i < before.length; i++) {
+        output[before.charAt(i)] = after.charAt(i);
     }
     return output;
 }
 
 function replacement(rule) {
-    // [-palatal] > [+palatal] / _C(C)i >> [/([tdnlsh])/, function dull]
-    // [tdnlsh]
-    // [cjnlxh]
-    //
-    // ()([+palatal])(C(?:C)i)
-    // ()([tdnlsh])([bnklmnspw](?:[bnklmnspw])i)
     let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
     environment = replaceCategories(createEnvironment(environment, before));
-    console.log(environment);
-    geminate = after.includes('ː');
+    [before, after] = [before, after].map(replaceCategories);
+    console.log('before:', environment);
     after = clean(after);
-    if (categories[after]) {
-        let matchHash = categoryMatch(before, after);
-        console.log(matchHash);
-        var alter = factory(matchHash, geminate);
-    } else {
-        console.table(after);
-        var alter = factory(after, geminate);
-    }
+    let alter = factory(before, after);
     let regex = new RegExp(environment, 'g');
     let runRegex = word => word.replace(regex, alter).replace(/∅/g, '');
     return runRegex;
 }
 
-function factory(after, geminate) {
-    return (match, p1, p2, p3) => {
-        p2 = after instanceof Object ? after[p2] : after;
-        p2 = geminate ? p2 + p2 : p2;
-        return `${p1}${p2}${p3}`;
-    };
+factory = (before, after) => {
+    if (after.includes('[')) {
+        let matchHash = categoryMatch([before, after]);
+        console.log('hash:', matchHash, 'after:', after);
+        return (match, p1, p2, p3) => {
+            p2 = after.replace(/\[.*?\]/, matchHash[p2[before.indexOf('[')]]);
+            return `${p1}${p2}${p3}`;
+        };
+    } else {
+        console.log('after:', after);
+        return (match, p1, p2, p3) => `${p1}${after}${p3}`;
+    }
 }

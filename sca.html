@@ -94,6 +94,15 @@
                         </tr>
                     </table>
                 </p>
+                <p>
+                    <ul>
+                        <li>Rules take the form &ldquo;A > B / _&rdquo; where
+                            the environment is optional.</li>
+                        <li>When writing rules, spaces are ignored.
+                            <ipa>\s</ipa> symbolises a literal space if
+                            required</li>
+                    </ul>
+                </p>
                 <label for="rules">
                     <h2>Rules</h2>
                 </label>
@@ -105,11 +114,13 @@ C = [-palatal][+palatal]pbkgmqrf’
 V = aiu
 ↻ [-palatal] > [+palatal] / _(C)i
 i > ∅ / Cː_
-Cː > C / _#</textarea></p>
+Cː > C / _#
+r > \s</textarea></p>
                 <label for="words">
                     <h2>Words</h2>
                 </label>
-                <p><textarea id="words">turassi</textarea></p>
+                <p><textarea id="words">turassi
+khaleesi</textarea></p>
                 <p><button onclick="outputArea.innerHTML=change()">Change</button></p>
                 <p id="output"></p>
             </div>
