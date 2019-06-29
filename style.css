@@ -230,7 +230,7 @@ h4 { /* subheadings */
 	text-decoration: none;
 }
 
-input[type='checkbox']#chain {
+input[type='checkbox']#chain, input[type='checkbox']#chance {
     display: inline;
 }
 

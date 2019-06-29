@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>
+        Demotic Lulani
+    </title>
+    <link rel="stylesheet" type="text/css" href="basic_style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <script src="sca.js"></script>
+    <script type="text/javascript">
+        let href = window.location.href;
+        if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
+            let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+            window.location.href = `search.html?${term}&andOr=and`;
+        }
+    </script>
+</head>
+
+<body>
+    <div class="flex">
+        <div class="nav-pane">
+            <label>
+                <input type="checkbox" class="menu">
+                <ul>
+                    <li><a href="index.html">Dictionary</a></li>
+                    <div class="javascript">
+                        <form id="search">
+                            <li class="search">
+                                <input type="text" name="term">
+                                <button type="submit">Search</button>
+                            </li>
+                        </form>
+                    </div>
+                    <div class="links-root">
+                        <ul>
+                            <li><a href="a/index.html">A</a></li>
+                            <li><a href="i/index.html">I</a></li>
+                            <li><a href="u/index.html">U</a></li>
+                            <li><a href="w/index.html">W</a></li>
+                            <li><a href="p/index.html">P</a></li>
+                            <li><a href="b/index.html">B</a></li>
+                            <li><a href="t/index.html">T</a></li>
+                            <li><a href="d/index.html">D</a></li>
+                            <li><a href="c/index.html">C</a></li>
+                            <li><a href="j/index.html">J</a></li>
+                            <li><a href="k/index.html">K</a></li>
+                            <li><a href="g/index.html">G</a></li>
+                            <li><a href="m/index.html">M</a></li>
+                            <li><a href="n/index.html">N</a></li>
+                            <li><a href="q/index.html">Q</a></li>
+                            <li><a href="l/index.html">L</a></li>
+                            <li><a href="r/index.html">R</a></li>
+                            <li><a href="f/index.html">F</a></li>
+                            <li><a href="s/index.html">S</a></li>
+                            <li><a href="z/index.html">Z</a></li>
+                            <li><a href="x/index.html">X</a></li>
+                            <li><a href="h/index.html">H</a></li>
+                        </ul>
+                    </div>
+                </ul>
+            </label>
+            <div class="javascript">
+                <div class="random">
+                    <a href="../random_entry.html">Random Entry</a>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <h1>Potential Demotic Lulani words</h1>
+            <div class="main-content">
+                <p>This is a list of potential words in Demotic Lulani, being
+                    High Lulani words which have been subjected to sound change rules.
+                    <div style="display: none;">
+                        <p>
+                            <table>
+                                <tr>
+                                    <th>
+                                        <ipa>∅</ipa>
+                                    </th>
+                                    <td>null phoneme</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <ipa>ː</ipa>
+                                    </th>
+                                    <td>geminate</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <ipa>↻</ipa>
+                                    </th>
+                                    <td>infinite repeat of rule</td>
+                                </tr>
+                            </table>
+                        </p>
+                        <p>
+                            <ul>
+                                <li>Rules take the form &ldquo;A > B / _&rdquo; where
+                                    the environment is optional.</li>
+                                <li>When writing rules, spaces are ignored.
+                                    <ipa>\s</ipa> symbolises a literal space if
+                                    required</li>
+                            </ul>
+                        </p>
+                    </div>
+                    <label for="rules" style="display: none;">
+                        <h2>Rules</h2>
+                        <p><textarea id="rules">[+palatal] = cjɲʎxç
+[-palatal] = tdnlsh
+[plosive] = ptk
+[fricative] = fsx
+C = [-palatal][+palatal]pbkgmqrf’
+V = aiu
+∅ > ˈ / _CVCː
+∅ > ˌ / _CV#
+∅ > ˈ / _(C)CVˌ
+↻ [-palatal] > [+palatal] / _(C)i
+i > ∅ / Cː_
+Cː > C / _#</textarea></p>
+                    </label>
+                    <label for="words" style="display: none;">
+                        <h2>Words</h2>
+                        <p><textarea id="words"></textarea></p>
+                    </label>
+
+                    <p><button onclick="intermediate()">Show</button>
+                        <input type="checkbox" id="chain" onclick="intermediate()">
+                        <label for="chain">See intermediate steps?</label></input>
+                        <input type="checkbox" id="chance" onclick="intermediate()">
+                        <label for="chain">Introduce chance?</label></input>
+                    </p>
+                    <p style="columns:3;" id="output"></p>
+            </div>
+            <script type="text/javascript">
+                fillWords('High Lulani', 200);
+                for (elt of document.getElementsByClassName('javascript')) {
+                    elt.style.display = "block";
+                }
+                let outputArea = document.getElementById('output');
+                intermediate();
+            </script>
+        </div>
+    </div>
+</body>
+
+</html>

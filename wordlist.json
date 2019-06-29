@@ -3783,17 +3783,6 @@
     }, 
     {
         "p": [
-            "determiner"
-        ], 
-        "l": "High Lulani", 
-        "m": "many", 
-        "t": "-takki", 
-        "d": [
-            "many"
-        ]
-    }, 
-    {
-        "p": [
             "mathematics", 
             "numeral"
         ], 
@@ -3805,6 +3794,17 @@
             "one", 
             "hundred;", 
             "(225)"
+        ]
+    }, 
+    {
+        "p": [
+            "determiner"
+        ], 
+        "l": "High Lulani", 
+        "m": "many", 
+        "t": "-takki", 
+        "d": [
+            "many"
         ]
     }, 
     {
@@ -4903,15 +4903,14 @@
     }, 
     {
         "p": [
-            "inanimate", 
+            "proper", 
             "noun"
         ], 
-        "l": "English", 
-        "m": "akashic record", 
+        "l": "Koine Fezhl&ecirc;", 
+        "m": "Toresh", 
         "t": "T&#x157;sh", 
         "d": [
-            "akashic", 
-            "record"
+            "Toresh"
         ]
     }, 
     {
@@ -6260,29 +6259,13 @@
     }, 
     {
         "p": [
-            "abstract", 
-            "noun"
+            "preposition"
         ], 
-        "l": "High Lulani", 
-        "m": "nighttime hours; night; evening", 
+        "l": "English", 
+        "m": "after", 
         "t": "downstream", 
         "d": [
-            "nighttime", 
-            "hours;", 
-            "night;", 
-            "evening"
-        ]
-    }, 
-    {
-        "p": [
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "try to", 
-        "t": "downstream", 
-        "d": [
-            "try", 
-            "to"
+            "after"
         ]
     }, 
     {
@@ -17206,12 +17189,14 @@
         ]
     }, 
     {
-        "p": [], 
-        "l": "English", 
-        "m": "", 
+        "p": [
+            "adposition"
+        ], 
+        "l": "High Lulani", 
+        "m": "for", 
         "t": "ha", 
         "d": [
-            ""
+            "for"
         ]
     }, 
     {
