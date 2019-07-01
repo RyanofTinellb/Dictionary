@@ -100,10 +100,12 @@ getElt = str => document.getElementById(str);
 getValue = str => getElt(str).value.split('\n');
 
 class Word {
-    constructor(word) {
+    constructor(word, rules) {
+        this.word = word;
+        this.rules = rules.soundChanges;
         this.addGeminate = str => str.replace(/(.)\1/g, '$1ː');
         this.removeGeminate = str => str.replace(/(.)ː/g, '$1$1');
-        this.word = word;
+        this.skip = (a, b, c) => Math.random() < a * b * c;
         if (word.includes('%')) {
             [this.chance, this.word] = word.split(/% */);
             this.chance = 1 - parseInt(this.chance) / 100;
@@ -111,34 +113,39 @@ class Word {
             this.chance = 0.2;
         }
         this.etymology = [word];
+        this.evolve(rules);
     }
 
-    apply(soundChanges) {
-        for (let soundChange of soundChanges) {
-            if (Math.random() < this.chance * soundChange.chance * chanceBox) continue;
+    evolve() {
+        for (let rule of this.rules) {
+            if (this.skip(this.chance, rule.chance, chanceBox)) continue;
             this.original = this.word;
             do {
                 this.old = this.word;
                 this.olddup = this.dupword = this.addGeminate(this.word);
-                this.word = soundChange.rule(this.word);
-                this.dupword = soundChange.rule(this.dupword);
+                this.word = rule.rule(this.word);
+                this.dupword = rule.rule(this.dupword);
                 if (this.olddup != this.dupword) {
                     this.word = this.removeGeminate(this.dupword);
                 }
-            } while (soundChange.repeat && this.old != this.word);
+            } while (rule.repeat && this.old != this.word);
             if (this.original != this.word) this.etymology.push(this.word);
         }
-        return chain ? this.etymology.join(' > ') : this.word;
+        this.etymology = this.etymology.join(' > ');
     }
 }
 
 function change() {
     console.clear();
-    let words = getValue('words');
     chanceBox = getElt('chance').checked ? 1 : 0;
     let rules = new Rules('rules');
-    words = words.map(word => new Word(word));
-    return words.map(word => word.apply(rules.soundChanges)).join('<br>');
+    let words = getValue('words');
+    words = words.map(word => new Word(word, rules));
+    if (chain) {
+        return words.map(word => word.etymology).join('<br>');
+    } else {
+        return words.map(word => word.word).join('<br>');
+    }
 }
 
 function intermediate() {
