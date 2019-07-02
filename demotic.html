@@ -110,6 +110,9 @@
                     <label for="rules" style="display:none;">
                         <h2>Rules</h2>
                         <p><textarea id="rules">
+[Upper] = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+[lower] = abcdefghijklmnopqrstuvwxyz
+[Upper] > [lower]
 [+palatal] = cjɲʎxç
 [-palatal] = tdnlsh
 [+palgem] = ɲʎç
@@ -117,11 +120,11 @@
 [plosive] = ptk
 [fricative] = fsx
 [stress] = ˈˌ
-C = [-palatal][+palatal]pbkgmqrf’j
+C = [-palatal][+palatal]pbkgmqrf’y
 V = aiu
 - > ∅
 \s > ∅
-ʔ / ’j
+ʔ / ’y
 ↻ [-palatal] > [+palatal] / _(C)i
 [-palgem]ː > [+palgem]ː
 mː > bm
@@ -152,7 +155,7 @@ Cː > C / _#
                     <p style="columns:3;" id="output"></p>
             </div>
             <script type="text/javascript">
-                fillWords('High Lulani', 200);
+                fillWords('High Lulani');
                 for (elt of document.getElementsByClassName('javascript')) {
                     elt.style.display = "block";
                 }

@@ -5,13 +5,15 @@ const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
 
 const choose = arr => arr[Math.floor(Math.random() * arr.length)];
-const choices = (count, data) => Array(count).fill().map(i => choose(data).t)
+const unique = (item, pos, ary) => !pos || item !== ary[pos - 1];
 
 async function fillWords(language, count) {
     let data = await fetch('wordlist.json');
     data = await data.json();
-    data = data.filter(a => a.l == language);
-    getElt('words').innerHTML = choices(count, data).join('\n');
+    data = data.filter(a => a.l == language)
+               .map(a => a.t)
+               .filter(unique);
+    getElt('words').innerHTML = data.join('\n');
 }
 
 class Rules {
