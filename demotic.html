@@ -107,20 +107,36 @@
                             </ul>
                         </p>
                     </div>
-                    <label for="rules" style="display: none;">
+                    <label for="rules" style="display:none;">
                         <h2>Rules</h2>
-                        <p><textarea id="rules">[+palatal] = cjɲʎxç
+                        <p><textarea id="rules">
+[+palatal] = cjɲʎxç
 [-palatal] = tdnlsh
+[+palgem] = ɲʎç
+[-palgem] = nlh
 [plosive] = ptk
 [fricative] = fsx
-C = [-palatal][+palatal]pbkgmqrf’
+[stress] = ˈˌ
+C = [-palatal][+palatal]pbkgmqrf’j
 V = aiu
+- > ∅
+\s > ∅
+ʔ / ’j
+↻ [-palatal] > [+palatal] / _(C)i
+[-palgem]ː > [+palgem]ː
+mː > bm
+i > ∅ / Cː_
+Cː > C / _#
 ∅ > ˈ / _CVCː
 ∅ > ˌ / _CV#
-∅ > ˈ / _(C)CVˌ
-↻ [-palatal] > [+palatal] / _(C)i
-i > ∅ / Cː_
-Cː > C / _#</textarea></p>
+∅ > ˈ / _CVC#
+∅ > ˈ / _CV(C)ˌ
+∅ > ˌ / _CV(C)ˈ
+[stress]ː / [stress]
+ˌ > ˈ / #_CV#
+ˈ > ˌ / ˈCV(C)_
+ˌ > ˈ / ˌCV(C)_
+</textarea></p>
                     </label>
                     <label for="words" style="display: none;">
                         <h2>Words</h2>

@@ -1,15 +1,18 @@
 let chanceBox;
 let chain;
 
+const geminate = str => str.replace(/(.)\1/g, '$1ː');
+const degeminate = str => str.replace(/(.)ː/g, '$1$1');
+
+const choose = arr => arr[Math.floor(Math.random() * arr.length)];
+const choices = (count, data) => Array(count).fill().map(i => choose(data).t)
+
 async function fillWords(language, count) {
     let data = await fetch('wordlist.json');
     data = await data.json();
     data = data.filter(a => a.l == language);
     getElt('words').innerHTML = choices(count, data).join('\n');
 }
-
-choose = arr => arr[Math.floor(Math.random() * arr.length)];
-choices = (count, data) => Array(count).fill().map(i => choose(data).t)
 
 class Rules {
     constructor(elt) {
@@ -97,15 +100,13 @@ class Rules {
 }
 
 getElt = str => document.getElementById(str);
-getValue = str => getElt(str).value.split('\n');
+getValue = str => getElt(str).value.split('\n').filter(a => a);
 
 class Word {
     constructor(word, rules) {
         this.word = word;
         this.rules = rules.soundChanges;
-        this.addGeminate = str => str.replace(/(.)\1/g, '$1ː');
-        this.removeGeminate = str => str.replace(/(.)ː/g, '$1$1');
-        this.skip = (a, b, c) => Math.random() < a * b * c;
+        this.skip = a => Math.random() < this.chance * chanceBox * a;
         if (word.includes('%')) {
             [this.chance, this.word] = word.split(/% */);
             this.chance = 1 - parseInt(this.chance) / 100;
@@ -113,25 +114,47 @@ class Word {
             this.chance = 0.2;
         }
         this.etymology = [word];
-        this.evolve(rules);
+        this.evolve();
     }
 
     evolve() {
+        let word = new Quad(this.word);
         for (let rule of this.rules) {
-            if (this.skip(this.chance, rule.chance, chanceBox)) continue;
-            this.original = this.word;
+            word.renew();
+            if (this.skip(rule.chance)) continue;
             do {
-                this.old = this.word;
-                this.olddup = this.dupword = this.addGeminate(this.word);
-                this.word = rule.rule(this.word);
-                this.dupword = rule.rule(this.dupword);
-                if (this.olddup != this.dupword) {
-                    this.word = this.removeGeminate(this.dupword);
-                }
-            } while (rule.repeat && this.old != this.word);
-            if (this.original != this.word) this.etymology.push(this.word);
+                word.reset();
+                word.apply(rule.rule);
+            } while (rule.repeat && word.hasChanged());
+            if (word.isNew()) this.etymology.push(word.lemma());
         }
         this.etymology = this.etymology.join(' > ');
+        this.word = word.lemma();
+    }
+}
+
+class Quad {
+    constructor(word) {
+        this.word = [word];
+        this.update = () => this.old[1] != this.word[1] ?
+            degeminate(this.word[1]) : this.word[0];
+        this.lemma = () => this.word[0];
+        this.hasChanged = () => this.lemma() != this.old[0];
+        this.equals = str => this.lemma() == str;
+        this.isNew = () => this.lemma() != this.original;
+    }
+
+    apply(rule) {
+        this.word = this.word.map(rule);
+    }
+
+    reset() {
+        this.word[1] = geminate(this.word[0]);
+        this.old = this.word.slice();
+    }
+
+    renew() {
+        this.original = this.lemma();
     }
 }
 

@@ -4859,20 +4859,24 @@
     }, 
     {
         "p": [
-            "intransitive", 
-            "derived", 
-            "compound", 
-            "adjectival", 
-            "verb"
+            "mathematics", 
+            "adjective"
         ], 
-        "l": "High Lulani", 
-        "m": "to be folded up", 
+        "l": "English", 
+        "m": "of a number divisible by three; conguent to zero, modulo three", 
         "t": "triadic", 
         "d": [
+            "of", 
+            "a", 
+            "number", 
+            "divisible", 
+            "by", 
+            "three;", 
+            "conguent", 
             "to", 
-            "be", 
-            "folded", 
-            "up"
+            "zero,", 
+            "modulo", 
+            "three"
         ]
     }, 
     {
