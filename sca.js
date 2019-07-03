@@ -106,44 +106,24 @@ getValue = str => getElt(str).value.split('\n').filter(a => a);
 
 class Word {
     constructor(word, rules) {
-        this.word = word;
         this.rules = rules.soundChanges;
+        this.lemma = () => this.word[0];
+        this.hasChanged = () => this.lemma() != this.old[0];
+        this.equals = str => this.lemma() == str;
+        this.isNew = () => this.lemma() != this.original;
+        this.update = () => this.old[1] != this.word[1] ?
+            degeminate(this.word[1]) : this.word[0];
         this.skip = a => Math.random() < this.chance * chanceBox * a;
         if (word.includes('%')) {
-            [this.chance, this.word] = word.split(/% */);
+            [this.chance, word] = word.split(/% */);
             this.chance = 1 - parseInt(this.chance) / 100;
         } else {
             this.chance = 0.2;
         }
         this.etymology = [word];
-        this.evolve();
-    }
-
-    evolve() {
-        let word = new Quad(this.word);
-        for (let rule of this.rules) {
-            word.renew();
-            if (this.skip(rule.chance)) continue;
-            do {
-                word.reset();
-                word.apply(rule.rule);
-            } while (rule.repeat && word.hasChanged());
-            if (word.isNew()) this.etymology.push(word.lemma());
-        }
-        this.etymology = this.etymology.join(' > ');
-        this.word = word.lemma();
-    }
-}
-
-class Quad {
-    constructor(word) {
         this.word = [word];
-        this.update = () => this.old[1] != this.word[1] ?
-            degeminate(this.word[1]) : this.word[0];
-        this.lemma = () => this.word[0];
-        this.hasChanged = () => this.lemma() != this.old[0];
-        this.equals = str => this.lemma() == str;
-        this.isNew = () => this.lemma() != this.original;
+        this.reset();
+        this.evolve();
     }
 
     apply(rule) {
@@ -155,8 +135,18 @@ class Quad {
         this.old = this.word.slice();
     }
 
-    renew() {
-        this.original = this.lemma();
+    evolve() {
+        for (let rule of this.rules) {
+            this.original = this.lemma();
+            if (this.skip(rule.chance)) continue;
+            do {
+                this.reset();
+                this.apply(rule.rule);
+            } while (rule.repeat && this.hasChanged());
+            if (this.isNew()) this.etymology.push(this.lemma());
+        }
+        this.etymology = this.etymology.join(' > ');
+        this.word = this.lemma();
     }
 }
 
