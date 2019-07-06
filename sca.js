@@ -11,15 +11,21 @@ async function fillWords(language, count) {
     let data = await fetch('wordlist.json');
     data = await data.json();
     data = data.filter(a => a.l == language)
-               .map(a => a.t)
-               .filter(unique);
+        .map(a => a.t)
+        .filter(unique);
     getElt('words').innerHTML = data.join('\n');
 }
 
 class Rules {
     constructor(elt) {
         this.rules = getValue(elt);
-        this.soundChanges = [];
+        this.new = parent => ({
+            parent,
+            rule: [],
+            chance: 0,
+            repeat: false
+        });
+        let ruleset = this.soundChanges = this.new();
         this.categories = {};
         this.clean = str => str.replace(/[∅]/g, '');
         this.replaceCategories = str => this.replaceThings(str, true);
@@ -30,9 +36,20 @@ class Rules {
             if (rule.includes('=')) {
                 let [category, sounds] = this.replaceSounds(rule).split('=');
                 this.categories[category] = sounds;
-            } else {
-                this.replace(rule);
+                continue;
             }
+            if (rule.includes('{')) {
+                rule = rule.slice(1);
+                let newruleset = this.new(ruleset);
+                ruleset.rule.push(newruleset);
+                ruleset = newruleset;
+            } else if (rule.includes('}')) {
+                rule = rule.slice(0, -1);
+                ruleset.rule.push(this.makeRule(rule));
+                ruleset = ruleset.parent;
+                continue;
+            }
+            ruleset.rule.push(this.makeRule(rule));
         }
     }
 
@@ -43,7 +60,7 @@ class Rules {
         return str;
     }
 
-    replace(rule) {
+    makeRule(rule) {
         let repeat = rule.includes('↻');
         if (rule.includes('%')) {
             [chance, rule] = rule.split('%');
@@ -54,16 +71,16 @@ class Rules {
         let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
         environment = this.createEnvironment(environment, before);
         [before, after] = [before, after].map(this.replaceCategories);
-        console.log('before:', environment);
+        // console.log('before:', environment);
         after = this.clean(after);
         let alter = this.factory(before, after);
         let regex = new RegExp(environment, 'g');
-        let runRegex = word => word.replace(regex, alter).replace(/∅/g, '');
-        this.soundChanges.push({
-            rule: runRegex,
+        rule = word => word.replace(regex, alter).replace(/∅/g, '');
+        return {
+            rule,
             chance,
             repeat
-        });
+        };
     }
 
     createEnvironment(environment, before) {
@@ -89,13 +106,13 @@ class Rules {
     factory(before, after) {
         if (after.includes('[')) {
             let matchHash = this.categoryMatch([before, after]);
-            console.log('hash:', matchHash, 'after:', after);
+            // console.log('hash:', matchHash, 'after:', after);
             return (match, p1, p2, p3) => {
                 p2 = after.replace(/\[.*?\]/, matchHash[p2[before.indexOf('[')]]);
                 return `${p1}${p2}${p3}`;
             };
         } else {
-            console.log('after:', after);
+            // console.log('after:', after);
             return (match, p1, p2, p3) => `${p1}${after}${p3}`;
         }
     }
@@ -106,7 +123,7 @@ getValue = str => getElt(str).value.split('\n').filter(a => a);
 
 class Word {
     constructor(word, rules) {
-        this.rules = rules.soundChanges;
+        this.rules = rules.soundChanges.rule;
         this.lemma = () => this.word[0];
         this.hasChanged = () => this.lemma() != this.old[0];
         this.equals = str => this.lemma() == str;
@@ -127,7 +144,15 @@ class Word {
     }
 
     apply(rule) {
-        this.word = this.word.map(rule);
+        if (rule instanceof Function) {
+            this.word = this.word.map(rule);
+        } else if (rule instanceof Array) {
+            for (rule of rule) {
+                this.apply(rule);
+            }
+        } else {
+            this.apply(rule.rule);
+        }
     }
 
     reset() {
@@ -141,7 +166,7 @@ class Word {
             if (this.skip(rule.chance)) continue;
             do {
                 this.reset();
-                this.apply(rule.rule);
+                this.apply(rule);
             } while (rule.repeat && this.hasChanged());
             if (this.isNew()) this.etymology.push(this.lemma());
         }
