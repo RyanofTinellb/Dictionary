@@ -1105,18 +1105,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "passive", 
-        "t": "-illu", 
-        "d": [
-            "passive"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1127,6 +1115,18 @@
             "heart;", 
             "emotional", 
             "body"
+        ]
+    }, 
+    {
+        "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "passive", 
+        "t": "-illu", 
+        "d": [
+            "passive"
         ]
     }, 
     {
@@ -1306,20 +1306,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "depressively; in depression", 
-        "t": "&rsquo;isilakuniqqi", 
-        "d": [
-            "depressively;", 
-            "in", 
-            "depression"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -1471,13 +1457,14 @@
     {
         "p": [
             "inanimate", 
-            "noun"
+            "noun", 
+            "element"
         ], 
         "l": "High Lulani", 
-        "m": "reality", 
+        "m": "promethium", 
         "t": "&rsquo;uccadama", 
         "d": [
-            "reality"
+            "promethium"
         ]
     }, 
     {
@@ -1643,18 +1630,6 @@
         "d": [
             "follower;", 
             "submissive"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "visibly", 
-        "t": "&rsquo;usatinna", 
-        "d": [
-            "visibly"
         ]
     }, 
     {
@@ -2913,18 +2888,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "carefully", 
-        "t": "bataniqqi", 
-        "d": [
-            "carefully"
-        ]
-    }, 
-    {
-        "p": [
             "abstract", 
             "noun"
         ], 
@@ -3443,18 +3406,6 @@
             "stone;", 
             "sedimentary", 
             "rock"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "stonily", 
-        "t": "bufiniqqi", 
-        "d": [
-            "stonily"
         ]
     }, 
     {
@@ -7724,18 +7675,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "increasingly", 
-        "t": "katinna", 
-        "d": [
-            "increasingly"
-        ]
-    }, 
-    {
-        "p": [
             "inanimate", 
             "noun", 
             "element"
@@ -7749,14 +7688,16 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
+            "adposition"
         ], 
         "l": "High Lulani", 
-        "m": "increasingly", 
+        "m": "on a vertical surface", 
         "t": "kadu", 
         "d": [
-            "increasingly"
+            "on", 
+            "a", 
+            "vertical", 
+            "surface"
         ]
     }, 
     {
@@ -8650,6 +8591,19 @@
     }, 
     {
         "p": [
+            "derivational", 
+            "suffix"
+        ], 
+        "l": "High Lulani", 
+        "m": "body part", 
+        "t": "-kku", 
+        "d": [
+            "body", 
+            "part"
+        ]
+    }, 
+    {
+        "p": [
             "case", 
             "marker", 
             "prefix"
@@ -8660,19 +8614,6 @@
         "d": [
             "dative;", 
             "dat"
-        ]
-    }, 
-    {
-        "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "body part", 
-        "t": "-kku", 
-        "d": [
-            "body", 
-            "part"
         ]
     }, 
     {
@@ -8941,19 +8882,6 @@
             "time;", 
             "occasion;", 
             "while"
-        ]
-    }, 
-    {
-        "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "in time", 
-        "t": "ga&rsquo;iniqqi", 
-        "d": [
-            "in", 
-            "time"
         ]
     }, 
     {
@@ -11535,23 +11463,6 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
-        ], 
-        "l": "High Lulani", 
-        "m": "derives an adverb from a noun", 
-        "t": "-niqqi", 
-        "d": [
-            "derives", 
-            "an", 
-            "adverb", 
-            "from", 
-            "a", 
-            "noun"
-        ]
-    }, 
-    {
-        "p": [
             "adposition"
         ], 
         "l": "High Lulani", 
@@ -11606,19 +11517,16 @@
     }, 
     {
         "p": [
-            "derivational", 
-            "suffix"
+            "transitive", 
+            "action", 
+            "verb"
         ], 
         "l": "High Lulani", 
-        "m": "derives an adverb from a noun", 
+        "m": "to stop", 
         "t": "nu", 
         "d": [
-            "derives", 
-            "an", 
-            "adverb", 
-            "from", 
-            "a", 
-            "noun"
+            "to", 
+            "stop"
         ]
     }, 
     {
@@ -13158,18 +13066,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "lovingly", 
-        "t": "lu&rsquo;atinna", 
-        "d": [
-            "lovingly"
-        ]
-    }, 
-    {
-        "p": [
             "ambitransitive", 
             "perceptive", 
             "verb"
@@ -13821,17 +13717,20 @@
     }, 
     {
         "p": [
-            "modal", 
-            "adverb"
+            "inanimate", 
+            "derived", 
+            "noun", 
+            "food"
         ], 
         "l": "High Lulani", 
-        "m": "I agree; in agreement", 
+        "m": "potato chips; crisps; hot chips", 
         "t": "ranini", 
         "d": [
-            "I", 
-            "agree;", 
-            "in", 
-            "agreement"
+            "potato", 
+            "chips;", 
+            "crisps;", 
+            "hot", 
+            "chips"
         ]
     }, 
     {
@@ -14225,17 +14124,14 @@
     }, 
     {
         "p": [
-            "adverb"
+            "auxiliary"
         ], 
         "l": "High Lulani", 
-        "m": "should; would be better to", 
+        "m": "present gnomic", 
         "t": "ru", 
         "d": [
-            "should;", 
-            "would", 
-            "be", 
-            "better", 
-            "to"
+            "present", 
+            "gnomic"
         ]
     }, 
     {
@@ -16186,10 +16082,10 @@
             "element"
         ], 
         "l": "High Lulani", 
-        "m": "osmium", 
+        "m": "nitrogen", 
         "t": "sutta", 
         "d": [
-            "osmium"
+            "nitrogen"
         ]
     }, 
     {
@@ -16617,15 +16513,15 @@
     }, 
     {
         "p": [
-            "adverb"
+            "inanimate", 
+            "noun", 
+            "element"
         ], 
         "l": "High Lulani", 
-        "m": "thought to be", 
+        "m": "lanthanum", 
         "t": "xanaki", 
         "d": [
-            "thought", 
-            "to", 
-            "be"
+            "lanthanum"
         ]
     }, 
     {
@@ -17308,22 +17204,6 @@
     }, 
     {
         "p": [
-            "derived", 
-            "compound", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "all the time; continually", 
-        "t": "hamitariti", 
-        "d": [
-            "all", 
-            "the", 
-            "time;", 
-            "continually"
-        ]
-    }, 
-    {
-        "p": [
             "animate", 
             "noun", 
             "animal"
@@ -17706,26 +17586,11 @@
             "noun"
         ], 
         "l": "High Lulani", 
-        "m": "gratitude", 
+        "m": "house; building", 
         "t": "hifu", 
         "d": [
-            "gratitude"
-        ]
-    }, 
-    {
-        "p": [
-            "modal", 
-            "adverb"
-        ], 
-        "l": "High Lulani", 
-        "m": "on the other hand; contrariwise", 
-        "t": "hifu", 
-        "d": [
-            "on", 
-            "the", 
-            "other", 
-            "hand;", 
-            "contrariwise"
+            "house;", 
+            "building"
         ]
     }, 
     {

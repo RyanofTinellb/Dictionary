@@ -112,33 +112,45 @@
                         <p><textarea id="rules">
 [Upper] = ABCDEFGHIJKLMNOPQRSTUVWXYZ
 [lower] = abcdefghijklmnopqrstuvwxyz
-[Upper] > [lower]
-[+palatal] = cjɲʎxç
-[-palatal] = tdnlsh
-[-palatal, +voiced, +continuous] = **nl
-[plosive] = ptk
-[fricative] = fsx
-[stress] = ˈˌ
-C = [-palatal][+palatal]pbkgmqrf’y
-V = aiu·
+{[Upper] > [lower]
+ʔ > ’ / #_}
+
 - > ∅
 \s > ∅
-[-palatal, +voiced, -continuous]ː > [+palatal]ː
-[glottal]ː > [+palatal]ː
-ʔ / ’y
+ʔ / ’ː
+
+C = pbtdcjkgmnqlrfsxh’
+V = aiu·
+
+[+alveolar +voice +continuous] = nl
+[+glottal] = **h’
+[+palatal] = ɲʎçy
+C = C[+palatal]
+[+alveolar +voice +continuous]ː > [+palatal]ː
+[+glottal]ː > [+palatal]ː
+
+[+voice +plosive] = bdjg
+[+voice +fricative] = vðjʁ
+C = C[+voice +fricative]
+[-voice +plosive] = ptck
+{[+voice +plosive]ː > [+voice +fricative]ː
+[-voice +plosive]ː > [+voice +plosive]ː
+r > ʁ}
+
+[-palatal] = [+alveolar +voice +continuous][+glottal]tds
+[+palatal] = [+palatal]cjx
+{’ > ∅ / #_
 ↻ [-palatal] > [+palatal] / _(C)i
-mː > bm
+↻ ’ > w / _(C)u
+[nasal] = mq
+[voiced stop] = bg
+’ > w / u_
+’ > y / i_}
+
+mː > mb
+qː > qg
 i > ∅ / Cː_
 Cː > C / _#
-{∅ > ˈ / _CVCː
-∅ > ˌ / _CV#
-∅ > ˈ / _CVC#
-∅ > ˈ / _CV(C)ˌ
-∅ > ˌ / _CV(C)ˈ
-[stress]ː / [stress]
-ˌ > ˈ / #_CV#
-ˈ > ˌ / ˈCV(C)_
-ˌ > ˈ / ˌCV(C)_}
 </textarea></p>
                     </label>
                     <label for="words" style="display: none;">

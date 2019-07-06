@@ -34,8 +34,8 @@ class Rules {
         for (let rule of this.rules) {
             rule = rule.replace(/ /g, '').replace(/\\s/g, ' ');
             if (rule.includes('=')) {
-                let [category, sounds] = this.replaceSounds(rule).split('=');
-                this.categories[category] = sounds;
+                let [category, sounds] = rule.split('=');
+                this.categories[category] = this.replaceSounds(sounds);
                 continue;
             }
             if (rule.includes('{')) {
@@ -51,10 +51,12 @@ class Rules {
             }
             ruleset.rule.push(this.makeRule(rule));
         }
+        console.log({sounds: this.categories, rules:this.soundChanges});
     }
 
     replaceThings(str, brackets) {
         for (let [category, sounds] of Object.entries(this.categories)) {
+            sounds = brackets ? sounds : sounds.replace(/\*/g, '');
             str = str.split(category).join(brackets ? `[${sounds}]` : sounds);
         }
         return str;
@@ -71,12 +73,13 @@ class Rules {
         let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
         environment = this.createEnvironment(environment, before);
         [before, after] = [before, after].map(this.replaceCategories);
-        // console.log('before:', environment);
         after = this.clean(after);
         let alter = this.factory(before, after);
         let regex = new RegExp(environment, 'g');
-        rule = word => word.replace(regex, alter).replace(/∅/g, '');
+        rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
         return {
+            before: environment,
+            after: alter.after,
             rule,
             chance,
             repeat
@@ -103,18 +106,25 @@ class Rules {
         return output;
     }
 
-    factory(before, after) {
-        if (after.includes('[')) {
-            let matchHash = this.categoryMatch([before, after]);
-            // console.log('hash:', matchHash, 'after:', after);
-            return (match, p1, p2, p3) => {
-                p2 = after.replace(/\[.*?\]/, matchHash[p2[before.indexOf('[')]]);
+    factory(earlier, later) {
+        let eqn, after;
+        if (later.includes('[')) {
+            let matchHash = this.categoryMatch([earlier, later]);
+            eqn = (match, p1, p2, p3) => {
+                p2 = later.replace(/\[.*?\]/, matchHash[p2[earlier.indexOf('[')]]);
                 return `${p1}${p2}${p3}`;
             };
+            after = {
+                hash: matchHash,
+                after: later
+            }
         } else {
-            // console.log('after:', after);
-            return (match, p1, p2, p3) => `${p1}${after}${p3}`;
+            eqn = (match, p1, p2, p3) => `${p1}${later}${p3}`;
+            after = later;
         }
+        return {
+            eqn, after
+        };
     }
 }
 
@@ -128,8 +138,6 @@ class Word {
         this.hasChanged = () => this.lemma() != this.old[0];
         this.equals = str => this.lemma() == str;
         this.isNew = () => this.lemma() != this.original;
-        this.update = () => this.old[1] != this.word[1] ?
-            degeminate(this.word[1]) : this.word[0];
         this.skip = a => Math.random() < this.chance * chanceBox * a;
         if (word.includes('%')) {
             [this.chance, word] = word.split(/% */);
@@ -143,9 +151,19 @@ class Word {
         this.evolve();
     }
 
+    update() {
+        if (this.old[1] != this.word[1]) {
+            this.word[0] = degeminate(this.word[1]);
+        }
+    }
+
     apply(rule) {
         if (rule instanceof Function) {
-            this.word = this.word.map(rule);
+            do {
+                this.reset();
+                this.word = this.word.map(rule);
+                this.update();
+            } while (rule.repeat && this.hasChanged());
         } else if (rule instanceof Array) {
             for (rule of rule) {
                 this.apply(rule);
@@ -164,10 +182,7 @@ class Word {
         for (let rule of this.rules) {
             this.original = this.lemma();
             if (this.skip(rule.chance)) continue;
-            do {
-                this.reset();
-                this.apply(rule);
-            } while (rule.repeat && this.hasChanged());
+            this.apply(rule);
             if (this.isNew()) this.etymology.push(this.lemma());
         }
         this.etymology = this.etymology.join(' > ');
