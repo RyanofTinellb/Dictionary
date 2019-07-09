@@ -112,10 +112,10 @@
                         <p><textarea id="rules">
 [Upper] = ABCDEFGHIJKLMNOPQRSTUVWXYZ
 [lower] = abcdefghijklmnopqrstuvwxyz
-{[Upper] > [lower]
+{- > ∅
+[Upper] > [lower]
 ʔ > ’ / #_}
 
-- > ∅
 \s > ∅
 ʔ / ’ː
 
@@ -139,16 +139,17 @@ r > ʁ}
 
 [-palatal] = [+alveolar +voice +continuous][+glottal]tds
 [+palatal] = [+palatal]cjx
+[semivowel] = wy
+[high] = ui
+C = Cw
 {’ > ∅ / #_
 ↻ [-palatal] > [+palatal] / _(C)i
 ↻ ’ > w / _(C)u
+’ > [semivowel] / [high]_}
+
 [nasal] = mq
 [voiced stop] = bg
-’ > w / u_
-’ > y / i_}
-
-mː > mb
-qː > qg
+ː > [voiced stop] / [nasal]_
 i > ∅ / Cː_
 Cː > C / _#
 </textarea></p>

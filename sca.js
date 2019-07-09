@@ -12,7 +12,8 @@ async function fillWords(language, count) {
     data = await data.json();
     data = data.filter(a => a.l == language)
         .map(a => a.t)
-        .filter(unique);
+        .filter(unique)
+        .filter(a => a.includes('ittika'));
     getElt('words').innerHTML = data.join('\n');
 }
 
@@ -51,7 +52,10 @@ class Rules {
             }
             ruleset.rule.push(this.makeRule(rule));
         }
-        console.log({sounds: this.categories, rules:this.soundChanges});
+        console.log({
+            sounds: this.categories,
+            rules: this.soundChanges
+        });
     }
 
     replaceThings(str, brackets) {
@@ -70,11 +74,12 @@ class Rules {
             chance = 100;
         }
         chance = 1 - chance / 100;
-        let [before, after, environment] = rule.replace(/[↻]/g, '').split(/[>/]/);
-        environment = this.createEnvironment(environment, before);
-        [before, after] = [before, after].map(this.replaceCategories);
+        let [before, after, during] = rule.replace(/[↻]/g, '')
+            .split(/[>/]/)
+            .map(this.replaceCategories);
+        let environment = this.createEnvironment(during, before);
         after = this.clean(after);
-        let alter = this.factory(before, after);
+        let alter = this.factory(before, after, during, environment);
         let regex = new RegExp(environment, 'g');
         rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
         return {
@@ -88,13 +93,12 @@ class Rules {
 
     createEnvironment(environment, before) {
         before = `(${this.clean(before)})`;
-        environment = environment ? `(${this.clean(environment).replace(/\(/g, '(?:')
+        return environment ? `(${this.clean(environment).replace(/\(/g, '(?:')
                        .replace(/\)/g, ')*')
                        .replace(/#$/, '$')
                        .replace(/^#/, '^')
                        .replace('_', `)${before}(`)})` :
             `()${before}()`;
-        return this.replaceCategories(environment);
     }
 
     categoryMatch(arr) {
@@ -106,14 +110,35 @@ class Rules {
         return output;
     }
 
-    factory(earlier, later) {
+    factory(earlier, later, during, environment) {
         let eqn, after;
         if (later.includes('[')) {
-            let matchHash = this.categoryMatch([earlier, later]);
-            eqn = (match, p1, p2, p3) => {
-                p2 = later.replace(/\[.*?\]/, matchHash[p2[earlier.indexOf('[')]]);
-                return `${p1}${p2}${p3}`;
-            };
+            let matchHash;
+            if (earlier.includes('[')) {
+                matchHash = this.categoryMatch([earlier, later]);
+                eqn = (match, p1, p2, p3) => {
+                    let index = earlier.indexOf('[');
+                    p2 = later.replace(/\[.*?\]/, matchHash[p2[index]]);
+                    return `${p1}${p2}${p3}`;
+                };
+            } else {
+                matchHash = this.categoryMatch([during, later])
+                let indices = ['_', '['].map(s => during.indexOf(s));
+                let difference = indices[1] - indices[0];
+                if (difference < 0) {
+                    eqn = (match, p1, p2, p3) => {
+                        let index = indices[1];
+                        p2 = later.replace(/\[.*?\]/, matchHash[p1[index]]);
+                        return `${p1}${p2}${p3}`
+                    }
+                } else {
+                    eqn = (match, p1, p2, p3) => {
+                        let index = difference - 1;
+                        p2 = later.replace(/\[.*?\]/, matchHash[p3[index]]);
+                        return `${p1}${p2}${p3}`
+                    }
+                }
+            }
             after = {
                 hash: matchHash,
                 after: later
@@ -123,7 +148,8 @@ class Rules {
             after = later;
         }
         return {
-            eqn, after
+            eqn,
+            after
         };
     }
 }
@@ -159,17 +185,18 @@ class Word {
 
     apply(rule) {
         if (rule instanceof Function) {
-            do {
-                this.reset();
-                this.word = this.word.map(rule);
-                this.update();
-            } while (rule.repeat && this.hasChanged());
+            this.word = this.word.map(rule);
         } else if (rule instanceof Array) {
             for (rule of rule) {
                 this.apply(rule);
             }
         } else {
-            this.apply(rule.rule);
+            do {
+                this.reset();
+                this.apply(rule.rule);
+                this.update();
+                console.log(rule);
+            } while (rule.repeat && this.hasChanged());
         }
     }
 
