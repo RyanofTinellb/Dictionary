@@ -7,13 +7,12 @@ const degeminate = str => str.replace(/(.)ː/g, '$1$1');
 const choose = arr => arr[Math.floor(Math.random() * arr.length)];
 const unique = (item, pos, ary) => !pos || item !== ary[pos - 1];
 
-async function fillWords(language, count) {
+async function fillWords(language) {
     let data = await fetch('wordlist.json');
     data = await data.json();
     data = data.filter(a => a.l == language)
         .map(a => a.t)
-        .filter(unique)
-        .filter(a => a.includes('ittika'));
+        .filter(unique);
     getElt('words').innerHTML = data.join('\n');
 }
 
@@ -191,11 +190,11 @@ class Word {
                 this.apply(rule);
             }
         } else {
+            if (this.skip(rule.chance)) return;
             do {
                 this.reset();
                 this.apply(rule.rule);
                 this.update();
-                console.log(rule);
             } while (rule.repeat && this.hasChanged());
         }
     }
@@ -208,7 +207,6 @@ class Word {
     evolve() {
         for (let rule of this.rules) {
             this.original = this.lemma();
-            if (this.skip(rule.chance)) continue;
             this.apply(rule);
             if (this.isNew()) this.etymology.push(this.lemma());
         }

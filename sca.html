@@ -94,46 +94,56 @@
                         </tr>
                     </table>
                 </p>
-                <p>
-                    <ul>
-                        <li>Rules take the form &ldquo;A > B / _&rdquo; where
-                            the environment is optional.</li>
-                        <li>When writing rules, spaces are ignored.
-                            <ipa>\s</ipa> symbolises a literal space if
-                            required</li>
-                    </ul>
-                </p>
+                <p>Rules take the form &ldquo;A > B / _&rdquo; where
+                    the environment is optional.</p>
+                <p>When writing rules, spaces are ignored.
+                    <ipa>\s</ipa> symbolises a literal space if
+                    required</p>
+                <p>Chance can be introduced with the checkbox.</p>
+                <p>The percentage chance for rules is a measure of
+                    how likely it is to be applied. The default is 100%.</p>
+                <p>The percentage chance for words is a measure of how
+                    common the word is. 100% is an everyday word, 20%
+                    is a niche or jargon word. Common words are changed
+                    more often. The default is 80%.</p>
                 <label for="rules">
                     <h2>Rules</h2>
                 </label>
                 <p><textarea id="rules">[+palatal] = cjɲʎxç
 [-palatal] = tdnlsh
+C = [-palatal][+palatal]pbkgmqrf’
+V = aeiou
+↻ [-palatal] > [+palatal] / _(C)i
+{70% i > ∅ / Cː_
+Cː > C / _#}
 [plosive] = ptk
 [fricative] = fsx
-C = [-palatal][+palatal]pbkgmqrf’
-V = aiu
-↻ [-palatal] > [+palatal] / _(C)i
-i > ∅ / Cː_
-Cː > C / _#
-r > \s</textarea></p>
+70% [plosive] > [fricative] / V_V
+[long] = āēīōū
+a > [long] / _rV
+r > \s
+</textarea></p>
                 <label for="words">
                     <h2>Words</h2>
                 </label>
-                <p><textarea id="words"></textarea></p>
-                <p><button onclick="outputArea.innerHTML=change()">Change</button>
-                    <input type="checkbox" id="chain" onclick="outputArea.innerHTML=change()">
+                <p><textarea id="words">80% paddi
+taro
+50% katipe
+</textarea></p>
+                <p><button onclick="intermediate()">Change</button>
+                    <input type="checkbox" id="chain" onclick="intermediate()">
                     <label for="chain">See intermediate steps?</label></input>
-                    <input type="checkbox" id="chance" onclick="outputArea.innerHTML=change()">
-                    <label for="chain">Introduce chance?</label></input>
+                    <input type="checkbox" id="chance" onclick="intermediate()">
+                    <label for="chance">Introduce chance?</label></input>
                 </p>
                 <p id="output"></p>
             </div>
             <script type="text/javascript">
-                fillWords('High Lulani', 5);
                 for (elt of document.getElementsByClassName('javascript')) {
                     elt.style.display = "block";
                 }
                 let outputArea = document.getElementById('output');
+                intermediate()
             </script>
         </div>
     </div>
