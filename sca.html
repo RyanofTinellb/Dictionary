@@ -106,6 +106,93 @@
                     common the word is. 100% is an everyday word, 20%
                     is a niche or jargon word. Common words are changed
                     more often. The default is 80%.</p>
+                <p>
+                    <table id="alphabet">
+                        <tr>
+                            <td colspan="2"></td>
+                            <th>labial</th>
+                            <th>alveolar</th>
+                            <th>retroflex</th>
+                            <th>palatal</th>
+                            <th>velar</th>
+                            <th>glottal</th>
+                        </tr>
+                        <tr>
+                            <th colspan="2">plosive</th>
+                            <td>
+                                <ipa>p b</ipa>
+                            </td>
+                            <td>
+                                <ipa>t d</ipa>
+                            </td>
+                            <td></td>
+                            <td>
+                                <ipa>c j</ipa>
+                            </td>
+                            <td>
+                                <ipa>k g</ipa>
+                            </td>
+                            <td>
+                                <ipa>’</ipa>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th rowspan="2">continuous</th>
+                            <th>nasal</th>
+                            <td>
+                                <ipa>m</ipa>
+                            </td>
+                            <td>
+                                <ipa>n</ipa>
+                            </td>
+                            <td></td>
+                            <td></td>
+                            <td>
+                                <ipa>q</ipa>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>lateral</th>
+                            <td></td>
+                            <td>
+                                <ipa>l</ipa>
+                            </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">tap</th>
+                            <td></td>
+                            <td></td>
+                            <td>
+                                <ipa>r</ipa>
+                            </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">fricative</th>
+                            <td>
+                                <ipa>f</ipa>
+                            </td>
+                            <td>
+                                <ipa>s</ipa>
+                            </td>
+                            <td></td>
+                            <td>
+                                <ipa>x</ipa>
+                            </td>
+                            <td></td>
+                            <td>
+                                <ipa>h</ipa>
+                            </td>
+                        </tr>
+                    </table>
+                </p>
                 <label for="rules">
                     <h2>Rules</h2>
                 </label>
@@ -135,6 +222,8 @@ taro
                     <label for="chain">See intermediate steps?</label></input>
                     <input type="checkbox" id="chance" onclick="intermediate()">
                     <label for="chance">Introduce chance?</label></input>
+                    <input type="checkbox" id="multi" onclick="intermediate()">
+                    <label for="multi">Allow multigraphs?</label></input>
                 </p>
                 <p id="output"></p>
             </div>
