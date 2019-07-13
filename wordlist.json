@@ -6,7 +6,7 @@
         ], 
         "l": "High Lulani", 
         "m": "interjection marker; inj", 
-        "t": "&rsquo;i&rsquo;a&rsquo;u", 
+        "t": "-a", 
         "d": [
             "interjection", 
             "marker;", 
@@ -5468,6 +5468,26 @@
         "t": "dahi", 
         "d": [
             "ice"
+        ]
+    }, 
+    {
+        "p": [
+            "adjective"
+        ], 
+        "l": "English", 
+        "m": "of a number able to be intuited at a glance", 
+        "t": "degunative", 
+        "d": [
+            "of", 
+            "a", 
+            "number", 
+            "able", 
+            "to", 
+            "be", 
+            "intuited", 
+            "at", 
+            "a", 
+            "glance"
         ]
     }, 
     {
@@ -17030,13 +17050,17 @@
     }, 
     {
         "p": [
-            "adverb"
+            "intransitive", 
+            "derived", 
+            "compound", 
+            "verb"
         ], 
         "l": "High Lulani", 
-        "m": "suddenly", 
+        "m": "to scream", 
         "t": "xulagi", 
         "d": [
-            "suddenly"
+            "to", 
+            "scream"
         ]
     }, 
     {
