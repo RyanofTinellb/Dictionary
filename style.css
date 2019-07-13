@@ -230,8 +230,9 @@ h4 { /* subheadings */
 }
 
 input[type='checkbox']#chain, input[type='checkbox']#chance,
-input[type='checkbox']#multi {
+input[type='checkbox']#multi, input[type='checkbox']#debug {
     display: inline;
+		margin-left: 5em;
 }
 
 @media screen and (max-width: 800px) {

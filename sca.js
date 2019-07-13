@@ -1,6 +1,7 @@
 let chanceBox;
 let chain;
 let mutigraphs;
+let debug;
 
 const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
@@ -14,6 +15,7 @@ async function fillWords(language) {
   data = data.filter(a => a.l == language)
     .map(a => a.t)
     .filter(unique);
+  console.log(data);
   getElt('words').innerHTML = data.join('\n');
 }
 
@@ -29,9 +31,8 @@ class Rules {
     let ruleset = this.soundChanges = this.new();
     this.categories = {};
     this.clean = str => str.replace(/[∅]/g, '');
-    this.replaceSounds = str => this.replaceThings(str, false);
-    this.replaceCategories = str => this.replaceThings(str, true);
-    this.pipeOr = (match, p1) => match.includes('|') ? `(?:${p1})` : match;
+    this.tidy = str => str ? str.replace(/[*ː]/g, '') : '';
+    this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
     for (let rule of this.rules) {
       rule = rule.replace(/ /g, '').replace(/\\s/g, ' ');
       if (rule.includes('=')) {
@@ -58,12 +59,51 @@ class Rules {
     });
   }
 
-  replaceThings(str, brackets) {
-    for (let [category, sounds] of Object.entries(this.categories)) {
-      sounds = brackets ? sounds : sounds.replace(/\*/g, '');
-      str = str.split(category).join(brackets ? `[${sounds}]` : sounds);
+  replaceCategories(str) {
+    let savedCategory = null;
+    let before = null;
+    let after = null;
+    if (str.includes('_')) {
+      [before, after] = str.split('_').map(this.replaceCategories, this);
+      savedCategory = before.category || after.category || '';
+      before.regex = before.regex.replace('#', '^');
+      after.regex = after.regex.replace('#', '$');
+      return {
+        str: before.str + after.str || '',
+        regex: `${before.regex}${after.regex}` || '',
+        before,
+        after,
+        category: savedCategory
+      };
     }
-    return str;
+    let total = 0;
+    let regex = str.replace(/\(/, '(?:(').replace(/\)/g, '))*');
+    for (let [category, sounds] of Object.entries(this.categories)) {
+      regex = regex.split(category);
+      if (regex.length > 1) {
+        savedCategory = sounds;
+        [before, after] = regex;
+        total += regex.length - 1;
+      }
+      sounds = multigraphs ? sounds : `[${this.tidy(sounds)}]`;
+      regex = regex.join(`)(${sounds})(`);
+    }
+    return {
+      str: regex.replace(/[()]/g, ''),
+      regex: `(${regex})`,
+      i: 2 * total + 1,
+      before,
+      after,
+      category: savedCategory
+    };
+  }
+
+  replaceSounds(str) {
+    for (let [category, sounds] of Object.entries(this.categories)) {
+      sounds = this.tidy(sounds);
+      str = str.split(category).join(sounds);
+    }
+    return geminate(str);
   }
 
   makeRule(rule) {
@@ -73,13 +113,13 @@ class Rules {
     } else {
       chance = 100;
     }
-    chance = 1 - chance / 100;
+    chance = Math.sqrt(1 - chance / 100);
     let [before, after, during] = rule.replace(/[↻]/g, '')
       .split(/[>/]/)
-      .map(this.replaceCategories);
+      .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
-    after = this.clean(after);
-    let alter = this.factory(before, after, during, environment);
+    after.str = this.clean(after.str);
+    let alter = this.factory(before, after, during);
     let regex = new RegExp(environment, 'g');
     rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
     return {
@@ -92,69 +132,78 @@ class Rules {
   }
 
   createEnvironment(environment, before) {
-    before = `(${this.clean(before)})`;
-    environment = environment ? `(${this.clean(environment)
-             .replace(/\(/g, '(?:')
-             .replace(/\)/g, ')*')
-             .replace(/#$/, '$')
-             .replace(/^#/, '^')
-             .replace('_', `)${before}(`)})` :
-      `()${before}()`;
-    return environment.replace(/\[(.*?)\]/g, this.pipeOr);
+    return environment ?
+      `(${environment.before.regex})${before.regex}(${environment.after.regex})` :
+      `()${before.regex}()`;
   }
 
-  arrayCategory(str) {
-    console.log('sdf', this);
-    let category = str.match(/\[(.*?)\]/)[1];
-    return multigraphs ? category.split(split) : category;
+  categoryArray(category) {
+    let split = multigraphs ? '|' : '';
+    return category.category.split(split);
   }
 
-  categoryMatch(arr) {
-    output = {};
-    console.log(this);
-    let [before, after] = arr.map(this.arrayCategory);
+  categoryMatch() {
+    let matchHash = {};
+    let [before, after] = [...arguments].map(this.categoryArray, this);
     for (let i = 0; i < before.length; i++) {
-      output[before[i]] = after[i];
+      let [b, a] = [before, after].map(x => this.tidy(x[i]));
+      if (a && b) matchHash[b] = a;
     }
-    return output;
+    return matchHash;
   }
 
-  factory(earlier, later, during, environment) {
-    let eqn, after;
-    if (later.includes('[')) {
+  factory(earlier, later, during) {
+    let eqn, after, arr;
+    if (later.category) {
       let matchHash;
-      if (earlier.includes('[')) {
-        matchHash = this.categoryMatch([earlier, later]);
-        eqn = (match, p1, p2, p3) => {
-          let index = earlier.indexOf('[');
-          p2 = later.replace(/\[.*?\]/, matchHash[p2[index]]);
-          return `${p1}${p2}${p3}`;
-        };
+      if (earlier.category) {
+        matchHash = this.categoryMatch(earlier, later);
+        let i = during ? during.before.i + 3 : 3;
+        let j = i + 2;
+        eqn = (...p) => {
+          arr = [p[1], later.before, matchHash[p[i]], later.after, p[j]];
+          if (debug) {
+            console.log(2, p);
+            return `{${arr.join('|')}}`;
+          }
+          return arr.join('');
+        }
+      } else if (during.before.category) {
+        matchHash = this.categoryMatch(during.before, later);
+        eqn = (...p) => {
+          arr = [p[1], later.before, matchHash[p[3]], later.after, p[6]];
+          if (debug) {
+            console.log(3, p);
+            return `{${arr.join('|')}}`;
+          }
+          return arr.join('');
+        }
       } else {
-        matchHash = this.categoryMatch([during, later])
-        let indices = ['_', '['].map(s => during.indexOf(s));
-        let difference = indices[1] - indices[0];
-        if (difference < 0) {
-          eqn = (match, p1, p2, p3) => {
-            let index = indices[1];
-            p2 = later.replace(/\[.*?\]/, matchHash[p1[index]]);
-            return `${p1}${p2}${p3}`
+        matchHash = this.categoryMatch(during.after, later);
+        eqn = (...p) => {
+          arr = [p[1], later.before, matchHash[p[6]], later.after, p[4]];
+          if (debug) {
+            console.log(4, p);
+            return `{${arr.join('|')}}`;
           }
-        } else {
-          eqn = (match, p1, p2, p3) => {
-            let index = difference - 1;
-            p2 = later.replace(/\[.*?\]/, matchHash[p3[index]]);
-            return `${p1}${p2}${p3}`
-          }
+          return arr.join('');
         }
       }
       after = {
-        hash: matchHash,
-        after: later
+        matchHash,
+        str: later.str
       }
     } else {
-      eqn = (match, p1, p2, p3) => `${p1}${later}${p3}`;
-      after = later;
+      after = later.str;
+      let i = during ? during.before.i + earlier.i + 3 : earlier.i + 2;
+      eqn = (...p) => {
+        arr = [p[1], after, p[i]];
+        if (debug) {
+          console.log(1, p);
+          return `{${arr.join('|')}}`;
+        }
+        return arr.join('');
+      }
     }
     return {
       eqn,
@@ -164,6 +213,7 @@ class Rules {
 }
 
 getElt = str => document.getElementById(str);
+check = str => getElt(str).checked;
 getValue = str => getElt(str).value.split('\n').filter(a => a);
 
 class Word {
@@ -176,9 +226,9 @@ class Word {
     this.skip = a => Math.random() < this.chance * chanceBox * a;
     if (word.includes('%')) {
       [this.chance, word] = word.split(/% */);
-      this.chance = 1 - parseInt(this.chance) / 100;
+      this.chance = Math.sqrt(1 - parseInt(this.chance) / 100);
     } else {
-      this.chance = 0.2;
+      this.chance = Math.sqrt(0.2);
     }
     this.etymology = [word];
     this.word = [word];
@@ -227,8 +277,9 @@ class Word {
 
 function change() {
   console.clear();
-  chanceBox = getElt('chance').checked ? 1 : 0;
-  multigraphs = getElt('multi').checked;
+  chanceBox = check('chance') ? 1 : 0;
+  multigraphs = check('multi');
+  debug = check('debug');
   let rules = new Rules('rules');
   let words = getValue('words');
   words = words.map(word => new Word(word, rules));
@@ -240,7 +291,7 @@ function change() {
 }
 
 function intermediate() {
-  chain = getElt('chain').checked;
+  chain = check('chain');
   outputArea.style.columns = chain ? 'initial' : 3;
   outputArea.innerHTML = change();
 }
