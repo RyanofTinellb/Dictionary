@@ -42,14 +42,18 @@ class Rules {
       }
       if (rule.includes('{')) {
         rule = rule.slice(1);
-        let newruleset = this.new(ruleset);
-        ruleset.rule.push(newruleset);
-        ruleset = newruleset;
+        if (!debug) {
+          let newruleset = this.new(ruleset);
+          ruleset.rule.push(newruleset);
+          ruleset = newruleset;
+        }
       } else if (rule.includes('}')) {
         rule = rule.slice(0, -1);
-        ruleset.rule.push(this.makeRule(rule));
-        ruleset = ruleset.parent;
-        continue;
+        if (!debug) {
+          ruleset.rule.push(this.makeRule(rule));
+          ruleset = ruleset.parent;
+          continue;
+        }
       }
       ruleset.rule.push(this.makeRule(rule));
     }
@@ -77,7 +81,7 @@ class Rules {
       };
     }
     let total = 0;
-    let regex = str.replace(/\(/, '(?:(').replace(/\)/g, '))*');
+    let regex = str.replace(/\(/g, '(?:(?:').replace(/\)/g, '))*');
     for (let [category, sounds] of Object.entries(this.categories)) {
       regex = regex.split(category);
       if (regex.length > 1) {
@@ -118,6 +122,7 @@ class Rules {
       .split(/[>/]/)
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
+    if (debug) console.log(environment);
     after.str = this.clean(after.str);
     let alter = this.factory(before, after, during);
     let regex = new RegExp(environment, 'g');
@@ -163,8 +168,7 @@ class Rules {
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[i]], later.after, p[j]];
           if (debug) {
-            console.log(2, p);
-            return `{${arr.join('|')}}`;
+            console.log(2, p, `{${arr.join('|')}}`);
           }
           return arr.join('');
         }
@@ -173,8 +177,7 @@ class Rules {
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[3]], later.after, p[6]];
           if (debug) {
-            console.log(3, p);
-            return `{${arr.join('|')}}`;
+            console.log(3, p, `{${arr.join('|')}}`);
           }
           return arr.join('');
         }
@@ -183,8 +186,7 @@ class Rules {
         eqn = (...p) => {
           arr = [p[1], later.before, matchHash[p[6]], later.after, p[4]];
           if (debug) {
-            console.log(4, p);
-            return `{${arr.join('|')}}`;
+            console.log(4, p, `{${arr.join('|')}}`);
           }
           return arr.join('');
         }
@@ -195,12 +197,11 @@ class Rules {
       }
     } else {
       after = later.str;
-      let i = during ? during.before.i + earlier.i + 3 : earlier.i + 2;
+      let i = during ? during.before.i + earlier.i + 2 : earlier.i + 2;
       eqn = (...p) => {
         arr = [p[1], after, p[i]];
         if (debug) {
-          console.log(1, p);
-          return `{${arr.join('|')}}`;
+          console.log(1, p, `{${arr.join('|')}}`);
         }
         return arr.join('');
       }
@@ -276,7 +277,6 @@ class Word {
 }
 
 function change() {
-  console.clear();
   chanceBox = check('chance') ? 1 : 0;
   multigraphs = check('multi');
   debug = check('debug');
