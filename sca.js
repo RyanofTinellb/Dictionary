@@ -2,6 +2,7 @@ let chanceBox;
 let chain;
 let mutigraphs;
 let debug;
+let linenumber = 130;
 
 const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
@@ -23,10 +24,11 @@ class Rules {
   constructor(elt) {
     this.rules = getValue(elt);
     this.new = parent => ({
+      '#': linenumber,
       parent,
       rule: [],
       chance: 0,
-      repeat: false
+      repeat: false,
     });
     let ruleset = this.soundChanges = this.new();
     this.categories = {};
@@ -34,6 +36,8 @@ class Rules {
     this.tidy = str => str ? str.replace(/[*ː]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
     for (let rule of this.rules) {
+      linenumber++;
+      if (!rule) continue;
       rule = rule.replace(/ /g, '').replace(/\\s/g, ' ');
       if (rule.includes('=')) {
         let [category, sounds] = rule.split('=');
@@ -81,7 +85,8 @@ class Rules {
       };
     }
     let total = 0;
-    let regex = str.replace(/\(/g, '(?:(?:').replace(/\)/g, '))*');
+    let regex = str.replace(/\?/g, '.').replace(/~/, '.*?')
+      .replace(/\(/g, '(?:(?:').replace(/\)/g, '))?');
     for (let [category, sounds] of Object.entries(this.categories)) {
       regex = regex.split(category);
       if (regex.length > 1) {
@@ -122,12 +127,13 @@ class Rules {
       .split(/[>/]/)
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
-    if (debug) console.log(environment);
+    if (debug) console.log(linenumber, environment);
     after.str = this.clean(after.str);
     let alter = this.factory(before, after, during);
     let regex = new RegExp(environment, 'g');
     rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
     return {
+      '#': linenumber,
       before: environment,
       after: alter.after,
       rule,
@@ -215,7 +221,7 @@ class Rules {
 
 getElt = str => document.getElementById(str);
 check = str => getElt(str).checked;
-getValue = str => getElt(str).value.split('\n').filter(a => a);
+getValue = str => getElt(str).value.split('\n');
 
 class Word {
   constructor(word, rules) {

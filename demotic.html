@@ -95,6 +95,24 @@
                   </th>
                   <td>infinite repeat of rule</td>
                 </tr>
+                <tr>
+                  <th>
+                    <ipa>?</ipa>
+                  </th>
+                  <td>single character string</td>
+                </tr>
+                <tr>
+                  <th>
+                    <ipa>~</ipa>
+                  </th>
+                  <td>any number of characters</td>
+                </tr>
+                <tr>
+                  <th>
+                    <ipa>()</ipa>
+                  </th>
+                  <td>optional string</td>
+                </tr>
               </table>
             </p>
             <p>
@@ -137,25 +155,30 @@ C = C[+voice +fricative]
 [-voice +plosive]ː > [+voice +plosive]ː
 r > ʁ}
 
-[-palatal] = [+alveolar +voice +continuous][+glottal]tds
+[-palatal] = [+alveolar +voice +continuous]tds
 [+palatal] = [+palatal]cjx
-[semivowel] = wy
-[high] = ui
 C = Cw
-{’ > ∅ / #_
-↻ [-palatal] > [+palatal] / _(C)i
-↻ ’ > w / _(C)u
-’ > [semivowel] / [high]_
-50% ’ > y / a_a
-’ > w / a_a}
 
-[+stress] = áíú
+[+stress] = áíú*
 {V > [+stress] / _C(C)V#
 V > [+stress] / #C(C)_#
 V > [+stress] / _Cː
 ↻ V > [+stress] / _C(C)VC(C)[+stress]
 [+stress] > V / [+stress]C(C)_
 V > [+stress] / VC(C)_}
+h > ’ / _V
+[+high -stress] = iu
+[+high +stress] = íú
+[+high] = [+high -stress][+high +stress]
+[semivowel] = ywyw
+C = C[semivowel]
+[+high -stress]’ > [semivowel] / _[+stress]
+’ > [semivowel] / [+high +stress]_
+V = Veö
+[+stress] = [+stress]*éő
+á’i > é
+á’u > ő
+’ > ∅
 i > ∅ / Cː_
 [nasal] = mq
 [voiced stop] = bg
@@ -163,12 +186,13 @@ i > ∅ / Cː_
 a > ∅
 {ː > ∅ / C_#
 ː > ∅ / C_C}
-{↻ [+stress] > V / [+stress].*_
+{↻ [+stress] > V / [+stress]~_
 [+stress] > V / _C(C)(V)#
 [+stress] > V / #C(C)_(C)#}
+’ > ∅
 </textarea></p>
           </label>
-          <label for="words" style="display: none;">
+          <label for="words" style="display:none;">
             <h2>Words</h2>
             <p><textarea id="words"></textarea></p>
           </label>
