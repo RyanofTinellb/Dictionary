@@ -14,7 +14,7 @@ async function fillWords(language) {
   let data = await fetch('wordlist.json');
   data = await data.json();
   data = data.filter(a => a.l == language)
-    .map(a => a.t)
+    .map(a => a.t.toLowerCase())
     .filter(unique);
   console.log(data);
   getElt('words').innerHTML = data.join('\n');
@@ -23,21 +23,25 @@ async function fillWords(language) {
 class Rules {
   constructor(elt) {
     this.rules = getValue(elt);
-    this.new = parent => ({
+    this.new = (name, parent) => ({
       '#': linenumber,
+      name,
       parent,
       rule: [],
       chance: 0,
       repeat: false,
     });
     let ruleset = this.soundChanges = this.new();
-    this.categories = {};
+    let name = '';
+    let rule;
+    this.categories = parseTables();
     this.clean = str => str.replace(/[∅]/g, '');
-    this.tidy = str => str ? str.replace(/[*ː]/g, '') : '';
+    this.tidy = str => str ? str.replace(/[*ː@]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
-    for (let rule of this.rules) {
+    for (let line of this.rules) {
       linenumber++;
-      if (!rule) continue;
+      if (!line) continue;
+      [rule, name] = line.split(' // ');
       rule = rule.replace(/ /g, '').replace(/\\s/g, ' ');
       if (rule.includes('=')) {
         let [category, sounds] = rule.split('=');
@@ -47,7 +51,7 @@ class Rules {
       if (rule.includes('{')) {
         rule = rule.slice(1);
         if (!debug) {
-          let newruleset = this.new(ruleset);
+          let newruleset = this.new(name, ruleset);
           ruleset.rule.push(newruleset);
           ruleset = newruleset;
         }
@@ -237,6 +241,7 @@ class Word {
     } else {
       this.chance = Math.sqrt(0.2);
     }
+    this.natural = word;
     this.etymology = [word];
     this.word = [word];
     this.reset();
@@ -292,7 +297,8 @@ function change() {
   if (chain) {
     return words.map(word => word.etymology).join('<br>');
   } else {
-    return words.map(word => word.word).join('<br>');
+    return words.map(word => `<span class="abc"><span class="ghi">${word.word}</span>
+    <span class="def">${word.natural}</span></span>`).join('<br>');
   }
 }
 
@@ -300,4 +306,74 @@ function intermediate() {
   chain = check('chain');
   outputArea.style.columns = chain ? 'initial' : 3;
   outputArea.innerHTML = change();
+}
+
+function parseTables() {
+  let sounds = {};
+  const tables = document.getElementsByClassName('alphabet');
+  for (const table of tables) {
+    parseTable(table, sounds);
+  }
+  return sounds;
+}
+
+function parseTable(table, sounds) {
+  let colnames = [];
+  let rownames = [];
+  let tablename = table.tHead.rows[0].cells[0].textContent;
+
+  // Parse THead
+  for (const row of table.tHead.rows) {
+    let index = 0;
+    for (const cell of row.cells) {
+      if (!cell.cellIndex && !row.rowIndex) continue;
+      const text = cell.textContent;
+      for (let i = 0; i < cell.colSpan; i++) {
+        if (!colnames[index]) colnames[index] = [];
+        if (text) colnames[index].push(cell.textContent);
+        index++;
+      }
+    }
+  }
+
+  // Parse TBody
+  rownum = 0;
+  for (const row of table.tBodies[0].rows) {
+    colnum = 0;
+    for (const cell of row.cells) {
+      if (cell.tagName == 'TH') {
+        const text = cell.textContent;
+        for (let i = 0; i < cell.rowSpan; i++) {
+          const index = rownum + i;
+          if (!rownames[index]) rownames[index] = [];
+          if (text) rownames[index].push(text);
+        }
+      } else {
+        const text = cell.textContent || '@';
+        for (rowname of rownames[rownum]) {
+          push(sounds, rowname, text);
+        }
+        for (colname of colnames[colnum]) {
+          push(sounds, colname, text);
+        }
+        push(sounds, tablename, text);
+        colnum++;
+      }
+    }
+    rownum++;
+  }
+}
+
+function push(sounds, name, text) {
+  name = name.match(/[^a-z+-]/) ? name : `[${name}]`;
+  if (!multigraphs) {
+    if (!sounds[name]) sounds[name] = '';
+    sounds[name] += text;
+  } else {
+    if (sounds[name]) {
+      sounds[name] += `|${text}`;
+    } else {
+      sounds[name] = text;
+    }
+  }
 }

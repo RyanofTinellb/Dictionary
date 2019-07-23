@@ -2,6 +2,22 @@ body {
 	font-family: sans-serif;
 }
 
+.abc {
+	padding-left: 1em;
+}
+
+.def {
+	display: none;
+}
+
+.abc:hover .def {
+	display: inline;
+}
+
+.abc:hover .ghi {
+	display: none;
+}
+
 .nav-pane {
 	min-width: 12em;
 	text-align: center;
