@@ -129,10 +129,10 @@
             <thead>
               <tr>
                 <th colspan="3">C</th>
-                <th></th>
+                <th>peripheral</th>
                 <th>alveolar</th>
                 <th>palatal</th>
-                <th></th>
+                <th>peripheral</th>
                 <th>glottal</th>
               </tr>
             </thead>
@@ -225,13 +225,13 @@
               </tr>
               <tr>
                 <th>V</th>
-                <th>[stress]</th>
+                <th>V́</th>
                 <th>semivowel</th>
                 <th>V</th>
-                <th>[stress]</th>
+                <th>V́</th>
                 <th>semivowel</th>
                 <th>V</th>
-                <th>[stress]</th>
+                <th>V́</th>
                 <th>semivowel</th>
               </tr>
             </thead>
@@ -291,13 +291,7 @@
           <label for="rules" style="display:none;">
             <h2>Rules</h2>
             <p><textarea id="rules">
-[-voice] > [+voice]
-[central] > [front]
-[low] > [high]
-V > [stress]
-
-</textarea></p>
-            <!-- - > ∅ // remove punctuation
+- > ∅ // remove punctuation
 ʔ > ’ / #_
 
 { ʔ > ’ː // deal with geminates
@@ -307,8 +301,8 @@ V > [stress]
 [plosive, -voice]ː > [plosive, +voice]ː
 r > ʁ }
 
-[-palatal] = [alveolar, plosive][alveolar, buzz]%%%[alveolar, +sibilant]%
-[-palatal] > [palatal] / _i
+[-palatal] = [alveolar, plosive][alveolar, buzz]??[alveolar, +sibilant]?
+↻ [-palatal] > [palatal] / _(C)i
 
 { V > V́ / _C(C)V# // add stress
 V > V́ / #C(C)_#
@@ -326,16 +320,16 @@ h > ’ / _V
 ’ > ∅ }
 
 i > ∅ / Cː_
-ː > [plosive, +voice] / [nasal]_
+ː > [peripheral, plosive, +voice] / [peripheral, nasal]_
 
 { a > ∅ // remove unstressed <a>
-  ː > ∅ / C_#
-  ː > ∅ / C_C }
+ː > ∅ / C_#
+ː > ∅ / C_C }
 
-  { ↻ V́ > V / V́~_ // remove stress marking
-  V́ > V / _C(C)(V)#
-  V́ > V / #C(C)_(C)# } -->
-
+{ ↻ V́ > V / V́~_ // remove stress marking
+V́ > V / _C(C)(V)#
+V́ > V / #C(C)_(C)# }
+</textarea></p>
           </label>
           <label for="words" style="display:none;">
             <h2>Words</h2>

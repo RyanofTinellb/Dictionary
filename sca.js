@@ -2,7 +2,11 @@ let chanceBox;
 let chain;
 let mutigraphs;
 let debug;
-let linenumber = 130;
+let linenumber = 293;
+const firstNullChar = 200;
+let nullChar = 61952;
+
+const textToInclude = '';
 
 const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
@@ -10,14 +14,43 @@ const degeminate = str => str.replace(/(.)ː/g, '$1$1');
 const choose = arr => arr[Math.floor(Math.random() * arr.length)];
 const unique = (item, pos, ary) => !pos || item !== ary[pos - 1];
 
+const bracket = name => name.match(/[^a-z+-]/) ? name : `[${name}]`;
+
+const sorted = obj =>
+  Object.entries(obj).sort((a, b) => b[0].length - a[0].length);
+
 async function fillWords(language) {
   let data = await fetch('wordlist.json');
   data = await data.json();
   data = data.filter(a => a.l == language)
     .map(a => a.t.toLowerCase())
+    .filter(a => a.includes(textToInclude))
     .filter(unique);
   console.log(data);
   getElt('words').innerHTML = data.join('\n');
+}
+
+function intermediate() {
+  chain = check('chain');
+  numcols = window.innerWidth < 800 ? 2 : 3;
+  outputArea.style.columns = chain ? 'initial' : numcols;
+  outputArea.innerHTML = change();
+}
+
+function change() {
+  chanceBox = check('chance') ? 1 : 0;
+  multigraphs = check('multi');
+  debug = check('debug');
+  let rules = new Rules('rules');
+  let words = getValue('words');
+  words = words.map(word => new Word(word, rules));
+  if (chain) {
+    return words.map(word => word.etymology).join('<br>');
+  } else {
+    return words.map(word =>
+      `<span class="abc"><span class="ghi">${word.word}</span>
+       <span class="def">${word.natural}</span></span>`).join('<br>');
+  }
 }
 
 class Rules {
@@ -36,7 +69,7 @@ class Rules {
     let rule;
     this.categories = parseTables();
     this.clean = str => str.replace(/[∅]/g, '');
-    this.tidy = str => str ? str.replace(/[*ː@]/g, '') : '';
+    this.tidy = str => str ? str.replace(/[?@*ː\uf200-\uf300]/g, '') : '';
     this.pipeOr = (match, p1) => multigraphs ? `(${p1})` : match;
     for (let line of this.rules) {
       linenumber++;
@@ -65,10 +98,21 @@ class Rules {
       }
       ruleset.rule.push(this.makeRule(rule));
     }
-    console.log({
-      sounds: this.categories,
-      rules: this.soundChanges
-    });
+    const summary = {
+      sounds: this.fix(this.categories),
+      rules: this.soundChanges,
+      abc: sorted(this.categories)
+    };
+    if (debug) summary[cats] = this.categories;
+    console.log(summary);
+  }
+
+  fix(cats) {
+    output = {}
+    for (const cat in cats) {
+      output[cat] = cats[cat].replace(/[?\uf200-\uf300]/g, '.');
+    }
+    return output;
   }
 
   replaceCategories(str) {
@@ -90,8 +134,10 @@ class Rules {
     }
     let total = 0;
     let regex = str.replace(/\?/g, '.').replace(/~/, '.*?')
-      .replace(/\(/g, '(?:(?:').replace(/\)/g, '))?');
-    for (let [category, sounds] of Object.entries(this.categories)) {
+      .replace(/\(/g, '(?:(?:').replace(/\)/g, '))?')
+      .replace(/\[(.*?),(.*?)\]/g,
+        (match, p1, p2) => this.addToCats(match, p1, p2, this.categories));
+    for (let [category, sounds] of sorted(this.categories)) {
       regex = regex.split(category);
       if (regex.length > 1) {
         savedCategory = sounds;
@@ -111,12 +157,26 @@ class Rules {
     };
   }
 
+  addToCats(match, p1, p2, categories) {
+    // add this to the category unless already exists
+    if (!categories[match]) {
+      let sounds = categories[bracket(p1)];
+      const selection = p2.split(',').map(a => categories[bracket(a)]);
+      for (const category of selection) {
+        sounds = sounds.replace(/./g, a => category.includes(a) ? a : '');
+      }
+      categories[match] = sounds;
+    }
+    return match;
+  }
+
   replaceSounds(str) {
-    for (let [category, sounds] of Object.entries(this.categories)) {
-      sounds = this.tidy(sounds);
+    str = str.replace(/\[(.*?),(.*?)\]/g,
+      (match, p1, p2) => this.addToCats(match, p1, p2, this.categories));
+    for (let [category, sounds] of sorted(this.categories)) {
       str = str.split(category).join(sounds);
     }
-    return geminate(str);
+    return str;
   }
 
   makeRule(rule) {
@@ -287,27 +347,6 @@ class Word {
   }
 }
 
-function change() {
-  chanceBox = check('chance') ? 1 : 0;
-  multigraphs = check('multi');
-  debug = check('debug');
-  let rules = new Rules('rules');
-  let words = getValue('words');
-  words = words.map(word => new Word(word, rules));
-  if (chain) {
-    return words.map(word => word.etymology).join('<br>');
-  } else {
-    return words.map(word => `<span class="abc"><span class="ghi">${word.word}</span>
-    <span class="def">${word.natural}</span></span>`).join('<br>');
-  }
-}
-
-function intermediate() {
-  chain = check('chain');
-  outputArea.style.columns = chain ? 'initial' : 3;
-  outputArea.innerHTML = change();
-}
-
 function parseTables() {
   let sounds = {};
   const tables = document.getElementsByClassName('alphabet');
@@ -349,7 +388,7 @@ function parseTable(table, sounds) {
           if (text) rownames[index].push(text);
         }
       } else {
-        const text = cell.textContent || '@';
+        const text = cell.textContent || String.fromCharCode(nullChar++);
         for (rowname of rownames[rownum]) {
           push(sounds, rowname, text);
         }
@@ -365,7 +404,7 @@ function parseTable(table, sounds) {
 }
 
 function push(sounds, name, text) {
-  name = name.match(/[^a-z+-]/) ? name : `[${name}]`;
+  name = bracket(name);
   if (!multigraphs) {
     if (!sounds[name]) sounds[name] = '';
     sounds[name] += text;
