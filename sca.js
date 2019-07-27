@@ -6,7 +6,7 @@ let linenumber = 297;
 const firstNullChar = 200;
 let nullChar = 61952;
 
-const textToInclude = 'ajjatuja';
+const textToInclude = '';
 
 const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
