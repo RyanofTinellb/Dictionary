@@ -9451,6 +9451,15 @@
         ]
     }, 
     {
+        "p": [], 
+        "l": "English", 
+        "m": "theist", 
+        "t": "godling", 
+        "d": [
+            "theist"
+        ]
+    }, 
+    {
         "p": [
             "clausal", 
             "conjunction"

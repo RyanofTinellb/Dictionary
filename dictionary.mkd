@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 </link><link> | </link>:<link> | <br>
 </link>&nbsp;<high-lulani> | </link> <high-lulani> | <br>
-</high-lulani>&nbsp;<em> | </high-lulani> <em> | <br>
+</high-lulani>&nbsp;<em> | </high-lulani>  | </em><br>
 </high-lulani>&nbsp;<small-caps> | </high-lulani> <small-caps> | <br>
 [d pronunciation]\n<ipa><a | [p | <br>
 href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
@@ -10,6 +10,7 @@ href="https://en.wikipedia.org/wiki/Help:IPA#kf"> | kf] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA#mt"> | mt] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA#cz"> | cz] | <br>
 href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
+https://en.wiktionary.org/wiki/ | !wikt: | <br>
 </a></ipa>[/d] | [/p] | <br>
 <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><span class="desktop">Periodic Table</span><span class="mobile">List of Elements</span></a> | hl:List of Elements | <br>
 <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship Terms</a> | *hl:kinship* | <br>
@@ -60,7 +61,7 @@ hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
 &#x25f; | =j | <br> <!-- barred j -->
 &#x28e; | %l | <br> <!-- palatal l -->
 &#x272; | ,n | <br> <!-- palatal n -->
-&#x252; | Oo | <br> <!-- open o sound -->
+&#x252; | __o | <br> <!-- open o sound -->
 &#x254; | +o | <br> <!-- turned c / /or/ sound -->
 &#x27d; | %r | <br> <!-- retroflex flap -->
 &#x279; | ^r | <br> <!-- turned r -->
@@ -98,6 +99,10 @@ d definition]\n | def:  | <br>
 <overline>7</overline> | &reven; | <br>
 mathematics cardinal number numeral particle | <cardinal> | <br>
 animate derived possessive kinship noun | <kinship> | <br>
+
+
+
+
 
 
 
