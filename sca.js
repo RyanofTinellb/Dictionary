@@ -2,11 +2,11 @@ let chanceBox;
 let chain;
 let mutigraphs;
 let debug;
-let linenumber = 293;
+let linenumber = 297;
 const firstNullChar = 200;
 let nullChar = 61952;
 
-const textToInclude = '';
+const textToInclude = 'ajjatuja';
 
 const geminate = str => str.replace(/(.)\1/g, '$1ː');
 const degeminate = str => str.replace(/(.)ː/g, '$1$1');
@@ -100,10 +100,9 @@ class Rules {
     }
     const summary = {
       sounds: this.fix(this.categories),
-      rules: this.soundChanges,
-      abc: sorted(this.categories)
+      rules: this.soundChanges
     };
-    if (debug) summary[cats] = this.categories;
+    if (debug) summary.cats = this.categories;
     console.log(summary);
   }
 
@@ -117,8 +116,9 @@ class Rules {
 
   replaceCategories(str) {
     let savedCategory = null;
-    let before = null;
-    let after = null;
+    let sides = null;
+    let before;
+    let after;
     if (str.includes('_')) {
       [before, after] = str.split('_').map(this.replaceCategories, this);
       savedCategory = before.category || after.category || '';
@@ -138,15 +138,20 @@ class Rules {
       .replace(/\[(.*?),(.*?)\]/g,
         (match, p1, p2) => this.addToCats(match, p1, p2, this.categories));
     for (let [category, sounds] of sorted(this.categories)) {
-      regex = regex.split(category);
-      if (regex.length > 1) {
-        savedCategory = sounds;
-        [before, after] = regex;
-        total += regex.length - 1;
+      for (const star of ['*', '']) {
+        regex = regex.split(category + star);
+        if (regex.length > 1) {
+          savedCategory = savedCategory || sounds;
+          sides = sides || regex;
+          total += regex.length - 1;
+        }
+        let soundList = multigraphs ?
+          `(?:${sounds})` : `[${this.tidy(sounds)}]`;
+        if (star) soundList += '+';
+        regex = regex.join(`)(${soundList})(`);
       }
-      sounds = multigraphs ? sounds : `[${this.tidy(sounds)}]`;
-      regex = regex.join(`)(${sounds})(`);
     }
+    [before, after] = sides || [null, null];
     return {
       str: regex.replace(/[()]/g, ''),
       regex: `(${regex})`,

@@ -128,12 +128,16 @@
           <table class="alphabet">
             <thead>
               <tr>
-                <th colspan="3">C</th>
-                <th>peripheral</th>
+                <th colspan="3" rowspan="2">C</th>
+                <th colspan="2">peripheral</th>
+                <th colspan="2">coronal</th>
+                <th rowspan="2">glottal</th>
+              </tr>
+              <tr>
+                <th>labial</th>
+                <th>velar</th>
                 <th>alveolar</th>
                 <th>palatal</th>
-                <th>peripheral</th>
-                <th>glottal</th>
               </tr>
             </thead>
             <tbody>
@@ -141,33 +145,33 @@
                 <th colspan="2" rowspan="2">plosive</th>
                 <th>-voice</th>
                 <td>p</td>
+                <td>k</td>
                 <td>t</td>
                 <td>c</td>
-                <td>k</td>
                 <td></td>
               </tr>
               <tr>
                 <th>+voice</th>
                 <td>b</td>
+                <td>g</td>
                 <td>d</td>
                 <td>j</td>
-                <td>g</td>
                 <td></td>
               <tr>
                 <th colspan="2" rowspan="2">buzz</th>
                 <th>nasal</th>
                 <td>m</td>
+                <td>q</td>
                 <td>n</td>
                 <td>ɲ</td>
-                <td>q</td>
                 <td></td>
               </tr>
               <tr>
-                <th></th>
+                <th>lateral</th>
                 <td></td>
+                <td>r</td>
                 <td>l</td>
                 <td>ʎ</td>
-                <td>r</td>
                 <td></td>
               </tr>
               <tr>
@@ -175,42 +179,42 @@
                 <th rowspan="2">-sibilant</th>
                 <th>-voice</th>
                 <td>f</td>
+                <td>ʀ</td>
                 <td>þ</td>
                 <td>ç</td>
-                <td>ʀ</td>
                 <td>h</td>
               </tr>
               <tr>
                 <th>+voice</th>
                 <td>v</td>
+                <td>ʁ</td>
                 <td>ð</td>
                 <td>ĵ</td>
-                <td>ʁ</td>
                 <td>ɦ</td>
               </tr>
               <tr>
                 <th rowspan="2">+sibilant</th>
                 <th>-voice</th>
                 <td></td>
+                <td></td>
                 <td>s</td>
                 <td>x</td>
-                <td></td>
                 <td></td>
               </tr>
               <tr>
                 <th>+voice</th>
                 <td></td>
+                <td></td>
                 <td>z</td>
                 <td>ž</td>
                 <td></td>
-                <td></td>
               </tr>
               <tr>
-                <th colspan="3"></th>
+                <th colspan="3">approximant</th>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td>y</td>
-                <td></td>
                 <td>’</td>
               </tr>
             </tbody>
@@ -299,22 +303,25 @@
 [glottal]ː > [palatal]ː
 [plosive, +voice]ː > [-sibilant, +voice]ː
 [plosive, -voice]ː > [plosive, +voice]ː
-r > ʁ }
+ʁ > r }
 
 [-palatal] = [alveolar, plosive][alveolar, buzz]??[alveolar, +sibilant]?
 ↻ [-palatal] > [palatal] / _(C)i
 
-{ V > V́ / _C(C)V# // add stress
-V > V́ / #C(C)_#
+{ u > o / _[coronal] // Umlaute and other vowel changes
+  a > o / _C*u }
+
+{ V > V́ / _C*V# // add stress
+V > V́ / #C*_#
 V > V́ / _Cː
-↻ V > V́ / _C(C)VC(C)V́
-V́ > V / V́C(C)_
-V > V́ / VC(C)_ }
+↻ V > V́ / _C*VC*V́
+V́ > V / V́C*_
+V > V́ / VC*_ }
 
 h > ’ / _V
 
 { [high, V]’ > [high, semivowel] / _V́ // play with glottal stops
-’ > [high, semivowel] / [high, V]_
+’ > [high, semivowel] / [high, V́]_
 á’i > é
 á’u > ő
 ’ > ∅ }
@@ -327,8 +334,16 @@ i > ∅ / Cː_
 ː > ∅ / C_C }
 
 { ↻ V́ > V / V́~_ // remove stress marking
-V́ > V / _C(C)(V)#
-V́ > V / #C(C)_(C)# }
+V́ > V / _C*(V)#
+V́ > V / #C*_(C)# }
+
+{ ː > ∅
+  r > rr / _#
+  ĵ > j
+  dd > d·d
+  ð > dd
+  [buzz, palatal] > [buzz, alveolar]ː
+  ç > hh }
 </textarea></p>
           </label>
           <label for="words" style="display:none;">
