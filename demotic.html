@@ -295,49 +295,48 @@
           <label for="rules" style="display:none;">
             <h2>Rules</h2>
             <p><textarea id="rules">
-- > ∅ // remove punctuation
+- > ∅
 ʔ > ’ / #_
 
 { ʔ > ’ː // deal with geminates
-[alveolar, buzz]ː > [palatal, buzz]ː
-[glottal]ː > [palatal]ː
-[plosive, +voice]ː > [-sibilant, +voice]ː
-[plosive, -voice]ː > [plosive, +voice]ː
-ʁ > r }
+  [alveolar, buzz]ː > [palatal, buzz]ː
+  [glottal]ː > [palatal]ː
+  [plosive, +voice]ː > [-sibilant, +voice]ː
+  [plosive, -voice]ː > [plosive, +voice]ː
+  ʁ > r }
 
 [-palatal] = [alveolar, plosive][alveolar, buzz]??[alveolar, +sibilant]?
 ↻ [-palatal] > [palatal] / _(C)i
 
-{ u > o / _[coronal] // Umlaute and other vowel changes
+{ a > e / _C*i
   a > o / _C*u }
 
 { V > V́ / _C*V# // add stress
-V > V́ / #C*_#
-V > V́ / _Cː
-↻ V > V́ / _C*VC*V́
-V́ > V / V́C*_
-V > V́ / VC*_ }
+  V > V́ / #C*_#
+  V > V́ / _Cː
+  ↻ V > V́ / _C*VC*V́
+  V́ > V / V́C*_
+  V > V́ / VC*_ }
 
 h > ’ / _V
 
 { [high, V]’ > [high, semivowel] / _V́ // play with glottal stops
-’ > [high, semivowel] / [high, V́]_
-á’i > é
-á’u > ő
-’ > ∅ }
+  ’ > [high, semivowel] / [high, V́]_
+  ’[high, V] > ∅ / [low, V́]_
+  ’ > ∅ }
 
 i > ∅ / Cː_
 ː > [peripheral, plosive, +voice] / [peripheral, nasal]_
 
-{ a > ∅ // remove unstressed <a>
-ː > ∅ / C_#
-ː > ∅ / C_C }
+{ [low, V] > ∅ // remove unstressed <a|e|o>
+  ː > ∅ / C_#
+  ː > ∅ / C_C }
 
 { ↻ V́ > V / V́~_ // remove stress marking
-V́ > V / _C*(V)#
-V́ > V / #C*_(C)# }
+  V́ > V / _C*(V)#
+  V́ > V / #C*_(C)# }
 
-{ ː > ∅
+{ ː > ∅ // rewrite rules
   r > rr / _#
   ĵ > j
   dd > d·d

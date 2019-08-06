@@ -1,586 +1,586 @@
 {
   "current": {
-    "position": "1.0", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/dictionary.mkd", 
-    "fontsize": 18, 
+    "position": "1.0",
+    "markdown": "C:/Users/Ryan/TinellbianLanguages/dictionary/dictionary.mkd", 
+    "fontsize": 18,
     "language": "en: English"
-  }, 
+  },
   "site": {
     "files": {
-      "source": "c:/users/ryan/documents/tinellbianlanguages/dictionary/data.json", 
-      "searchindex": "c:/users/ryan/documents/tinellbianlanguages/dictionary/searching.json", 
-      "template_file": "c:/users/ryan/documents/tinellbianlanguages/dictionary/template.html"
-    }, 
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary", 
+      "source": "c:/users/Ryan/tinellbianlanguages/dictionary/data.json",
+      "searchindex": "c:/users/Ryan/tinellbianlanguages/dictionary/searching.json",
+      "template_file": "c:/users/Ryan/tinellbianlanguages/dictionary/template.html"
+    },
+    "destination": "C:/Users/Ryan/TinellbianLanguages/dictionary",
     "name": "Dictionary"
-  }, 
+  },
   "links": {
-    "Glossary": "C:/Users/Ryan/Documents/TinellbianLanguages/grammar/glossary.gls", 
-    "InternalDictionary": "", 
-    "ExternalGrammar": "C:/Users/Ryan/Documents/TinellbianLanguages/dictionary/links.glk"
-  }, 
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
+    "InternalDictionary": "",
+    "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/links.glk"
+  },
   "history": [
     [
       "'usu"
-    ], 
+    ],
     [
       "-ba"
-    ], 
+    ],
     [
       "ba"
-    ], 
+    ],
     [
       "su'a"
-    ], 
+    ],
     [
       "tisiqqiduku"
-    ], 
+    ],
     [
       "duku"
-    ], 
+    ],
     [
       "disi"
-    ], 
+    ],
     [
       "-disi"
-    ], 
+    ],
     [
       "duku"
-    ], 
+    ],
     [
       "'anni"
-    ], 
+    ],
     [
       "'anniduku"
-    ], 
+    ],
     [
       "tisiqqidoku"
-    ], 
+    ],
     [
       "tisiqqiduku"
-    ], 
+    ],
     [
       "cix&iacute;ndoku"
-    ], 
+    ],
     [
       "(ad..duj"
-    ], 
+    ],
     [
       "buma'ajja"
-    ], 
+    ],
     [
       "dasi"
-    ], 
+    ],
     [
       "jagaru"
-    ], 
+    ],
     [
       "cu'i"
-    ], 
+    ],
     [
       "jifiru'inulli"
-    ], 
+    ],
     [
       "dasa"
-    ], 
+    ],
     [
       "diccaha"
-    ], 
+    ],
     [
       "saqqa"
-    ], 
+    ],
     [
       "saniki"
-    ], 
+    ],
     [
       "saqqa"
-    ], 
+    ],
     [
       "saniki"
-    ], 
+    ],
     [
       "cakassu"
-    ], 
+    ],
     [
       "dasa"
-    ], 
+    ],
     [
       "datu"
-    ], 
+    ],
     [
       "duku"
-    ], 
+    ],
     [
       "fa"
-    ], 
+    ],
     [
       "fana"
-    ], 
+    ],
     [
       "gaxiki"
-    ], 
+    ],
     [
       "jagaru"
-    ], 
+    ],
     [
       "kulu"
-    ], 
+    ],
     [
       "kunubi"
-    ], 
+    ],
     [
       "ladi"
-    ], 
+    ],
     [
       "lisinu"
-    ], 
+    ],
     [
       "lisina"
-    ], 
+    ],
     [
       "luxi"
-    ], 
+    ],
     [
       "-mari"
-    ], 
+    ],
     [
       "ma"
-    ], 
+    ],
     [
       "madusi"
-    ], 
+    ],
     [
       "malaki"
-    ], 
+    ],
     [
       "millu"
-    ], 
+    ],
     [
       "mituja"
-    ], 
+    ],
     [
       "nagari"
-    ], 
+    ],
     [
       "naludu"
-    ], 
+    ],
     [
       "puttu"
-    ], 
+    ],
     [
       "quffi"
-    ], 
+    ],
     [
       "raru"
-    ], 
+    ],
     [
       "rix"
-    ], 
+    ],
     [
       "rukaru"
-    ], 
+    ],
     [
       "sa"
-    ], 
+    ],
     [
       "saqqa"
-    ], 
+    ],
     [
       "satta"
-    ], 
+    ],
     [
       "saxita.lara"
-    ], 
+    ],
     [
       "silla"
-    ], 
+    ],
     [
       "subtle"
-    ], 
+    ],
     [
       "takaru"
-    ], 
+    ],
     [
       "tali"
-    ], 
+    ],
     [
       "ussa"
-    ], 
+    ],
     [
       "'ussa"
-    ], 
+    ],
     [
       "-xita"
-    ], 
+    ],
     [
       "xuga"
-    ], 
+    ],
     [
       "darill"
-    ], 
-    [], 
+    ],
+    [],
     [
       "w"
-    ], 
+    ],
     [
       "Mala Ptokonoi"
-    ], 
+    ],
     [
       "du'ami"
-    ], 
+    ],
     [
       "nu'ifi"
-    ], 
+    ],
     [
       "maniki"
-    ], 
+    ],
     [
       "pifa"
-    ], 
+    ],
     [
       "matta"
-    ], 
+    ],
     [
       "hita"
-    ], 
+    ],
     [
       "-hita"
-    ], 
+    ],
     [
       "matta"
-    ], 
+    ],
     [
       "-matta"
-    ], 
+    ],
     [
       "-ma"
-    ], 
+    ],
     [
       "-na'u"
-    ], 
-    [], 
+    ],
+    [],
     [
       "xalli"
-    ], 
+    ],
     [
       "-na'u"
-    ], 
+    ],
     [
       "gicirri"
-    ], 
+    ],
     [
       "naku"
-    ], 
+    ],
     [
       "bi'u'iku"
-    ], 
-    [], 
+    ],
+    [],
     [
       "ba"
-    ], 
-    [], 
-    [], 
+    ],
+    [],
+    [],
     [
       "buni"
-    ], 
+    ],
     [
       "-ca"
-    ], 
+    ],
     [
       "calu"
-    ], 
+    ],
     [
       "cidatu"
-    ], 
+    ],
     [
       "matta"
-    ], 
+    ],
     [
       "-matta"
-    ], 
+    ],
     [
       "gicirri"
-    ], 
+    ],
     [
       "naku"
-    ], 
+    ],
     [
       "basa"
-    ], 
+    ],
     [
       "piddi"
-    ], 
+    ],
     [
       "qiriji"
-    ], 
+    ],
     [
       "hibu"
-    ], 
+    ],
     [
       "dumi"
-    ], 
+    ],
     [
       "danna"
-    ], 
+    ],
     [
       "ca"
-    ], 
+    ],
     [
       "ca'alla"
-    ], 
+    ],
     [
       "fuca"
-    ], 
+    ],
     [
       "ritada"
-    ], 
+    ],
     [
       "macu"
-    ], 
+    ],
     [
       "xani"
-    ], 
+    ],
     [
       "dukku"
-    ], 
+    ],
     [
       "dapi"
-    ], 
+    ],
     [
       "famu"
-    ], 
+    ],
     [
       "rali"
-    ], 
+    ],
     [
       "kupira"
-    ], 
+    ],
     [
       "ti'ici"
-    ], 
+    ],
     [
       "cipati"
-    ], 
+    ],
     [
       "tuci"
-    ], 
+    ],
     [
       "miru"
-    ], 
+    ],
     [
       "xibbuti"
-    ], 
+    ],
     [
       "xuga"
-    ], 
+    ],
     [
       "cidatu"
-    ], 
+    ],
     [
       "karu"
-    ], 
+    ],
     [
       "gaqqu"
-    ], 
+    ],
     [
       "naru"
-    ], 
+    ],
     [
       "nigi"
-    ], 
+    ],
     [
       "dura"
-    ], 
+    ],
     [
       "hiru"
-    ], 
+    ],
     [
       "'ili"
-    ], 
+    ],
     [
       "da'aru"
-    ], 
+    ],
     [
       "fa"
-    ], 
+    ],
     [
       "datu"
-    ], 
+    ],
     [
       "'i"
-    ], 
+    ],
     [
       "japa"
-    ], 
+    ],
     [
       "kadusi"
-    ], 
+    ],
     [
       "kasuja"
-    ], 
+    ],
     [
       "-mi"
-    ], 
+    ],
     [
       "madusi"
-    ], 
-    [], 
+    ],
+    [],
     [
       "miru"
-    ], 
+    ],
     [
       "madusi"
-    ], 
+    ],
     [
       "nacca"
-    ], 
+    ],
     [
       "miru"
-    ], 
+    ],
     [
       "datu"
-    ], 
-    [], 
+    ],
+    [],
     [
       "'i"
-    ], 
+    ],
     [
       "kadusi"
-    ], 
+    ],
     [
       "japa"
-    ], 
-    [], 
+    ],
+    [],
     [
       "kadusi"
-    ], 
+    ],
     [
       "kasuja"
-    ], 
+    ],
     [
       "saatta"
-    ], 
+    ],
     [
       "satta"
-    ], 
+    ],
     [
       "-mi"
-    ], 
+    ],
     [
       "-ahi"
-    ], 
+    ],
     [
       "madusi"
-    ], 
+    ],
     [
       "marika"
-    ], 
+    ],
     [
       "madusi"
-    ], 
+    ],
     [
       "miru"
-    ], 
+    ],
     [
       "puttu"
-    ], 
+    ],
     [
       "nacca"
-    ], 
+    ],
     [
       "datu"
-    ], 
+    ],
     [
       "naludu"
-    ], 
+    ],
     [
       "kasuja'"
-    ], 
+    ],
     [
       "kasuja"
-    ], 
+    ],
     [
       "qikanni"
-    ], 
+    ],
     [
       "marika"
-    ], 
+    ],
     [
       "qixa"
-    ], 
+    ],
     [
       "satta"
-    ], 
+    ],
     [
       "ha"
-    ], 
+    ],
     [
       "dumi"
-    ], 
+    ],
     [
       "downstream"
-    ], 
+    ],
     [
       "T,rsh"
-    ], 
+    ],
     [
       "triadic"
-    ], 
-    [], 
-    [], 
+    ],
+    [],
+    [],
     [
       "'isilaku"
-    ], 
+    ],
     [
       "-niqqi"
-    ], 
-    [], 
+    ],
+    [],
     [
       "-niqqi"
-    ], 
-    [], 
+    ],
+    [],
     [
       "-niqqi"
-    ], 
-    [], 
-    [], 
+    ],
+    [],
+    [],
     [
       "nu"
-    ], 
-    [], 
-    [], 
-    [], 
-    [], 
+    ],
+    [],
+    [],
+    [],
+    [],
     [
       "kadu"
-    ], 
+    ],
     [
       "ranini"
-    ], 
+    ],
     [
       "hifu"
-    ], 
+    ],
     [
       "ru"
-    ], 
+    ],
     [
       "sutta"
-    ], 
+    ],
     [
       "'uccadama"
-    ], 
+    ],
     [
       "xanaki"
-    ], 
+    ],
     [
       "xakila"
-    ], 
+    ],
     [
       "xulagi"
-    ], 
+    ],
     [
       "degunative"
-    ], 
+    ],
     [
       "godling"
     ]

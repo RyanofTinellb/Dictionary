@@ -153,8 +153,8 @@ class Rules {
     }
     [before, after] = sides || [null, null];
     return {
-      str: regex.replace(/[()]/g, ''),
-      regex: `(${regex})`,
+      str: regex.replace(/[()∅]/g, ''),
+      regex: `(${this.clean(regex)})`,
       i: 2 * total + 1,
       before,
       after,
@@ -197,7 +197,6 @@ class Rules {
       .map(this.replaceCategories, this);
     let environment = this.createEnvironment(during, before);
     if (debug) console.log(linenumber, environment);
-    after.str = this.clean(after.str);
     let alter = this.factory(before, after, during);
     let regex = new RegExp(environment, 'g');
     rule = word => word.replace(regex, alter.eqn).replace(/∅/g, '');
