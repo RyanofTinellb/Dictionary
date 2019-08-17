@@ -33,8 +33,7 @@ if (HREF.indexOf('?') != -1 &&
         search(getTerms);
 }
 
-async function search(termsGetter) {
-    let terms = termsGetter();
+async function search(terms) {
     place(terms);
     let data = await fetch(URL);
     data = await data.json();

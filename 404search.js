@@ -1,15 +1,21 @@
 URL = '/wordlist.json';
 BACKUP_URL = '/searching.json';
+GET = elt => document.getElementsByTagName(elt)[0]
 
 base();
 
 function base() {
     RESULTS.innerHTML = 'Searching...';
+    let terms;
     if (window.location.href.indexOf('?') == -1) {
-        search(getTermfrom404);
+        terms = getTermfrom404();
     } else {
-        search(getTerms);
+        terms = getTerms();
     }
+    let word = terms.join(' ');
+    GET('title').innerHTML = `${word} - The Tinellbian Languages Dictionary`;
+    GET('h1').innerHTML = word;
+    search(terms);
 }
 
 function getTermfrom404() {
