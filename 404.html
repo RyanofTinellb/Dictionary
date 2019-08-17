@@ -70,6 +70,9 @@
                 for (elt of document.getElementsByClassName('javascript')) {
                     elt.style.display = "block";
                 }
+                let word = getTermfrom404().join(' ');
+                document.getElementsByTagName('title')[0].innerHTML = word;
+                document.getElementsByTagName('h1')[0].innerHTML = word;
             </script>
         </div>
     </div>
