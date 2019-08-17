@@ -30,16 +30,18 @@ const LANGUAGES = [
 if (HREF.indexOf('?') != -1 &&
     HREF.toLowerCase().indexOf('search') != -1) {
         RESULTS.innerHTML = 'Searching...';
-        search(getTerms);
+        const terms = getTerms();
+        place(terms);
+        search(terms);
 }
 
 async function search(terms) {
-    place(terms);
-    let data = await fetch(URL);
-    data = await data.json();
+    let data;
     if (!terms) {
         results = '';
     } else {
+        data = await fetch(URL);
+        data = await data.json();
         results = [translit, pos_lang, def_lang]
                    .map(fn => display(fn(data, terms)))
                    .filter(entry => entry.length)
