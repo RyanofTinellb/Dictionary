@@ -1,15 +1,5 @@
 /* Goes directly to an inputted word*/
-const MARKDOWN = {
-    '&rsquo;': "'",
-    '&#x294;': "''",
-    '&uuml;': '!u',
-    '&ecirc;': '()e',
-    '&igrave;': ')i',
-    '&middot;': '..',
-    '&nbsp;': '.',
-    '&#x157;': ',r',
-    '&#x14d;': '_o'
-};
+console.log(MARKDOWN)
 
 
 function search() {

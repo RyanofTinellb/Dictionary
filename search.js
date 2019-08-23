@@ -6,19 +6,19 @@ const SEARCH = document.getElementById('term');
 const RESULTS = document.getElementById('results');
 const LOWER = word => word.toLowerCase()
 const MARKDOWN = {
-    '&rsquo;': "'",
-    '&#x294;': "''",
-    '&aacute;': '(a',
-    '&uuml;': '!u',
-    '&ucirc;': '()u',
-    '&ecirc;': '()e',
-    '&iacute;': '(i',
-    '&igrave;': ')i',
-    '&middot;': '..',
+    '’': "'",
+    'ʔ': "''",
+    'á': '(a',
+    'ü': '!u',
+    'û': '()u',
+    'ê': '()e',
+    'í': '(i',
+    'ì': ')i',
+    '·': '..',
     '&nbsp;': ' ',
-    '&#x157;': ',r',
-    '&#x14d;': '_o',
-    '&#x1e6c;': ')T'
+    'ŗ': ',r',
+    'ō': '_o',
+    'Ṭ': ')T'
 };
 const LANGUAGES = [
     'english', 'lulani', 'high', 'demotic', 'fezhle', 'early', 'late', 'koine',
@@ -248,6 +248,7 @@ function createLine(entry) {
 }
 
 function findInitial(text) {
+    text = markdown(text);
     return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
 }
 
@@ -256,12 +257,14 @@ function createUrl(text) {
 }
 
 function createPlainUrl(text) {
-    let href = markdown(text);
-    return `${findInitial(href)}/${sellCaps(href)}.html`
+    return `${findInitial(text)}/${sellCaps(text)}.html`
 }
 
+dollarise = (letter) =>
+    letter == letter.toLowerCase() ? letter : `$${letter.toLowerCase()}`
+
 function sellCaps(text) {
-    return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+    return text.replace(/./g, dollarise)
                .replace(' ', '.');
 }
 
