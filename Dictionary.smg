@@ -3,7 +3,7 @@
     "position": "1.0",
     "markdown": "C:/Users/Ryan/TinellbianLanguages/dictionary/markdown.mkd",
     "fontsize": 18,
-    "language": "en: English"
+    "language": "hl: High Lulani"
   },
   "site": {
     "files": {
@@ -33,9 +33,6 @@
     "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/links.glk"
   },
   "history": [
-    [
-      "cu'i"
-    ],
     [
       "jifiru'inulli"
     ],
@@ -596,6 +593,9 @@
     ],
     [
       "mulu"
+    ],
+    [
+      "heart"
     ]
   ]
 }
