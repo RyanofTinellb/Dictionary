@@ -700,6 +700,72 @@
         "m": "contentment"
     },
     {
+        "t": "-ini",
+        "l": "High Lulani",
+        "p": [
+            "derivational",
+            "cisclass",
+            "suffix"
+        ],
+        "d": [
+            "diminutive;",
+            "derives",
+            "a",
+            "term",
+            "of",
+            "lesser",
+            "intensity",
+            "or",
+            "size",
+            "from",
+            "another",
+            "term;",
+            "dim"
+        ],
+        "m": "diminutive; derives a term of lesser intensity or size from another term; dim"
+    },
+    {
+        "t": "-ilu",
+        "l": "High Lulani",
+        "p": [
+            "inflectional",
+            "suffix"
+        ],
+        "d": [
+            "passive;",
+            "psv"
+        ],
+        "m": "passive; psv"
+    },
+    {
+        "t": "-illu",
+        "l": "High Lulani",
+        "p": [
+            "derivational",
+            "suffix"
+        ],
+        "d": [
+            "passive"
+        ],
+        "m": "passive"
+    },
+    {
+        "t": "Irìa",
+        "l": "English",
+        "p": [
+            "proper",
+            "noun"
+        ],
+        "d": [
+            "the",
+            "capital",
+            "city",
+            "of",
+            "Brequé"
+        ],
+        "m": "the capital city of Brequé"
+    },
+    {
         "t": "’i",
         "l": "High Lulani",
         "p": [
@@ -996,31 +1062,6 @@
         "m": "void; vacuum"
     },
     {
-        "t": "-ini",
-        "l": "High Lulani",
-        "p": [
-            "derivational",
-            "cisclass",
-            "suffix"
-        ],
-        "d": [
-            "diminutive;",
-            "derives",
-            "a",
-            "term",
-            "of",
-            "lesser",
-            "intensity",
-            "or",
-            "size",
-            "from",
-            "another",
-            "term;",
-            "dim"
-        ],
-        "m": "diminutive; derives a term of lesser intensity or size from another term; dim"
-    },
-    {
         "t": "’iqaca",
         "l": "High Lulani",
         "p": [
@@ -1091,19 +1132,6 @@
         "m": "reality; truly; really; actually; literally"
     },
     {
-        "t": "-ilu",
-        "l": "High Lulani",
-        "p": [
-            "inflectional",
-            "suffix"
-        ],
-        "d": [
-            "passive;",
-            "psv"
-        ],
-        "m": "passive; psv"
-    },
-    {
         "t": "’ilu",
         "l": "High Lulani",
         "p": [
@@ -1118,18 +1146,6 @@
         "m": "heart; emotional body"
     },
     {
-        "t": "-illu",
-        "l": "High Lulani",
-        "p": [
-            "derivational",
-            "suffix"
-        ],
-        "d": [
-            "passive"
-        ],
-        "m": "passive"
-    },
-    {
         "t": "-’illu",
         "l": "High Lulani",
         "p": [
@@ -1140,22 +1156,6 @@
             "passive"
         ],
         "m": "passive"
-    },
-    {
-        "t": "Irìa",
-        "l": "English",
-        "p": [
-            "proper",
-            "noun"
-        ],
-        "d": [
-            "the",
-            "capital",
-            "city",
-            "of",
-            "Brequé"
-        ],
-        "m": "the capital city of Brequé"
     },
     {
         "t": "ʔirri’a",
@@ -9358,9 +9358,39 @@
         "m": "gate"
     },
     {
+        "t": "gufu’i",
+        "l": "High Lulani",
+        "p": [
+            "abstract",
+            "derived",
+            "compound",
+            "noun"
+        ],
+        "d": [
+            "radio",
+            "transmission"
+        ],
+        "m": "radio transmission"
+    },
+    {
         "t": "gufu’iri",
         "l": "High Lulani",
         "p": [
+            "derived",
+            "animate",
+            "noun"
+        ],
+        "d": [
+            "radio",
+            "operator"
+        ],
+        "m": "radio operator"
+    },
+    {
+        "t": "gufu’iri",
+        "l": "High Lulani",
+        "p": [
+            "derived",
             "inanimate",
             "noun"
         ],
@@ -9371,17 +9401,13 @@
         "m": "radio receiver"
     },
     {
-        "t": "gufu’iribuma",
+        "t": "gufubumaki",
         "l": "High Lulani",
-        "p": [
-            "inanimate",
-            "compound",
-            "noun"
-        ],
+        "p": [],
         "d": [
-            "television"
+            ""
         ],
-        "m": "television"
+        "m": ""
     },
     {
         "t": "gusu",
