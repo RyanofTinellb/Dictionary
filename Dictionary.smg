@@ -92,23 +92,5 @@
     [
       "laffi"
     ]
-  ],
-  "files": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/dictionary/data.src",
-    "searchindex": "c:/users/Ryan/tinellbianlanguages/dictionary/searching.json",
-    "template_file": "c:/users/Ryan/tinellbianlanguages/dictionary/template.html",
-    "wholepage": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholetemplate.html",
-      "file": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.html"
-    },
-    "search": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/searchtemplate.html",
-      "template404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404template.html",
-      "page": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.html",
-      "page404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.html",
-      "index": "C:/Users/Ryan/TinellbianLanguages/dictionary/searching.json"
-    },
-    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
-    "sections": {}
-  }
+  ]
 }
