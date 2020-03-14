@@ -1,98 +1,487 @@
-<!DOCTYPE html>
-</link><link> | </link>:<link> | <br>
-</link>&nbsp;<high-lulani> | </link> <high-lulani> | <br>
-</high-lulani>&nbsp;<em> | </high-lulani> <em> | </em><br>
-</high-lulani>&nbsp;<small-caps> | </high-lulani> <small-caps> | <br>
-[d pronunciation]\n<a | [p | <br>
-href="http://grammar.tinellb.com/highlulani/phonology/index.html"> | hl] | <br>
-href="http://grammar.tinellb.com/demoticlulani/phonology.html"> | dl] | <br>
-href="https://en.wikipedia.org/wiki/Help:IPA#kf"> | kf] | <br>
-href="https://en.wikipedia.org/wiki/Help:IPA#mt"> | mt] | <br>
-href="https://en.wikipedia.org/wiki/Help:IPA#cz"> | cz] | <br>
-href="https://en.wikipedia.org/wiki/Help:IPA/English"> | en] | <br>
-https://en.wiktionary.org/wiki/ | !wikt: | <br>
-</a>[/d] | [/p] | <br>
-<a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><span class="desktop">Periodic Table</span><span class="mobile">List of Elements</span></a> | hl:List of Elements | <br>
-<a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship Terms</a> | *hl:kinship* | <br>
-<a href="../search.html?term=animal">List of Animals</a> | *animals* | <br>
-<a href="../search.html?term=geology">Geological Terms</a> | *geology* | <br>
-<a href="../search.html?term=plant">List of Plants</a> | *plants* | <br>
-<a href="../search.html?term=bodypart">Other Parts of the Body</a> | *bodyparts* | <br>
-<a href="../search.html?term=substance">Other Substances</a> | *substances* | <br>
-<a href="../search.html?term=food">Food and Drink</a> | *foods* | <br>
-<a href=" | {{ | <br>
-<span class="note"> | <note> | <br>
-</span> | </> | <br>
-"> | <> | <br>
-</a> | }} | <br>
-hl:List of Elements\n[e] *substances* | *hl:elements* | <br>
-[d wordlist] | [[w | <br>
-[d folding] | [[f | <br>
-[/d] | ]] | <br>
-' | &quot; | <br>
-" | &dquot; | <br>
-= | &eqls; | <br>
-( | &lparen; | <br>
-) | &rparen; | <br>
-’ | ' | s
-‘ | ` | s
-” | " | s
-“ | '" | s
-ʔ | '' | s
-ˈ | =' | s
-ˌ | _' | s
-ː | :: | s
-á | (a | s
-à | )a | s
-ç | ,c | s
-ð | (d | s
-ə | !e | s
-è | )e | s
-é | (e | s
-ê | ()e | s
-ɛ | =e | s
-ŋ | ,g | s
-ʰ | +h | s
-ʱ | ++h | s
-ì | )i | s
-í | (i | s
-ɨ | =i | s
-ɪ | __i | s
-ɟ | =j | s
-ʎ | %l | s
-ɲ | ,n | s
-ɒ | __o | s
-ɔ | +o | s
-ɽ | %r | s
-ɹ | ^r | s
-ʃ | %s | s
-Ṭ | )T | s
-ṭ | )t | s
-ü | !u | s
-û | ()u | s
-ɯ | ^u | s
-ʊ | __u | s
-ʉ | =u | s
-ʌ | ^v | s
-> ɕ | ,x | s
-ʑ | ,z | s
-ʒ | =z | s
-ž | )(z | s
-→ | ==> | s
-· | .. | s
-～ | ~ | s
-&lparen; | \( | <br>
-&rparen; | )/ | <br>
-<br> |  //  | <br>
-d native-script]\n | script:  | <br>
-d definition]\n | def:  | <br>
-<overline>1</overline> | &rone; | <br>
-<overline>2</overline> | &rwo; | <br>
-<overline>3</overline> | &ree; | <br>
-<overline>4</overline> | &rour; | <br>
-<overline>5</overline> | &rive; | <br>
-<overline>6</overline> | &rix; | <br>
-<overline>7</overline> | &reven; | <br>
-mathematics cardinal number numeral particle | <cardinal> | <br>
-animate derived possessive kinship noun | <kinship> | <br>
-&eqls; | = | <br>
+[
+  {
+    "markup": "</link><link>",
+    "markdown": "</link>:<link>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</link>&nbsp;<high-lulani>",
+    "markdown": "</link> <high-lulani>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</high-lulani>&nbsp;<em>",
+    "markdown": "</high-lulani> <em>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</high-lulani>&nbsp;<small-caps>",
+    "markdown": "</high-lulani> <small-caps>",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d pronunciation]\n<a",
+    "markdown": "[p",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"http://grammar.tinellb.com/highlulani/phonology/index.html\">",
+    "markdown": "hl]",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"http://grammar.tinellb.com/demoticlulani/phonology.html\">",
+    "markdown": "dl]",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"https://en.wikipedia.org/wiki/Help:IPA#kf\">",
+    "markdown": "kf]",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"https://en.wikipedia.org/wiki/Help:IPA#mt\">",
+    "markdown": "mt]",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"https://en.wikipedia.org/wiki/Help:IPA#cz\">",
+    "markdown": "cz]",
+    "display_markdown": false
+  },
+  {
+    "markup": "href=\"https://en.wikipedia.org/wiki/Help:IPA/English\">",
+    "markdown": "en]",
+    "display_markdown": false
+  },
+  {
+    "markup": "https://en.wiktionary.org/wiki/",
+    "markdown": "!wikt:",
+    "display_markdown": false
+  },
+  {
+    "markup": "</a>[/d]",
+    "markdown": "[/p]",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"http://grammar.tinellb.com/highlulani/apocrypha/elements.html\"><span class=\"desktop\">Periodic Table</span><span class=\"mobile\">List of Elements</span></a>",
+    "markdown": "hl:List of Elements",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"http://grammar.tinellb.com/highlulani/apocrypha/kinship.html\">Kinship Terms</a>",
+    "markdown": "*hl:kinship*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=animal\">List of Animals</a>",
+    "markdown": "*animals*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=geology\">Geological Terms</a>",
+    "markdown": "*geology*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=plant\">List of Plants</a>",
+    "markdown": "*plants*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=bodypart\">Other Parts of the Body</a>",
+    "markdown": "*bodyparts*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=substance\">Other Substances</a>",
+    "markdown": "*substances*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"../search.html?term=food\">Food and Drink</a>",
+    "markdown": "*foods*",
+    "display_markdown": false
+  },
+  {
+    "markup": "<a href=\"",
+    "markdown": "{{",
+    "display_markdown": false
+  },
+  {
+    "markup": "<span class=\"note\">",
+    "markdown": "<note>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</span>",
+    "markdown": "</>",
+    "display_markdown": false
+  },
+  {
+    "markup": "\">",
+    "markdown": "<>",
+    "display_markdown": false
+  },
+  {
+    "markup": "</a>",
+    "markdown": "}}",
+    "display_markdown": false
+  },
+  {
+    "markup": "hl:List of Elements\n[e] *substances*",
+    "markdown": "*hl:elements*",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d wordlist]",
+    "markdown": "[[w",
+    "display_markdown": false
+  },
+  {
+    "markup": "[d folding]",
+    "markdown": "[[f",
+    "display_markdown": false
+  },
+  {
+    "markup": "[/d]",
+    "markdown": "]]",
+    "display_markdown": false
+  },
+  {
+    "markup": "'",
+    "markdown": "&quot;",
+    "display_markdown": false
+  },
+  {
+    "markup": "\"",
+    "markdown": "&dquot;",
+    "display_markdown": false
+  },
+  {
+    "markup": "=",
+    "markdown": "&eqls;",
+    "display_markdown": false
+  },
+  {
+    "markup": "(",
+    "markdown": "&lparen;",
+    "display_markdown": false
+  },
+  {
+    "markup": ")",
+    "markdown": "&rparen;",
+    "display_markdown": false
+  },
+  {
+    "markup": "’",
+    "markdown": "'",
+    "display_markdown": true
+  },
+  {
+    "markup": "‘",
+    "markdown": "`",
+    "display_markdown": true
+  },
+  {
+    "markup": "”",
+    "markdown": "\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "“",
+    "markdown": "'\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʔ",
+    "markdown": "''",
+    "display_markdown": true
+  },
+  {
+    "markup": "ˈ",
+    "markdown": "='",
+    "display_markdown": true
+  },
+  {
+    "markup": "ˌ",
+    "markdown": "_'",
+    "display_markdown": true
+  },
+  {
+    "markup": "ː",
+    "markdown": "::",
+    "display_markdown": true
+  },
+  {
+    "markup": "á",
+    "markdown": "(a",
+    "display_markdown": true
+  },
+  {
+    "markup": "à",
+    "markdown": ")a",
+    "display_markdown": true
+  },
+  {
+    "markup": "ç",
+    "markdown": ",c",
+    "display_markdown": true
+  },
+  {
+    "markup": "ð",
+    "markdown": "(d",
+    "display_markdown": true
+  },
+  {
+    "markup": "ə",
+    "markdown": "!e",
+    "display_markdown": true
+  },
+  {
+    "markup": "è",
+    "markdown": ")e",
+    "display_markdown": true
+  },
+  {
+    "markup": "é",
+    "markdown": "(e",
+    "display_markdown": true
+  },
+  {
+    "markup": "ê",
+    "markdown": "()e",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɛ",
+    "markdown": "=e",
+    "display_markdown": true
+  },
+  {
+    "markup": "ŋ",
+    "markdown": ",g",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʰ",
+    "markdown": "+h",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʱ",
+    "markdown": "++h",
+    "display_markdown": true
+  },
+  {
+    "markup": "ì",
+    "markdown": ")i",
+    "display_markdown": true
+  },
+  {
+    "markup": "í",
+    "markdown": "(i",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɨ",
+    "markdown": "=i",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɪ",
+    "markdown": "__i",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɟ",
+    "markdown": "=j",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʎ",
+    "markdown": "%l",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɲ",
+    "markdown": ",n",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɒ",
+    "markdown": "__o",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɔ",
+    "markdown": "+o",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɽ",
+    "markdown": "%r",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɹ",
+    "markdown": "^r",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʃ",
+    "markdown": "%s",
+    "display_markdown": true
+  },
+  {
+    "markup": "Ṭ",
+    "markdown": ")T",
+    "display_markdown": true
+  },
+  {
+    "markup": "ṭ",
+    "markdown": ")t",
+    "display_markdown": true
+  },
+  {
+    "markup": "ü",
+    "markdown": "!u",
+    "display_markdown": true
+  },
+  {
+    "markup": "û",
+    "markdown": "()u",
+    "display_markdown": true
+  },
+  {
+    "markup": "ɯ",
+    "markdown": "^u",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʊ",
+    "markdown": "__u",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʉ",
+    "markdown": "=u",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʌ",
+    "markdown": "^v",
+    "display_markdown": true
+  },
+  {
+    "markup": "> ɕ",
+    "markdown": ",x",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʑ",
+    "markdown": ",z",
+    "display_markdown": true
+  },
+  {
+    "markup": "ʒ",
+    "markdown": "=z",
+    "display_markdown": true
+  },
+  {
+    "markup": "ž",
+    "markdown": ")(z",
+    "display_markdown": true
+  },
+  {
+    "markup": "→",
+    "markdown": "==>",
+    "display_markdown": true
+  },
+  {
+    "markup": "·",
+    "markdown": "..",
+    "display_markdown": true
+  },
+  {
+    "markup": "～",
+    "markdown": "~",
+    "display_markdown": true
+  },
+  {
+    "markup": "&lparen;",
+    "markdown": "\\(",
+    "display_markdown": false
+  },
+  {
+    "markup": "&rparen;",
+    "markdown": ")/",
+    "display_markdown": false
+  },
+  {
+    "markup": "<br>",
+    "markdown": " // ",
+    "display_markdown": false
+  },
+  {
+    "markup": "d native-script]\n",
+    "markdown": "script: ",
+    "display_markdown": false
+  },
+  {
+    "markup": "d definition]\n",
+    "markdown": "def: ",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>1</overline>",
+    "markdown": "&rone;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>2</overline>",
+    "markdown": "&rwo;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>3</overline>",
+    "markdown": "&ree;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>4</overline>",
+    "markdown": "&rour;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>5</overline>",
+    "markdown": "&rive;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>6</overline>",
+    "markdown": "&rix;",
+    "display_markdown": false
+  },
+  {
+    "markup": "<overline>7</overline>",
+    "markdown": "&reven;",
+    "display_markdown": false
+  },
+  {
+    "markup": "mathematics cardinal number numeral particle",
+    "markdown": "<cardinal>",
+    "display_markdown": false
+  },
+  {
+    "markup": "animate derived possessive kinship noun",
+    "markdown": "<kinship>",
+    "display_markdown": false
+  },
+  {
+    "markup": "&eqls;",
+    "markdown": "=",
+    "display_markdown": false
+  }
+]

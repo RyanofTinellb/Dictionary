@@ -1,139 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <title>
-        fara - The Tinellbian Languages Dictionary
-    </title>
-    <link rel="stylesheet" type="text/css" href="../basic_style.css">
-<link rel="stylesheet" type="text/css" href="../style.css">
- <link rel="icon" type="image/png" href="../favicon.png">
-     <script type="text/javascript">
-let href = window.location.href;
-if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-    window.location.href = `../search.html?${term}&andOr=and`;
-}
-</script>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <title>
+            fara - The Tinellbian Languages Dictionary
+        </title>
+        <link rel="stylesheet" type="text/css" href="../basic_style.css">
+        <link rel="stylesheet" type="text/css" href="../style.css">
+        <link rel="icon" type="image/png" href="../favicon.png">
+        <script type="text/javascript">
+            let href = window.location.href;
+            if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
+                let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+                window.location.href = `../search.html?${term}&andOr=and`;
+            }
+        </script>
+        <script src="../search.js" charset="utf-8"></script>
+        <script src="../word_search.js" charset="utf-8"></script>
+    </head>
 
-    <script src="../search.js" charset="utf-8"></script>
-    <script src="../word_search.js" charset="utf-8"></script>
-</head>
-
-<body>
-    <div class="flex">
-        <div class="nav-pane">
-            <label>
-  <input type="checkbox" class="menu">
-  <ul>
-  <li><a href="../index.html">Dictionary</a></li>
-    <div class="javascript">
-      <form id="search">
-        <li class="search">
-          <input type="text" name="term">
-          <button type="submit">Search</button>
-        </li>
-      </form>
-    </div>
-   <div class="links">  <ul>
-<li><a href="../a/index.html">A</a></li>
-<li><a href="../i/index.html">I</a></li>
-<li><a href="../u/index.html">U</a></li>
-<li><a href="../w/index.html">W</a></li>
-<li><a href="../p/index.html">P</a></li>
-<li><a href="../b/index.html">B</a></li>
-<li><a href="../t/index.html">T</a></li>
-<li><a href="../d/index.html">D</a></li>
-<li><a href="../c/index.html">C</a></li>
-<li><a href="../j/index.html">J</a></li>
-<li><a href="../k/index.html">K</a></li>
-<li><a href="../g/index.html">G</a></li>
-<li><a href="../m/index.html">M</a></li>
-<li><a href="../n/index.html">N</a></li>
-<li><a href="../q/index.html">Q</a></li>
-<li><a href="../l/index.html">L</a></li>
-<li><a href="../r/index.html">R</a></li>
-<li><a href="index.html">F</a></li>
-<li><a href="../s/index.html">S</a></li>
-<li><a href="../z/index.html">Z</a></li>
-<li><a href="../x/index.html">X</a></li>
-<li><a href="../h/index.html">H</a></li>
-</ul>   </div></ul></label>
-            <div class="javascript">
-                <div class="random">
-                    <a href="../random_entry.html">Random Entry</a>
+    <body>
+        <div class="flex">
+            <div class="nav-pane">
+                <label>
+                    <input type="checkbox" class="menu">
+                    <ul>
+                        <li><a href="../index.html">Dictionary</a></li>
+                        <div class="javascript">
+                            <form id="search">
+                                <li class="search">
+                                    <input type="text" name="term">
+                                    <button type="submit">Search</button>
+                                </li>
+                            </form>
+                        </div>
+                        <div class="links">
+                            <ul>
+                                <li><a href="../a/index.html">A</a></li>
+                                <li><a href="../i/index.html">I</a></li>
+                                <li><a href="../u/index.html">U</a></li>
+                                <li><a href="../w/index.html">W</a></li>
+                                <li><a href="../p/index.html">P</a></li>
+                                <li><a href="../b/index.html">B</a></li>
+                                <li><a href="../t/index.html">T</a></li>
+                                <li><a href="../d/index.html">D</a></li>
+                                <li><a href="../c/index.html">C</a></li>
+                                <li><a href="../j/index.html">J</a></li>
+                                <li><a href="../k/index.html">K</a></li>
+                                <li><a href="../g/index.html">G</a></li>
+                                <li><a href="../m/index.html">M</a></li>
+                                <li><a href="../n/index.html">N</a></li>
+                                <li><a href="../q/index.html">Q</a></li>
+                                <li><a href="../l/index.html">L</a></li>
+                                <li><a href="../r/index.html">R</a></li>
+                                <li><a href="index.html">F</a></li>
+                                <li><a href="../s/index.html">S</a></li>
+                                <li><a href="../z/index.html">Z</a></li>
+                                <li><a href="../x/index.html">X</a></li>
+                                <li><a href="../h/index.html">H</a></li>
+                            </ul>
+                        </div>
+                    </ul>
+                </label>
+                <div class="javascript">
+                    <div class="random">
+                        <a href="../random_entry.html">Random Entry</a>
+                    </div>
+                </div>
+            </div>
+            <div class="content">
+                <h1 id="fara">fara</h1>
+                <div class="main-contents">
+                    <h2 id="highlulani">High Lulani</h2>
+                    <div class="native-script">
+                        <p>
+                            <span class="tinellbian" lang="x-tlb-hl">>fr</span>
+                        </p>
+                    </div>
+                    <div class="pronunciation">
+                        <p><a href="http://grammar.tinellb.com/highlulani/phonology/index.html">
+                                <ipa>/ˈfaɽə/</ipa>
+                            </a></p>
+                    </div>
+                    <h3 id="abstractnoun"><a
+                            href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun">abstract</a>
+                        <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a></h3>
+                    <div class="definition">
+                        <p><a href="../s/subtle.html#highlulani">subtle</a> planes</p>
+                    </div>
+                    <h4 id="seealso">See Also</h4>
+                    <div class="wordlist">
+                        <div class="example">
+                            <p><a href="../c/cussa.html#highlulani">cussa</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>y;s</span>
+                                &nbsp;<span class="definition">psyche</span></p>
+                            <p>
+                                <a href="../n/naludu.html#highlulani">naludu</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>nWE</span>
+                                &nbsp;<span class="definition">physical plane</span></p>
+                        </div>
+                        <div class="example">
+                            <p><a href="../r/ruci.html#highlulani">ruci</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>wC</span>
+                                &nbsp;<span class="definition">mental plane</span></p>
+                            <p><a href="../n/nada.html#highlulani">nada</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>nd</span>
+                                &nbsp;<span class="definition">emotional plane</span></p>
+                            <p><a href="../a/’aka.html#highlulani">’aka</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>ak</span>
+                                &nbsp;<span class="definition">spiritual plane</span></p>
+                        </div>
+                    </div>
+                    <h4 id="hypernym">Hypernym</h4>
+                    <div class="wordlist">
+                        <div class="example">
+                            <p><a href="../a/’anni.html#highlulani">’anni</a>&nbsp;<span class="tinellbian"
+                                    lang="x-tlb-hl">>a;N</span>
+                                &nbsp;<span class="definition">plane</span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="javascript">
+                    <input type="text" name="search" id="wordsearch"
+                        onKeyDown="if (event.keyCode == 13) {wordsearch()}">
+                    <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
+                </div>
+                <br>
+                <div class="copyright">
+                    <span class="no-breaks">
+                        &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
+                    </span>
+                    <span class="no-breaks">
+                        Last updated: Sunday, May 12th, 2019.
+                    </span>
                 </div>
             </div>
         </div>
-        <div class="content">
-            <h1 id="fara">fara</h1>
+        <script type="text/javascript">
+            for (elt of document.getElementsByClassName('javascript')) {
+                elt.style.display = "block";
+            }
+        </script>
+    </body>
 
-            <div class="main-contents"><h2 id="highlulani">High Lulani</h2>
-
-
-<div class="native-script">
-<p><high-lulani>fr</high-lulani></p>
-</div>
-
-<div class="pronunciation">
-<p><a href="http://grammar.tinellb.com/highlulani/phonology/index.html"><ipa>/ˈfaɽə/</ipa></a></p>
-</div>
-
-<h3 id="abstractnoun"><a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html#abstractnoun">abstract</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns.html">noun</a></h3>
-
-
-<div class="definition">
-<p><a href="../s/subtle.html#highlulani">subtle</a> planes</p>
-</div>
-
-<h4 id="seealso">See Also</h4>
-
-
-<div class="wordlist">
-
-<p class="example">
-<a href="../c/cussa.html#highlulani">cussa</a>&nbsp;<high-lulani>y;s</high-lulani>&nbsp;<em>psyche</em></p>
-<p class="example">
-<a href="../n/naludu.html#highlulani">naludu</a>&nbsp;<high-lulani>nWE</high-lulani>&nbsp;<em>physical plane</em></p>
-<p class="example_no_lines">
-<a href="../r/ruci.html#highlulani">ruci</a>&nbsp;<high-lulani>wC</high-lulani>&nbsp;<em>mental plane</em></p>
-<p class="example_no_lines">
-<a href="../n/nada.html#highlulani">nada</a>&nbsp;<high-lulani>nd</high-lulani>&nbsp;<em>emotional plane</em></p>
-<p class="example_no_lines">
-<a href="../a/’aka.html#highlulani">’aka</a>&nbsp;<high-lulani>ak</high-lulani>&nbsp;<em>spiritual plane</em></p>
-</div>
-
-<h4 id="hypernym">Hypernym</h4>
-
-
-<div class="wordlist">
-
-<p class="example">
-<a href="../a/’anni.html#highlulani">’anni</a>&nbsp;<high-lulani>a;N</high-lulani>&nbsp;<em>plane</em></p>
-</div>
-</div>
-            <div class="javascript">
-                <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
-                <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
-            </div>
-            
-            <br>
-            <div class="copyright">
-                <span class="no-breaks">
-                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>. 
-                </span>
-                <span class="no-breaks">
-                    Last updated: Sunday, May 12th, 2019.
-                </span>
-            </div>
-        </div>
-    </div>
-    <script type="text/javascript">
-        for (elt of document.getElementsByClassName('javascript')) {
-            elt.style.display = "block";
-        }
-    </script>
-    
-</body>
+</html>
