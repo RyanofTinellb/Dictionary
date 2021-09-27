@@ -1,62 +1,62 @@
 {
-    "site": {
-        "files": {
-            "source": "C:/Users/Ryan/TinellbianLanguages/dictionary/data.src",
-            "searchindex": "c:/users/Ryan/tinellbianlanguages/dictionary/searching.json",
-            "template_file": "c:/users/Ryan/tinellbianlanguages/dictionary/page.tpl",
-            "wholepage": {
-                "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.tpl",
-                "file": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.html"
-            },
-            "search": {
-                "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.tpl",
-                "template404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.tpl",
-                "page": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.html",
-                "page404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.html",
-                "index": "C:/Users/Ryan/TinellbianLanguages/dictionary/searching.json"
-            },
-            "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
-            "sections": {}
-        },
-        "directory": "C:/Users/Ryan/TinellbianLanguages/dictionary/lex",
-        "name": "Dictionary"
+  "site": {
+    "directory": "C:/Users/Ryan/TinellbianLanguages/dictionary",
+    "name": "Dictionary"
+  },
+  "language": "hl: High Lulani",
+  "sample texts": "",
+  "markdown": "",
+  "links": {
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
+    "InternalDictionary": "",
+    "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/links.glk"
+  },
+  "styles": {
+    "default": {
+      "end": "\n",
+      "font": "Times New Roman",
+      "size": 13,
+      "block": "default"
     },
-    "language": "hl: High Lulani",
-    "sample texts": "",
-    "markdown": "",
-    "links": {
-        "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
-        "InternalDictionary": "",
-        "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/links.glk"
+    "abbr": {
+      "font": "Alegreya SC"
     },
-    "styles": {
-        "default": {
-            "end": "\n",
-            "font": "Times New Roman",
-            "size": 13,
-            "block": "default"
-        },
-        "abbr": {
-            "font": "Alegreya SC"
-        },
-        "h1": {
-            "font": "Candara Light"
-        },
-        "link": {
-            "key": "N",
-            "underline": true,
-            "colour": "#0080ff",
-            "language": true,
-            "block": "disabled"
-        },
-        "also": {
-            "block": ""
-        }
+    "h1": {
+      "font": "Candara Light"
     },
-    "entries": [
-        [
-            "A",
-            "’aba"
-        ]
+    "link": {
+      "key": "N",
+      "underline": true,
+      "colour": "#0080ff",
+      "language": true,
+      "block": "disabled"
+    },
+    "also": {
+      "block": ""
+    }
+  },
+  "entries": [
+    [
+      "A",
+      "’aba"
     ]
+  ],
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/dictionary/data.src",
+    "searchindex": "c:/users/Ryan/tinellbianlanguages/dictionary/searching.json",
+    "main_template": "c:/users/Ryan/tinellbianlanguages/dictionary/page.tpl",
+    "wholepage": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.tpl",
+      "file": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.html"
+    },
+    "search": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.tpl",
+      "template404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.tpl",
+      "page": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.html",
+      "page404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.html",
+      "index": "C:/Users/Ryan/TinellbianLanguages/dictionary/searching.json"
+    },
+    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+    "sections": {}
+  }
 }
