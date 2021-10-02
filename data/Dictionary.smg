@@ -1,15 +1,8 @@
 {
-  "site": {
-    "directory": "C:/Users/Ryan/TinellbianLanguages/dictionary",
-    "name": "Dictionary"
-  },
   "language": "hl: High Lulani",
-  "sample texts": "",
-  "markdown": "",
   "links": {
-    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/glossary.gls",
-    "InternalDictionary": "",
-    "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/links.glk"
+    "Glossary": "C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls",
+    "ExternalGrammar": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/assets/links.glk"
   },
   "styles": {
     "default": {
@@ -31,9 +24,7 @@
       "language": true,
       "block": "disabled"
     },
-    "also": {
-      "block": ""
-    }
+    "also": {}
   },
   "entries": [
     [
@@ -41,22 +32,22 @@
       "’aba"
     ]
   ],
-  "files": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/dictionary/data.src",
-    "searchindex": "c:/users/Ryan/tinellbianlanguages/dictionary/searching.json",
-    "main_template": "c:/users/Ryan/tinellbianlanguages/dictionary/page.tpl",
-    "wholepage": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.tpl",
-      "file": "C:/Users/Ryan/TinellbianLanguages/dictionary/wholepage.html"
-    },
-    "search": {
-      "template": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.tpl",
-      "template404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.tpl",
-      "page": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.html",
-      "page404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.html",
-      "index": "C:/Users/Ryan/TinellbianLanguages/dictionary/searching.json"
-    },
-    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/wordlist.json",
+  "assets": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/data.src",
+    "searchindex": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/searching.json",
+    "wordlist": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/assets/wordlist.json"
+  },
+  "templates": {
+    "main": "c:/users/Ryan/tinellbianlanguages/dictionary/data/templates/page.tpl",
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/wholepage.tpl",
+    "search": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/search.tpl",
+    "search404": "C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/404.tpl",
     "sections": {}
-  }
+  },
+  "locations": {
+    "wholepage": "C:/Users/Ryan/TinellbianLanguages/dictionary/special/wholepage.html",
+    "search": "C:/Users/Ryan/TinellbianLanguages/dictionary/search.html",
+    "search404": "C:/Users/Ryan/TinellbianLanguages/dictionary/404.html"
+  },
+  "markdown": ""
 }
