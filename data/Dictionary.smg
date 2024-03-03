@@ -3,21 +3,26 @@ assets:
   source: C:/Users/Ryan/TinellbianLanguages/dictionary/data/data.src
   wordlist: C:/Users/Ryan/TinellbianLanguages/dictionary/data/assets/wordlist.json
 entries:
-- - A
-  - "\u2019aba"
+- - muli
 language: 'hl: High Lulani'
 links:
   ExternalGrammar: C:/Users/Ryan/TinellbianLanguages/dictionary/data/assets/links.glk
   Glossary: C:/Users/Ryan/TinellbianLanguages/grammar/data/assets/glossary.gls
 locations:
   search: C:/Users/Ryan/TinellbianLanguages/dictionary/search.html
-  search404: C:/Users/Ryan/TinellbianLanguages/dictionary/404.html
+  page404: C:/Users/Ryan/TinellbianLanguages/dictionary/404.html
   wholepage: C:/Users/Ryan/TinellbianLanguages/dictionary/special/wholepage.html
+  directory: c:/users/ryan/tinellbianlanguages/dictionary
 markdown: ''
 styles: C:/Users/Ryan/TinellbianLanguages/dictionary/data/assets/styles.tag
 templates:
   main: c:/users/Ryan/tinellbianlanguages/dictionary/data/templates/page.tpl
-  search: C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/search.tpl
-  search404: C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/404.tpl
-  sections: {}
+  page404: C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/404.tpl
   wholepage: C:/Users/Ryan/TinellbianLanguages/dictionary/data/templates/wholepage.tpl
+  search: ''
+  sections:
+    copyright: c:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/copyright.tpl
+    family links: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/family_links.tpl
+    highlight search term: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/highlight_search_term.tpl
+    search script: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/seach_script.tpl
+    show javascript: C:/Users/Ryan/TinellbianLanguages/toplevel/data/templates/show_javascipt.tpl
