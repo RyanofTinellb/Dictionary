@@ -14,7 +14,6 @@ entries:
     position: '1.0'
     children:
       lex:
-        text: []
         children:
           ’a:
             date: '2018-03-27'
