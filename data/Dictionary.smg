@@ -23,8 +23,9 @@ templates:
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
   search: ''
   sections:
-    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
+    copyright: c:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+    navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl

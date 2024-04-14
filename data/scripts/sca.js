@@ -1,6 +1,6 @@
 let chanceBox;
 let chain;
-let mutigraphs;
+let multigraphs;
 let debug;
 let linenumber = 297;
 const firstNullChar = 200;
