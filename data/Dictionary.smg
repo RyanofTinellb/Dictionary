@@ -5,7 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ta
+  - matirra
 language: 'hl: High Lulani'
 links:
   ExternalGrammar: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
@@ -29,3 +29,4 @@ templates:
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
+port: 21478

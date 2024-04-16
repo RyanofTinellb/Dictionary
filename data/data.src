@@ -13447,18 +13447,18 @@ entries:
               - <h1>High Lulani</h1>
               - <tinellbian><native-script>た</native-script></tinellbian>
               - <ipa>http://grammar.tinellb.com/highlulani/phonology/index.html|/tʰa/</ipa>
-              - <poslink>inanimate</poslink> <poslink>noun</poslink>
+              - <h2><poslink>inanimate</poslink> <poslink>noun</poslink></h2>
               - <definition>bell</definition>
-              - <poslink>inanimate</poslink> <poslink>noun</poslink> <poslink><hidden>element</hidden></poslink>
+              - <h2><poslink>inanimate</poslink> <poslink>noun</poslink> <poslink><hidden>element</hidden></poslink></h2>
               - <definition>sulphur</definition>
               - <h3>See Also</h3>
-              - <mobile><desktop>Periodic Table</desktop>List of Elements</mobile>
+              - <desktop>Periodic Table</desktop><mobile>List of Elements</mobile>
               - <a>../search.html?term=substance|Other Substances</a>
               - ← <link>pibi</link> <tinellbian>ぴび</tinellbian> <gloss>phosphorus</gloss>
               - → <link>limma</link> <tinellbian>えっま</tinellbian> <gloss>chlorine</gloss>
               - ↑ <link>sa</link> <tinellbian>さ</tinellbian> <gloss>oxygen</gloss>
               - ↓ <link>matirra</link> <tinellbian>まてっら</tinellbian> <gloss>selenium</gloss>
-              - <h2>interjection</h2>
+              - <h2><poslink>interjection</poslink></h2>
               - <definition>well; um</definition>
               date: '2019-02-25'
               position: '1.0'

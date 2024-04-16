@@ -1,6 +1,4 @@
 default:
-  tags:
-    type: default
   props:
     font: Cambria
     size: 18
@@ -36,12 +34,18 @@ h1:
 poslink:
   tags:
     type: span
+  props:
+    underline: true
 mobile:
   tags:
-    type: div
+    type: span
+  props:
+    colour: '#ffff00'
 desktop:
   tags:
-    type: div
+    type: span
+  props:
+    colour: '#ff00ff'
 hidden:
   tags:
     type: span
@@ -57,7 +61,6 @@ h2:
     underline: true
     top: 15
     bottom: 7
-    left: 20
 h3:
   tags:
     type: heading
@@ -97,6 +100,8 @@ pronunciation:
 definition:
   tags:
     type: div
+  props:
+    left: 30
 wordlist:
   tags:
     type: div
