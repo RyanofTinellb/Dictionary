@@ -5,7 +5,7 @@ styles:
   html:
     tags:
       type: block
-      open: <html lang="en">
+      language: true
   head:
     tags:
       type: block
@@ -16,6 +16,9 @@ styles:
     tags:
       type: line
   entry-data:
+    tags:
+      type: data
+  data:
     tags:
       type: data
   link:
@@ -55,7 +58,7 @@ styles:
       type: complete
 text:
   - <!doctype>html</!doctype>
-  - <html><head><meta>name="viewport" content="width=device-width, initial-scale=1.0"</meta>
+  - <html@en><head><meta>name="viewport" content="width=device-width, initial-scale=1.0"</meta>
   - <meta>charset="utf-8"</meta>
   - <title><entry-data>name</entry-data> - The Tinellbian Languages Dictionary</title>
   - <link>rel="stylesheet" type="text/css" href="<internal-link>data, stylesheets, basic_style.css</internal-link>"</link>
@@ -69,7 +72,7 @@ text:
   - <script>src="<internal-link>data, scripts, search.js</internal-link>"</script>
   - <script>src="<internal-link>data, scripts, word_search.js</internal-link>"</script></head>
   - <body><flex><template>navigation pane</template>
-  - <content><template>contents</template>
+  - <content><data>contents</data>
   - <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if
     (event.keyCode == 13) {wordsearch()}"</input>
   - <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
@@ -77,4 +80,4 @@ text:
   - <template>copyright</template></content></flex>
   - <inline-script>
   - for (elt of document.getElementsByClassName('javascript')) {
-  - elt.style.display = "block";}</inline-script></body></html>
+  - elt.style.display = "block";}</inline-script></body></html@en>

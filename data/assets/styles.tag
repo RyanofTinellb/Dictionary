@@ -19,9 +19,11 @@ tinellbian:
   tags:
     type: span
     language: true
+    key: Alt-t
   props:
     font: tinellbian
     size: 150
+    underline: true
 h1:
   tags:
     key: KeyPress-1
@@ -89,6 +91,7 @@ a:
     open: <a href="
     pipe: '">'
     close: </a>
+    rank: -50
 native-script:
   tags:
     type: div
