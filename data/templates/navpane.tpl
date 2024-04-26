@@ -13,7 +13,7 @@ styles:
       type: block
       start: <li>
       end: </li>
-  internal-link:
+  link:
     tags:
       type: link
   javascript:
@@ -34,6 +34,10 @@ styles:
   links:
     tags:
       type: div
+  a:
+    tags:
+      open: '<a href="'
+      pipe: '">'
   toc:
     tags:
       type: data
@@ -42,8 +46,8 @@ styles:
       type: div
 text:
   - <navpane><label><input>type="checkbox" class="menu"</input>
-  - <ul><internal-link>|Dictionary</internal-link>
+  - <ul><a><link>index</link>|<strong>Dictionary</strong></a>
   - <javascript><search-form><input>type="text" name="term"</input>
   - <button>Search</button></search-form></javascript></ul>
   - <links><ul><toc>initials</toc></ul></links></label>
-  - <javascript><random><internal-link>special, random_entry|Random Entry</internal-link></random></javascript></navpane>
+  - <javascript><random><a><link>special/random_entry</link>|Random Entry</a></random></javascript></navpane>

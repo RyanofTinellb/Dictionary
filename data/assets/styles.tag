@@ -24,7 +24,16 @@ tinellbian:
     font: tinellbian
     size: 150
     underline: true
-h1:
+table:
+  tags:
+    type: table
+thead:
+  tags:
+    type: block
+tbody:
+  tags:
+    type: block
+h2:
   tags:
     key: KeyPress-1
     type: heading
@@ -54,7 +63,7 @@ hidden:
     key: h
   props:
     colour: "#999999"
-h2:
+h3:
   tags:
     type: heading
     key: KeyPress-2
@@ -63,7 +72,7 @@ h2:
     underline: true
     top: 15
     bottom: 7
-h3:
+h4:
   tags:
     type: heading
   props:

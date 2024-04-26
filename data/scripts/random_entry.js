@@ -26,7 +26,7 @@ function findInitial(text) {
 }
 
 function createUrl(text) {
-    return `${findInitial(text)}/${markdown(text)}.html`
+    return `../lex/${text}.html`
 }
 
 function sellCaps(text) {
@@ -34,7 +34,7 @@ function sellCaps(text) {
 }
 
 async function randomEntry() {
-    let data = await fetch('wordlist.json');
+    let data = await fetch('../data/assets/wordlist.json');
     data = await data.json();
 	data = Object.values(data);
     let rand = data[Math.floor(Math.random() * data.length)].t;
