@@ -15,7 +15,7 @@ function findInitial(text) {
 }
 
 function createUrl(text) {
-    return `${findInitial(text)}/${sellCaps(markdown(text))}.html`
+    return `${sellCaps(markdown(text))}.html`
 }
 
 function sellCaps(text) {
@@ -33,7 +33,7 @@ function markdown(text) {
 function wordsearch() {
     let term = search();
     if (term) {
-        window.location.href = "../" + term;
+        window.location.href = term;
     }
 }
 

@@ -33,6 +33,9 @@ thead:
 tbody:
   tags:
     type: block
+overbar:
+  tags:
+    type: span
 h2:
   tags:
     key: KeyPress-1

@@ -14,6 +14,9 @@ styles:
   br:
     tags:
       type: complete
+  param:
+    tags:
+      type: data
 text:
-  - <copyright>&copy;2017-2024 <a>http://www.tinellb.com/about.html|Ryan Eakins</a>.
-  - "Last updated: <date>date|Thursday, July 29th, 1954</date></copyright>"
+  - <copyright>&copy;2017-<param>year</param> <a>http://www.tinellb.com/about.html|Ryan Eakins</a>.
+  - "Last updated: <date>date|dddd, mmmm dr, yyyy</date></copyright>"

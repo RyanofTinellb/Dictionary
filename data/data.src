@@ -21342,3 +21342,11 @@ entries:
                 operator</gloss></block></wordlist>
               date: '2019-09-08'
               position: '14.29'
+            massive:
+              text:
+              - This is some text.
+              date: '2024-04-29'
+            mass:
+              text:
+              - This is also madd.
+              date: '2024-04-29'
