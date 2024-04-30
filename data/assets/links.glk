@@ -1,123 +1,52 @@
-url: http://grammar.tinellb.com
-languages:
-  High Lulani:
-    abstract: morphology/nouns.html#abstractnoun
-    action: morphology/verbs/transitivity.html#actionverbs
-    adjectival:
-      link: morphology/verbs/intransitivity.html#adjectivalverbs
-      not with:
-      - chromatic
-    adposition: morphology/adpositions
-    animal:
-      not with:
-      - noun
-    animate: morphology/nouns.html#animatenoun
-    ambitransitive: morphology/verbs/ambitransitivity.html
-    apparent: morphology/verbs/transitivity.html#apparentverbs
-    auxiliary: morphology/auxiliaries.html
-    bodypart:
-      not with:
-      - noun
-    cardinal: apocrypha/numbers.html#cardinalnumbers
-    case: syntax/case.html
-    chromatic: morphology/verbs/intransitivity.html#chromaticverbs
-    cisclass: morphology/suffixes/index.html#cisclasssuffixes
-    communicative: morphology/verbs/ambitransitivity.html#communicativeverbs
-    comparative: apocrypha/comparatives.html
-    conjunction: morphology/conjunctions.html
-    coordinating: morphology/conjunctions.html#coordinatingconjunctions
-    derived:
-      not with:
-      - compound
-    derivational: morphology/suffixes/index.html#derivationalsuffixes
-    determiner:
-      not with:
-      - prodeterminer
-      link: morphology/suffixes/determiners.html
-    element:
-      not with:
-      - noun
-    food:
-      not with:
-      - noun
-    generic:
-      link: morphology/suffixes/index.html#quasi-suffixes
-      not with:
-      - quasi-suffix
-    geology:
-      not with:
-      - noun
-    inanimate: morphology/nouns.html#inanimatenoun
-    indefinite: morphology/deixis/indefinitepro-forms.html
-    intransitive:
-      link: morphology/verbs/intransitivity.html
-      not with:
-      - quasi-transitive
-    kinetic: morphology/verbs/intransitivity.html#kineticverbs
-    kinship:
-      not with:
-      - noun
-    mass: morphology/nouns.html#massnouns
-    mathematics:
-      link: apocrypha/numbers.html
-      not with:
-      - cardinal
-      - numeral
-      - prefix
-    modal: morphology/adverbs.html#modals
-    motive: morphology/verbs/transitivity.html#motiveverbs
-    negative: syntax/matrixclauses/negativecomplement.html
-    noun:
-      link: morphology/nouns.html
-      not with:
-      - pronoun
-    nominalisation: morphology/suffixes/index.html#nominalisation
-    number:
-      link: apocrypha/numbers.html
-      not with:
-      - numeral
-    numeral: apocrypha/numbers.html
-    ordinal: apocrypha/numbers.html#ordinalnumbers
-    particle:
-      link: morphology/particles/index.html
-      not with:
-      - numeral
-    passive: syntax/argumentpromotion.html
-    perceptive: morphology/verbs/ambitransitivity.html#perceptiveverbs
-    personal: morphology/deixis/personalpro-forms.html
-    plant:
-      not with:
-      - noun
-    possessive: apocrypha/kinship.html#nuclearfamily
-    prodeterminer: morphology/suffixes/determiners.html
-    pro-form:
-      not with:
-      - prodeterminer
-      - pronoun
-      - pro-verb
-    pronoun: morphology/nouns.html
-    pro-verb: morphology/verbs/index.html
-    proper: morphology/nouns.html#propernouns
-    quasi-suffix: morphology/suffixes/index.html#quasi-suffixes
-    quasi-transitive: morphology/verbs/intransitivity.html#quasi-transitiveverbs
-    substance:
-      not with:
-      - noun
-    suffix: morphology/suffixes/index.html
-    symmetric: morphology/verbs/intransitivity.html#symmetricrelations
-    transclass: morphology/suffixes/index.html#transclasssuffixes
-    transformative: morphology/verbs/transitivity.html#transformativeverbs
-    transitive: morphology/verbs/transitivity.html
-    verb: morphology/verbs/index.html
-    vital: morphology/verbs/transitivity.html#vitalverbs
-  English:
-    derived:
-      not with:
-      - blend
-    mathematics:
-      not with:
-      - numeral
-      - adjective
-    number:
-      not with:
-      - numeral
+x-tlb-hl:
+  abstract: http://grammar.tinellb.com/morphology/nouns.html#abstractnoun
+  action: http://grammar.tinellb.com/morphology/verbs/transitivity.html#actionverbs
+  adjectival: http://grammar.tinellb.com/morphology/verbs/intransitivity.html#adjectivalverbs
+  adposition: http://grammar.tinellb.com/morphology/adpositions
+  animate: http://grammar.tinellb.com/morphology/nouns.html#animatenoun
+  ambitransitive: http://grammar.tinellb.com/morphology/verbs/ambitransitivity.html
+  apparent: http://grammar.tinellb.com/morphology/verbs/transitivity.html#apparentverbs
+  auxiliary: http://grammar.tinellb.com/morphology/auxiliaries.html
+  cardinal: http://grammar.tinellb.com/apocrypha/numbers.html#cardinalnumbers
+  case: http://grammar.tinellb.com/syntax/case.html
+  chromatic: http://grammar.tinellb.com/morphology/verbs/intransitivity.html#chromaticverbs
+  cisclass: http://grammar.tinellb.com/morphology/suffixes/index.html#cisclasssuffixes
+  communicative: http://grammar.tinellb.com/morphology/verbs/ambitransitivity.html#communicativeverbs
+  comparative: http://grammar.tinellb.com/apocrypha/comparatives.html
+  conjunction: http://grammar.tinellb.com/morphology/conjunctions.html
+  coordinating: http://grammar.tinellb.com/morphology/conjunctions.html#coordinatingconjunctions
+  derivational: http://grammar.tinellb.com/morphology/suffixes/index.html#derivationalsuffixes
+  determiner: http://grammar.tinellb.com/morphology/suffixes/determiners.html
+  generic: http://grammar.tinellb.com/morphology/suffixes/index.html#quasi-suffixes
+  inanimate: http://grammar.tinellb.com/morphology/nouns.html#inanimatenoun
+  indefinite: http://grammar.tinellb.com/morphology/deixis/indefinitepro-forms.html
+  intransitive: http://grammar.tinellb.com/morphology/verbs/intransitivity.html
+  kinetic: http://grammar.tinellb.com/morphology/verbs/intransitivity.html#kineticverbs
+  mass: http://grammar.tinellb.com/morphology/nouns.html#massnouns
+  mathematics: http://grammar.tinellb.com/apocrypha/numbers.html
+  modal: http://grammar.tinellb.com/morphology/adverbs.html#modals
+  motive: http://grammar.tinellb.com/morphology/verbs/transitivity.html#motiveverbs
+  negative: http://grammar.tinellb.com/syntax/matrixclauses/negativecomplement.html
+  noun: http://grammar.tinellb.com/morphology/nouns.html
+  nominalisation: http://grammar.tinellb.com/morphology/suffixes/index.html#nominalisation
+  number: http://grammar.tinellb.com/apocrypha/numbers.html
+  numeral: http://grammar.tinellb.com/apocrypha/numbers.html
+  ordinal: http://grammar.tinellb.com/apocrypha/numbers.html#ordinalnumbers
+  particle: http://grammar.tinellb.com/morphology/particles/index.html
+  passive: http://grammar.tinellb.com/syntax/argumentpromotion.html
+  perceptive: http://grammar.tinellb.com/morphology/verbs/ambitransitivity.html#perceptiveverbs
+  personal: http://grammar.tinellb.com/morphology/deixis/personalpro-forms.html
+  possessive: http://grammar.tinellb.com/apocrypha/kinship.html#nuclearfamily
+  prodeterminer: http://grammar.tinellb.com/morphology/suffixes/determiners.html
+  pronoun: http://grammar.tinellb.com/morphology/nouns.html
+  pro-verb: http://grammar.tinellb.com/morphology/verbs/index.html
+  proper: http://grammar.tinellb.com/morphology/nouns.html#propernouns
+  quasi-suffix: http://grammar.tinellb.com/morphology/suffixes/index.html#quasi-suffixes
+  quasi-transitive: http://grammar.tinellb.com/morphology/verbs/intransitivity.html#quasi-transitiveverbs
+  suffix: http://grammar.tinellb.com/morphology/suffixes/index.html
+  symmetric: http://grammar.tinellb.com/morphology/verbs/intransitivity.html#symmetricrelations
+  transclass: http://grammar.tinellb.com/morphology/suffixes/index.html#transclasssuffixes
+  transformative: http://grammar.tinellb.com/morphology/verbs/transitivity.html#transformativeverbs
+  transitive: http://grammar.tinellb.com/morphology/verbs/transitivity.html
+  verb: http://grammar.tinellb.com/morphology/verbs/index.html
+  vital: http://grammar.tinellb.com/morphology/verbs/transitivity.html#vitalverbs

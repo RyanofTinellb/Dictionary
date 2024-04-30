@@ -2,22 +2,6 @@ body {
 	font-family: sans-serif;
 }
 
-.abc {
-	padding-left: 1em;
-}
-
-.def {
-	display: none;
-}
-
-.abc:hover .def {
-	display: inline;
-}
-
-.abc:hover .ghi {
-	display: none;
-}
-
 .nav-pane {
 	min-width: 12em;
 	text-align: center;
@@ -29,7 +13,7 @@ body {
 }
 
 .nav-pane a {
-  text-decoration: none;
+	text-decoration: none;
 	color: #4444EE;
 }
 
@@ -37,7 +21,8 @@ body {
 	text-align: center;
 }
 
-.nav-pane .random:hover, .nav-pane li:hover {
+.nav-pane .random:hover,
+.nav-pane li:hover {
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -52,28 +37,30 @@ body {
 .nav-pane ul {
 	list-style-type: none;
 	list-style-position: inside;
-    text-align: center;
-    padding: 0;
+	text-align: center;
+	padding: 0;
 	line-height: 1.5;
 }
 
-.nav-pane li.normal, .nav-pane li.normal a { /* Top-level folder of current page */
+.nav-pane li.normal,
+.nav-pane li.normal a {
+	/* Top-level folder of current page */
 	font-weight: bold;
 	letter-spacing: 0;
 	text-decoration: underline;
 }
 
 .nav-pane li.link a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 .nav-pane button {
-  display: block;
-  margin: auto;
+	display: block;
+	margin: auto;
 }
 
 .nav-pane form#search {
-  margin-top: 1em;
+	margin-top: 1em;
 }
 
 .content div.toc {
@@ -92,7 +79,8 @@ body {
 	margin-top: 1em;
 }
 
-.content ul, .content ol {
+.content ul,
+.content ol {
 	margin-left: 20%;
 	margin-bottom: 0;
 }
@@ -118,11 +106,26 @@ body {
 
 .content .wordlist {
 	margin-left: 17%;
+	margin-top: 1em;
 	padding-bottom: 0.5em;
+}
+
+.content abbr.glossary {
+	font-variant: small-caps;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.content abbr.glossary::after {
+	content: "?";
+	vertical-align: super;
+	font-size: smaller;
 }
 
 .content .wordlist p {
 	margin-left: 3%;
+	margin-top: 0;
+	line-height: 1.5;
 }
 
 .content p.example_no_lines {
@@ -148,19 +151,36 @@ body {
 	height: 5em;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	margin: 0.5rem;
 }
 
-h1 { /* headword */
+h1 {
+	/* headword */
 	font-family: "gentium plus", serif;
 }
 
-h2 { /* language */
+h2 {
+	/* language */
 	font-family: andika, sans-serif;
 }
 
-.native-script p { /* Tinellbian script */
+.ipa {
+	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+.ipa strong {
+	font-weight: 900;
+	color: red;
+}
+
+.native-script p {
+	/* Tinellbian script */
 	font-size: x-large;
 	font-weight: normal;
 	margin-left: 4%;
@@ -187,7 +207,8 @@ h2 { /* language */
 	letter-spacing: 2px;
 }
 
-h3 { /* part of speech */
+h3 {
+	/* part of speech */
 	font-size: large;
 	font-family: garamond, serif;
 	margin-left: 10%;
@@ -226,29 +247,34 @@ h3 { /* part of speech */
 }
 
 
-h4 { /* subheadings */
-		font-family: sans-serif;
-		text-decoration: overline;
-		margin-left: 15%;
-		margin-top: 1em;
-		font-variant: small-caps;
-		font-family: serif;
-		font-size: large;
-		font-weight: normal;
+h4 {
+	/* subheadings */
+	font-family: sans-serif;
+	text-decoration: overline;
+	margin-left: 15%;
+	margin-top: 1em;
+	font-variant: small-caps;
+	font-family: serif;
+	font-size: large;
+	font-weight: normal;
 }
 
-.content .results ol, .content .results ul {
+.content .results ol,
+.content .results ul {
 	margin-left: 0;
 }
 
-.content p a, .content .results a {
+.content p a,
+.content .results a {
 	text-decoration: none;
 }
 
-input[type='checkbox']#chain, input[type='checkbox']#chance,
-input[type='checkbox']#multi, input[type='checkbox']#debug {
-    display: inline;
-		margin-left: 5em;
+input[type='checkbox']#chain,
+input[type='checkbox']#chance,
+input[type='checkbox']#multi,
+input[type='checkbox']#debug {
+	display: inline;
+	margin-left: 5em;
 }
 
 @media screen and (max-width: 800px) {

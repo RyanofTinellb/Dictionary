@@ -13,12 +13,16 @@ styles:
     type: link
   javascript:
     type: div
+  strong:
+    props:
+      bold: true
   search-form:
     type: block
     open: <form id="search">
     close: </form>
     start: <li class="search">
     end: </li>
+  button: {}
   submit-button:
     type: inline
     open: <button type="button">

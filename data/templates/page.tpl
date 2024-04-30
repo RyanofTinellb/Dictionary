@@ -38,7 +38,7 @@ styles:
   content:
     type: div
   javascript:
-    type: div
+    type: line
   input:
     type: complete
 text:

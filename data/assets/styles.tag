@@ -15,6 +15,13 @@ gloss:
   key: i
 table:
   type: table
+block:
+  type: div
+folding:
+  type: div
+transliteration:
+  type: span
+  language: true
 tinellbian:
   props:
     font: tinellbian
@@ -29,6 +36,18 @@ tbody:
   type: block
 overbar:
   type: span
+sup: {}
+sub: {}
+universe:
+  type: span
+note:
+  type: div
+symbol:
+  type: span
+ol:
+  type: block
+  start: <li>
+  end: </li>
 h2:
   props:
     font: Artisan Paris
@@ -41,6 +60,18 @@ poslink:
   props:
     underline: true
   type: span
+  language: true
+  open: <a href="
+  pipe: '">'
+  close: </a>
+  param: $lookup:poslink$|$text$
+  rank: -50
+glossary:
+  type: span
+  open: <dfn><abbr class="glossary" title="
+  pipe: '">'
+  close: </abbr></dfn>
+  param: $lookup:glossary$|$text$
 mobile-table:
   type: div
   open: <ul class="mobile">
@@ -81,6 +112,12 @@ ipa:
   props:
     font: Lucida Sans Unicode
   type: span
+  open: <a href="
+  pipe: '"><ipa>'
+  close: '</ipa></a>'
+  param: $lookup:ipa$|$text$
+  rank: -50
+  language: true
 link:
   props:
     underline: true
@@ -88,7 +125,7 @@ link:
   open: <a href="
   pipe: '">'
   close: </a>
-  param: $name$.html|$name$
+  param: $text$.html|$text$
   key: N
   rank: -50
   language: true
@@ -97,12 +134,19 @@ a:
   pipe: '">'
   close: </a>
   rank: -50
+strong:
+  props:
+    bold: true
 native-script:
   props:
     justification: centre
   type: div
 pronunciation:
-  type: span
+  type: div
+introduction:
+  type: div
+javascript:
+  type: div
 definition:
   props:
     left: 30
