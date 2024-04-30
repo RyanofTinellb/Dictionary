@@ -1,0 +1,328 @@
+body {
+	font-family: sans-serif;
+}
+
+nav {
+	min-width: min(20%, 12em);
+	text-align: center;
+	white-space: nowrap;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	padding-left: 0em;
+	padding-right: 1em;
+}
+
+nav a {
+	text-decoration: none;
+	color: #4444EE;
+}
+
+nav .random {
+	text-align: center;
+}
+
+nav .random:hover,
+nav li:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+nav p {
+	font-family: sans-serif;
+	margin: 0;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+nav ul {
+	list-style-type: none;
+	list-style-position: inside;
+	text-align: center;
+	padding: 0;
+	line-height: 1.5;
+}
+
+nav li.normal,
+nav li.normal a {
+	/* Top-level folder of current page */
+	font-weight: bold;
+	letter-spacing: 0;
+	text-decoration: underline;
+}
+
+nav li.link a {
+	text-decoration: none;
+}
+
+nav button {
+	display: block;
+	margin: auto;
+}
+
+nav form#search {
+	margin-top: 1em;
+}
+
+
+.content div.toc {
+	columns: 4;
+	margin-top: 1em;
+}
+
+.content div.toc p {
+	width: 25%;
+	margin: 0;
+}
+
+.content p {
+	font-family: sans-serif;
+	margin-left: 20%;
+	margin-top: 1em;
+}
+
+.content ul,
+.content ol {
+	margin-left: 20%;
+	margin-bottom: 0;
+}
+
+.content table {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+}
+
+.content table td {
+	padding: 2px 6px;
+}
+
+.content table th {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.content .also p {
+	margin-left: 5%;
+}
+
+.content .wordlist {
+	margin-left: 17%;
+	margin-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+.content abbr.glossary {
+	font-variant: small-caps;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.content abbr.glossary::after {
+	content: "?";
+	vertical-align: super;
+	font-size: smaller;
+}
+
+.content .wordlist p {
+	margin-left: 3%;
+	margin-top: 0;
+	line-height: 1.5;
+}
+
+.content p.example_no_lines {
+	margin-top: 0;
+}
+
+.content input:first-child {
+	margin-top: 2em;
+}
+
+.content textarea {
+	font-family: "Arial";
+}
+
+.content textarea#rules {
+	width: 80%;
+	height: 10em;
+	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+.content textarea#words {
+	width: 100%;
+	height: 5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0.5rem;
+}
+
+h1 {
+	/* headword */
+	font-family: "gentium plus", serif;
+}
+
+h2 {
+	/* language */
+	font-family: andika, sans-serif;
+}
+
+.ipa {
+	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
+
+.ipa strong {
+	font-weight: 900;
+	color: red;
+}
+
+.native-script p {
+	/* Tinellbian script */
+	font-size: x-large;
+	font-weight: normal;
+	margin-left: 4%;
+}
+
+.native-script p high-lulani {
+	transition-duration: 0.2s;
+}
+
+.native-script p high-lulani:hover {
+	padding: inherit;
+	font-size: 2em;
+}
+
+.content .pronunciation p {
+	margin-left: 5%;
+}
+
+.content .pronunciation a {
+	text-decoration: none;
+	color: black;
+	font-weight: normal;
+	font-size: larger;
+	letter-spacing: 2px;
+}
+
+h3 {
+	/* part of speech */
+	font-size: large;
+	font-family: garamond, serif;
+	margin-left: 10%;
+	margin-bottom: 0;
+	margin-top: 1em;
+}
+
+.content h3 a {
+	color: black;
+	text-decoration-style: dashed;
+}
+
+.content h3 a:hover {
+	text-decoration-style: dotted;
+}
+
+.content .definition p {
+	font-size: medium;
+	font-family: sans-serif;
+	font-weight: normal;
+	margin-left: 13%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.content .definition .note {
+	font-style: italic;
+}
+
+.content .definition .note::before {
+	content: "("
+}
+
+.content .definition .note::after {
+	content: ")"
+}
+
+
+h4 {
+	/* subheadings */
+	font-family: sans-serif;
+	text-decoration: overline;
+	margin-left: 15%;
+	margin-top: 1em;
+	font-variant: small-caps;
+	font-family: serif;
+	font-size: large;
+	font-weight: normal;
+}
+
+.content .results ol,
+.content .results ul {
+	margin-left: 0;
+}
+
+.content p a,
+.content .results a {
+	text-decoration: none;
+}
+
+input[type='checkbox']#chain,
+input[type='checkbox']#chance,
+input[type='checkbox']#multi,
+input[type='checkbox']#debug {
+	display: inline;
+	margin-left: 5em;
+}
+
+@media screen and (max-width: 800px) {
+	.content div.toc {
+		columns: 2;
+	}
+
+	.content div.toc p {
+		width: 50%;
+	}
+
+	input#wordsearch {
+		width: 80%;
+	}
+
+	.content div.mobile-table p:not(:first-child) {
+		display: none;
+	}
+
+	.content div.mobile-table p:first-child::before {
+		content: "(Show All)\A";
+		white-space: pre;
+		color: #5555FF;
+	}
+
+	.content div.mobile-table p:first-child::after {
+		content: " \2026";
+	}
+
+	.content div.mobile-table:hover p {
+		display: block;
+	}
+
+	.content div.mobile-table p.example_no_lines {
+		margin-left: 22%;
+	}
+
+	.content div.mobile-table:hover p:first-child::before {
+		content: "";
+	}
+
+	.content div.mobile-table:hover p:first-child::after {
+		content: "";
+	}
+
+	.content h5 a {
+		color: black;
+		text-decoration-style: dotted;
+	}
+}

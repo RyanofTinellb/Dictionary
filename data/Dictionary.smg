@@ -1,0 +1,33 @@
+assets:
+  searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\searching.json
+  source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
+  wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
+entries:
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -mi
+languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+links:
+  poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
+  glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
+  ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\phonologies.yml
+locations:
+  search: C:\Users\Ryan\TinellbianLanguages\dictionary\search.html
+  page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
+  wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\special\wholepage.html
+  directory: c:\users\ryan\tinellbianlanguages\dictionary
+markdown: ''
+styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
+templates:
+  main: c:\users\Ryan\tinellbianlanguages\dictionary\data\templates\page.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\404.tpl
+  wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
+  search: ''
+  sections:
+    copyright: c:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\copyright.tpl
+    family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
+    highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
+    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
+    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+    navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
+port: 21479
