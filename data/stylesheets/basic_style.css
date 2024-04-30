@@ -28,7 +28,7 @@ small-caps {
 
 @font-face {
   font-family: tinellb;
-  src: url('tinellb.ttf');
+  src: url('../assets/tinellb.ttf');
 }
 
 .tinellbian {

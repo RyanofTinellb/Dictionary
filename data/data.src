@@ -20559,7 +20559,7 @@ entries:
                 officer</gloss>
               - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl>
-                <hidden>pro-form</hidden> <hidden><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></hidden></h3>
+                <hidden>pro-form <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></hidden></h3>
               - <definition>any; some</definition>
               - <h4>See Also</h4>
               - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
@@ -20634,7 +20634,7 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2024-04-30'
+              date: '2024-05-01'
               position: '61.0'
             miru:
               text:
