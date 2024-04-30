@@ -7,77 +7,68 @@ abbr:
     font: Felix Titling
     size: 80
 also:
-  tags:
-    type: div
+  type: div
 gloss:
-  tags:
-    type: span
-    key: i
   props:
     italics: true
+  type: span
+  key: i
+table:
+  type: table
 tinellbian:
-  tags:
-    type: span
-    language: true
-    key: Alt-t
   props:
     font: tinellbian
     size: 150
     underline: true
-table:
-  tags:
-    type: table
+  type: span
+  language: true
+  key: Alt-t
 thead:
-  tags:
-    type: block
+  type: block
 tbody:
-  tags:
-    type: block
+  type: block
 overbar:
-  tags:
-    type: span
+  type: span
 h2:
-  tags:
-    key: KeyPress-1
-    type: heading
   props:
     font: Artisan Paris
     size: 120
     bold: true
     justification: centre
+  key: KeyPress-1
+  type: heading
 poslink:
-  tags:
-    type: span
   props:
     underline: true
+  type: span
+mobile-table:
+  type: div
+  open: <ul class="mobile">
+  close: </ul>
+  start: <li>
+  end: </li>
 mobile:
-  tags:
-    type: span
   props:
-    colour: '#ffff00'
+    colour: "#ffff00"
+  type: span
 desktop:
-  tags:
-    type: span
   props:
-    colour: '#ff00ff'
+    colour: "#ff00ff"
+  type: span
 hidden:
-  tags:
-    type: span
-    key: h
   props:
     colour: "#999999"
+  type: span
+  key: h
 h3:
-  tags:
-    type: heading
-    key: KeyPress-2
   props:
     font: Garamond
     underline: true
     top: 15
     bottom: 7
+  type: heading
+  key: KeyPress-2
 h4:
-  tags:
-    type: heading
   props:
     font: Harrington
     bold: true
@@ -85,41 +76,38 @@ h4:
     top: 15
     bottom: 15
     left: 50
+  type: heading
 ipa:
-  tags:
-    type: span
   props:
     font: Lucida Sans Unicode
+  type: span
 link:
-  tags:
-    type: data
-    key: N
-    language: true
   props:
     underline: true
     colour: "#0080ff"
+  open: <a href="
+  pipe: '">'
+  close: </a>
+  param: $name$.html|$name$
+  key: N
+  rank: -50
+  language: true
 a:
-  tags:
-    open: <a href="
-    pipe: '">'
-    close: </a>
-    rank: -50
+  open: <a href="
+  pipe: '">'
+  close: </a>
+  rank: -50
 native-script:
-  tags:
-    type: div
   props:
     justification: centre
+  type: div
 pronunciation:
-  tags:
-    type: span
+  type: span
 definition:
-  tags:
-    type: div
   props:
     left: 30
+  type: div
 wordlist:
-  tags:
-    type: div
+  type: div
 type:
-  tags:
-    type: div
+  type: div

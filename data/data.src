@@ -793,7 +793,7 @@ entries:
               date: '2018-03-29'
               text:
               - <h2>High Lulani</h2>
-              - <native-script><tinellbian@x-tlb-hl> ちも</tinellbian@x-tlb-hl></native-script>
+              - <native-script><tinellbian@x-tlb-hl>ちも</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><a>http://grammar.tinellb.com/highlulani/phonology/index.html|<ipa>/ˈcʰiŋʉ/</ipa></a></pronunciation>
               - <h3><poslink>inanimate</poslink> <poslink>noun</poslink></h3>
               - <definition>mould (for pouring, etc.)</definition>
@@ -2013,7 +2013,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | -disi//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
@@ -7827,7 +7828,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -8569,7 +8571,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -8663,13 +8666,13 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | majja / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | majja / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -8679,11 +8682,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -8693,8 +8697,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: majja <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>
                 <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -8716,7 +8719,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -8743,12 +8746,12 @@ entries:
               - h proximate | mari//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -8758,11 +8761,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -8772,7 +8776,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: mari <tinellbian@x-tlb-hl> まり</tinellbian@x-tlb-hl>'
+              - 'object noun: mari <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -8794,7 +8798,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -9062,7 +9066,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | -qa//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -9707,7 +9712,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | -ba//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
@@ -9952,8 +9958,8 @@ entries:
               - hr2 genitive |h (alienable) | <link@x-tlb-hl>pagu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱぐ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
-                | disi//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl> | -//h (inalienable)
-                | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | disi//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl> | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -10031,7 +10037,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | -disi//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
@@ -11379,7 +11386,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -11483,12 +11491,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -11498,11 +11506,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | -’aba//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl> | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
               - h existential | <link@x-tlb-hl>’umi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>
@@ -11511,8 +11520,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -11534,7 +11542,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -11570,12 +11578,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -11585,11 +11593,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | ’aba//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | ’aba//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -11599,8 +11608,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -11622,7 +11630,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -11652,12 +11660,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -11667,11 +11675,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | ’abala//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -11681,8 +11690,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -11704,7 +11712,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -11734,12 +11742,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -11749,11 +11757,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -11762,8 +11771,7 @@ entries:
                 | <link@x-tlb-hl>mituja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>
                 | ’amila//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl> |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -11785,7 +11793,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -11816,12 +11824,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -11831,11 +11839,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -11845,8 +11854,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -11868,7 +11876,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -11928,7 +11936,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -12042,17 +12051,18 @@ entries:
               - <pronunciation><a>http://grammar.tinellb.com/highlulani/phonology/index.html|<ipa>/bəˈtʰuɟə/</ipa></a></pronunciation>
               - <h3><poslink>indefinite</poslink> <poslink>pronoun</poslink></h3>
               - <definition>everywhere; universal place</definition>
-              - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
-              - h noun |h determiner
-              - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
+              - <table><thead>r2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2
+                state
+              - h noun |h determiner</thead>
+              - <tbody>h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12062,21 +12072,21 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | batuja//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
               - h existential | <link@x-tlb-hl>’umi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>mituja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
-                |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
+                |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></tbody></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12098,7 +12108,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12113,7 +12123,7 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-01-22'
+              date: '2024-04-30'
               position: '45.9'
             bi’u:
               text:
@@ -12296,12 +12306,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12310,11 +12320,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12324,8 +12335,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12347,7 +12357,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12430,12 +12440,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12445,10 +12455,11 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | -cu//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12458,8 +12469,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12481,7 +12491,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: -cu <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12498,7 +12508,7 @@ entries:
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
               date: '2019-01-22'
               position: '5.38'
-            cu’i:
+            ci’u:
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl></native-script>
@@ -12510,12 +12520,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12525,11 +12535,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | cu’i//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl> |
+              - h negative | ci’u//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl> |
                 <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12539,8 +12550,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12562,7 +12572,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: cu’i <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: ci’u <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12620,12 +12630,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12635,11 +12645,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12649,8 +12660,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12672,7 +12682,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12703,12 +12713,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12718,11 +12728,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <a>../b/buni.html#english|buni</a>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12732,8 +12743,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12755,7 +12765,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12786,7 +12796,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12800,11 +12810,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12814,8 +12825,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12837,7 +12847,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -12867,12 +12877,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | kasika//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -12882,11 +12892,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -12896,8 +12907,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -12919,7 +12929,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -13001,12 +13011,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -13016,11 +13026,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -13030,8 +13041,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -13053,7 +13063,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -13083,12 +13093,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -13098,10 +13108,11 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | qa’i//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl> | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -13111,8 +13122,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -13134,7 +13144,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: qa’i <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -13164,12 +13174,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -13178,11 +13188,12 @@ entries:
                 | <link@x-tlb-hl>satta</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | lara//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl> | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -13192,8 +13203,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -13215,7 +13225,7 @@ entries:
               - 'manner: lara <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -13260,12 +13270,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -13275,11 +13285,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -13289,8 +13300,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -13312,7 +13322,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -13342,12 +13352,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -13356,11 +13366,12 @@ entries:
                 | <link@x-tlb-hl>satta</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl>
                 | sulla//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -13370,8 +13381,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -13393,7 +13403,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -15938,7 +15948,7 @@ entries:
               - <definition>move to; there is; there exists; to be in a place</definition>
               - <h4>Example</h4>
               - <folding><block><transliteration-hl>Kimilli ra’u malu.</transliteration-hl>
-              - <tinellbian@x-tlb-hl>。きみっえ ・ らう ・ まを。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きみっえ ・ らう ・まを。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kimilli</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>malu</link@x-tlb-hl>.
               - <gloss>King <abbr>prs;sta</abbr> exist.</gloss>
@@ -16073,14 +16083,13 @@ entries:
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>dahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だひ</tinellbian@x-tlb-hl>
                 <gloss>ice</gloss>
-              - <a>../d/daxaʔa.html#english|daxaʔa</a> <tinellbian@x-tlb-hl>だざっあ</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>daxaʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だざっあ</tinellbian@x-tlb-hl>
                 <gloss>steam</gloss></block></wordlist>
               - <h4>See Also</h4>
-              - <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><desktop>Periodic
-                Table</desktop><mobile>List of Elements</mobile></a>
+              - <a><desktop>Periodic Table</desktop><mobile>List of Elements</mobile></a>
               - <a>../search.html?term=substance|Other Substances</a>
-              - <wordlist><block><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
-                ・ わら</tinellbian@x-tlb-hl> <gloss>water</gloss>
+              - <wordlist><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした・わら</tinellbian@x-tlb-hl>
+                <gloss>water</gloss>
               - <link@x-tlb-hl>xudi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずで</tinellbian@x-tlb-hl>
                 <gloss>flow of water</gloss>
               - <block><link@x-tlb-hl>’u’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>うあ</tinellbian@x-tlb-hl>
@@ -16095,7 +16104,7 @@ entries:
                 <gloss>sky</gloss>
               - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl>
                 <gloss>void</gloss></block></wordlist>
-              date: '2019-03-15'
+              date: '2024-04-30'
               position: '3.1'
             -da:
               text:
@@ -17817,10 +17826,10 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
-                | buni//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl> |c2r2 -//h universal
-                | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                | buni//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl> |c2r2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
               - h existential | <link@x-tlb-hl>’umi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>
@@ -17846,7 +17855,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: buni <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
               - 'universal:'
@@ -17931,7 +17940,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -18794,7 +18804,7 @@ entries:
               - most often used as a prefix for adverbial location clauses
               - <h4>Example</h4>
               - <folding><block><transliteration-hl>ʔusu dasi ma’adi, nara.</transliteration-hl>
-              - <tinellbian@x-tlb-hl>。うす ・ だせ ・ まあで 、 なら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす ・ だせ ・まあで 、 なら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>dasi</link@x-tlb-hl>
                 ma-<link@x-tlb-hl>’adi</link@x-tlb-hl>, <link@x-tlb-hl>nara</link@x-tlb-hl>.
               - <gloss>1<abbr>int</abbr> eat where-near, sleep.</gloss>
@@ -18836,13 +18846,13 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | -mari//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> | <link@x-tlb-hl>majja</link@x-tlb-hl>
-                / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。 まっぢ</tinellbian@x-tlb-hl>
+                / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。まっぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -18852,11 +18862,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -18866,8 +18877,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: -mari <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -18889,7 +18899,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -18918,12 +18928,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -18933,11 +18943,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -18946,8 +18957,7 @@ entries:
                 | mituja//<tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -18969,7 +18979,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -19153,12 +19163,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -19168,11 +19178,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -19182,8 +19193,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 fana//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -19205,7 +19215,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -19308,12 +19318,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -19323,11 +19333,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | saqqa//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -19337,8 +19348,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -19360,7 +19370,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: saqqa <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -19565,7 +19575,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -19723,7 +19734,8 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
+                | -
+              - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | -// | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
@@ -19864,13 +19876,13 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。 まっぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。まっぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | kadusi//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
               - h interrogative | <link@x-tlb-hl>sama</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl>
@@ -19879,11 +19891,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -19893,8 +19906,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -19916,7 +19928,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -19955,12 +19967,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -19970,11 +19982,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <a>../l/lara.html#english|lara</a>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <a>../s/saqqa.html#english|saqqa</a>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <a>../a/’abala.html#english|’abala</a>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -19984,8 +19997,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20007,7 +20019,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -20100,12 +20112,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -20115,11 +20127,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -20129,8 +20142,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20152,7 +20164,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -20193,7 +20205,7 @@ entries:
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -20203,11 +20215,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -20217,8 +20230,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20240,7 +20252,7 @@ entries:
               - 'manner: <a>../l/lara.html#english|lara</a> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <a>../s/saqqa.html#english|saqqa</a> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -20278,12 +20290,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -20293,11 +20305,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -20307,8 +20320,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20330,7 +20342,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -20359,13 +20371,13 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>majja</link@x-tlb-hl> / miru//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / miru//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -20375,11 +20387,12 @@ entries:
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -20389,8 +20402,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / miru <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20412,7 +20424,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
@@ -20427,7 +20439,7 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-06-16'
+              date: '2024-04-30'
               position: '54.2'
             -na’u:
               text:
@@ -20644,12 +20656,12 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。 まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
-                | <a>../k/kasuja.html#english|kasuja</a>//<tinellbian@x-tlb-hl> かすぢ</tinellbian@x-tlb-hl>
+                | <a>../k/kasuja.html#english|kasuja</a>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <a>../k/kalisa.html#english|kalisa</a>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <a>../k/kadusi.html#english|kadusi</a>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <a>../k/kasika.html#english|kasika</a>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
@@ -20658,11 +20670,12 @@ entries:
                 | satta//<tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl> | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
-              - h negative | <link@x-tlb-hl>cu’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+              - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>buni</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>
-                |r2c2 -//h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                |r2c2 -
+              - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
@@ -20672,8 +20685,7 @@ entries:
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>
-                まり</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
                 / <link@x-tlb-hl>miru</link@x-tlb-hl> <tinellbian@x-tlb-hl>みる</tinellbian@x-tlb-hl>'
@@ -20695,7 +20707,7 @@ entries:
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
               - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
               - 'negative:'
-              - 'object noun: <link@x-tlb-hl>cu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - 'object noun: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'object determiner: <link@x-tlb-hl>-cu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'

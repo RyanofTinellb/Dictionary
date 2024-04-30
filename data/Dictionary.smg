@@ -5,12 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’usu
+  - da
 language: 'hl: High Lulani'
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   ExternalGrammar: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
   Glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
+  InternalDictionary: true
 locations:
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\search.html
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
