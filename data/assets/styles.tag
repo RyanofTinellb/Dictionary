@@ -113,8 +113,8 @@ ipa:
     font: Lucida Sans Unicode
   type: span
   open: <a href="
-  pipe: '"><ipa>'
-  close: '</ipa></a>'
+  pipe: '"><span class="ipa">'
+  close: '</span></a>'
   param: $lookup:ipa$|$text$
   rank: -50
   language: true

@@ -2,8 +2,8 @@ body {
 	font-family: sans-serif;
 }
 
-.nav-pane {
-	min-width: 12em;
+nav {
+	min-width: min(20%, 12em);
 	text-align: center;
 	white-space: nowrap;
 	padding-top: 10pt;
@@ -12,29 +12,29 @@ body {
 	padding-right: 1em;
 }
 
-.nav-pane a {
+nav a {
 	text-decoration: none;
 	color: #4444EE;
 }
 
-.nav-pane .random {
+nav .random {
 	text-align: center;
 }
 
-.nav-pane .random:hover,
-.nav-pane li:hover {
+nav .random:hover,
+nav li:hover {
 	font-weight: bold;
 	text-decoration: underline;
 }
 
-.nav-pane p {
+nav p {
 	font-family: sans-serif;
 	margin: 0;
 	padding-left: 15%;
 	padding-right: 15%;
 }
 
-.nav-pane ul {
+nav ul {
 	list-style-type: none;
 	list-style-position: inside;
 	text-align: center;
@@ -42,26 +42,27 @@ body {
 	line-height: 1.5;
 }
 
-.nav-pane li.normal,
-.nav-pane li.normal a {
+nav li.normal,
+nav li.normal a {
 	/* Top-level folder of current page */
 	font-weight: bold;
 	letter-spacing: 0;
 	text-decoration: underline;
 }
 
-.nav-pane li.link a {
+nav li.link a {
 	text-decoration: none;
 }
 
-.nav-pane button {
+nav button {
 	display: block;
 	margin: auto;
 }
 
-.nav-pane form#search {
+nav form#search {
 	margin-top: 1em;
 }
+
 
 .content div.toc {
 	columns: 4;

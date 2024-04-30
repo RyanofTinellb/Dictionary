@@ -20555,7 +20555,7 @@ entries:
                 → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</h3>'
               - <definition>giver</definition>
               - <h4>Examples</h4>
-              - <wordlist><block><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police
+              - <wordlist><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police
                 officer</gloss>
               - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl>
@@ -20634,7 +20634,7 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-06-16'
+              date: '2024-04-30'
               position: '61.0'
             miru:
               text:

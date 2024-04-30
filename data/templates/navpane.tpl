@@ -1,6 +1,6 @@
 styles:
-  navpane:
-    type: div
+  nav:
+    type: block
   input:
     type: complete
   label:
@@ -36,10 +36,14 @@ styles:
     type: data
   random:
     type: div
+  details:
+    type: block
+  summary:
+    type: line
 text:
-- <navpane><label><input>type="checkbox" class="menu"</input>
+- <nav><details><summary>Menu</summary>
 - <ul><a><link>index</link>|<strong>Dictionary</strong></a>
 - <javascript><search-form><input>type="text" name="term"</input>
 - <button>Search</button></search-form></javascript></ul>
-- <links><ul><toc>initials</toc></ul></links></label>
-- <javascript><random><a><link>special/random_entry</link>|Random Entry</a></random></javascript></navpane>
+- <links><ul><toc>initials</toc></ul></links>
+- <javascript><random><a><link>special/random_entry</link>|Random Entry</a></random></javascript></details></nav>
