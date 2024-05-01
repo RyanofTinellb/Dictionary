@@ -18,7 +18,7 @@ text:
 - <body>
 - '    <flex>'
 - '        <nav-pane></nav-pane>'
-- '        <content>'
+- '        <main>'
 - '            <main-contents><h2 id="about">About</h2>'
 - ''
 - ''
@@ -44,7 +44,7 @@ text:
 - '            <copyright>'
 - '                {copyright}'
 - '            </copyright>'
-- '        </content>'
+- '        </main>'
 - '    </flex>'
 - '    <script type="text/javascript">'
 - '        document.getElementById(''search'').style.display = ''list-item'';'

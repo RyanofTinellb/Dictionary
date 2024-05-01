@@ -13,12 +13,20 @@ gloss:
     italics: true
   type: span
   key: i
+translation:
+  type: div
 table:
   type: table
 block:
   type: div
 folding:
-  type: div
+  type: block
+  open: <details class="folding">
+  close: </details>
+folded:
+  type: line
+  open: <summary class="folding">
+  close: </summary>
 transliteration:
   type: span
   language: true

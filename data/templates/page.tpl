@@ -31,6 +31,8 @@ styles:
     type: block
     start: <p>
     end: </p>
+  main:
+    type: block
   flex:
     type: div
   template:
@@ -57,13 +59,13 @@ text:
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/word_search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
-- <content><h1><data>name</data></h1>
+- <main><h1><data>name</data></h1>
 - <data>contents</data>
 - <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode
   == 13) {wordsearch()}"</input>
 - <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
   to Entry"</input></javascript>
-- <template>copyright</template></content></flex>
+- <template>copyright</template></main></flex>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

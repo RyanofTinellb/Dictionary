@@ -261,7 +261,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl>
                 <gloss>happiness</gloss> + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl>
-                <abbr>dim</abbr>
+                <glossary>dim</glossary>
             -ilu:
               date: '2018-03-27'
               text:
@@ -269,7 +269,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>・いを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɨlʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl>)</h3>
-              - <definition>passive; <abbr>psv</abbr></definition>
+              - <definition>passive; <glossary>psv</glossary></definition>
               - <h4>Notes</h4>
               - This suffix is attached to verbs ending with a geminate consonant.
             -illu:
@@ -588,7 +588,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>’ussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっさ</tinellbian@x-tlb-hl>
                 <gloss>follow</gloss> + <link@x-tlb-hl>ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             ’ussi:
               date: '2018-03-28'
               text:
@@ -624,7 +624,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl>
                 <gloss>to think</gloss> + <link@x-tlb-hl>-’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             papa:
               date: '2018-03-28'
               text:
@@ -895,7 +895,7 @@ entries:
               - <definition>optimist</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>puca</link@x-tlb-hl> <gloss>optimism</gloss> + <link@x-tlb-hl>sa</link@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             puci:
               date: '2018-03-30'
               text:
@@ -1325,8 +1325,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰakʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>past habitual; <abbr>pst;hab</abbr>; did over and over;
-                did repeatedly</definition>
+              - <definition>past habitual; <glossary>pst;hab</glossary>; did over
+                and over; did repeatedly</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>
                 <gloss>stopped doing</gloss>
@@ -1562,7 +1562,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰi/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>past stative; <abbr>pst;sta;</abbr> was; were</definition>
+              - <definition>past stative; <glossary>pst;sta;</glossary> was; were</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴかる</tinellbian@x-tlb-hl>
                 <gloss>stopped being</gloss></block></wordlist>
@@ -1931,20 +1931,20 @@ entries:
               - <link@x-tlb-hl>di</link@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl>
                 <gloss>up</gloss> + <link@x-tlb-hl>sinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl>
                 <gloss>story</gloss> + <link@x-tlb-hl>-muka</link@x-tlb-hl> <tinellbian@x-tlb-hl>むか</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             disiqa:
               date: '2018-04-03'
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/dɨˈsiŋə/</ipa@x-tlb-hl></pronunciation>
-              - <h3>derived <hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></hidden>
+              - <h3>derived <hidden>noun</hidden>
                 <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
               - <definition>hers; his</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>disi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                3<abbr>gen</abbr> + <link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>3gen</glossary> + <link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>paguqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐげ</tinellbian@x-tlb-hl>
                 <gloss>mine</gloss>
@@ -1976,7 +1976,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl>
                 <gloss>new</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             diss·sa:
               date: '2018-04-03'
               text:
@@ -1989,7 +1989,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl>
                 <gloss>young</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             dixxi:
               date: '2018-04-03'
               text:
@@ -2014,7 +2014,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> pro-determiner</h3>
-              - <definition>third person animate genitive; 3<abbr>ani;gen</abbr>;
+              - <definition>third person animate genitive; <glossary>3ani;gen</glossary>;
                 his; her</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl>
@@ -2181,7 +2181,7 @@ entries:
               - <native-script><tinellbian>な</tinellbian></native-script>
               - <pronunciation><ipa@x-tlb-hl>/na/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>present habitual; <abbr>prs;hab</abbr>; is</definition>
+              - <definition>present habitual; <glossary>prs;hab</glossary>; is</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><gloss><link>nara</link> <tinellbian>なら</tinellbian> to
                 finish doing</gloss></wordlist>
@@ -2547,13 +2547,13 @@ entries:
               - <h4>Notes</h4>
               - Only used in first person, or second person questions.
               - <h4>Example Sentences</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu ra’u dihuri nufira.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u dihuri nufira.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ らう ・ でほり ・ ぬべら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔusu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>di</link@x-tlb-hl>-<link@x-tlb-hl>huri</link@x-tlb-hl>
                 <link@x-tlb-hl>nufira</link@x-tlb-hl>.
-              - <gloss><abbr>1int prs;sta</abbr> down-sea want.</gloss>
-              - “I want to be under the sea.”</block></folding>
+              - <gloss><glossary>1int prs;sta</glossary> down-sea want.</gloss></folding>
+              - <translation>“I want to be under the sea.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>nufirahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべらひ</tinellbian@x-tlb-hl>
                 <gloss>expectation</gloss></block></wordlist>
@@ -2568,7 +2568,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>nufira</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl>
                 <gloss>optative</gloss> + <link@x-tlb-hl>-ahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あひ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>Notes</h4>
               - refers to unreasonable expectations
             nussa:
@@ -2998,7 +2998,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>lu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl>
                 <gloss>to love</gloss> + <link@x-tlb-hl>-pu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷあ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             luka:
               date: '2018-04-04'
               text:
@@ -3135,7 +3135,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>’axasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせ</tinellbian@x-tlb-hl>
                 <gloss>maturity</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             pari:
               date: '2018-04-05'
               text:
@@ -3143,10 +3143,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぴかる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰɨˈkʰaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>had stopped being; <abbr>pst;sta</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>had stopped being; <glossary>pst;sta</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>pi</link@x-tlb-hl> <abbr>pst;sta</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
-                <abbr>trm</abbr>
+              - <link@x-tlb-hl>pi</link@x-tlb-hl> <glossary>pst;sta</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -3211,13 +3211,13 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ばげ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/baˈŋa/</ipa@x-tlb-hl></pronunciation>
-              - <h3>derived <hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></hidden>
+              - <h3>derived <hidden>noun</hidden>
                 <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
               - <definition>yours</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                2<abbr>gen</abbr> + <link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>2gen</glossary> + <link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>paguqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐげ</tinellbian@x-tlb-hl>
                 <gloss>mine</gloss>
@@ -3333,7 +3333,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>てな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰinə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>comparative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to differ from</definition>
               - <h4>Antonym</h4>
@@ -3410,7 +3410,7 @@ entries:
               - <h4>Etymology</h4>
               - <wordlist><block><link@x-tlb-hl>tissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>てっさ</tinellbian@x-tlb-hl>
                 <gloss>wind</gloss> + <link@x-tlb-hl>-aku</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl>
-                <abbr>aug</abbr></block></wordlist>
+                <glossary>aug</glossary></block></wordlist>
             tissini:
               date: '2018-04-05'
               text:
@@ -3422,7 +3422,7 @@ entries:
               - <h4>Etymology</h4>
               - <wordlist><block><link@x-tlb-hl>tissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>てっさ</tinellbian@x-tlb-hl>
                 <gloss>wind</gloss> + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl>
-                <abbr>dim</abbr></block></wordlist>
+                <glossary>dim</glossary></block></wordlist>
             tiha:
               date: '2018-04-05'
               text:
@@ -3563,7 +3563,7 @@ entries:
               - <h4>Etymology</h4>
               - <block><link@x-tlb-hl>ca</link@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl>
                 <gloss>to help</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             cabahi:
               date: '2018-04-05'
               text:
@@ -3625,11 +3625,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/cʰəˈnaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>to finish doing; <abbr>prs;dyn</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>to finish doing; <glossary>prs;dyn</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>
-                <abbr>prs;dyn</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>prs;dyn</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -3672,7 +3672,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈcʰanɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>present dynamic; <abbr>prs;dyn;</abbr> is</definition>
+              - <definition>present dynamic; <glossary>prs;dyn;</glossary> is</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>
                 <gloss>to stop doing</gloss></block></wordlist>
@@ -3800,8 +3800,8 @@ entries:
               - <definition>isn’t stopping; is not stopping; prs;neg-trm</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>
-                <abbr>prs;neg</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>prs;neg</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl> <glossary>trm</glossary>
             ji’i:
               text:
               - <h2>High Lulani</h2>
@@ -3871,7 +3871,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl>
                 <gloss>link</gloss> + <link@x-tlb-hl>-pu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷあ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>batu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl>
                 <gloss>group</gloss></block></wordlist>
@@ -3895,10 +3895,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kə/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl>)</h3>
-              - <definition>make; <abbr>abv</abbr></definition>
+              - <definition>make; <glossary>abv</glossary></definition>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>-kka</link@x-tlb-hl> <tinellbian@x-tlb-hl>・っか</tinellbian@x-tlb-hl>
-                <abbr>abv</abbr></block></wordlist>
+                <glossary>abv</glossary></block></wordlist>
             -kka:
               date: '2018-04-05'
               text:
@@ -3906,12 +3906,12 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>・っか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kːə/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl></h3>
-              - <definition>ablative promotion; make; <abbr>abv</abbr></definition>
+              - <definition>ablative promotion; make; <glossary>abv</glossary></definition>
               - <h4>Notes</h4>
               - Used after verbs with non-geminate final consonants.
               - <h4>See Also</h4>
               - <link@x-tlb-hl>-ka</link@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl>
-                <abbr>abv</abbr>
+                <glossary>abv</glossary>
             kaʔa:
               date: '2018-04-05'
               text:
@@ -4057,7 +4057,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl>
                 <gloss>to trade</gloss> + <link@x-tlb-hl>-du</link@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             kahu:
               date: '2018-04-05'
               text:
@@ -4217,7 +4217,7 @@ entries:
               - <definition>soil; land; earth; dirt</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>
-                <abbr>dat</abbr> + <link@x-tlb-hl>Naqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なね</tinellbian@x-tlb-hl>
+                <glossary>dat</glossary> + <link@x-tlb-hl>Naqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なね</tinellbian@x-tlb-hl>
                 <gloss>Naengi</gloss>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’u’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>うあ</tinellbian@x-tlb-hl>
@@ -4620,7 +4620,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈfaɕɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 dative <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to survive</definition>
               date: '2018-04-05'
@@ -4754,11 +4754,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/fʉˈnaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>will not stop doing; <abbr>fut;neg</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>will not stop doing; <glossary>fut;neg</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>
-                <abbr>fut;neg</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>fut;neg</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -4801,7 +4801,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈfunɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>future negative; <abbr>fut;neg;</abbr> will not; won’t</definition>
+              - <definition>future negative; <glossary>fut;neg;</glossary> will not;
+                won’t</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>
                 <gloss>won’t stop doing</gloss>
@@ -4887,15 +4888,15 @@ entries:
               - <h4>Definition</h4>
               - In order to obtain or acquire.
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu qixa satakifi diru
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu qixa satakifi diru</folded>
                 kassu nuhubatu.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。うす ・ ねざ ・ さたきべ ・ でる ・ かっす ・ ぬほばと。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔusu</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>sata</link@x-tlb-hl>-<link@x-tlb-hl>kifi</link@x-tlb-hl>
                 <link@x-tlb-hl>diru</link@x-tlb-hl> <link@x-tlb-hl>kassu</link@x-tlb-hl>
                 <link@x-tlb-hl>nuhu</link@x-tlb-hl>-<link@x-tlb-hl>batu</link@x-tlb-hl>.
-              - <gloss><abbr>1int pst;dyn</abbr> for-three money buy paper-collection.</gloss>
-              - “I bought a book for $3.”</block></folding>
+              - <gloss><glossary>1int pst;dyn</glossary> for-three money buy paper-collection.</gloss></folding>
+              - <translation>“I bought a book for $3.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>satasama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さたさま</tinellbian@x-tlb-hl>
                 <gloss>how much</gloss></block></wordlist>
@@ -4968,7 +4969,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>さきり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/səˈkʰiɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived</hidden>
-                compound <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+                compound <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>summer half-marigold</definition>
               - <h4>Etymology</h4>
@@ -5085,7 +5086,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/səˈlumɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>7; seven</definition>
               - <h4>See Also</h4>
@@ -5101,7 +5102,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>さをら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/səˈluɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3>derived <hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3>derived <hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>12; twelve; (17)</definition>
               - <h4>Etymology</h4>
@@ -5135,7 +5136,7 @@ entries:
               - <definition>introvert; loner</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>sa</link@x-tlb-hl> <gloss>solitude</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl>
-                <abbr>drv</abbr>
+                <glossary>drv</glossary>
             saxxuru:
               date: '2018-04-05'
               text:
@@ -5285,7 +5286,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>sinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl>
                 <gloss>story</gloss> + <link@x-tlb-hl>-di</link@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             siqi:
               date: '2018-04-05'
               text:
@@ -5667,7 +5668,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>しく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɕikʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3>
-              - <definition>relativiser; <abbr>rel</abbr></definition>
+              - <definition>relativiser; <glossary>rel</glossary></definition>
             xima:
               date: '2018-04-05'
               text:
@@ -5805,7 +5806,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>hacci</link@x-tlb-hl> <tinellbian@x-tlb-hl>はっち</tinellbian@x-tlb-hl>
                 <gloss>to awaken</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl>
-                <abbr>inj</abbr>
+                <glossary>inj</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>mica</link@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl>
                 <gloss>hello</gloss>
@@ -5858,7 +5859,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>hiru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひる</tinellbian@x-tlb-hl>
                 <gloss>gratitude</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl>
-                <abbr>inj</abbr>
+                <glossary>inj</glossary>
             hisu:
               text:
               - <h2>High Lulani</h2>
@@ -5883,7 +5884,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>hisu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひす</tinellbian@x-tlb-hl>
                 <gloss>to administer</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <abbr>nmn</abbr>
+                <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>hisubajana</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひすばぢな</tinellbian@x-tlb-hl>
                 <gloss>elder</gloss></block></wordlist>
@@ -5929,7 +5930,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>hisutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひすと</tinellbian@x-tlb-hl>
                 <gloss>to babysit</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             hu’asa:
               date: '2018-04-05'
               text:
@@ -5954,7 +5955,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ほっわせさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌhuʎːəˈsisə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <hidden>derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to have sex-play</definition>
@@ -6053,7 +6054,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>mala</link@x-tlb-hl> <tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl>
                 <gloss>to reflect</gloss> + <link@x-tlb-hl>-du</link@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             mali:
               date: '2018-04-06'
               text:
@@ -6115,7 +6116,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>tisaka</link@x-tlb-hl> <tinellbian@x-tlb-hl>てさか</tinellbian@x-tlb-hl>
                 <gloss>town</gloss> + <link@x-tlb-hl>-rra</link@x-tlb-hl><gloss> </gloss><tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>
-                <abbr>drv</abbr>
+                <glossary>drv</glossary>
             -rra:
               date: '2018-04-08'
               text:
@@ -6137,11 +6138,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽəˈʔʰaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>to finish being; <abbr>prs;sta</abbr>-<abbr>trm</abbr></definition>
+              - <definition>to finish being; <glossary>prs;sta</glossary>-<glossary>trm</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>
-                <abbr>prs;dyn</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>prs;dyn</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -6202,7 +6203,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽaʔʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>present stative; <abbr>prs;sta</abbr>; is</definition>
+              - <definition>present stative; <glossary>prs;sta</glossary>; is</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>
                 <gloss>to stop being</gloss></block></wordlist>
@@ -6316,7 +6317,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>rami</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみ</tinellbian@x-tlb-hl>
                 <gloss>bed</gloss> + <link@x-tlb-hl>-rra</link@x-tlb-hl> <tinellbian@x-tlb-hl>っら</tinellbian@x-tlb-hl>
-                <abbr>drv</abbr>
+                <glossary>drv</glossary>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>tujaramirra</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢらみっら</tinellbian@x-tlb-hl>
                 <gloss>hotel</gloss></block></wordlist>
@@ -6345,7 +6346,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>らにら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽəˈniɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3>derived <hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3>derived <hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>22; twenty-two; (<gloss>34</gloss>)</definition>
               - <h4>Etymology</h4>
@@ -6375,11 +6376,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>no longer is; <abbr>prs;gno</abbr>-<abbr>trm</abbr></definition>
+              - <definition>no longer is; <glossary>prs;gno</glossary>-<glossary>trm</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl>
-                <abbr>fut;gno</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>fut;gno</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -6591,7 +6592,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ru’iha</link@x-tlb-hl> <tinellbian@x-tlb-hl>るいは</tinellbian@x-tlb-hl>
                 <gloss>history book</gloss> + <link@x-tlb-hl>-ja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl>
-                <abbr>drv</abbr>
+                <glossary>drv</glossary>
             ruba:
               date: '2018-04-08'
               text:
@@ -6606,7 +6607,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽukʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>future gnomic; <abbr>fut;gno;</abbr> will be</definition>
+              - <definition>future gnomic; <glossary>fut;gno;</glossary> will be</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl>
                 <gloss>will stop being</gloss>
@@ -6652,7 +6653,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>るにひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽʉˈnihɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>comparative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be similar to</definition>
               - <h4>Antonym</h4>
@@ -6667,11 +6668,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽʉˈsaɽə/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>did stop being; <abbr>pst;gno</abbr>-<abbr>trm</abbr></definition>
+              - <definition>did stop being; <glossary>pst;gno</glossary>-<glossary>trm</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>
-                <abbr>pst;gno</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>pst;gno</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -6714,23 +6715,23 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰəlu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>case</poslink@x-tlb-hl> marker prefix</h3>
-              - <definition>ablative; <abbr>abl</abbr></definition>
+              - <definition>ablative; <glossary>abl</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>
-                3<abbr>ina;abl</abbr>
+                <glossary>3ina;abl</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>
-                <abbr>dat</abbr></block></wordlist>
+                <glossary>dat</glossary></block></wordlist>
             ku-:
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>case</poslink@x-tlb-hl> marker prefix</h3>
-              - <definition>dative; <abbr>dat</abbr></definition>
+              - <definition>dative; <glossary>dat</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>‎
-                3<abbr>ina;dat</abbr>
+                <glossary>3ina;dat</glossary>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>ku·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl>
                 <gloss>to the ～</gloss>
@@ -6740,7 +6741,7 @@ entries:
                 <gloss>sky</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>kalu-</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>
-                <abbr>abl</abbr></block></wordlist>
+                <glossary>abl</glossary></block></wordlist>
               date: '2018-04-09'
               position: '10.17'
             qaʔiku:
@@ -6794,7 +6795,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>qacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっや</tinellbian@x-tlb-hl>
                 <gloss>to choose</gloss> + <link@x-tlb-hl>-’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             qala:
               date: '2018-04-09'
               text:
@@ -6835,7 +6836,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>mici</link@x-tlb-hl> <tinellbian@x-tlb-hl>みち</tinellbian@x-tlb-hl>
                 <gloss>peace</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl>
-                <abbr>inj</abbr>
+                <glossary>inj</glossary>
               - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>permission</definition>
               - <h4>Derived Terms</h4>
@@ -6990,13 +6991,12 @@ entries:
                 <gloss>foolishness</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl>
                 <gloss>nominaliser</gloss>
             mullu:
-              date: '2018-04-11'
+              date: '2024-05-01'
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmuʎːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
+              - <h3><hidden>mathematics</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>-1; <overbar>1</overbar>; ron, minus one</definition>
               - <h4>See Also</h4>
               - <wordlist><block>← <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl>
@@ -7065,7 +7065,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnagɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>future stative; <abbr>fut;sta</abbr>; will be</definition>
+              - <definition>future stative; <glossary>fut;sta</glossary>; will be</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>
                 <gloss>will stop being</gloss></block></wordlist>
@@ -7168,7 +7168,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>
                 <gloss>to sleep</gloss> + <link@x-tlb-hl>-la’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>わい</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
             narafiqu:
               text:
               - <h2>High Lulani</h2>
@@ -7305,7 +7305,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋilʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>did not; past negative; didn’t; <abbr>pst;neg</abbr></definition>
+              - <definition>did not; past negative; didn’t; <glossary>pst;neg</glossary></definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>
                 <gloss>did not stop being</gloss></block></wordlist>
@@ -7350,7 +7350,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋiçːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>zero; 0</definition>
               - <h4>Derived Terms</h4>
@@ -7445,7 +7445,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/hu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>future iterative; will; <abbr>fut;itr</abbr></definition>
+              - <definition>future iterative; will; <glossary>fut;itr</glossary></definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 <gloss>will stop doing</gloss>
@@ -7484,13 +7484,13 @@ entries:
               - 'habitual: hu <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
               - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
             -muka:
-              date: '2018-04-14'
+              date: '2024-05-01'
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>むか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmukʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
-                (<poslink@x-tlb-hl>adposition</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3>
+              - <h3>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>adposition</poslink@x-tlb-hl>
+                → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3>
               - <definition>that which is ～; derives a noun from a prepositional phrase</definition>
               - <h4>Example</h4>
               - <wordlist><block><link@x-tlb-hl>disinnamuka</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl>
@@ -7537,7 +7537,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔifːə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person transitive inanimate; 3<abbr>ina;tra</abbr>;
+              - <definition>third person transitive inanimate; <glossary>3ina;tra</glossary>;
                 it</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -7639,7 +7639,7 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/pʰahɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3>
-              - <definition>first person genitive; 1<abbr>gen</abbr></definition>
+              - <definition>first person genitive; <glossary>1gen</glossary></definition>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
               - hc2 intranstitive | <link@x-tlb-hl>’usu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>
@@ -7710,7 +7710,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ba/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person genitive; 2<abbr>gen</abbr>; your; yours</definition>
+              - <definition>second person genitive; <glossary>2gen</glossary>; your;
+                yours</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>baqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばげ</tinellbian@x-tlb-hl>
                 <gloss>yours</gloss></block></wordlist>
@@ -7786,7 +7787,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ばう</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbaʔʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person dative; 2<abbr>dat</abbr>; to you</definition>
+              - <definition>second person dative; <glossary>2dat</glossary>; to you</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -7858,8 +7859,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>よせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟusɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person animate dative; <abbr>3ani;dat;</abbr> to
-                her; to him</definition>
+              - <definition>third person animate dative; <glossary>3ani;dat;</glossary>
+                to her; to him</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -7931,7 +7932,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰalʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person inanimate ablative; <abbr>3ina;abl;</abbr>
+              - <definition>third person inanimate ablative; <glossary>3ina;abl;</glossary>
                 because of it; from it</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -8021,10 +8022,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person inanimate dative; to it; 3<abbr>ina;dat</abbr></definition>
+              - <definition>third person inanimate dative; to it; <glossary>3ina;dat</glossary></definition>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>
-                <abbr>dat</abbr></block></wordlist>
+                <glossary>dat</glossary></block></wordlist>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
               - hc2 intranstitive | <link@x-tlb-hl>’usu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>
@@ -8096,7 +8097,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>もほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋuhʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person animate transitive; 3<abbr>ani;tra</abbr>;
+              - <definition>third person animate transitive; <glossary>3ani;tra</glossary>;
                 him, her, he, she</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -8189,7 +8190,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>らぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽaɟə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>from her; from him; 3<abbr>top;abl</abbr></definition>
+              - <definition>from her; from him; <glossary>3top;abl</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -8261,7 +8262,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>べっえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈfiʎːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person intransitive; 2<abbr>int</abbr>; you</definition>
+              - <definition>second person intransitive; <glossary>2int</glossary>;
+                you</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -8333,8 +8335,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>さゆ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsacʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person ablative; 2<abbr>abl</abbr>; from you; because
-                of you</definition>
+              - <definition>second person ablative; <glossary>2abl</glossary>; from
+                you; because of you</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -8406,7 +8408,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>すま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsumə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>first person transitive; I; me; 1<abbr>tra</abbr></definition>
+              - <definition>first person transitive; I; me; <glossary>1tra</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -8519,7 +8521,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぱぐ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈpagʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>first person genitive; my; mine; 1<abbr>gen</abbr></definition>
+              - <definition>first person genitive; my; mine; <glossary>1gen</glossary></definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>paguqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐげ</tinellbian@x-tlb-hl>
                 <gloss>mine</gloss></block></wordlist>
@@ -8605,7 +8607,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ふ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/fu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person transitive; 2<abbr>tra</abbr>; you</definition>
+              - <definition>second person transitive; <glossary>2tra</glossary>; you</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -8676,7 +8678,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔusʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>first person intransitive; 1<abbr>int</abbr>; I; me</definition>
+              - <definition>first person intransitive; <glossary>1int</glossary>;
+                I; me</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -9065,21 +9068,21 @@ entries:
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></h3>
               - <definition>to be balanced</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kalupahi ’anu.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Kalupahi ’anu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。かをぱひ ・ あぬ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kalu</link@x-tlb-hl><link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 ’anu.
-              - <gloss>Body-1<abbr>gen</abbr> balance.</gloss>
-              - “I am healthy.”</block></folding>
+              - <gloss>Body-<glossary>1gen</glossary> balance.</gloss></folding>
+              - <translation>“I am healthy.”</translation>
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></h3>
               - <definition>to equal</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。きべ ・ よい ・ ぬる ・ あぬ ・ さをみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>ju’i</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> ’anu <link@x-tlb-hl>salumi</link@x-tlb-hl>.
-              - <gloss>Three add four equal seven.</gloss>
-              - “Three plus four is seven.”</block></folding>
+              - <gloss>Three add four equal seven.</gloss></folding>
+              - <translation>“Three plus four is seven.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl>
                 <gloss>plus</gloss>
@@ -9112,11 +9115,11 @@ entries:
               - <h3><poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl> enclitic</h3>
               - <definition>and</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>lulani kimillita</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>lulani kimillita</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>をわに ・ きみっえた</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>lulani</link@x-tlb-hl> <link@x-tlb-hl>kimilli</link@x-tlb-hl>-ta
-              - <gloss>queen king-and</gloss>
-              - “the queen and the king”</block></folding>
+              - <gloss>queen king-and</gloss></folding>
+              - <translation>“the queen and the king”</translation>
               date: '2018-10-21'
               position: '1.0'
             gani-:
@@ -9130,12 +9133,12 @@ entries:
               - <h4>Notes</h4>
               - Modifies verbs
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔilupagu ganibi’u</transliteration@x-tlb-hl>.
+              - <folding><folded><transliteration@x-tlb-hl>ʔilupagu ganibi’u</transliteration@x-tlb-hl>.</folded>
               - <tinellbian@x-tlb-hl>。いをぱひ ・ がにびう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔilu</link@x-tlb-hl><link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 gani-<link@x-tlb-hl>bi’u</link@x-tlb-hl>.
-              - <gloss>heart-1gen very-hurt.</gloss>
-              - “I’m, like, so heartsick.”</block></folding>
+              - <gloss>heart-1gen very-hurt.</gloss></folding>
+              - <translation>“I’m, like, so heartsick.”</translation>
             qa:
               date: '2018-10-21'
               text:
@@ -9160,7 +9163,7 @@ entries:
               - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
                 (<poslink@x-tlb-hl>numeral</poslink@x-tlb-hl>, <poslink@x-tlb-hl>verb</poslink@x-tlb-hl>,
                 <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3>
-              - <definition>nominaliser; <abbr>nmn</abbr></definition>
+              - <definition>nominaliser; <glossary>nmn</glossary></definition>
               - <h4>Definition</h4>
               - Denotes a specific case of a general number or pronoun.
               - <h4>Examples</h4>
@@ -9174,7 +9177,7 @@ entries:
                 <gloss>the two of them</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3>
-              - <definition>third person inanimate genitive;<abbr> 3ina;gen</abbr></definition>
+              - <definition>third person inanimate genitive;<glossary> 3ina;gen</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -9294,7 +9297,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnuɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>4; four</definition>
               - <h4>Examples</h4>
@@ -9337,7 +9340,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰaɲːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>-2; <overbar>2</overbar>, <link@en>rwo</link@en>, minus
                 two</definition>
@@ -9410,11 +9413,12 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>かをえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌkʰalˈli/</ipa@x-tlb-hl></pronunciation>
               - <h3><hidden>derived</hidden> compound <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3>
-              - <definition>because of the ～; <abbr>abl</abbr>-<abbr>com</abbr></definition>
+              - <definition>because of the ～; <glossary>abl</glossary>-<glossary>com</glossary></definition>
               - <h4>Etymology</h4>
               - from <strong>kaluli</strong> &lt; <a>../k/kalu-.html#english|kalu-</a>
-                <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <abbr>abl</abbr> + <a>../l/li.html#english|li</a>
-                <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <abbr>com</abbr>
+                <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <glossary>abl</glossary>
+                + <a>../l/li.html#english|li</a> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl>
+                <glossary>com</glossary>
               date: '2018-12-22'
               position: '1.0'
             $tinellb:
@@ -9591,7 +9595,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰakːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>100; one hundred; (225)</definition>
               date: '2018-12-27'
@@ -9832,7 +9836,7 @@ entries:
                 <gloss>administrator</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl>
                 pro-determiner</h3>
-              - <definition>second person genitive; 2<abbr>gen</abbr></definition>
+              - <definition>second person genitive; <glossary>2gen</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -10084,7 +10088,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdisɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person animate genitive; 3<abbr>ani;gen</abbr>;
+              - <definition>third person animate genitive; <glossary>3ani;gen</glossary>;
                 his; her</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl>
@@ -10162,7 +10166,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> pro-determiner</h3>
-              - <definition>third person animate genitive; 3<abbr>ani;gen</abbr>;
+              - <definition>third person animate genitive; <glossary>3ani;gen</glossary>;
                 his; her</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl>
@@ -10413,7 +10417,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰifɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>3; three</definition>
               - <h4>Derived Terms</h4>
@@ -11024,7 +11028,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>dasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だせ</tinellbian@x-tlb-hl>
                 <gloss>to eat</gloss> + <link@x-tlb-hl>-du</link@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <a>../search.html?term=food|Food and Drink</a>
               date: '2019-01-07'
@@ -11235,9 +11239,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽa/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+              - <h3><hidden>mathematics</hidden>
+                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden>
+                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></h3>
               - <definition>2; two</definition>
               - <h4>See Also</h4>
               - <wordlist><block>← <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl>
@@ -11393,7 +11397,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>もほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋuhʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person animate transitive; 3<abbr>ani;tra</abbr>;
+              - <definition>third person animate transitive; <glossary>3ani;tra</glossary>;
                 him, her, he, she</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -11480,9 +11484,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɕitʰə/</ipa@x-tlb-hl></pronunciation>'
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+              - <h3><hidden>mathematics</hidden>
+                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden>
+                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></h3>
               - <definition>one</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
@@ -11505,10 +11509,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ləˈnʰaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>will finish doing; <abbr>fut;dyn-trm</abbr></definition>
+              - <definition>will finish doing; <glossary>fut;dyn-trm</glossary></definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>lanu</link@x-tlb-hl> <abbr>fut;dyn</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
-                <abbr>trm</abbr>
+              - <link@x-tlb-hl>lanu</link@x-tlb-hl> <glossary>fut;dyn</glossary> +
+                <link@x-tlb-hl>-ar-</link@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -11570,7 +11574,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぴし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈpʰiɕɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>first person dative; to me; 1<abbr>dat</abbr></definition>
+              - <definition>first person dative; to me; <glossary>1dat</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -11643,9 +11647,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔusɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+              - <h3><hidden>mathematics</hidden>
+                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden>
+                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></h3>
               - <definition>6; six</definition>
               - <h4>See Also</h4>
               - <wordlist><block>← <link@x-tlb-hl>guhi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl>
@@ -11661,9 +11665,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+              - <h3><hidden>mathematics</hidden>
+                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden>
+                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></h3>
               - <definition>-3, <overbar>3</overbar>; ree; minus three; negative three</definition>
               - <h4>See Also</h4>
               - <wordlist><block>← <link@x-tlb-hl>missu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl>
@@ -11684,7 +11688,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>luxira</link@x-tlb-hl> <tinellbian@x-tlb-hl>をしら</tinellbian@x-tlb-hl>
                 <gloss>birth of twins</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <abbr>nmn</abbr>
+                <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               date: '2019-01-21'
               position: '5.15'
             -’aba:
@@ -11694,7 +11698,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔabə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl>
-                <hidden>pro-form</hidden> <hidden><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></hidden></h3>
+                <hidden>pro-form</hidden> <hidden>determiner</hidden></h3>
               - <definition>all; every; universal object determiner</definition>
               - <h4>See Also</h4>
               - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
@@ -11777,7 +11781,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔabə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></hidden></h3>
+                <hidden>noun</hidden></h3>
               - <definition>everything; universal noun object</definition>
               - <h4>Example</h4>
               - <wordlist><block><link@x-tlb-hl>qikanni</link@x-tlb-hl><strong>’aba</strong>
@@ -12116,13 +12120,13 @@ entries:
               - <h3><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3>
               - <definition>towards; at a time; about</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Para jannililu.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Para jannililu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ぱら ・ ぢっにえを。</tinellbian@x-tlb-hl>
               - pa-<link@x-tlb-hl>ra</link@x-tlb-hl> <link@x-tlb-hl>janni</link@x-tlb-hl>-<link@x-tlb-hl>lilu</link@x-tlb-hl>
-              - <gloss>towards-two move-stairs</gloss>
-              - “Take the stairs two at a time.”</block></folding>
+              - <gloss>towards-two move-stairs</gloss></folding>
+              - <translation>“Take the stairs two at a time.”</translation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person inanimate intransitive; <abbr>3ina;int;</abbr>
+              - <definition>third person inanimate intransitive; <glossary>3ina;int;</glossary>
                 it</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -12349,12 +12353,12 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be sore; to hurt; to be painful; to be a pain; to ache</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Pixi liqa bi’u.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Pixi liqa bi’u.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ぴし ・ えげ ・ びう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>pixi</link@x-tlb-hl> <link@x-tlb-hl>liqa</link@x-tlb-hl>
                 <link@x-tlb-hl>bi’u</link@x-tlb-hl>.
-              - <gloss>1<abbr>dat</abbr> head hurt.</gloss>
-              - “I have a headache.”</block></folding>
+              - <gloss><glossary>1dat</glossary> head hurt.</gloss></folding>
+              - <translation>“I have a headache.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>bi’ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl>
                 <gloss>to itch</gloss>
@@ -12383,11 +12387,11 @@ entries:
               - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>there is; what there is</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Tana ru lulani.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Tana ru lulani.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。たな ・ る ・ をわに。</tinellbian@x-tlb-hl>
               - tana <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>lulani</link@x-tlb-hl>.
-              - <gloss>there_is <abbr>prs;gno</abbr> queen.</gloss>
-              - “There is a queen (in existence).”</block></folding>
+              - <gloss>there_is <glossary>prs;gno</glossary> queen.</gloss></folding>
+              - <translation>“There is a queen (in existence).”</translation>
               - <h4>Notes</h4>
               - while this is not a noun in the strict sense of the word, it does
                 act like one when used by itself as a subject. This noun can be used
@@ -12515,7 +12519,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>でく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdikʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></hidden> <hidden>pro-form</hidden></h3>
+                <hidden>determiner</hidden> <hidden>pro-form</hidden></h3>
               - <definition>which; indefinite interrogative determiner</definition>
               - <h4>See Also</h4>
               - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
@@ -12599,12 +12603,12 @@ entries:
               - <h3><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3>
               - <definition>only</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うすや ・ ぢっにむへ ・ みや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl>-<link@x-tlb-hl>ca</link@x-tlb-hl>
                 <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <link@x-tlb-hl>mica</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr>-only dance allowed</gloss>
-              - “Only I may dance.”</block></folding>
+              - <gloss><glossary>1int</glossary>-only dance allowed</gloss></folding>
+              - <translation>“Only I may dance.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>-nisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>にさ</tinellbian@x-tlb-hl>
                 <gloss>sole</gloss></block></wordlist>
@@ -12641,7 +12645,7 @@ entries:
               - <definition>telepath</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>cikki</link@x-tlb-hl> <gloss>to perceive</gloss> +
-                <link@x-tlb-hl>-pu’a</link@x-tlb-hl><gloss> </gloss><abbr>nmn</abbr>
+                <link@x-tlb-hl>-pu’a</link@x-tlb-hl><gloss> </gloss><glossary>nmn</glossary>
               date: '2019-01-22'
               position: '7.29'
             -cu:
@@ -12650,7 +12654,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/cʰu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl>
-                <hidden>pro-form</hidden> <hidden><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></hidden></h3>
+                <hidden>pro-form</hidden> <hidden>determiner</hidden></h3>
               - <definition>none; negative object determiner</definition>
               - <h4>See Also</h4>
               - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
@@ -12820,17 +12824,17 @@ entries:
               - <h4>Notes</h4>
               - poetic
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Cura’a ra’u pixi nufira.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Cura’a ra’u pixi nufira.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ゆらあ ・ らう ・ ぴし ・ ぬべら。</tinellbian@x-tlb-hl>
               - cura’a <link@x-tlb-hl>ra’u</link@x-tlb-hl> <link@x-tlb-hl>pixi</link@x-tlb-hl>
                 <link@x-tlb-hl>nufira</link@x-tlb-hl>
-              - <gloss>pass-<abbr>nmn</abbr> <abbr>prs;sta</abbr> 1<abbr>dat</abbr>
-                wish.</gloss>
-              - “I wish I had time.”</block></folding>
+              - <gloss>pass-<glossary>nmn</glossary> <glossary>prs;sta</glossary>
+                <glossary>1dat</glossary> wish.</gloss></folding>
+              - <translation>“I wish I had time.”</translation>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>cura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆら</tinellbian@x-tlb-hl>
                 <gloss>pass</gloss> + <link@x-tlb-hl>’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>ga’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>がい</tinellbian@x-tlb-hl>
                 <gloss>time</gloss></block></wordlist>
@@ -13176,7 +13180,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kiʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっあ</tinellbian@x-tlb-hl>
                 <gloss>white</gloss> + <link@x-tlb-hl>-ci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ち</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               date: '2019-01-22'
               position: '7.21'
             gingla:
@@ -13651,20 +13655,20 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to put out; to radiate; to broadcast</definition>
               - <h4>Notes</h4>
-              - Inanimate themes are objects, animate themes use <abbr>ka</abbr>
+              - Inanimate themes are objects, animate themes use <glossary>ka</glossary>
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>Filli pixi xusina.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Filli pixi xusina.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。べっえ ・ ぴし ・ ずせな。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>filli</link@x-tlb-hl> <link@x-tlb-hl>pixi</link@x-tlb-hl>
                 xu-<link@x-tlb-hl>sina</link@x-tlb-hl>.
-              - <gloss>2<abbr>int</abbr> 1<abbr>dat</abbr> seem-beauty.</gloss>
-              - “You seem pretty to me.”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>Filli ka’aggami xu.</transliteration@x-tlb-hl>
+              - <gloss><glossary>2int</glossary> <glossary>1dat</glossary> seem-beauty.</gloss></folding>
+              - <translation>“You seem pretty to me.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>Filli ka’aggami xu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。べっえ ・ かあっがみず。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>filli</link@x-tlb-hl> <link@x-tlb-hl>ka</link@x-tlb-hl>-<link@x-tlb-hl>’aggami</link@x-tlb-hl>
                 xu.
-              - <gloss>2<abbr>int</abbr> as-policeman.</gloss>
-              - “You look like a policeman.”</block></folding>
+              - <gloss><glossary>2int</glossary> as-policeman.</gloss></folding>
+              - <translation>“You look like a policeman.”</translation>
               - <h4>Notes</h4>
               - 'Used for physical themes. Cf: <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl>
                 <gloss>seem</gloss>'
@@ -13754,7 +13758,7 @@ entries:
               - <definition>acquaintance; the act of being acquainted; friendship</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kuli</link@x-tlb-hl> <gloss>to meet</gloss> + <link@x-tlb-hl>-’a</link@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’asila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl>
                 <gloss>friendship</gloss>
@@ -13772,11 +13776,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉˈli/</ipa@x-tlb-hl></pronunciation>
               - <h3><hidden>derived</hidden> compound <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3>
-              - <definition>to the ～; <abbr>dat</abbr>-<abbr>com</abbr></definition>
+              - <definition>to the ～; <glossary>dat</glossary>-<glossary>com</glossary></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>
-                <abbr>dat</abbr> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl>
-                <abbr>com</abbr>
+                <glossary>dat</glossary> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl>
+                <glossary>com</glossary>
               date: '2019-01-24'
               position: '2.14'
             puxila:
@@ -13809,7 +13813,7 @@ entries:
               - <definition>to receive</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>duci</link@x-tlb-hl> <gloss>to have</gloss> + <link@x-tlb-hl>-ni</link@x-tlb-hl>
-                <abbr>inc</abbr>
+                <glossary>inc</glossary>
               date: '2019-01-25'
               position: '7.18'
             -ni:
@@ -13819,7 +13823,7 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/nɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
                 (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl>)</h3>
-              - <definition>begin to; <abbr>inc</abbr></definition>
+              - <definition>begin to; <glossary>inc</glossary></definition>
               date: '2019-01-25'
               position: '5.19'
             xuci:
@@ -13912,7 +13916,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <hidden>mathematics</hidden>
                 prefix (<poslink@x-tlb-hl>numeral</poslink@x-tlb-hl>)</h3>
               - <definition>index marker</definition>
               date: '2019-01-30'
@@ -13982,7 +13986,7 @@ entries:
               - <definition>my mother</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>piha</link@x-tlb-hl> <gloss>mother</gloss> + <link@x-tlb-hl>-pahi</link@x-tlb-hl>
-                1<abbr>gen</abbr>
+                <glossary>1gen</glossary>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship
                 Terms</a>
@@ -14013,7 +14017,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>sabba</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっば</tinellbian@x-tlb-hl>
                 <gloss>father</gloss> + <link@x-tlb-hl>-pahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
-                1<abbr>gen</abbr>
+                <glossary>1gen</glossary>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship
                 Terms</a>
@@ -14037,7 +14041,7 @@ entries:
               - <h4>Etymology</h4>
               - <strong>sabba</strong> <tinellbian@x-tlb-hl>さっば</tinellbian@x-tlb-hl>
                 <gloss>father</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                2<abbr>gen</abbr>
+                <glossary>2gen</glossary>
               date: '2019-02-01'
               position: '6.0'
             -ar-:
@@ -14046,7 +14050,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/aɽ/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflectional infix (<poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl>)</h3>
-              - <definition>terminative; <abbr>trm</abbr></definition>
+              - <definition>terminative; <glossary>trm</glossary></definition>
               - <h4>Derived Terms</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -14094,7 +14098,7 @@ entries:
               - <definition>her mother; his mother; their mother</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>piha</link@x-tlb-hl> <gloss>mother</gloss> + <link@x-tlb-hl>-disi</link@x-tlb-hl>
-                3<abbr>ani;gen</abbr>
+                <glossary>3ani;gen</glossary>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship
                 Terms</a>
@@ -14183,7 +14187,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きゆ</tinellbian@x-tlb-hl>
                 <gloss>truth</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl>
-                <abbr>inj</abbr>
+                <glossary>inj</glossary>
               date: '2019-02-02'
               position: '7.12'
             saddisi:
@@ -14197,7 +14201,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>sabba</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっば</tinellbian@x-tlb-hl>
                 <gloss>father</gloss> + <link@x-tlb-hl>-disi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                3<abbr>ani;gen</abbr>
+                <glossary>3ani;gen</glossary>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/kinship.html">Kinship
                 Terms</a>
@@ -14209,9 +14213,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>せ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl>)</h3>
-              - <definition>inceptive; to begin; <abbr>inc</abbr></definition>
+              - <definition>inceptive; to begin; <glossary>inc</glossary></definition>
               - <h4>See Also</h4>
-              - <wordlist><block><link@x-tlb-hl>-ar-</link@x-tlb-hl> <abbr>trm</abbr></block></wordlist>
+              - <wordlist><block><link@x-tlb-hl>-ar-</link@x-tlb-hl> <glossary>trm</glossary></block></wordlist>
               date: '2019-02-02'
               position: '8.12'
             silu:
@@ -14366,7 +14370,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽusə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>past gnomic; <abbr>pst;gno;</abbr> always was</definition>
+              - <definition>past gnomic; <glossary>pst;gno;</glossary> always was</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>
                 <gloss>was no longer</gloss>
@@ -14473,7 +14477,7 @@ entries:
               - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>bell</definition>
               - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>element</poslink@x-tlb-hl></hidden></h3>
+                <hidden>element</hidden></h3>
               - <definition>sulphur</definition>
               - <h4>See Also</h4>
               - <desktop>Periodic Table</desktop><mobile>List of Elements</mobile>
@@ -14557,7 +14561,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟi/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>present negative; <abbr>prs;neg;</abbr> is not; isn’t</definition>
+              - <definition>present negative; <glossary>prs;neg;</glossary> is not;
+                isn’t</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>
                 <gloss>not stop doing</gloss>
@@ -14602,13 +14607,13 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>きふよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰɨˈfuɟʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 derived <poslink@x-tlb-hl>ordinal</poslink@x-tlb-hl> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>third, 3<sup>rd</sup></definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl>
                 <gloss>three</gloss> + <link@x-tlb-hl>-uju</link@x-tlb-hl> <tinellbian@x-tlb-hl>・うよ</tinellbian@x-tlb-hl>
-                <abbr>ord</abbr>
+                <glossary>ord</glossary>
               date: '2019-02-25'
               position: '7.20'
             kuli’anaci:
@@ -14629,16 +14634,16 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ga/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be black; to turn black</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu gakka si’apa.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu gakka si’apa.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ がっか ・ せあぱ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> ga<link@x-tlb-hl>-kka</link@x-tlb-hl>
                 <link@x-tlb-hl>si’apa</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> black-<abbr>abp</abbr> meal.</gloss>
-              - “I burnt the meal.”</block></folding>
+              - <gloss><glossary>1int</glossary> black-<glossary>abp</glossary> meal.</gloss></folding>
+              - <translation>“I burnt the meal.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>pajiga</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱじが</tinellbian@x-tlb-hl>
                 <gloss>olive</gloss></block></wordlist>
@@ -14651,8 +14656,8 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to put</definition>
               - <h4>Derived Terms</h4>
-              - <folding><gloss>[f]<link@x-tlb-hl>gajannida</link@x-tlb-hl> <tinellbian@x-tlb-hl>がぢっにだ</tinellbian@x-tlb-hl>
-                to push</gloss></folding>
+              - <link@x-tlb-hl>gajannida</link@x-tlb-hl> <tinellbian@x-tlb-hl>がぢっにだ</tinellbian@x-tlb-hl>
+                to push
               date: '2019-02-25'
               position: '9.18'
             $mala.$ptokonoi:
@@ -14669,16 +14674,17 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmikʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be red; to make red</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔarapahi cani miku.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔarapahi cani miku.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。あらぱひ ・ やに ・ みく。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’ara</link@x-tlb-hl>:<link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 <link@x-tlb-hl>cani</link@x-tlb-hl> miku.
-              - <gloss>face-1<abbr>gen</abbr> <abbr>prs;dyn</abbr> red.</gloss>
-              - “I blushed.”</block></folding>
+              - <gloss>face-<glossary>1gen</glossary> <glossary>prs;dyn</glossary>
+                red.</gloss></folding>
+              - <translation>“I blushed.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>mikumulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みくむを</tinellbian@x-tlb-hl>
                 <gloss>to be crimson</gloss>
@@ -14714,7 +14720,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋɨˈlaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>did not stop being; <abbr>pst;neg</abbr>-<abbr>trm</abbr></definition>
+              - <definition>did not stop being; <glossary>pst;neg</glossary>-<glossary>trm</glossary></definition>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -14757,11 +14763,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋɨˈɕaɽə/</ipa@x-tlb-hl></pronunciation>
               - <h3>inflected <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>stopped being; <abbr>pst;dyn</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>stopped being; <glossary>pst;dyn</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>
-                <abbr>pst;dyn</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl>
-                <abbr>trm</abbr>
+                <glossary>pst;dyn</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | qixara//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl> |
@@ -14916,12 +14922,12 @@ entries:
               - <h4>Definition</h4>
               - ' bring something into physical form from materials'
               - <h4>Example</h4>
-              - <folding><transliteration@x-tlb-hl>ʔusu haru’u’a ’idu ’ita’i.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu haru’u’a ’idu ’ita’i.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ はるうあ ・ いど ・ いたい。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>haru</link@x-tlb-hl>-<link@x-tlb-hl>’u’a</link@x-tlb-hl>
                 <link@x-tlb-hl>’idu</link@x-tlb-hl> <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> with-wood make car.</gloss>
-              - “I built a car from wood.”</folding>
+              - <gloss><glossary>1int</glossary> with-wood make car.</gloss></folding>
+              - <translation>“I built a car from wood.”</translation>
               - <h4>See Also</h4>
               - <wordlist><link@x-tlb-hl>pifa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴへ</tinellbian@x-tlb-hl>
                 <gloss>to make</gloss></wordlist>
@@ -15083,7 +15089,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>buma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶま</tinellbian@x-tlb-hl>
                 <gloss>to draw</gloss> + <link@x-tlb-hl>-ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               date: '2019-02-27'
               position: '7.21'
             tariti:
@@ -15386,7 +15392,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbaɟʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be blue; to turn blue</definition>
               - <h4>Derived Terms</h4>
@@ -15407,7 +15413,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˌɟukʰʉˈnubɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived</hidden>
-                compound <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+                compound <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be sky-blue</definition>
               - <h4>Etymology</h4>
@@ -15427,7 +15433,7 @@ entries:
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>bi’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>びう</tinellbian@x-tlb-hl>
                 <gloss>to hurt</gloss> + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl>
-                <abbr>dim</abbr>
+                <glossary>dim</glossary>
               date: '2019-02-28'
               position: '4.35'
             tapu:
@@ -15484,12 +15490,12 @@ entries:
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to change; to become; (time) passes</definition>
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔu’ili qixa cura.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔu’ili qixa cura.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ういえ ・ ねざ ・ ゆら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’u’ili</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>cura</link@x-tlb-hl>.
-              - <gloss>reality pst;dyn change</gloss>
-              - “The world has changed.”</block></folding>
+              - <gloss>reality pst;dyn change</gloss></folding>
+              - <translation>“The world has changed.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl>
                 <gloss>time</gloss></block></wordlist>
@@ -15584,12 +15590,12 @@ entries:
                 to be <a href="http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs">adjectival</a>
                 verbs.
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu sacu dissu ’ahati.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu sacu dissu ’ahati.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ さゆ ・ でっす ・ あはて。</tinellbian@x-tlb-hl>
-              - <gloss>1<abbr>int</abbr> 2<abbr>abl</abbr> feel happiness.</gloss>
+              - <gloss><glossary>1int</glossary> <glossary>2abl</glossary> feel happiness.</gloss>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>sacu</link@x-tlb-hl>
-                dissu <link@x-tlb-hl>’ahati</link@x-tlb-hl>.
-              - “You make me happy.”</block></folding>
+                dissu <link@x-tlb-hl>’ahati</link@x-tlb-hl>.</folding>
+              - <translation>“You make me happy.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>dissu’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすあはて</tinellbian@x-tlb-hl>
                 <gloss>to be happy</gloss>
@@ -15739,20 +15745,21 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>feel; touch</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu ra’u kunacca cussi.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u kunacca cussi.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ らう ・ くなっや ・ ゆっせ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>ku</link@x-tlb-hl>-<link@x-tlb-hl>nacca</link@x-tlb-hl>
                 <link@x-tlb-hl>cussi</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>prs;sta</abbr> <abbr>dat</abbr>-clothing
-                touch</gloss>
-              - “I feel the clothing.”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu ra’u cussi nacca.</transliteration@x-tlb-hl>
+              - <gloss><glossary>1int</glossary> <glossary>prs;sta</glossary> <glossary>dat</glossary>-clothing
+                touch</gloss></folding>
+              - <translation>“I feel the clothing.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u cussi nacca.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ らう ・ ゆっせ ・ なっや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>cussi</link@x-tlb-hl> <link@x-tlb-hl>nacca</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>prs;sta</abbr> touch clothing.</gloss>
-              - “I touch the clothing.”</block></folding>
+              - <gloss><glossary>1int</glossary> <glossary>prs;sta</glossary> touch
+                clothing.</gloss></folding>
+              - <translation>“I touch the clothing.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>cussi’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせあわ</tinellbian@x-tlb-hl>
                 <gloss>to be hot</gloss>
@@ -15826,7 +15833,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>link; join; wear</definition>
               - <h4>Derived Terms</h4>
@@ -15843,13 +15850,13 @@ entries:
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></h3>
               - <definition>plus</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。きべ ・ よい ・ ぬる ・ あぬ ・ さをみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>ju’i</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>salumi</link@x-tlb-hl>.
-              - <gloss>Three add four equal seven.</gloss>
-              - “Three plus four equals seven.”</block></folding>
+              - <gloss>Three add four equal seven.</gloss></folding>
+              - <translation>“Three plus four equals seven.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’anu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl>
                 <gloss>equal</gloss>
@@ -15866,7 +15873,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>よいさたど</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɟuʔɨsəˈtadʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <hidden>derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to meet</definition>
@@ -15882,7 +15889,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ようを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟʉˈʔulʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 derived <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to take off; to undress</definition>
               - <h4>Etymology</h4>
@@ -15913,7 +15920,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>きっあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰiʔjə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be white; to turn white</definition>
               - <h4>See Also</h4>
@@ -16041,7 +16048,7 @@ entries:
                 <gloss>to sit</gloss> + <link@x-tlb-hl>cadi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やで</tinellbian@x-tlb-hl>
                 <gloss>wall</gloss>
               - <h3>ablative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+                <hidden>intransitive</hidden>
                 <hidden>derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to guard</definition>
               - <h4>Etymology</h4>
@@ -16071,7 +16078,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ぐっねぷっわた</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌguŋːɨˈpʰuʎːəta/</ipa@x-tlb-hl></pronunciation>
-              - <h3>dative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3>dative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <hidden>derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to betray</definition>
               - <h4>Etymology</h4>
@@ -16086,7 +16093,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmalə/</ipa@x-tlb-hl></pronunciation>
               - <h3>ablative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+                <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>reflect</definition>
               - <h4>Derived Terms</h4>
@@ -16143,12 +16150,12 @@ entries:
               - these are just about the only terms of this type. Anything else uses
                 the genitive.
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>daqa ’ala</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>daqa ’ala</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>だげ ・ あわ</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>da</link@x-tlb-hl>-<link@x-tlb-hl>qa</link@x-tlb-hl>
                 <link@x-tlb-hl>’ala</link@x-tlb-hl>
-              - <gloss>water-gen heat</gloss>
-              - “the heat of the water”</block></folding>
+              - <gloss>water-gen heat</gloss></folding>
+              - <translation>“the heat of the water”</translation>
               - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> count <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>temperature degree</definition>
               - <h4>Notes*</h4>
@@ -16186,12 +16193,12 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>move to; there is; there exists; to be in a place</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kimilli ra’u malu.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Kimilli ra’u malu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。きみっえ ・ らう ・まを。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kimilli</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>malu</link@x-tlb-hl>.
-              - <gloss>King <abbr>prs;sta</abbr> exist.</gloss>
-              - “There is a king (over there).”</block></folding>
+              - <gloss>King <glossary>prs;sta</glossary> exist.</gloss></folding>
+              - <translation>“There is a king (over there).”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>tana</link@x-tlb-hl> <tinellbian@x-tlb-hl>たな</tinellbian@x-tlb-hl>
                 <gloss>there is</gloss></block></wordlist>
@@ -16231,7 +16238,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>みくむを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmikʰʉˈmulʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived</hidden>
-                compound <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+                compound <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be crimson</definition>
               - <h4>Etymology</h4>
@@ -16246,7 +16253,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmiʎːʉˈcʰulə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived</hidden>
-                compound <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+                compound <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be light brown; to turn beige</definition>
               - <h4>Etymology</h4>
@@ -16422,7 +16429,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3>
-              - <definition>complementiser; <abbr>com</abbr></definition>
+              - <definition>complementiser; <glossary>com</glossary></definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>ku·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl>
                 <gloss>to the </gloss>～
@@ -16481,8 +16488,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰakʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>past habitual; <abbr>pst;hab</abbr>; did over and over;
-                did repeatedly</definition>
+              - <definition>past habitual; <glossary>pst;hab</glossary>; did over
+                and over; did repeatedly</definition>
               - <h4>Derived Terms</h4>
               - <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>
                 <gloss>stopped doing</gloss>
@@ -16626,7 +16633,7 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to experience</definition>
               - <h4>Derived Terms</h4>
-              - <folding><gloss>[f]<link@x-tlb-hl>qi’axasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねあざせ</tinellbian@x-tlb-hl> to
+              - <folding><folded><gloss><link@x-tlb-hl>qi’axasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねあざせ</tinellbian@x-tlb-hl> to</folded>
                 be mature</gloss>
               - <gloss><link@x-tlb-hl>qi’iku</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねいく</tinellbian@x-tlb-hl> to
                 be hungry</gloss>
@@ -16643,7 +16650,7 @@ entries:
               - <definition>farmer</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>tuhhi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とっひ</tinellbian@x-tlb-hl> <gloss>farm</gloss>
-                + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <abbr>nmn</abbr>
+                + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               date: '2019-03-19'
               position: '3.8'
             qi’axasi:
@@ -16795,13 +16802,13 @@ entries:
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></h3>
               - <definition>divided by</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Sahha saki kifi ’anu guhi.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Sahha saki kifi ’anu guhi.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。さっは ・ さき ・ きべ ・ あぬ ・ ぐひ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>sahha</link@x-tlb-hl> <transliteration@x-tlb-hl>saki</transliteration@x-tlb-hl>
                 <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>guhi</link@x-tlb-hl>.
-              - <gloss>one_zero divide three equal five.</gloss>
-              - “Fifteen divided by three is five.”</block></folding>
+              - <gloss>one_zero divide three equal five.</gloss></folding>
+              - <translation>“Fifteen divided by three is five.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’anu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl> <gloss>equal</gloss>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>plus</gloss>
@@ -17020,7 +17027,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈhuʎːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to have sex</definition>
               - <h4>Derived Terms</h4>
@@ -17055,12 +17062,12 @@ entries:
               - <link@x-tlb-hl>hussu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっす</tinellbian@x-tlb-hl> <gloss>to
                 fall</gloss> + <link@x-tlb-hl>diccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっやは</tinellbian@x-tlb-hl> <gloss>obstacle</gloss>
               - <h4>Example Quotes</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔa’ima tikunatiha hussudiccaha.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔa’ima tikunatiha hussudiccaha.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。あいま ・ てくなては ・ ほっすでっやは。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> <link@x-tlb-hl>tiku</link@x-tlb-hl>-<link@x-tlb-hl>natiha</link@x-tlb-hl>
                 hussudiccaha.
-              - <gloss>traveller around-box trip.</gloss>
-              - “The wanderer tripped over the box.”</block></folding>
+              - <gloss>traveller around-box trip.</gloss></folding>
+              - <translation>“The wanderer tripped over the box.”</translation>
               date: '2019-03-19'
               position: '14.38'
             hussudifi:
@@ -17114,19 +17121,19 @@ entries:
               - <h3><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3>
               - <definition>as, equalative</definition>
               - <h4>Examples</h4>
-              - <block><folding><transliteration@x-tlb-hl>ʔusu kafilli miku.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu kafilli miku.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ かべっえ ・ みく。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ka</link@x-tlb-hl>-<link@x-tlb-hl>filli</link@x-tlb-hl>
                 <link@x-tlb-hl>miku</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> as-2<abbr>int</abbr> red.</gloss>
-              - “I am as red as you.”</folding></block>
+              - <gloss><glossary>1int</glossary> as-<glossary>2int</glossary> red.</gloss></folding>
+              - <translation>“I am as red as you.”</translation>
               - <h4>See Also</h4>
-              - <block><wordlist><link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>superlative</gloss>
-              - <link@x-tlb-hl>piba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば</tinellbian@x-tlb-hl> <gloss>comparative</gloss></wordlist></block>
+              - <wordlist><block><link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>superlative</gloss>
+              - <link@x-tlb-hl>piba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば</tinellbian@x-tlb-hl> <gloss>comparative</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> / <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>nation; state</definition>
-              date: '2024-04-30'
+              date: '2024-05-01'
               position: '1.0'
             kala:
               text:
@@ -17157,9 +17164,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>う</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔu/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+                <hidden>number</hidden> <hidden>particle</hidden></h3>
               - <definition><symbol>e</symbol>; the base of the natural logarithm</definition>
               date: '2019-04-28'
               position: '5.74'
@@ -17198,9 +17205,9 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>どあみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/dʉˈʔamɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>number</poslink@x-tlb-hl></hidden>
-                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></hidden></h3>
+              - <h3><hidden>mathematics</hidden>
+                <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden>
+                <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></h3>
               - <definition><symbol>i</symbol>; the imaginary unit</definition>
               - <h4>Definition</h4>
               - The square root of <overbar>1</overbar> (<a>../r/rone.html#english|rone</a>)
@@ -17314,7 +17321,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>べし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈfiɕɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition><symbol>τ</symbol>; <symbol>2π</symbol>; the circle constant</definition>
               - <h4>Definition</h4>
@@ -17391,7 +17398,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmisːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>-4; <overbar>4</overbar>; <a>../r/rour.html#english|rour</a>;
                 minus four</definition>
@@ -17431,7 +17438,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈhakʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>-7; <overbar>7</overbar>; <link@x-tlb-hl>reven</link@x-tlb-hl>;
                 minus seven</definition>
@@ -17452,19 +17459,19 @@ entries:
               - <h4>Derived Terms</h4>
               - <wordlist><link@x-tlb-hl>qacca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss></wordlist>
               - <h4>Example Sentences</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu qacca ’iti.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu qacca ’iti.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ げっや ・ いて。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> qacca <link@x-tlb-hl>’iti</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> choose milk.</gloss>
-              - <gloss>lit. “I choose milk.”</gloss>
-              - “I’ll have the milk.”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu ku’iti qacca.</transliteration@x-tlb-hl>
+              - <gloss><glossary>1int</glossary> choose milk.</gloss>
+              - <gloss>lit. “I choose milk.”</gloss></folding>
+              - <translation>“I’ll have the milk.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu ku’iti qacca.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ くいて ・ げっや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ku-</link@x-tlb-hl><link@x-tlb-hl>’iti</link@x-tlb-hl>
                 <link@x-tlb-hl>qacca</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>dat</abbr>-milk choose</gloss>
-              - <gloss>lit. “I choose towards milk.”</gloss>
-              - “I prefer milk.”</block></folding>
+              - <gloss><glossary>1int</glossary> <glossary>dat</glossary>-milk choose</gloss>
+              - <gloss>lit. “I choose towards milk.”</gloss></folding>
+              - <translation>“I prefer milk.”</translation>
               date: '2019-05-02'
               position: '13.17'
             ’iti:
@@ -17502,7 +17509,7 @@ entries:
               - <definition>prostitute</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>nammu</link@x-tlb-hl> <gloss>brothel</gloss> + <link@x-tlb-hl>-rra</link@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               date: '2019-05-03'
               position: '7.24'
             ’ara:
@@ -17538,7 +17545,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>うっし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔuɕːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>group of people</definition>
               - <h4>Synonyms</h4>
@@ -17570,7 +17577,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbatʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>collection; group; store</definition>
               - <h4>Definition</h4>
@@ -17584,13 +17591,13 @@ entries:
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl> <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3>
               - <definition>multiplied by</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kifi batu nuru ’anu sabila</transliteration@x-tlb-hl>.
+              - <folding><folded><transliteration@x-tlb-hl>Kifi batu nuru ’anu sabila</transliteration@x-tlb-hl>.</folded>
               - <tinellbian@x-tlb-hl>。きべ ・ ばと ・ ぬる ・ あぬ ・ さびっわ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>batu</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>bila</link@x-tlb-hl>.
-              - <gloss>three multiple four equal one-ree.</gloss>
-              - “Three times four is twelve.”</block></folding>
+              - <gloss>three multiple four equal one-ree.</gloss></folding>
+              - <translation>“Three times four is twelve.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’anu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl> <gloss>equal</gloss>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>plus</gloss>
@@ -17615,7 +17622,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>たぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰanʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>study; action</definition>
               - <h4>Examples</h4>
@@ -17629,7 +17636,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>place; location in space</definition>
               - <h4>Derived Terms</h4>
@@ -17649,11 +17656,11 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to close; to fill</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Suma turu gurrisu.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Suma turu gurrisu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。すま ・ とる ・ ぐっりす。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>suma</link@x-tlb-hl> turu <link@x-tlb-hl>gurrisu</link@x-tlb-hl>.
-              - <gloss>1<abbr>tra</abbr> close door.</gloss>
-              - “I closed the door.”</block></folding>
+              - <gloss><glossary>1tra</glossary> close door.</gloss></folding>
+              - <translation>“I closed the door.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>turulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to
                 open up</gloss>
@@ -17820,22 +17827,23 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>げぴ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋapʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>chain; rope; string; collection</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>musaqapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさげぴ</tinellbian@x-tlb-hl> <gloss>week</gloss></block></wordlist>
               - <h4>Derived Phrases</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔumi ru xiku racaxa laru
+              - <folding><folded><transliteration@x-tlb-hl>ʔumi ru xiku racaxa laru</folded>
                 ru qapi.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。うみ ・ る ・ しく ・ らやざ ・ わる ・ る ・ げぴ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’umi</link@x-tlb-hl> <link@x-tlb-hl>xiku</link@x-tlb-hl>
                 <link@x-tlb-hl>-xa</link@x-tlb-hl> <link@x-tlb-hl>la</link@x-tlb-hl>-<link@x-tlb-hl>ru</link@x-tlb-hl>
                 <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>qapi</link@x-tlb-hl>.
-              - <gloss>Something <abbr>prs;gno</abbr> <abbr>rel</abbr> hang-<abbr>dtv</abbr>
-                do-<abbr>ger</abbr> <abbr>prs;gno</abbr> rope.</gloss>
-              - '<gloss>lit: “Doing is the rope that something is hung from.”</gloss>'
-              - “Activity is the surest path to doing something.”</block></folding>
+              - <gloss>Something <glossary>prs;gno</glossary> <glossary>rel</glossary>
+                hang-<glossary>dtv</glossary> do-<glossary>ger</glossary> <glossary>prs;gno</glossary>
+                rope.</gloss>
+              - '<gloss>lit: “Doing is the rope that something is hung from.”</gloss><folding>'
+              - <translation>“Activity is the surest path to doing something.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>batu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl> <gloss>collection</gloss></block></wordlist>
               date: '2019-05-04'
@@ -17929,7 +17937,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>せかひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sɨˈkʰahɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>generic</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>generic</hidden>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3>
               - <definition>shape; form</definition>
               - <h4>Derived Terms</h4>
@@ -17943,7 +17951,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>せさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsisə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl>
-                <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+                <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be in contact</definition>
               - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>negative</poslink@x-tlb-hl>
@@ -17961,18 +17969,18 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>かる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈhaɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to accompany</definition>
               - <h4>Negative Complement</h4>
               - <wordlist><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss></wordlist>
               - <h4>Examples</h4>
-              - <folding><transliteration@x-tlb-hl>ʔa’ima haru sada.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔa’ima haru sada.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。あいま ・ はる ・ さだ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> <link@x-tlb-hl>haru</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl>-<link@x-tlb-hl>da</link@x-tlb-hl>.
-              - <gloss>Traveller accompany solitude-negative_aspect.</gloss>
-              - “The traveller is lonely.”</folding>
+              - <gloss>Traveller accompany solitude-negative_aspect.</gloss></folding>
+              - <translation>“The traveller is lonely.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to
                 be alone</gloss></wordlist>
@@ -17981,10 +17989,10 @@ entries:
               - <h3>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3>
               - <definition>at the same time; alongside; while; as</definition>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>will quit; will stop doing; <abbr>fut;hab</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>will quit; will stop doing; <glossary>fut;hab</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>hu</link@x-tlb-hl> <abbr>fut;hab</abbr> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
-                <abbr>trm</abbr>
+              - <link@x-tlb-hl>hu</link@x-tlb-hl> <glossary>fut;hab</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
+                <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -18059,7 +18067,7 @@ entries:
               - <definition>my object; mine</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>pagu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐ</tinellbian@x-tlb-hl> <gloss>my</gloss>
-                + <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <abbr>nmn</abbr>
+                + <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>baqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばげ</tinellbian@x-tlb-hl> <gloss>yours</gloss>
               - <link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl> <gloss>hers</gloss></block></wordlist>
@@ -18175,7 +18183,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰalʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>third person inanimate ablative; <abbr>3ina;abl;</abbr>
+              - <definition>third person inanimate ablative; <glossary>3ina;abl;</glossary>
                 because of it; from it</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
@@ -18365,13 +18373,13 @@ entries:
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></h3>
               - <definition>exponential; power</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Kifi calu ra ’anu sahaki.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Kifi calu ra ’anu sahaki.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。きべ ・ やを ・ ら ・ あぬ ・ さはき。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>calu</link@x-tlb-hl>
                 <link@x-tlb-hl>ra</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl>.
-              - <gloss>three power two equal one-reven.</gloss>
-              - “Two cubed is eight.”</block></folding>
+              - <gloss>three power two equal one-reven.</gloss></folding>
+              - <translation>“Two cubed is eight.”</translation>
               date: '2019-05-12'
               position: '8.18'
             cussa:
@@ -18397,7 +18405,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>よいどく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟuʔɨˌdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl> <hidden>intransitive</hidden>
                 <hidden>derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to marry</definition>
@@ -18451,7 +18459,7 @@ entries:
                 loves</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>lu’i</link@x-tlb-hl> <gloss>to love</gloss> + <link@x-tlb-hl>-ki</link@x-tlb-hl>
-                <abbr>nmn</abbr>
+                <glossary>nmn</glossary>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual
                 plane</gloss>
@@ -18526,7 +18534,7 @@ entries:
                 <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
                 / <poslink@x-tlb-hl>verb</poslink@x-tlb-hl>)</h3>
               - <definition>diminutive; derives a term of lesser intensity or size
-                from another term; <abbr>dim</abbr></definition>
+                from another term; <glossary>dim</glossary></definition>
               - <h4>Notes</h4>
               - Obscene when added to a noun referring to a person.
               - <h4>Example</h4>
@@ -18559,7 +18567,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>みほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmihʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>they; she; he; third person animate intransitive; 3<abbr>ani;int</abbr></definition>
+              - <definition>they; she; he; third person animate intransitive; <glossary>3ani;int</glossary></definition>
               - <h4>See Also</h4>
               - <table><thead>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate</thead>
@@ -18632,9 +18640,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsuʔə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>they; he; she; third person topic intransitive; 3<abbr>top;int</abbr>
-              - them; her; him; third person topic transitive; 3<abbr>top;tra</abbr>
-              - theirs; his; hers; third person topic genitive; 3<abbr>top;gen</abbr></definition>
+              - <definition>they; he; she; third person topic intransitive; <glossary>3top;int</glossary>
+              - them; her; him; third person topic transitive; <glossary>3top;tra</glossary>
+              - theirs; his; hers; third person topic genitive; <glossary>3top;gen</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -18801,12 +18809,12 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to consume; to eat; to chew; to suck; to lick; to drink</definition>
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>xu’a dasi da.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>xu’a dasi da.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ずあ ・ だせ ・ だ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>xu’a</link@x-tlb-hl> <transliteration@x-tlb-hl>dasi</transliteration@x-tlb-hl>
                 <link@x-tlb-hl>da</link@x-tlb-hl>.
-              - <gloss>bird consume water.</gloss>
-              - “The bird is drinking water.”</block></folding>
+              - <gloss>bird consume water.</gloss></folding>
+              - <translation>“The bird is drinking water.”</translation>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>dasiffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だせっべ</tinellbian@x-tlb-hl> <gloss>cutlery</gloss>
               - <link@x-tlb-hl>dasippa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だせせっぱ</tinellbian@x-tlb-hl> <gloss>mealtime</gloss>
@@ -18850,10 +18858,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰəˈkʰaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>had stopped doing; <abbr>pst;hab</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>had stopped doing; <glossary>pst;hab</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl> <abbr>pst;hab</abbr>
-                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <abbr>trm</abbr>
+              - <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl> <glossary>pst;hab</glossary>
+                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -18899,24 +18907,24 @@ entries:
                 dative <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to take away from someone</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔaggami pi kalutuhhisa tali
+              - <folding><folded><transliteration@x-tlb-hl>ʔaggami pi kalutuhhisa tali</folded>
                 ’ita’i.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。あっがみ ・ ぴ ・ かをとっひさ ・ たえ ・ いたい。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl>
                 <link@x-tlb-hl>kalu-</link@x-tlb-hl><link@x-tlb-hl>tuhhisa</link@x-tlb-hl>
                 tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
-              - <gloss>Policeōfficer <abbr>pst;sta</abbr> <abbr>abl</abbr>-farmer
-                take car.</gloss>
-              - “The police officer took the car from the farmer.”</block></folding>
+              - <gloss>Policeōfficer <glossary>pst;sta</glossary> <glossary>abl</glossary>-farmer
+                take car.</gloss></folding>
+              - <translation>“The police officer took the car from the farmer.”</translation>
               - <h3><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></h3>
               - <definition>subtract; minus</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Qihha tali bila ’anu kifi.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>Qihha tali bila ’anu kifi.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ねっは ・ たえ ・ びわ ・ あぬ ・ きべ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>qihha</link@x-tlb-hl> tali <link@x-tlb-hl>bila</link@x-tlb-hl>
                 <link@x-tlb-hl>’anu</link@x-tlb-hl> <link@x-tlb-hl>kifi</link@x-tlb-hl>.
-              - <gloss>Zero take ree equal three.</gloss>
-              - “Zero subtract minus three equals three.”</block></folding>
+              - <gloss>Zero take ree equal three.</gloss></folding>
+              - <translation>“Zero subtract minus three equals three.”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’anu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぬ</tinellbian@x-tlb-hl> <gloss>equal</gloss>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>plus</gloss>
@@ -19022,7 +19030,7 @@ entries:
               - <h3>derived <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>sky</definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <abbr>dat</abbr>
+              - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <glossary>dat</glossary>
                 + <link@x-tlb-hl>Nubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬび</tinellbian@x-tlb-hl> <gloss>Nuobi</gloss>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>kunubitu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl> <gloss>plains</gloss>
@@ -19075,12 +19083,12 @@ entries:
               - <h4>Notes</h4>
               - most often used as a prefix for adverbial location clauses
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu dasi ma’adi, nara.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu dasi ma’adi, nara.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ だせ ・まあで 、 なら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>dasi</link@x-tlb-hl>
                 ma-<link@x-tlb-hl>’adi</link@x-tlb-hl>, <link@x-tlb-hl>nara</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> eat where-near, sleep.</gloss>
-              - “I eat near where I sleep.”</block></folding>
+              - <gloss><glossary>1int</glossary> eat where-near, sleep.</gloss></folding>
+              - <translation>“I eat near where I sleep.”</translation>
               - <pronunciation><ipa@x-tlb-hl>/ma/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
@@ -19103,7 +19111,7 @@ entries:
               - <definition>mirror</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>mala</link@x-tlb-hl> <tinellbian@x-tlb-hl>まわ</tinellbian@x-tlb-hl> <gloss>reflect</gloss>
-                + <link@x-tlb-hl>-ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <abbr>nmn</abbr>
+                + <link@x-tlb-hl>-ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               date: '2019-05-26'
               position: '7.27'
             -mari:
@@ -19273,7 +19281,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmiʎːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl></hidden>
+              - <h3><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>adjectival</hidden>
                 <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to be brown; to turn brown</definition>
               - <h4>Derived Terms</h4>
@@ -19385,10 +19393,10 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽʉˈkʰaɽʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>will stop being; <abbr>fut;gno</abbr>-<abbr>trm</abbr></definition>
+              - <definition>will stop being; <glossary>fut;gno</glossary>-<glossary>trm</glossary></definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl> <abbr>fut;gno</abbr>
-                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <abbr>trm</abbr>
+              - <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl> <glossary>fut;gno</glossary>
+                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
@@ -19513,7 +19521,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ふ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/fu/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>second person transitive; 2<abbr>tra</abbr>; you</definition>
+              - <definition>second person transitive; <glossary>2tra</glossary>; you</definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -19767,17 +19775,18 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to create <gloss>ex nihilo</gloss>; to make</definition>
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>pifa sinna</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>pifa sinna</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>ぴへ ・ せっな</tinellbian@x-tlb-hl>
               - <gloss>create story</gloss>
-              - <link@x-tlb-hl>pifa</link@x-tlb-hl> <link@x-tlb-hl>sinna</link@x-tlb-hl>
-              - “to write a book”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>pifilluqixa faʔa</transliteration@x-tlb-hl>
+              - <link@x-tlb-hl>pifa</link@x-tlb-hl> <link@x-tlb-hl>sinna</link@x-tlb-hl></folding>
+              - <translation>“to write a book”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>pifilluqixa faʔa</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>ぴべっをねざ ・ へっあ</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>pifa</link@x-tlb-hl><link@x-tlb-hl>-illu</link@x-tlb-hl>-<link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>faʔa</link@x-tlb-hl>
-              - <gloss>create-<abbr>psv</abbr>-<abbr>pst;dyn</abbr> language</gloss>
-              - “conlang”</block></folding>
+              - <gloss>create-<glossary>psv</glossary>-<glossary>pst;dyn</glossary>
+                language</gloss></folding>
+              - <translation>“conlang”</translation>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>’idu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いど</tinellbian@x-tlb-hl> <gloss>to
                 make</gloss></block></wordlist>
@@ -19802,11 +19811,11 @@ entries:
               - <h4>Definition</h4>
               - Against expectations.
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔili ra’u?</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔili ra’u?</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。いえ ・ らう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’ili</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>?
-              - <gloss>really prs;gno?</gloss>
-              - “Really?”</block></folding>
+              - <gloss>really prs;gno?</gloss></folding>
+              - <translation>“Really?”</translation>
               date: '2019-06-16'
               position: '5.49'
             piddi:
@@ -19824,7 +19833,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぷっと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈpʰutːʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>first person ablative; because of me; from me; 1<abbr>abl</abbr></definition>
+              - <definition>first person ablative; because of me; from me; <glossary>1abl</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -19946,25 +19955,27 @@ entries:
               - <definition>experience; <gloss>it exists; it happened; experience;
                 it could happen</gloss></definition>
               - <h4>Examples</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu qixa lu’i da’aru.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu qixa lu’i da’aru.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ ねざ ・ をい ・ だある。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>lu’i</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>pst;dyn</abbr> love exist.</gloss>
-              - “I have fallen in love before.”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu lanu lu’i da’aru.</transliteration@x-tlb-hl>
+              - <gloss><glossary>1int</glossary> <glossary>pst;dyn</glossary> love
+                exist.</gloss></folding>
+              - <translation>“I have fallen in love before.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu lanu lu’i da’aru.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ わぶ ・ をい ・ だある。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>lanu</link@x-tlb-hl>
                 <link@x-tlb-hl>lu’i</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>fut;dyn</abbr> love exist.</gloss>
-              - “I could fall in love.”</block></folding>
-              - <folding><block><transliteration@x-tlb-hl>Fu ’usa kuddu da’aru qixa?</transliteration@x-tlb-hl>
+              - <gloss><glossary>1int</glossary> <glossary>fut;dyn</glossary> love
+                exist.</gloss></folding>
+              - <translation>“I could fall in love.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>Fu ’usa kuddu da’aru qixa?</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。ふ ・ うさ ・ くっど ・ だある ・ ねざ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>fu</link@x-tlb-hl> <link@x-tlb-hl>’usa</link@x-tlb-hl>
                 <link@x-tlb-hl>kuddu</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>
                 <link@x-tlb-hl>qixa</link@x-tlb-hl>?
-              - <gloss>2<abbr>tra</abbr> see rain experience <abbr>pst;dyn</abbr>?</gloss>
-              - “Have you ever seen the rain?”</block></folding>
+              - <gloss><glossary>2tra</glossary> see rain experience <glossary>pst;dyn</glossary>?</gloss></folding>
+              - <translation>“Have you ever seen the rain?”</translation>
               date: '2019-06-16'
               position: '5.69'
             dapi:
@@ -19982,7 +19993,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>だと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdatʰʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></h3>
-              - <definition>to him; to her; 3<abbr>top;dat</abbr></definition>
+              - <definition>to him; to her; <glossary>3top;dat</glossary></definition>
               - <h4>See Also</h4>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -20082,15 +20093,15 @@ entries:
               - Does not imply anything about success or failure.
               - When used with ablative promotion, gives nuance of <gloss>encouraged</gloss>.
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>Quhu kupaji dasikka mihu
+              - <folding><folded><transliteration@x-tlb-hl>Quhu kupaji dasikka mihu</folded>
                 dumi.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。もほ ・ くぱじ ・ だせっか ・ みほ ・ どみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>quhu</link@x-tlb-hl> <link@x-tlb-hl>ku-</link@x-tlb-hl><link@x-tlb-hl>paji</link@x-tlb-hl>
                 <link@x-tlb-hl>dasi</link@x-tlb-hl><link@x-tlb-hl>-kka</link@x-tlb-hl>
                 <link@x-tlb-hl>mihu</link@x-tlb-hl> dumi.
-              - <gloss><abbr>3tra</abbr> <abbr>dat-fruit eat-abp</abbr> <abbr>3int</abbr>
-                try.</gloss>
-              - “She encouraged him to eat fruit.”</block></folding>
+              - <gloss><glossary>3tra</glossary> <glossary>dat-fruit eat-abp</glossary>
+                <glossary>3int</glossary> try.</gloss></folding>
+              - <translation>“She encouraged him to eat fruit.”</translation>
               date: '2019-06-16'
               position: '9.12'
             dura:
@@ -20823,7 +20834,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋiɕə/</ipa@x-tlb-hl></pronunciation>
               - <h3><poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>did; past dynamic; <abbr>pst;dyn</abbr></definition>
+              - <definition>did; past dynamic; <glossary>pst;dyn</glossary></definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl> <gloss>stopped
                 doing</gloss></block></wordlist>
@@ -20912,14 +20923,14 @@ entries:
               - <h3><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>ability; <gloss>is possible</gloss>; <gloss>can</gloss></definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu cani sacu dasi fuca.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu cani sacu dasi fuca.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ らう ・ さゆ ・ だせ ・ ふや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>cani</link@x-tlb-hl>
                 <link@x-tlb-hl>sacu</link@x-tlb-hl> <link@x-tlb-hl>dasi</link@x-tlb-hl>
                 <link@x-tlb-hl>fuca</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>prs;dyn</abbr> 2<abbr>abl</abbr> eat
-                can.</gloss>
-              - “I can eat now that you’re here.”</block></folding>
+              - <gloss><glossary>1int</glossary> <glossary>prs;dyn</glossary> <glossary>2abl</glossary>
+                eat can.</gloss></folding>
+              - <translation>“I can eat now that you’re here.”</translation>
               date: '2019-06-16'
               position: '10.6'
             satta:
@@ -21142,7 +21153,7 @@ entries:
               - <definition>depression</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
-                + <link@x-tlb-hl>-aku</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> <abbr>aug</abbr>
+                + <link@x-tlb-hl>-aku</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あく</tinellbian@x-tlb-hl> <glossary>aug</glossary>
               date: '2019-07-07'
               position: '7.36'
             ’uccadama:
@@ -21196,7 +21207,7 @@ entries:
               - <definition>potato chips; crisps; hot chips</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>rana</link@x-tlb-hl> <tinellbian@x-tlb-hl>らな</tinellbian@x-tlb-hl> <gloss>potato</gloss>
-                + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> <abbr>dim</abbr>
+                + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>・いに</tinellbian@x-tlb-hl> <glossary>dim</glossary>
               - <h4>See Also</h4>
               - <a>../search.html?term=food|Food and Drink</a>
               date: '2019-07-07'
@@ -21321,14 +21332,14 @@ entries:
               - <h3><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
                 ( <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> / <poslink@x-tlb-hl>verb</poslink@x-tlb-hl>
                 → interjection )</h3>
-              - <definition>interjection marker; <abbr>inj</abbr></definition>
+              - <definition>interjection marker; <glossary>inj</glossary></definition>
               position: '1.0'
             guhi:
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈguhɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></h3>
               - <definition>5; five</definition>
               - <h4>See Also</h4>
@@ -21366,12 +21377,12 @@ entries:
               - <definition>goodbye; good night</definition>
               - <h4>Etymology</h4>
               - <strong>nara</strong> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to
-                sleep</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl> <abbr>inj</abbr>
+                sleep</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
               - <h3>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3>
-              - <definition>to finish doing; <abbr>prs;hab</abbr>&lt;<abbr>trm</abbr>&gt;</definition>
+              - <definition>to finish doing; <glossary>prs;hab</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <h4>Etymology</h4>
-              - <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl> <abbr>prs;hab</abbr>
-                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <abbr>trm</abbr>
+              - <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl> <glossary>prs;hab</glossary>
+                + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
               - <h4>See Also</h4>
               - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
               - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl> <gloss>|
@@ -21417,11 +21428,11 @@ entries:
               - <h3><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</h3>
               - <definition>sorry; pardon</definition>
               - <h4>Example</h4>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu qarihu.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu qarihu.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ げりほ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> qarihu.
-              - <gloss>1<abbr>int</abbr> pardon.</gloss>
-              - “I’m sorry” / “I beg your pardon”</block></folding>
+              - <gloss><glossary>1int</glossary> pardon.</gloss></folding>
+              - <translation>“I’m sorry” / “I beg your pardon”</translation>
               position: '10.6'
             rive:
               text:
@@ -21440,7 +21451,7 @@ entries:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>よせて</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟʉˈsitɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3><hidden><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></hidden>
+              - <h3><hidden>mathematics</hidden>
                 <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3>
               - <definition>-6; <overbar>6</overbar>; <a>../r/rix.html#english|rix</a>;
                 minus six; negative six</definition>
@@ -21539,20 +21550,20 @@ entries:
                 scream</gloss>
               - <block><link@x-tlb-hl>gufu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl> <gloss>radio</gloss></block></wordlist>
               - <h4>Examples</h4>
-              - <folding><transliteration@x-tlb-hl>ʔusu jusi ’i li lu’i fu ra’u.</transliteration@x-tlb-hl>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu jusi ’i li lu’i fu ra’u.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ よせ ・ い ・ え ・ をい ・ ふ ・ らう 。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>jusi</link@x-tlb-hl>
                 ’i <link@x-tlb-hl>li</link@x-tlb-hl> <link@x-tlb-hl>fu</link@x-tlb-hl>
                 <link@x-tlb-hl>ra’u</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> <abbr>3dat</abbr> say <abbr>com</abbr> love
-                2<abbr>tra</abbr> <abbr>prs;sta</abbr>.</gloss>
-              - “I told her that I love you.”</folding>
-              - <folding><block><transliteration@x-tlb-hl>ʔusu palu’i ’i.</transliteration@x-tlb-hl>
+              - <gloss><glossary>1int</glossary> <glossary>3dat</glossary> say <glossary>com</glossary>
+                love <glossary>2tra</glossary> <glossary>prs;sta</glossary>.</gloss></folding>
+              - <translation>“I told her that I love you.”</translation>
+              - <folding><folded><transliteration@x-tlb-hl>ʔusu palu’i ’i.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす ・ ぱをい ・ い。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>pa</link@x-tlb-hl>-<link@x-tlb-hl>lu’i</link@x-tlb-hl>
                 <link@x-tlb-hl>’i</link@x-tlb-hl>.
-              - <gloss>1<abbr>int</abbr> towards-love speak.</gloss>
-              - “I talked about love.”</block></folding>
+              - <gloss><glossary>1int</glossary> towards-love speak.</gloss></folding>
+              - <translation>“I talked about love.”</translation>
               date: '2019-09-08'
               position: '1.0'
             buma:
@@ -21597,7 +21608,7 @@ entries:
               - <definition>radio operator</definition>
               - <h4>Etymology</h4>
               - <link>gufu’i</link> <tinellbian>ぐふい</tinellbian> <gloss>radio transmission</gloss>
-                + <link>-ri</link> <tinellbian>り</tinellbian> <abbr>nmn</abbr>
+                + <link>-ri</link> <tinellbian>り</tinellbian> <glossary>nmn</glossary>
               - <h3><poslink@x-tlb-hl>derived</poslink@x-tlb-hl> <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>radio receiver</definition>
