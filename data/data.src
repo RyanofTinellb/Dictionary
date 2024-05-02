@@ -17030,10 +17030,10 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to drop; to fall; to move down; to be low</definition>
               - <h4>Derived Terms</h4>
-              - <block><wordlist><link@x-tlb-hl>hussudiccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl> <gloss>to
+              - <wordlist><block><link@x-tlb-hl>hussudiccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl> <gloss>to
                 trip over</gloss>
               - <link@x-tlb-hl>hussudifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでべ</tinellbian@x-tlb-hl> <gloss>to
-                nod</gloss></wordlist></block>
+                nod</gloss></block></wordlist>
               date: '2024-05-02'
               position: '9.11'
             hussudiccaha:

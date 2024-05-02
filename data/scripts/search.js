@@ -1,5 +1,5 @@
 var URL = '../data/assets/wordlist.json';
-var BACKUP_URL = 'searching.json';
+var BACKUP_URL = '../data/assets/searching.json';
 const HREF = window.location.href;
 const QUERY = HREF.split('?')[1];
 const SEARCH = document.getElementById('term');
@@ -144,6 +144,7 @@ function multiTermSearch(arr, terms) {
 }
 
 function oneTermSearch(arr, term) {
+    console.log('ata', arr, term);
     pages = arr.terms[term];
     text = [];
     for (page in pages) {

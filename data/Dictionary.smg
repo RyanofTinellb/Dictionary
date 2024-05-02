@@ -1,11 +1,11 @@
 assets:
-  searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\searching.json
+  searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - kissatanu
+  - hussu
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
