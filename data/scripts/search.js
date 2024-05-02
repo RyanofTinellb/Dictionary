@@ -37,6 +37,7 @@ if (HREF.indexOf('?') != -1 &&
 
 async function search(terms) {
     let data;
+    let results;
     if (!terms) {
         results = '';
     } else {

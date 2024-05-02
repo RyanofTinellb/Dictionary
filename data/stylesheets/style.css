@@ -122,6 +122,10 @@ main .wordlist {
 	padding-bottom: 0.5em;
 }
 
+main .gloss {
+	font-style: italic;
+}
+
 main abbr.glossary {
 	font-variant: small-caps;
 	font-style: normal;

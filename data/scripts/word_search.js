@@ -1,5 +1,5 @@
 /* Goes directly to an inputted word*/
-console.log(MARKDOWN)
+console.log(MARKDOWN);
 
 
 function search() {
@@ -15,12 +15,12 @@ function findInitial(text) {
 }
 
 function createUrl(text) {
-    return `${sellCaps(markdown(text))}.html`
+    return `${text}.html`
 }
 
 function sellCaps(text) {
     return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
-               .replace(' ', '.');
+        .replace(' ', '.');
 }
 
 function markdown(text) {
@@ -32,8 +32,9 @@ function markdown(text) {
 
 function wordsearch() {
     let term = search();
+    let lex = window.location.href.includes('lex') ? '' : 'lex/';
     if (term) {
-        window.location.href = term;
+        window.location.href = lex + term;
     }
 }
 

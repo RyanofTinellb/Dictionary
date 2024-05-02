@@ -12,7 +12,7 @@ gloss:
   props:
     italics: true
   type: span
-  key: i
+  key: Alt-g
 translation:
   type: div
 table:
@@ -46,6 +46,9 @@ overbar:
   type: span
 sup: {}
 sub: {}
+b:
+  props:
+    bold: true
 universe:
   type: span
 note:
@@ -64,6 +67,9 @@ h2:
     justification: centre
   key: KeyPress-1
   type: heading
+  open: <h2
+  pipe: '>'
+  param: id="$url(text)$"|$text$
 poslink:
   props:
     underline: true
@@ -133,8 +139,8 @@ link:
   open: <a href="
   pipe: '">'
   close: </a>
-  param: $text$.html|$text$
-  key: N
+  param: $text$.html#$url(lookup:lang)$|$text$
+  key: l
   rank: -50
   language: true
 a:
@@ -151,6 +157,10 @@ native-script:
   type: div
 pronunciation:
   type: div
+  props:
+    justification: centre
+    top: 10
+    bottom: 25
 introduction:
   type: div
 javascript:

@@ -5,12 +5,16 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - -muka
+  - tirusi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - xita
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
   glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
   ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\phonologies.yml
+  lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 locations:
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\special\search.html
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
