@@ -1,4 +1,4 @@
-var URL = 'wordlist.json';
+var URL = '../data/assets/wordlist.json';
 var BACKUP_URL = 'searching.json';
 const HREF = window.location.href;
 const QUERY = HREF.split('?')[1];
@@ -243,7 +243,7 @@ function display(entries) {
 }
 
 function createLine(entry) {
-    return `<li><a href="${createUrl(entry.t)}">${entry.t}</a> `
+    return `<li><a href="../lex/${createUrl(entry.t)}">${entry.t}</a> `
         + `(${entry.l}) `
         + `<em>${entry.m}</em></li>`;
 }

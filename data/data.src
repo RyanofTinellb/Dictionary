@@ -676,7 +676,7 @@ entries:
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>’usapacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさぱっや</tinellbian@x-tlb-hl>
                 <gloss>to count</gloss>
-              - <link@x-tlb-hl>kipa@x-tlb-hlcca</link@x-tlb-hl> <tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>kipacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl>
                 <gloss>to increase in number</gloss></block></wordlist>
             pacadu:
               date: '2018-03-28'
@@ -723,8 +723,7 @@ entries:
               - <definition>superlative; maximum; most; deep in colour</definition>
               - <h4>Examples</h4>
               - <wordlist><block><strong>piba</strong> <link@x-tlb-hl>dasi</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>ぴば だせ</tinellbian@x-tlb-hl> <gloss>eat the
-                most</gloss>
+                <tinellbian@x-tlb-hl>ぴば だせ</tinellbian@x-tlb-hl> <gloss>eat the most</gloss>
               - <strong>piba</strong> <link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば
                 みく</tinellbian@x-tlb-hl> <gloss>deep red</gloss>
               - <strong>piba</strong> <link@x-tlb-hl>kuppu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば
@@ -1456,7 +1455,7 @@ entries:
                 <gloss>gold</gloss>
               - ↑ <link@x-tlb-hl>qala</link@x-tlb-hl> <tinellbian@x-tlb-hl>げわ</tinellbian@x-tlb-hl>
                 <gloss>palladium</gloss>
-              - ↓ <link@x-tlb-hl>na’ipa@x-tlb-hl</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl>
+              - ↓ <link@x-tlb-hl>na’ipa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl>
                 <gloss>darmstadtium</gloss></block></wordlist>
             jalla:
               date: '2018-03-30'
@@ -5329,8 +5328,8 @@ entries:
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><desktop>Periodic
                 Table</desktop><mobile>List of Elements</mobile></a>
               - <a>../search.html?term=substance|Other Substances</a>
-              - <wordlist><block>← <link@x-tlb-hl>na’ipa@x-tlb-hl</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl> <gloss>darmstadtium</gloss>
+              - <wordlist><block>← <link@x-tlb-hl>na’ipa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl>
+                <gloss>darmstadtium</gloss>
               - → <link@x-tlb-hl>hatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はたぬ</tinellbian@x-tlb-hl>
                 <gloss>copernicium</gloss>
               - ↑ <link@x-tlb-hl>fi</link@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl>
@@ -9321,7 +9320,7 @@ entries:
               - <a>../search.html?term=substance|Other Substances</a>
               - <wordlist><block>← <link@x-tlb-hl>’i’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl>
                 <gloss>hassium</gloss>
-              - → <link@x-tlb-hl>na’ipa@x-tlb-hl</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl>
+              - → <link@x-tlb-hl>na’ipa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl>
                 <gloss>darmstadtium</gloss>
               - ↑ <link@x-tlb-hl>natu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なと</tinellbian@x-tlb-hl>
                 <gloss>iridium</gloss></block></wordlist>
@@ -13872,13 +13871,12 @@ entries:
               - <table>hr2 |h 1st person |h 2nd person |hr2 all persons
               - h exclusive |h inclusive
               - h intransitive | ’usupa//<tinellbian@x-tlb-hl>うすぱ</tinellbian@x-tlb-hl>
-                | fillipa@x-tlb-hl//<tinellbian@x-tlb-hl>べっえぱ</tinellbian@x-tlb-hl>
-                | ’usufupa//<tinellbian@x-tlb-hl>うすふぱ</tinellbian@x-tlb-hl>
+                | fillipa//<tinellbian@x-tlb-hl>べっえぱ</tinellbian@x-tlb-hl> | ’usufupa//<tinellbian@x-tlb-hl>うすふぱ</tinellbian@x-tlb-hl>
               - h transitive | sumapa//<tinellbian@x-tlb-hl>すまぱ</tinellbian@x-tlb-hl>
                 | fupa//<tinellbian@x-tlb-hl>ふぱ</tinellbian@x-tlb-hl> | sumafupa//<tinellbian@x-tlb-hl>すまふぱ</tinellbian@x-tlb-hl>
               - h ablative | puttupa//<tinellbian@x-tlb-hl>ぷっとぱ</tinellbian@x-tlb-hl>
                 | sacupa//<tinellbian@x-tlb-hl>さゆぱ</tinellbian@x-tlb-hl> | puttufupa//<tinellbian@x-tlb-hl>ぷっとふぱ</tinellbian@x-tlb-hl>
-              - h dative | pixipa@x-tlb-hl//<tinellbian@x-tlb-hl>ぴしぱ</tinellbian@x-tlb-hl>
+              - h dative | pixipa//<tinellbian@x-tlb-hl>ぴしぱ</tinellbian@x-tlb-hl>
                 | ba’upa//<tinellbian@x-tlb-hl>ばうぱ</tinellbian@x-tlb-hl> | pixifupa//<tinellbian@x-tlb-hl>ぴしふぱ</tinellbian@x-tlb-hl>
               - h alienable genitive | pagupa//<tinellbian@x-tlb-hl>ぱぐぱ</tinellbian@x-tlb-hl>
                 | bapa//<tinellbian@x-tlb-hl>ばぱ</tinellbian@x-tlb-hl> | pagufupa//<tinellbian@x-tlb-hl>ぱぐふぱ</tinellbian@x-tlb-hl></table>
@@ -13886,10 +13884,10 @@ entries:
               - 'intransitive: ’usupa <tinellbian@x-tlb-hl>うすぱ</tinellbian@x-tlb-hl>'
               - 'transitive: sumapa <tinellbian@x-tlb-hl>すまぱ</tinellbian@x-tlb-hl>'
               - 'ablative: puttupa <tinellbian@x-tlb-hl>ぷっとぱ</tinellbian@x-tlb-hl>'
-              - 'dative: pixipa@x-tlb-hl <tinellbian@x-tlb-hl>ぴしぱ</tinellbian@x-tlb-hl>'
+              - 'dative: pixipa <tinellbian@x-tlb-hl>ぴしぱ</tinellbian@x-tlb-hl>'
               - 'alienable genitive: pagupa <tinellbian@x-tlb-hl>ぱぐぱ</tinellbian@x-tlb-hl>'
               - 'second person inclusive:'
-              - 'intransitive: fillipa@x-tlb-hl <tinellbian@x-tlb-hl>べっえぱ</tinellbian@x-tlb-hl>'
+              - 'intransitive: fillipa <tinellbian@x-tlb-hl>べっえぱ</tinellbian@x-tlb-hl>'
               - 'transitive: fupa <tinellbian@x-tlb-hl>ふぱ</tinellbian@x-tlb-hl>'
               - 'ablative: sacupa <tinellbian@x-tlb-hl>さゆぱ</tinellbian@x-tlb-hl>'
               - 'dative: ba’upa <tinellbian@x-tlb-hl>ばうぱ</tinellbian@x-tlb-hl>'
@@ -15435,14 +15433,14 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to look forward to; to enjoy</definition>
               - <h4>Notes</h4>
-              - Compounds derived from this tend to be <a>http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs|adjectival</a>
+              - Compounds derived from this tend to be <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl>
                 verbs.
               - <h4>Derived Terms</h4>
-              - <wordlist><block><link@x-tlb-hl>tapucijja</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷちっぢ</tinellbian@x-tlb-hl>
+              - <block><wordlist><link@x-tlb-hl>tapucijja</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷちっぢ</tinellbian@x-tlb-hl>
                 <gloss>to be drunk</gloss>
               - <link@x-tlb-hl>tapunara</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷなら</tinellbian@x-tlb-hl>
-                <gloss>to be tired</gloss></block></wordlist>
-              date: '2019-02-28'
+                <gloss>to be tired</gloss></wordlist></block>
+              date: '2024-05-02'
               position: '1.0'
             tapucijja:
               text:
@@ -15901,7 +15899,7 @@ entries:
                 <gloss>increasingly</gloss>
               - <block><link@x-tlb-hl>kiladi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きわで</tinellbian@x-tlb-hl>
                 <gloss>to spread out</gloss>
-              - <link@x-tlb-hl>kipa@x-tlb-hlcca</link@x-tlb-hl> <tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>kipacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl>
                 <gloss>to increase</gloss></block></wordlist>
               date: '2019-03-02'
               position: '4.27'
@@ -16324,7 +16322,7 @@ entries:
               - <h4>See Also</h4>
               - <a><desktop>Periodic Table</desktop><mobile>List of Elements</mobile></a>
               - <a>../search.html?term=substance|Other Substances</a>
-              - <wordlist><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした・わら</tinellbian@x-tlb-hl>
+              - <wordlist><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さしたわら</tinellbian@x-tlb-hl>
                 <gloss>water</gloss>
               - <link@x-tlb-hl>xudi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずで</tinellbian@x-tlb-hl>
                 <gloss>flow of water</gloss>
@@ -17032,11 +17030,11 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3>
               - <definition>to drop; to fall; to move down; to be low</definition>
               - <h4>Derived Terms</h4>
-              - <wordlist><block><link@x-tlb-hl>hussudiccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl> <gloss>to
+              - <block><wordlist><link@x-tlb-hl>hussudiccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl> <gloss>to
                 trip over</gloss>
               - <link@x-tlb-hl>hussudifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでべ</tinellbian@x-tlb-hl> <gloss>to
-                nod</gloss></block></wordlist>
-              date: '2019-03-19'
+                nod</gloss></wordlist></block>
+              date: '2024-05-02'
               position: '9.11'
             hussudiccaha:
               text:
@@ -17697,13 +17695,13 @@ entries:
               text:
               - <h2>High Lulani</h2>
               - <native-script><tinellbian@x-tlb-hl>きっさたぬ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌk+isːəˈtʰanʉ/</ipa@x-tlb-hl></pronunciation>
+              - <pronunciation><ipa@x-tlb-hl>/ˌkʰisːəˈtʰanʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3>derived <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>martial art</definition>
               - <h4>Etymology</h4>
               - <link@x-tlb-hl>kissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっさ</tinellbian@x-tlb-hl> <gloss>to
                 fight</gloss> + <link@x-tlb-hl>tanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぬ</tinellbian@x-tlb-hl> <gloss>study</gloss>
-              date: '2019-05-04'
+              date: '2024-05-02'
               position: '7.5'
             kissari:
               text:
@@ -19290,7 +19288,7 @@ entries:
                 Table</desktop><mobile>List of Elements</mobile></a>
               - <a>../search.html?term=substance|Other Substances</a>
               - <wordlist><block>← <link@x-tlb-hl>’i’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl> <gloss>hassium</gloss>
-              - → <link@en>na’ipa@x-tlb-hl</link@en> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl> <gloss>darmstadtium</gloss>
+              - → <link@x-tlb-hl>na’ipa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl> <gloss>darmstadtium</gloss>
               - ↑ <link@x-tlb-hl>natu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なと</tinellbian@x-tlb-hl> <gloss>iridium</gloss></block></wordlist>
               date: '2019-05-26'
               position: '12.26'
@@ -21636,16 +21634,6 @@ entries:
                 operator</gloss></block></wordlist>
               date: '2019-09-08'
               position: '14.29'
-            massive:
-              text:
-              - This is some text.
-              date: '2024-04-29'
-            mass:
-              text:
-              - This is also madd.
-              date: '2024-04-29'
-            Testing:
-              text: []
             ’ami:
               text:
               - <h2>High Lulani</h2>
@@ -21658,6 +21646,3 @@ entries:
               - <link@x-tlb-hl>’a’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl>
                 <gloss>cerium</gloss>
               date: '2024-05-02'
-          text: []
-        ? ''
-        : {}

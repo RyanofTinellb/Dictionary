@@ -221,13 +221,6 @@ main .nav-footer {
   margin-bottom: 1em;
 }
 
-main .copyright {
-  font-size: smaller;
-  font-family: serif;
-  text-align: right;
-  margin-top: 1em;
-}
-
 .no-breaks {
   white-space: nowrap;
 }

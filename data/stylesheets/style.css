@@ -170,6 +170,15 @@ main textarea#words {
 	height: 5em;
 }
 
+footer {
+	margin-top: 1rem;
+	font-size: smaller;
+	font-family: serif;
+	text-align: right;
+	width: 75%;
+}
+
+
 h1,
 h2,
 h3,
@@ -342,5 +351,10 @@ input[type='checkbox']#debug {
 	main h5 a {
 		color: black;
 		text-decoration-style: dotted;
+	}
+
+	footer {
+		text-align: right;
+		width: 95%;
 	}
 }

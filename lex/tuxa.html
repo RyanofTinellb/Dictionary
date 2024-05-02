@@ -7,8 +7,8 @@
 <link rel="icon" type="image/png" href="../data/assets/favicon.png">
 <script> let href = window.location.href; 
  if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
- let term = href.replace(/(.*?\?)(.*?)(#.*|$)//"$2"); 
- window.location.href = `../search.html?${term}&andOr=and`; 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../special/search.html?${term}&andOr=and`; 
  } </script>
 <script src="../data/scripts/search.js"></script>
 <script src="../data/scripts/word_search.js"></script></head>
@@ -21,17 +21,18 @@
 <main><h1>tuxa</h1>
 <h2 id="highlulani">High Lulani </h2>
 <div class="native-script"><p><span class="tinellbian" lang="x-tlb-hl">ゆざ</span></p></div>
-<div class="pronunciation"><p><a href="http://grammar.tinellb.com/highlulani/phonology/index.html"><span class="ipa">/ˈtʰuɕə/</span></a></p></div>
-<h3> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <span class="hidden">food</span> </h3>
+<div class="pronunciation"><p><a href=""><span class="ipa">/ˈtʰuɕə/</span></a></p></div>
+<h3> <a href="">inanimate</a> <a href="">noun</a> <span class="hidden">food</span> </h3>
 <div class="definition"><p>juice; tea; coffee</p></div>
 <h4> See Also </h4>
 <p><a href="../search.html?term=food">Food and Drink</a></p>
 
 <javascript> <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"> 
  <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"> </javascript>
-<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Monday, January 7th, 2019</span></div>
 </main></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Monday, January 7th, 2019</span></div>
+</footer>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

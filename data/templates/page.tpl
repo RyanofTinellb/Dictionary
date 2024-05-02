@@ -43,6 +43,8 @@ styles:
     type: line
   input:
     type: complete
+  footer:
+    type: block
 text:
 - <!doctype>html</!doctype>
 - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
@@ -53,8 +55,8 @@ text:
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <inline-script>let href = window.location.href;
 - if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-- let term = href.replace(/(.*?\?)(.*?)(#.*|$)//"$2");
-- window.location.href = `<internal-link>search</internal-link>?${term}&andOr=and`;
+- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+- window.location.href = `<internal-link>special/search</internal-link>?${term}&andOr=and`;
 - '}</inline-script>'
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/word_search.js</internal-link>"</script></head>
@@ -65,7 +67,8 @@ text:
   == 13) {wordsearch()}"</input>
 - <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
   to Entry"</input></javascript>
-- <template>copyright</template></main></flex>
+- </main></flex>
+- <footer><template>copyright</template></footer>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
 <meta charset="utf-8">
-<title>Testing  - The Tinellbian Languages Dictionary </title>
+<title>testing  - The Tinellbian Languages Dictionary </title>
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../data/assets/favicon.png">
 <script> let href = window.location.href; 
  if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
- let term = href.replace(/(.*?\?)(.*?)(#.*|$)//"$2"); 
- window.location.href = `../search.html?${term}&andOr=and`; 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../special/search.html?${term}&andOr=and`; 
  } </script>
 <script src="../data/scripts/search.js"></script>
 <script src="../data/scripts/word_search.js"></script></head>
@@ -18,13 +18,16 @@
 <li class="search"><button>Search</button></li></form></div></ul>
 <div class="javascript"><div class="random"><p><a href="../special/random_entry.html">Random Entry</a></p></div></div></details></nav>
 
-<main><h1>Testing</h1>
+<main><h1>testing</h1>
+<p><a href="">poslink</a> <a href="">poslink</a> <a href="">poslink</a></p>
+<p><a href=""><span class="ipa">boo</span></a> <a href=""><span class="ipa">gyhf</span></a> <a href=""><span class="ipa">ercfdfg</span></a></p>
 
 <javascript> <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"> 
  <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"> </javascript>
-<div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Thursday, May 2nd, 2024</span></div>
 </main></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Tuesday, April 30th, 2024</span></div>
+</footer>
 <script>
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>
