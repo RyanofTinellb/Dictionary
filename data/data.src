@@ -395,7 +395,7 @@ entries:
               - <definition>half</definition>
               - <h4>Synonyms</h4>
               - <wordlist><block><link@x-tlb-hl>saki</link@x-tlb-hl> <link@x-tlb-hl>ra</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>さき ・ ら</tinellbian@x-tlb-hl> <gloss>half</gloss></block></wordlist>
+                <tinellbian@x-tlb-hl>さき ら</tinellbian@x-tlb-hl> <gloss>half</gloss></block></wordlist>
               - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>void; vacuum</definition>
               - <h4>Derived Terms</h4>
@@ -723,12 +723,12 @@ entries:
               - <definition>superlative; maximum; most; deep in colour</definition>
               - <h4>Examples</h4>
               - <wordlist><block><strong>piba</strong> <link@x-tlb-hl>dasi</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>ぴば ・ だせ</tinellbian@x-tlb-hl> <gloss>eat the
+                <tinellbian@x-tlb-hl>ぴば だせ</tinellbian@x-tlb-hl> <gloss>eat the
                 most</gloss>
               - <strong>piba</strong> <link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば
-                ・ みく</tinellbian@x-tlb-hl> <gloss>deep red</gloss>
+                みく</tinellbian@x-tlb-hl> <gloss>deep red</gloss>
               - <strong>piba</strong> <link@x-tlb-hl>kuppu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば
-                ・ くっぷ</tinellbian@x-tlb-hl> <gloss>strongest</gloss></block></wordlist>
+                くっぷ</tinellbian@x-tlb-hl> <gloss>strongest</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl>
                 <gloss>superlative</gloss>
@@ -835,7 +835,7 @@ entries:
               - <wordlist><block><link@x-tlb-hl>millu</link@x-tlb-hl><strong>cula</strong>
                 <tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl> <gloss>eggshell brown</gloss>
               - <block><link@x-tlb-hl>xuci</link@x-tlb-hl><link@x-tlb-hl>nagi</link@x-tlb-hl>
-                <strong>cula</strong> <tinellbian@x-tlb-hl>ずちなぎ ・ ゆわ</tinellbian@x-tlb-hl>
+                <strong>cula</strong> <tinellbian@x-tlb-hl>ずちなぎ ゆわ</tinellbian@x-tlb-hl>
                 <gloss>hatching egg</gloss></block></wordlist>
             curri:
               date: '2018-03-29'
@@ -1893,7 +1893,7 @@ entries:
               - <definition>money; dollar</definition>
               - <h4>Examples</h4>
               - <wordlist><link@x-tlb-hl>kifi</link@x-tlb-hl> <strong>diru</strong>
-                <tinellbian@x-tlb-hl>きべ ・ でる</tinellbian@x-tlb-hl> <gloss>three dollars</gloss>
+                <tinellbian@x-tlb-hl>きべ でる</tinellbian@x-tlb-hl> <gloss>three dollars</gloss>
               - <strong>diru</strong><link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でるきべ</tinellbian@x-tlb-hl>
                 <gloss>a three dollar coin</gloss></wordlist>
               - <h4>See Also</h4>
@@ -2548,7 +2548,7 @@ entries:
               - Only used in first person, or second person questions.
               - <h4>Example Sentences</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u dihuri nufira.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ らう ・ でほり ・ ぬべら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす らう でほり ぬべら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔusu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>di</link@x-tlb-hl>-<link@x-tlb-hl>huri</link@x-tlb-hl>
                 <link@x-tlb-hl>nufira</link@x-tlb-hl>.
@@ -4889,7 +4889,7 @@ entries:
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu qixa satakifi diru</folded>
                 kassu nuhubatu.</transliteration@x-tlb-hl>
-              - <tinellbian@x-tlb-hl>。うす ・ ねざ ・ さたきべ ・ でる ・ かっす ・ ぬほばと。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす ねざ さたきべ でる かっす ぬほばと。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔusu</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>sata</link@x-tlb-hl>-<link@x-tlb-hl>kifi</link@x-tlb-hl>
                 <link@x-tlb-hl>diru</link@x-tlb-hl> <link@x-tlb-hl>kassu</link@x-tlb-hl>
@@ -9063,7 +9063,7 @@ entries:
               - <definition>to be balanced</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kalupahi ’anu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。かをぱひ ・ あぬ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。かをぱひ あぬ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kalu</link@x-tlb-hl><link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 ’anu.
               - <gloss>Body-<glossary>1gen</glossary> balance.</gloss></folding>
@@ -9072,7 +9072,7 @@ entries:
               - <definition>to equal</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。きべ ・ よい ・ ぬる ・ あぬ ・ さをみ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きべ よい ぬる あぬ さをみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>ju’i</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> ’anu <link@x-tlb-hl>salumi</link@x-tlb-hl>.
               - <gloss>Three add four equal seven.</gloss></folding>
@@ -9109,7 +9109,7 @@ entries:
               - <definition>and</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>lulani kimillita</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>をわに ・ きみっえた</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>をわに きみっえた</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>lulani</link@x-tlb-hl> <link@x-tlb-hl>kimilli</link@x-tlb-hl>-ta
               - <gloss>queen king-and</gloss></folding>
               - <translation>“the queen and the king”</translation>
@@ -9127,7 +9127,7 @@ entries:
               - Modifies verbs
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔilupagu ganibi’u</transliteration@x-tlb-hl>.</folded>
-              - <tinellbian@x-tlb-hl>。いをぱひ ・ がにびう。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。いをぱひ がにびう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔilu</link@x-tlb-hl><link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 gani-<link@x-tlb-hl>bi’u</link@x-tlb-hl>.
               - <gloss>heart-1gen very-hurt.</gloss></folding>
@@ -10044,7 +10044,7 @@ entries:
               - <definition>tail</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>だずにきべぎ ・ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+                <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <a>../search.html?term=bodypart|Other Parts of the Body</a>
               date: '2019-01-06'
@@ -10412,7 +10412,7 @@ entries:
               - <wordlist><block><link@x-tlb-hl>kifissiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl>
                 <gloss>triangle</gloss>
               - <link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべやに
-                ・ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+                げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <wordlist><block>← <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl>
                 <gloss>two</gloss>
@@ -10558,7 +10558,7 @@ entries:
               - <definition>fish</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ
-                ・ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></wordlist>
+                げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></wordlist>
               - <h4>See Also</h4>
               - <a>../search.html?term=animal|List of Animals</a>
               date: '2019-01-06'
@@ -11478,7 +11478,7 @@ entries:
               - <definition>one</definition>
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
-                ・ わら</tinellbian@x-tlb-hl> <gloss>water</gloss></block></wordlist>
+                わら</tinellbian@x-tlb-hl> <gloss>water</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <wordlist><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl>
                 <gloss>one</gloss>
@@ -12112,7 +12112,7 @@ entries:
               - <definition>towards; at a time; about</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Para jannililu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ぱら ・ ぢっにえを。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ぱら ぢっにえを。</tinellbian@x-tlb-hl>
               - pa-<link@x-tlb-hl>ra</link@x-tlb-hl> <link@x-tlb-hl>janni</link@x-tlb-hl>-<link@x-tlb-hl>lilu</link@x-tlb-hl>
               - <gloss>towards-two move-stairs</gloss></folding>
               - <translation>“Take the stairs two at a time.”</translation>
@@ -12345,7 +12345,7 @@ entries:
               - <definition>to be sore; to hurt; to be painful; to be a pain; to ache</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Pixi liqa bi’u.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ぴし ・ えげ ・ びう。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ぴし えげ びう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>pixi</link@x-tlb-hl> <link@x-tlb-hl>liqa</link@x-tlb-hl>
                 <link@x-tlb-hl>bi’u</link@x-tlb-hl>.
               - <gloss><glossary>1dat</glossary> head hurt.</gloss></folding>
@@ -12379,7 +12379,7 @@ entries:
               - <definition>there is; what there is</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Tana ru lulani.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。たな ・ る ・ をわに。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。たな る をわに。</tinellbian@x-tlb-hl>
               - tana <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>lulani</link@x-tlb-hl>.
               - <gloss>there_is <glossary>prs;gno</glossary> queen.</gloss></folding>
               - <translation>“There is a queen (in existence).”</translation>
@@ -12597,7 +12597,7 @@ entries:
               - <definition>only</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うすや ・ ぢっにむへ ・ みや。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うすや ぢっにむへ みや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl>-<link@x-tlb-hl>ca</link@x-tlb-hl>
                 <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <link@x-tlb-hl>mica</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary>-only dance allowed</gloss></folding>
@@ -12818,7 +12818,7 @@ entries:
               - poetic
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Cura’a ra’u pixi nufira.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ゆらあ ・ らう ・ ぴし ・ ぬべら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ゆらあ らう ぴし ぬべら。</tinellbian@x-tlb-hl>
               - cura’a <link@x-tlb-hl>ra’u</link@x-tlb-hl> <link@x-tlb-hl>pixi</link@x-tlb-hl>
                 <link@x-tlb-hl>nufira</link@x-tlb-hl>
               - <gloss>pass-<glossary>nmn</glossary> <glossary>prs;sta</glossary>
@@ -13649,13 +13649,13 @@ entries:
               - Inanimate themes are objects, animate themes use <glossary>ka</glossary>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>Filli pixi xusina.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。べっえ ・ ぴし ・ ずせな。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。べっえ ぴし ずせな。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>filli</link@x-tlb-hl> <link@x-tlb-hl>pixi</link@x-tlb-hl>
                 xu-<link@x-tlb-hl>sina</link@x-tlb-hl>.
               - <gloss><glossary>2int</glossary> <glossary>1dat</glossary> seem-beauty.</gloss></folding>
               - <translation>“You seem pretty to me.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>Filli ka’aggami xu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。べっえ ・ かあっがみず。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。べっえ かあっがみず。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>filli</link@x-tlb-hl> <link@x-tlb-hl>ka</link@x-tlb-hl>-<link@x-tlb-hl>’aggami</link@x-tlb-hl>
                 xu.
               - <gloss><glossary>2int</glossary> as-policeman.</gloss></folding>
@@ -13674,7 +13674,7 @@ entries:
               - <h4>Derived Terms</h4>
               - <wordlist><block><strong>xu</strong><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl>
                 <link@x-tlb-hl>la</link@x-tlb-hl><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>kifi</link@x-tlb-hl>
-                <tinellbian@x-tlb-hl>ずさはき ・ わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></block></wordlist>
+                <tinellbian@x-tlb-hl>ずさはき わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><desktop>Periodic
                 Table</desktop><mobile>List of Elements</mobile></a>
@@ -14629,7 +14629,7 @@ entries:
               - <definition>to be black; to turn black</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu gakka si’apa.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ がっか ・ せあぱ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす がっか せあぱ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> ga<link@x-tlb-hl>-kka</link@x-tlb-hl>
                 <link@x-tlb-hl>si’apa</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> black-<glossary>abp</glossary> meal.</gloss></folding>
@@ -14669,7 +14669,7 @@ entries:
               - <definition>to be red; to make red</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔarapahi cani miku.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。あらぱひ ・ やに ・ みく。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。あらぱひ やに みく。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’ara</link@x-tlb-hl>:<link@x-tlb-hl>-pahi</link@x-tlb-hl>
                 <link@x-tlb-hl>cani</link@x-tlb-hl> miku.
               - <gloss>face-<glossary>1gen</glossary> <glossary>prs;dyn</glossary>
@@ -14679,7 +14679,7 @@ entries:
               - <wordlist><block><link@x-tlb-hl>mikumulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みくむを</tinellbian@x-tlb-hl>
                 <gloss>to be crimson</gloss>
               - <block><link@x-tlb-hl>piba</link@x-tlb-hl> <strong>miku</strong> <tinellbian@x-tlb-hl>ぴば
-                ・ みく</tinellbian@x-tlb-hl> <gloss>deep red</gloss></block></wordlist>
+                みく</tinellbian@x-tlb-hl> <gloss>deep red</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <wordlist><block><link@x-tlb-hl>baju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl>
                 <gloss>blue</gloss>
@@ -14913,7 +14913,7 @@ entries:
               - ' bring something into physical form from materials'
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu haru’u’a ’idu ’ita’i.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ はるうあ ・ いど ・ いたい。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす はるうあ いどいたい。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>haru</link@x-tlb-hl>-<link@x-tlb-hl>’u’a</link@x-tlb-hl>
                 <link@x-tlb-hl>’idu</link@x-tlb-hl> <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> with-wood make car.</gloss></folding>
@@ -14921,7 +14921,7 @@ entries:
               - <h4>See Also</h4>
               - <wordlist><link@x-tlb-hl>pifa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴへ</tinellbian@x-tlb-hl>
                 <gloss>to make</gloss></wordlist>
-              date: '2019-02-26'
+              date: '2024-05-02'
               position: '4.29'
             ’icipu:
               text:
@@ -15481,7 +15481,7 @@ entries:
               - <definition>to change; to become; (time) passes</definition>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔu’ili qixa cura.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ういえ ・ ねざ ・ ゆら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ういえ ねざ ゆら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’u’ili</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>cura</link@x-tlb-hl>.
               - <gloss>reality pst;dyn change</gloss></folding>
@@ -15581,7 +15581,7 @@ entries:
                 verbs.
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu sacu dissu ’ahati.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ さゆ ・ でっす ・ あはて。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす さゆ でっす あはて。</tinellbian@x-tlb-hl>
               - <gloss><glossary>1int</glossary> <glossary>2abl</glossary> feel happiness.</gloss>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>sacu</link@x-tlb-hl>
                 dissu <link@x-tlb-hl>’ahati</link@x-tlb-hl>.</folding>
@@ -15736,7 +15736,7 @@ entries:
               - <definition>feel; touch</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u kunacca cussi.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ らう ・ くなっや ・ ゆっせ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす らう くなっや ゆっせ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>ku</link@x-tlb-hl>-<link@x-tlb-hl>nacca</link@x-tlb-hl>
                 <link@x-tlb-hl>cussi</link@x-tlb-hl>.
@@ -15744,7 +15744,7 @@ entries:
                 touch</gloss></folding>
               - <translation>“I feel the clothing.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u cussi nacca.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ らう ・ ゆっせ ・ なっや。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす らう ゆっせ なっや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>cussi</link@x-tlb-hl> <link@x-tlb-hl>nacca</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> <glossary>prs;sta</glossary> touch
@@ -15841,7 +15841,7 @@ entries:
               - <definition>plus</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kifi ju’i nuru ’anu salumi.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。きべ ・ よい ・ ぬる ・ あぬ ・ さをみ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きべ よい ぬる あぬ さをみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>ju’i</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>salumi</link@x-tlb-hl>.
@@ -15980,7 +15980,7 @@ entries:
               - <link@x-tlb-hl>gi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎい</tinellbian@x-tlb-hl>
                 <gloss>to understand</gloss>
               - <block><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ
-                ・ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+                げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               date: '2019-03-02'
               position: '15.19'
             gi’i:
@@ -16139,7 +16139,7 @@ entries:
                 the genitive.
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>daqa ’ala</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>だげ ・ あわ</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>だげ あわ</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>da</link@x-tlb-hl>-<link@x-tlb-hl>qa</link@x-tlb-hl>
                 <link@x-tlb-hl>’ala</link@x-tlb-hl>
               - <gloss>water-gen heat</gloss></folding>
@@ -16182,7 +16182,7 @@ entries:
               - <definition>move to; there is; there exists; to be in a place</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kimilli ra’u malu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。きみっえ ・ らう ・まを。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きみっえ らう ・まを。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kimilli</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>malu</link@x-tlb-hl>.
               - <gloss>King <glossary>prs;sta</glossary> exist.</gloss></folding>
@@ -16704,10 +16704,10 @@ entries:
               - <h4>Derived Terms</h4>
               - <wordlist><block><link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl> <gloss>hydrogen</gloss>
               - <link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
-                ・ わる</tinellbian@x-tlb-hl> <gloss>dihydrogen monoxide</gloss>
+                わる</tinellbian@x-tlb-hl> <gloss>dihydrogen monoxide</gloss>
               - <link@x-tlb-hl>xu</link@x-tlb-hl><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl>
                 <strong>la</strong><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずさはき
-                ・ わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></block></wordlist>
+                わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></block></wordlist>
               - <h4>See Also</h4>
               - <a href="http://grammar.tinellb.com/highlulani/apocrypha/elements.html"><desktop>Periodic
                 Table</desktop><mobile>List of Elements</mobile></a>
@@ -16791,7 +16791,7 @@ entries:
               - <definition>divided by</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Sahha saki kifi ’anu guhi.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。さっは ・ さき ・ きべ ・ あぬ ・ ぐひ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。さっは さき きべ あぬ ぐひ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>sahha</link@x-tlb-hl> <transliteration@x-tlb-hl>saki</transliteration@x-tlb-hl>
                 <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>guhi</link@x-tlb-hl>.
@@ -17051,7 +17051,7 @@ entries:
                 fall</gloss> + <link@x-tlb-hl>diccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっやは</tinellbian@x-tlb-hl> <gloss>obstacle</gloss>
               - <h4>Example Quotes</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔa’ima tikunatiha hussudiccaha.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。あいま ・ てくなては ・ ほっすでっやは。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。あいま てくなては ほっすでっやは。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> <link@x-tlb-hl>tiku</link@x-tlb-hl>-<link@x-tlb-hl>natiha</link@x-tlb-hl>
                 hussudiccaha.
               - <gloss>traveller around-box trip.</gloss></folding>
@@ -17103,25 +17103,25 @@ entries:
               - <h3><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3>
               - <definition>south; southwards</definition>
               - <h4>See Also</h4>
-              - <wordlist><block><link@x-tlb-hl>gibi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss>
+              - <block><wordlist><link@x-tlb-hl>gibi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss>
               - <link@x-tlb-hl>sani</link@x-tlb-hl> <tinellbian@x-tlb-hl>さに</tinellbian@x-tlb-hl> <gloss>north</gloss>
-              - <link@x-tlb-hl>sumika</link@x-tlb-hl> <tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl> <gloss>west</gloss></block></wordlist>
+              - <link@x-tlb-hl>sumika</link@x-tlb-hl> <tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl> <gloss>west</gloss></wordlist></block>
               - <h3><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3>
               - <definition>as, equalative</definition>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu kafilli miku.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ かべっえ ・ みく。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うすかべっえみく。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ka</link@x-tlb-hl>-<link@x-tlb-hl>filli</link@x-tlb-hl>
                 <link@x-tlb-hl>miku</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> as-<glossary>2int</glossary> red.</gloss></folding>
               - <translation>“I am as red as you.”</translation>
               - <h4>See Also</h4>
-              - <wordlist><block><link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>superlative</gloss>
-              - <link@x-tlb-hl>piba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば</tinellbian@x-tlb-hl> <gloss>comparative</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>superlative</gloss>
+              - <link@x-tlb-hl>piba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴば</tinellbian@x-tlb-hl> <gloss>comparative</gloss></wordlist></block>
               - <h3><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> / <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3>
               - <definition>nation; state</definition>
-              date: '2024-05-01'
+              date: '2024-05-02'
               position: '1.0'
             kala:
               text:
@@ -17443,13 +17443,13 @@ entries:
               - <wordlist><link@x-tlb-hl>qacca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss></wordlist>
               - <h4>Example Sentences</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu qacca ’iti.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ げっや ・ いて。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす げっや いて。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> qacca <link@x-tlb-hl>’iti</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> choose milk.</gloss>
               - <gloss>lit. “I choose milk.”</gloss></folding>
               - <translation>“I’ll have the milk.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu ku’iti qacca.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ くいて ・ げっや。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす くいて げっや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>ku-</link@x-tlb-hl><link@x-tlb-hl>’iti</link@x-tlb-hl>
                 <link@x-tlb-hl>qacca</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> <glossary>dat</glossary>-milk choose</gloss>
@@ -17575,7 +17575,7 @@ entries:
               - <definition>multiplied by</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kifi batu nuru ’anu sabila</transliteration@x-tlb-hl>.</folded>
-              - <tinellbian@x-tlb-hl>。きべ ・ ばと ・ ぬる ・ あぬ ・ さびっわ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きべ ばと ぬる あぬ さびっわ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>batu</link@x-tlb-hl>
                 <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>bila</link@x-tlb-hl>.
@@ -17640,7 +17640,7 @@ entries:
               - <definition>to close; to fill</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Suma turu gurrisu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。すま ・ とる ・ ぐっりす。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。すま とる ぐっりす。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>suma</link@x-tlb-hl> turu <link@x-tlb-hl>gurrisu</link@x-tlb-hl>.
               - <gloss><glossary>1tra</glossary> close door.</gloss></folding>
               - <translation>“I closed the door.”</translation>
@@ -17818,7 +17818,7 @@ entries:
               - <h4>Derived Phrases</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔumi ru xiku racaxa laru</folded>
                 ru qapi.</transliteration@x-tlb-hl>
-              - <tinellbian@x-tlb-hl>。うみ ・ る ・ しく ・ らやざ ・ わる ・ る ・ げぴ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うみ る しく らやざ わる る げぴ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’umi</link@x-tlb-hl> <link@x-tlb-hl>xiku</link@x-tlb-hl>
                 <link@x-tlb-hl>-xa</link@x-tlb-hl> <link@x-tlb-hl>la</link@x-tlb-hl>-<link@x-tlb-hl>ru</link@x-tlb-hl>
                 <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>qapi</link@x-tlb-hl>.
@@ -17958,7 +17958,7 @@ entries:
               - <wordlist><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss></wordlist>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔa’ima haru sada.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。あいま ・ はる ・ さだ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。あいま はる さだ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> <link@x-tlb-hl>haru</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl>-<link@x-tlb-hl>da</link@x-tlb-hl>.
               - <gloss>Traveller accompany solitude-negative_aspect.</gloss></folding>
@@ -18356,7 +18356,7 @@ entries:
               - <definition>exponential; power</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Kifi calu ra ’anu sahaki.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。きべ ・ やを ・ ら ・ あぬ ・ さはき。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。きべ やを ら あぬ さはき。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>calu</link@x-tlb-hl>
                 <link@x-tlb-hl>ra</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl>
                 <link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl>.
@@ -18792,7 +18792,7 @@ entries:
               - <definition>to consume; to eat; to chew; to suck; to lick; to drink</definition>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>xu’a dasi da.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ずあ ・ だせ ・ だ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ずあ だせ だ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>xu’a</link@x-tlb-hl> <transliteration@x-tlb-hl>dasi</transliteration@x-tlb-hl>
                 <link@x-tlb-hl>da</link@x-tlb-hl>.
               - <gloss>bird consume water.</gloss></folding>
@@ -18891,7 +18891,7 @@ entries:
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔaggami pi kalutuhhisa
                 tali</folded> ’ita’i.</transliteration@x-tlb-hl>
-              - <tinellbian@x-tlb-hl>。あっがみ ・ ぴ ・ かをとっひさ ・ たえ ・ いたい。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。あっがみ ぴ かをとっひさ たえ いたい。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl>
                 <link@x-tlb-hl>kalu-</link@x-tlb-hl><link@x-tlb-hl>tuhhisa</link@x-tlb-hl>
                 tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
@@ -18902,7 +18902,7 @@ entries:
               - <definition>subtract; minus</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Qihha tali bila ’anu kifi.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ねっは ・ たえ ・ びわ ・ あぬ ・ きべ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ねっは たえ びわ あぬ きべ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>qihha</link@x-tlb-hl> tali <link@x-tlb-hl>bila</link@x-tlb-hl>
                 <link@x-tlb-hl>’anu</link@x-tlb-hl> <link@x-tlb-hl>kifi</link@x-tlb-hl>.
               - <gloss>Zero take ree equal three.</gloss></folding>
@@ -19066,7 +19066,7 @@ entries:
               - most often used as a prefix for adverbial location clauses
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu dasi ma’adi, nara.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ だせ ・まあで 、 なら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす だせ ・まあで 、 なら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>dasi</link@x-tlb-hl>
                 ma-<link@x-tlb-hl>’adi</link@x-tlb-hl>, <link@x-tlb-hl>nara</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> eat where-near, sleep.</gloss></folding>
@@ -19655,7 +19655,7 @@ entries:
             saxita.lara:
               text:
               - <h2>High Lulani</h2>
-              - <native-script><tinellbian@x-tlb-hl>さした ・ わら</tinellbian@x-tlb-hl></native-script>
+              - <native-script><tinellbian@x-tlb-hl>さした わら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/saˌɕitʰəˈlaɽa/</ipa@x-tlb-hl></pronunciation>
               - <h3><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
                 <hidden>substance</hidden></h3>
@@ -19757,12 +19757,12 @@ entries:
               - <definition>to create <gloss>ex nihilo</gloss>; to make</definition>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>pifa sinna</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>ぴへ ・ せっな</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>ぴへ せっな</tinellbian@x-tlb-hl>
               - <gloss>create story</gloss>
               - <link@x-tlb-hl>pifa</link@x-tlb-hl> <link@x-tlb-hl>sinna</link@x-tlb-hl></folding>
               - <translation>“to write a book”</translation>
               - <folding><folded><transliteration@x-tlb-hl>pifilluqixa faʔa</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>ぴべっをねざ ・ へっあ</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>ぴべっをねざ へっあ</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>pifa</link@x-tlb-hl><link@x-tlb-hl>-illu</link@x-tlb-hl>-<link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>faʔa</link@x-tlb-hl>
               - <gloss>create-<glossary>psv</glossary>-<glossary>pst;dyn</glossary>
@@ -19793,7 +19793,7 @@ entries:
               - Against expectations.
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔili ra’u?</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。いえ ・ らう。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。いえ らう。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’ili</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>?
               - <gloss>really prs;gno?</gloss></folding>
               - <translation>“Really?”</translation>
@@ -19937,21 +19937,21 @@ entries:
                 it could happen</gloss></definition>
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu qixa lu’i da’aru.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ ねざ ・ をい ・ だある。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす ねざ をい だある。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>qixa</link@x-tlb-hl>
                 <link@x-tlb-hl>lu’i</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> <glossary>pst;dyn</glossary> love
                 exist.</gloss></folding>
               - <translation>“I have fallen in love before.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu lanu lu’i da’aru.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ わぶ ・ をい ・ だある。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす わぶ をい だある。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>lanu</link@x-tlb-hl>
                 <link@x-tlb-hl>lu’i</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> <glossary>fut;dyn</glossary> love
                 exist.</gloss></folding>
               - <translation>“I could fall in love.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>Fu ’usa kuddu da’aru qixa?</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。ふ ・ うさ ・ くっど ・ だある ・ ねざ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。ふ うさ くっど だある ねざ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>fu</link@x-tlb-hl> <link@x-tlb-hl>’usa</link@x-tlb-hl>
                 <link@x-tlb-hl>kuddu</link@x-tlb-hl> <link@x-tlb-hl>da’aru</link@x-tlb-hl>
                 <link@x-tlb-hl>qixa</link@x-tlb-hl>?
@@ -20076,7 +20076,7 @@ entries:
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>Quhu kupaji dasikka mihu</folded>
                 dumi.</transliteration@x-tlb-hl>
-              - <tinellbian@x-tlb-hl>。もほ ・ くぱじ ・ だせっか ・ みほ ・ どみ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。もほ くぱじ だせっか みほ どみ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>quhu</link@x-tlb-hl> <link@x-tlb-hl>ku-</link@x-tlb-hl><link@x-tlb-hl>paji</link@x-tlb-hl>
                 <link@x-tlb-hl>dasi</link@x-tlb-hl><link@x-tlb-hl>-kka</link@x-tlb-hl>
                 <link@x-tlb-hl>mihu</link@x-tlb-hl> dumi.
@@ -20905,7 +20905,7 @@ entries:
               - <definition>ability; <gloss>is possible</gloss>; <gloss>can</gloss></definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu cani sacu dasi fuca.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ らう ・ さゆ ・ だせ ・ ふや。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす らう さゆ だせ ふや。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>cani</link@x-tlb-hl>
                 <link@x-tlb-hl>sacu</link@x-tlb-hl> <link@x-tlb-hl>dasi</link@x-tlb-hl>
                 <link@x-tlb-hl>fuca</link@x-tlb-hl>.
@@ -21409,7 +21409,7 @@ entries:
               - <definition>sorry; pardon</definition>
               - <h4>Example</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu qarihu.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ げりほ。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす げりほ。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> qarihu.
               - <gloss><glossary>1int</glossary> pardon.</gloss></folding>
               - <translation>“I’m sorry” / “I beg your pardon”</translation>
@@ -21531,7 +21531,7 @@ entries:
               - <h4>Examples</h4>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu jusi ’i li lu’i fu
                 ra’u.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ よせ ・ い ・ え ・ をい ・ ふ ・ らう 。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす よせ い え をい ふ らう 。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>jusi</link@x-tlb-hl>
                 ’i <link@x-tlb-hl>li</link@x-tlb-hl> <link@x-tlb-hl>fu</link@x-tlb-hl>
                 <link@x-tlb-hl>ra’u</link@x-tlb-hl>.
@@ -21539,7 +21539,7 @@ entries:
                 love <glossary>2tra</glossary> <glossary>prs;sta</glossary>.</gloss></folding>
               - <translation>“I told her that I love you.”</translation>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu palu’i ’i.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす ・ ぱをい ・ い。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うす ぱをい い。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>’usu</link@x-tlb-hl> <link@x-tlb-hl>pa</link@x-tlb-hl>-<link@x-tlb-hl>lu’i</link@x-tlb-hl>
                 <link@x-tlb-hl>’i</link@x-tlb-hl>.
               - <gloss><glossary>1int</glossary> towards-love speak.</gloss></folding>

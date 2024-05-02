@@ -5,10 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - tirusi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - xita
+  - cura
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk

@@ -12,6 +12,14 @@ nav {
 	padding-right: 1em;
 }
 
+nav summary {
+	list-style-type: "☰";
+}
+
+nav details[open] summary {
+	list-style-type: '✖';
+}
+
 nav a {
 	text-decoration: none;
 	color: #4444EE;
@@ -82,9 +90,8 @@ main summary.folding {
 }
 
 main summary.folding {
-	list-style: none;
+	margin-left: calc(20% - 1rem);
 }
-
 
 details.folding+p {
 	padding-left: 1em;
