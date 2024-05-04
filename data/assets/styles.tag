@@ -93,10 +93,12 @@ glossary:
   pipe: '">'
   close: </abbr></dfn>
   param: $lookup:glossary$|$text$
+  rank: -50
 mobile-table:
   type: div
-  open: <ul class="mobile">
-  close: </ul>
+  open: <div class="mobile">
+ul:
+  type: block
   start: <li>
   end: </li>
 mobile:
@@ -129,7 +131,7 @@ part-of-speech:
   type: heading
   open: <h3 class="part-of-speech">
   close: </h3>
-h4:
+subheading:
   props:
     font: Harrington
     bold: true
@@ -138,6 +140,8 @@ h4:
     bottom: 15
     left: 50
   type: heading
+  open: <h4>
+  close: </h4>
 ipa:
   props:
     font: Lucida Sans Unicode

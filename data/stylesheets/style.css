@@ -336,12 +336,12 @@ input[type='checkbox']#debug {
 		display: block;
 	}
 
-	main div.mobile-table p.example_no_lines {
-		margin-left: 22%;
-	}
-
 	main div.mobile-table:hover p:first-child::before {
 		content: "";
+	}
+
+	main div.mobile ul {
+		margin-top: 0em;
 	}
 
 	main div.mobile-table:hover p:first-child::after {
