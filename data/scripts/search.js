@@ -247,7 +247,7 @@ function createUrl(text) {
 }
 
 function createPlainUrl(text) {
-    return `${findInitial(text)}/${sellCaps(text)}.html`
+    return `${text}.html`
 }
 
 dollarise = (letter) =>

@@ -34,9 +34,11 @@ function getTermfrom404() {
 }
 
 function backupUrl(link) {
+    console.log('bakup');
     return '/' + link;
 }
 
 function createUrl(text) {
-    return '/' + createPlainUrl(text);
+    console.log('asdaef')
+    return createPlainUrl(text);
 }
