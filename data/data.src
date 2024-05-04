@@ -6604,16 +6604,15 @@ entries:
               - <part-of-speech>adverb</part-of-speech>
               - <definition>should; would be better to</definition>
             -ru:
-              date: '2018-04-08'
+              date: '2024-05-04'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl>
-                <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl>
-                → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</part-of-speech>
-              - <definition>derives a <poslink@x-tlb-hl>gerund</poslink@x-tlb-hl)
-                from a verb</definition>
+              - <part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
+                (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</part-of-speech>
+              - <definition>derives a <poslink@x-tlb-hl>gerund</poslink@x-tlb-hl>
+                from a noun</definition>
             ru’iha:
               date: '2018-04-08'
               text:
@@ -14312,7 +14311,8 @@ entries:
               - The spiritual body; the emergent property of the heart; the part of
                 a personality that loves
               - <subheading>Translations</subheading>
-              - '<strong>High Lulani</strong>: <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> '
+              - '<strong>High Lulani</strong>: <link@x-tlb-hl>lu’iki</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> '
               date: '2019-02-02'
               position: '1.0'
             ’agu:
