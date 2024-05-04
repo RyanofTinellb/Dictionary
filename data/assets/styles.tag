@@ -60,6 +60,13 @@ ol:
   start: <li>
   end: </li>
 h2:
+  type: heading
+  props:
+    font: Artisan Paris
+    size: 120
+    bold: true
+    justification: centre
+language-name:
   props:
     font: Artisan Paris
     size: 120
@@ -67,7 +74,7 @@ h2:
     justification: centre
   key: KeyPress-1
   type: heading
-  open: <h2
+  open: '<h2 class="language" '
   pipe: '>'
   param: id="$url(text)$"|$text$
 poslink:
@@ -112,7 +119,16 @@ h3:
     top: 15
     bottom: 7
   type: heading
+part-of-speech:
+  props:
+    font: Garamond
+    underline: true
+    top: 15
+    bottom: 7
   key: KeyPress-2
+  type: heading
+  open: <h3 class="part-of-speech">
+  close: </h3>
 h4:
   props:
     font: Harrington

@@ -32,3 +32,7 @@ templates:
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
 port: 21478
+serialisation format:
+  language: language-name
+  part of speech: part-of-speech
+  definition: definition

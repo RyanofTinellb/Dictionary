@@ -1,5 +1,5 @@
-var URL = '../data/assets/wordlist.json';
-var BACKUP_URL = '../data/assets/searching.json';
+const BASE_URL = '../data/assets/wordlist.json';
+const BACKUP_URL = '../data/assets/searching.json';
 const HREF = window.location.href;
 const QUERY = HREF.split('?')[1];
 const SEARCH = document.getElementById('term');
@@ -29,10 +29,10 @@ const LANGUAGES = [
 
 if (HREF.indexOf('?') != -1 &&
     HREF.toLowerCase().indexOf('search') != -1) {
-        RESULTS.innerHTML = 'Searching...';
-        const terms = getTerms();
-        place(terms);
-        search(terms);
+    RESULTS.innerHTML = 'Searching...';
+    const terms = getTerms();
+    place(terms);
+    search(terms);
 }
 
 async function search(terms) {
@@ -41,13 +41,13 @@ async function search(terms) {
     if (!terms) {
         results = '';
     } else {
-        data = await fetch(URL);
+        data = await fetch(BASE_URL);
         data = await data.json();
         results = [translit, pos_lang, def_lang]
-                   .map(fn => display(fn(data, terms)))
-                   .filter(entry => entry.length)
-                   .sort((a, b) => a.length - b.length)
-                   .join('');
+            .map(fn => display(fn(data, terms)))
+            .filter(entry => entry.length)
+            .sort((a, b) => a.length - b.length)
+            .join('');
     }
     if (results.length) {
         RESULTS.innerHTML = results;
@@ -81,24 +81,22 @@ function capitalise(string) {
 }
 
 function esc(string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function backupDisplay(pages, data, terms) {
     terms = terms.map(markdown);
     let regexes = terms.map(term =>
-            RegExp(`(${esc(term)}|${capitalise(esc(term))})`, 'g'));
-    return `${
-    !arr.length ? 'No matching entries found.' :
-         `<ul>${pages.map(page => {
-            let pagenum = page.page;
-            let link = data.urls[pagenum];
-            let name = data.names[pagenum];
-            let lines = page.lines.map(
-                linenum => highlight(regexes, data.sentences[linenum]));
-            return `<li><a href="${backupUrl(link)}">${name}</a>: ${
-                lines.join(' &hellip; ')}</li>`;
-    }).join('')}</ul>`}`;
+        RegExp(`(${esc(term)}|${capitalise(esc(term))})`, 'g'));
+    return `${!arr.length ? 'No matching entries found.' :
+            `<ul>${pages.map(page => {
+                let pagenum = page.page;
+                let link = data.urls[pagenum];
+                let name = data.pages[pagenum];
+                let lines = page.lines.map(
+                    linenum => highlight(regexes, data.lines[linenum]));
+                return `<li><a href="${backupUrl(link)}">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
+            }).join('')}</ul>`}`;
 }
 
 function backupUrl(link) {
@@ -107,7 +105,7 @@ function backupUrl(link) {
 
 function highlight(terms, line) {
     terms.forEach(term => {
-        line = line.replace(term, '<strong>$1</strong>');
+        line = line.replace(term, '<b>$1</b>');
     });
     return line;
 }
@@ -136,7 +134,7 @@ function multiTermSearch(arr, terms) {
             current.count++;
         } else {
             if (current) { output.push(current); }
-            current = {page: page.page, lines: page.lines, count: 1};
+            current = { page: page.page, lines: page.lines, count: 1 };
         }
     }
     output = uniquePageNumbers(output);
@@ -144,7 +142,6 @@ function multiTermSearch(arr, terms) {
 }
 
 function oneTermSearch(arr, term) {
-    console.log('ata', arr, term);
     pages = arr.terms[term];
     text = [];
     for (page in pages) {
@@ -169,7 +166,7 @@ function pos_lang(data, terms, back) {
     for (let term of terms) {
         let neg = term.charAt(0) == '-' ? a => !a : a => a;
         term = term.replace(/^-/, '');
-        let arr = data.filter(entry => neg(entry.p.includes(term)));
+        let arr = data.filter(entry => neg(entry.p.split(' ').includes(term)));
         if (!arr.length || arr.length == data.length) {
             arr = data.filter(entry => neg(language(entry).includes(term)));
         }
@@ -190,8 +187,8 @@ function def_lang(data, terms) {
     for (let term of terms) {
         quote = term.search('"') != -1;
         term = term.replace(/"/g, '');
-        data = data.filter(entry => entry.d.map(
-            word => clean(markdown(word.toLowerCase()))
+        data = data.filter(entry => entry.d.split(' ').map(
+            word => word.toLowerCase()
         ).includes(term) ||
             (quote ? false : language(entry).includes(term)));
         if (!data.length) {
@@ -202,17 +199,12 @@ function def_lang(data, terms) {
 }
 
 function language(entry) {
-    return entry.l.toLowerCase().replace(/&.*?;/g, 'e').split(' ');
+    return entry.l.toLowerCase().split(' ');
 }
 
 function translit(data, terms) {
-    terms = terms.map(clean);
     return data.filter(entry =>
-        includesAll(clean_split(entry.t), terms));
-}
-
-function clean(text) {
-    return text.toLowerCase().replace(/[^a-z' ]/g, '');
+        includesAll(entry.t.split(' '), terms));
 }
 
 function keep_quotes(text) {
@@ -221,10 +213,6 @@ function keep_quotes(text) {
 
 function keep_hyphen(text) {
     return text.toLowerCase().replace(/[^a-z-' ]/g, '')
-}
-
-function clean_split(text) {
-    return clean(markdown(text.toLowerCase())).split(' ')
 }
 
 function includesAll(entry, terms) {
@@ -246,7 +234,7 @@ function display(entries) {
 function createLine(entry) {
     return `<li><a href="../lex/${createUrl(entry.t)}">${entry.t}</a> `
         + `(${entry.l}) `
-        + `<em>${entry.m}</em></li>`;
+        + `<em>${entry.d}</em></li>`;
 }
 
 function findInitial(text) {
@@ -267,7 +255,7 @@ dollarise = (letter) =>
 
 function sellCaps(text) {
     return text.replace(/./g, dollarise)
-               .replace(' ', '.');
+        .replace(' ', '.');
 }
 
 function markdown(text) {
