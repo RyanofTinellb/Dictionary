@@ -8,6 +8,10 @@ abbr:
     size: 80
 also:
   type: div
+  param: '<i>See also:</i> <a href="$url(text)$">$text$</a>'
+  props:
+    size: 120
+    colour: '#00ff00'
 gloss:
   props:
     italics: true
@@ -76,6 +80,7 @@ language-name:
   type: heading
   open: '<h2 class="language" '
   pipe: '>'
+  close: </h2>
   param: id="$url(text)$"|$text$
 poslink:
   props:

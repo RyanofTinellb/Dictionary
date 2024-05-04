@@ -1,89 +1,41 @@
 <!doctype html>
-<html lang="en">
+<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<meta charset="utf-8">
+<title>mulu  - The Tinellbian Languages Dictionary </title>
+<link rel="stylesheet" type="text/css" href="../data/stylesheets/basic_style.css">
+<link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
+<link rel="icon" type="image/png" href="../data/assets/favicon.png">
+<script> let href = window.location.href; 
+ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) { 
+ let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2"); 
+ window.location.href = `../special/search.html?${term}&andOr=and`; 
+ } </script>
+<script src="../data/scripts/search.js"></script>
+<script src="../data/scripts/word_search.js"></script></head>
+<body><div class="flex"><nav><details><summary> Menu </summary>
+<ul><li><a href="../index.html"><strong>Dictionary</strong></a></li>
+<div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
+<li class="search"><button>Search</button></li></form></div></ul>
+<div class="javascript"><div class="random"><p><a href="../special/random_entry.html">Random Entry</a></p></div></div></details></nav>
 
-  <head>
-    <meta name="viewport" content="width=device-width/initial-scale=1.0">
-    <meta charset="utf-8">
-    <title>mulu - The Tinellbian Languages Dictionary </title>
-    <link rel="stylesheet" type="text/css" href="../data/stylesheets/basic_style.css">
-    <link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
-    <link rel="icon" type="image/png" href="../data/assets/favicon.png">
-    <script> let href = window.location.href;
-      if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-        let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-        window.location.href = `../special/search.html?${term}&andOr=and`;
-      } </script>
-    <script src="../data/scripts/search.js"></script>
-    <script src="../data/scripts/word_search.js"></script>
-  </head>
+<main><h1>mulu</h1>
+<h2 class="language"  id="highlulani">High Lulani </h2>
+<div class="native-script"><p><span class="tinellbian" lang="x-tlb-hl">むを</span></p></div>
+<div class="pronunciation"><p><a href="http://grammar.tinellb.com/highlulani/phonology/index.html"><span class="ipa">/ˈmulʉ/</span></a></p></div>
+<h3 class="part-of-speech"> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> <a href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <span class="hidden">substance</span> </h3>
+<div class="definition"><p>blood</p></div>
+<h4> Derived Terms </h4>
+<div class="wordlist"><p><a href="mikumulu.html#highlulani">mikumulu</a> <span class="tinellbian" lang="x-tlb-hl">みくむを</span> <span class="gloss">crimson</span></p>
+<div class="block"><p><a href="mulukku.html#highlulani">mulukku</a> <span class="tinellbian" lang="x-tlb-hl">むをっく</span> <span class="gloss">heart</span></p></div></div>
+<h4> See Also </h4>
+<p><a href="../search.html?term=substance">Other Substances</a></p>
 
-  <body>
-    <div class="flex">
-      <nav>
-        <details>
-          <summary> Menu </summary>
-          <ul>
-            <li><a href="../index.html"><strong>Dictionary</strong></a></li>
-            <div class="javascript">
-              <form id="search">
-                <li class="search"><input type="text" name="term"></li>
-                <li class="search"><button>Search</button></li>
-              </form>
-            </div>
-          </ul>
-          <div class="javascript">
-            <div class="random">
-              <p><a href="../special/random_entry.html">Random Entry</a></p>
-            </div>
-          </div>
-        </details>
-      </nav>
-
-      <main>
-        <h1>mulu</h1>
-        <h2 class="language" id="highlulani">High Lulani </language-name>
-          <div class="native-script">
-            <p><span class="tinellbian" lang="x-tlb-hl">むを</span></p>
-          </div>
-          <div class="pronunciation">
-            <p><a href="http://grammar.tinellb.com/highlulani/phonology/index.html"><span class="ipa">/ˈmulʉ/</span></a>
-            </p>
-          </div>
-          <h3 class="part-of-speech"> <a
-              href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> <a
-              href="http://grammar.tinellb.com/highlulani/morphology/nouns/index.html">noun</a> <span
-              class="hidden">substance</span> </h3>
-          <div class="definition">
-            <p>blood</p>
-          </div>
-          <h4> Derived Terms </h4>
-          <div class="wordlist">
-            <p><a href="mikumulu.html#highlulani">mikumulu</a> <span class="tinellbian"
-                lang="x-tlb-hl">みくむを</span> <span class="gloss">crimson</span></p>
-            <div class="block">
-              <p><a href="mulukku.html#highlulani">mulukku</a> <span class="tinellbian"
-                  lang="x-tlb-hl">むをっく</span> <span class="gloss">heart</span></p>
-            </div>
-          </div>
-          <h4> See Also </h4>
-          <p><a href="../search.html?term=substance">Other Substances</a></p>
-
-          <javascript> <input type="text" name="search" id="wordsearch"
-              onKeyDown="if (event.keyCode == 13) {wordsearch()}">
-            <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry">
-          </javascript>
-      </main>
-    </div>
-    <footer>
-      <div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan
-            Eakins</a>.</span>
-        <span class="no-breaks">Last updated: Saturday, May 4th, 2024</span>
-      </div>
-    </footer>
-    <script>
-      for (elt of document.getElementsByClassName('javascript')) {
-        elt.style.display = "block";
-      } </script>
-  </body>
-
-</html>
+<javascript> <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"> 
+ <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"> </javascript>
+</main></div>
+<footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
+<span class="no-breaks">Last updated: Saturday, May 4th, 2024</span></div>
+</footer>
+<script>
+ for (elt of document.getElementsByClassName('javascript')) { 
+ elt.style.display = "block";} </script></body></html>

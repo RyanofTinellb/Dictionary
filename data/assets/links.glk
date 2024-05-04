@@ -18,10 +18,12 @@ x-tlb-hl:
   coordinating: http://grammar.tinellb.com/highlulani/morphology/conjunctions.html#coordinatingconjunctions
   determiner: http://grammar.tinellb.com/highlulani/morphology/suffixes/determiners.html
   generic: http://grammar.tinellb.com/highlulani/morphology/suffixes/index.html#quasi-suffixes
+  gerund: http://grammar.tinellb.com/highlulani/syntax/gerunds.html
   inanimate: http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun
   indefinite: http://grammar.tinellb.com/highlulani/morphology/deixis/indefinitepro-forms.html
   intransitive: http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html
   kinetic: http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#kineticverbs
+  List of Elements: http://grammar.tinellb.com/highlulani/apocrypha/elements.html
   mass: http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#massnouns
   mathematics: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/highlulani/morphology/adverbs.html#modals
@@ -32,9 +34,11 @@ x-tlb-hl:
   number: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   numeral: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   ordinal: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers
+  Other Substances: ../search.html?term=substance
   particle: http://grammar.tinellb.com/highlulani/morphology/particles/index.html
   passive: http://grammar.tinellb.com/highlulani/syntax/argumentpromotion.html
   perceptive: http://grammar.tinellb.com/highlulani/morphology/verbs/ambitransitivity.html#perceptiveverbs
+  Periodic Table: http://grammar.tinellb.com/highlulani/apocrypha/elements.html
   personal: http://grammar.tinellb.com/highlulani/morphology/deixis/personalpro-forms.html
   possessive: http://grammar.tinellb.com/highlulani/apocrypha/kinship.html#nuclearfamily
   prodeterminer: http://grammar.tinellb.com/highlulani/morphology/suffixes/determiners.html
