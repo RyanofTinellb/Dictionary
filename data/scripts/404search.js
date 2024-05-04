@@ -1,5 +1,5 @@
-URL = '/wordlist.json';
-BACKUP_URL = '/searching.json';
+BASE_URL = '/data/assets/wordlist.json';
+BACKUP_URL = '/data/assets/searching.json';
 GET = elt => document.getElementsByTagName(elt)[0]
 
 base();

@@ -1,5 +1,4 @@
 /* Goes directly to an inputted word*/
-console.log(MARKDOWN);
 
 
 function search() {

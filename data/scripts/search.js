@@ -1,5 +1,5 @@
-const BASE_URL = '../data/assets/wordlist.json';
-const BACKUP_URL = '../data/assets/searching.json';
+var BASE_URL = '../data/assets/wordlist.json';    // can be overriden
+var BACKUP_URL = '../data/assets/searching.json'; // by 404 search
 const HREF = window.location.href;
 const QUERY = HREF.split('?')[1];
 const SEARCH = document.getElementById('term');
