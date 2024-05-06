@@ -17,13 +17,18 @@ x-tlb-hl:
   conjunction: http://grammar.tinellb.com/highlulani/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/highlulani/morphology/conjunctions.html#coordinatingconjunctions
   determiner: http://grammar.tinellb.com/highlulani/morphology/suffixes/determiners.html
+  Food and Drink: ../search.html?term=food
   generic: http://grammar.tinellb.com/highlulani/morphology/suffixes/index.html#quasi-suffixes
+  Geological Terms: ../search.html?term=geology
   gerund: http://grammar.tinellb.com/highlulani/syntax/gerunds.html
   inanimate: http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#inanimatenoun
   indefinite: http://grammar.tinellb.com/highlulani/morphology/deixis/indefinitepro-forms.html
   intransitive: http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html
   kinetic: http://grammar.tinellb.com/highlulani/morphology/verbs/intransitivity.html#kineticverbs
+  Kinship Terms: http://grammar.tinellb.com/highlulani/apocrypha/kinship.html
+  List of Animals: ../search.html?term=animal
   List of Elements: http://grammar.tinellb.com/highlulani/apocrypha/elements.html
+  List of Plants: ../search.html?term=plant
   mass: http://grammar.tinellb.com/highlulani/morphology/nouns/index.html#massnouns
   mathematics: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/highlulani/morphology/adverbs.html#modals
@@ -34,6 +39,7 @@ x-tlb-hl:
   number: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   numeral: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html
   ordinal: http://grammar.tinellb.com/highlulani/apocrypha/numbers.html#ordinalnumbers
+  Other Parts of the Body: ../search.html?term=bodypart
   Other Substances: ../search.html?term=substance
   particle: http://grammar.tinellb.com/highlulani/morphology/particles/index.html
   passive: http://grammar.tinellb.com/highlulani/syntax/argumentpromotion.html
@@ -54,3 +60,6 @@ x-tlb-hl:
   transitive: http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html
   verb: http://grammar.tinellb.com/highlulani/morphology/verbs/index.html
   vital: http://grammar.tinellb.com/highlulani/morphology/verbs/transitivity.html#vitalverbs
+en:
+  The Crackled Egg: http://coelacanthquartet.tinellb.com/thecrackledegg/index.html
+  The Coelacanth Quartet: http://coelacanthquartet.tinellb.com/

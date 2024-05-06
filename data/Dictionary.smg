@@ -5,7 +5,17 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - -ru
+  - mullu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’isili
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $ṭepet
+imes:
+  autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
+  transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
+  tinellbian: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\tinellbian.ime
 languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
 links:
   poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
@@ -17,7 +27,6 @@ locations:
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\special\wholepage.html
   directory: c:\users\ryan\tinellbianlanguages\dictionary
-markdown: ''
 styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
 templates:
   main: c:\users\Ryan\tinellbianlanguages\dictionary\data\templates\page.tpl

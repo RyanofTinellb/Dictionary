@@ -2,31 +2,33 @@ default:
   props:
     font: Cambria
     size: 18
+    ime: autocorrect
 abbr:
   props:
     font: Felix Titling
     size: 80
 also:
   type: div
-  param: '<i>See also:</i> <a href="$url(text)$">$text$</a>'
+  param: '<i>See also:</i> <a href="$url(text)$.html">$text$</a>'
   props:
     size: 120
     colour: '#00ff00'
-gloss:
-  props:
-    italics: true
-  type: span
-  key: Alt-g
-translation:
-  type: div
-table:
-  type: table
 block:
   type: div
 folding:
   type: block
   open: <details class="folding">
   close: </details>
+gloss:
+  props:
+    italics: true
+    off-key: <space>
+  type: span
+  key: Alt-g
+table:
+  type: table
+translation:
+  type: div
 folded:
   type: line
   open: <summary class="folding">
@@ -34,11 +36,16 @@ folded:
 transliteration:
   type: span
   language: true
+  props:
+    ime: transliteration
+    off-key: <space>
 tinellbian:
   props:
-    font: tinellbian
+    font: Tinellbian
     size: 150
     underline: true
+    ime: tinellbian
+    off-key: <space>
   type: span
   language: true
   key: Alt-t
@@ -53,6 +60,7 @@ sub: {}
 b:
   props:
     bold: true
+    size: 90
 universe:
   type: span
 note:
@@ -85,6 +93,7 @@ language-name:
 poslink:
   props:
     underline: true
+    off-key: <space>
   type: span
   language: true
   open: <a href="
@@ -157,10 +166,18 @@ ipa:
   param: $lookup:ipa$|$text$
   rank: -50
   language: true
+wikt-link:
+  open: <a href="
+  pipe: '">'
+  close: '</a>'
+  param: https://en.wiktionary.org/wiki/$text$|$text$
+  rank: -50
 link:
   props:
     underline: true
     colour: "#0080ff"
+    ime: transliteration
+    off-key: <space>
   open: <a href="
   pipe: '">'
   close: </a>
