@@ -8,7 +8,7 @@ entries:
   - mullu
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’isili
+  - $tapassi
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
   transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime

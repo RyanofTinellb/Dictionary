@@ -14,12 +14,19 @@ function findInitial(text) {
 }
 
 function createUrl(text) {
-    return `${text}.html`
+    return `${sellCaps(text)}.html`
 }
 
+const mapString = (str, fn) =>
+    str.split('')
+       .map((c, i) => fn(c, i, str))
+       .join('');
+
+const sellLetterCaps = letter => letter ==
+    letter.toLowerCase() ? letter : `$${letter.toLowerCase()}`
+
 function sellCaps(text) {
-    return text.replace(/[A-Z]/g, letter => `$${letter.toLowerCase()}`)
-        .replace(' ', '.');
+    return mapString(text, sellLetterCaps)
 }
 
 function markdown(text) {
@@ -33,13 +40,13 @@ function wordsearch() {
     let term = search();
     let lex = window.location.href.includes('lex') ? '' : 'lex/';
     if (term) {
-        window.location.href = lex + term;
+        window.location.href = lex + sellCaps(term);
     }
 }
 
 function toplevelwordsearch() {
     let term = search();
     if (term) {
-        window.location.href = term;
+        window.location.href = sellCaps(term);
     }
 }

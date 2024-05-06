@@ -14299,8 +14299,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>たぱっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰəˈpʰasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Tepeth</link@en></definition>
-              date: '2019-02-03'
+              - <definition><link@en>$tepeth</link@en></definition>
+              date: '2024-05-06'
               position: '1.0'
             naqi:
               text:
