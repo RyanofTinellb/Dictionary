@@ -181,7 +181,7 @@ link:
   open: <a href="
   pipe: '">'
   close: </a>
-  param: $text$.html#$url(lookup:lang)$|$text$
+  param: $text$.html#$url(lookup:lang)$|$upper(text)$
   key: l
   rank: -50
   language: true

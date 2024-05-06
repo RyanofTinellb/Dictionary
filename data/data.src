@@ -3097,13 +3097,6 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈgusə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>contest</definition>
-            testing:
-              text:
-              - <poslink@x-tlb-hl>poslink</poslink@x-tlb-hl> <poslink@x-tlb-cz>poslink</poslink@x-tlb-cz>
-                <poslink@x-tlb-ts>poslink</poslink@x-tlb-ts>
-              - <ipa@x-tlb-ab>boo</ipa@x-tlb-ab> <ipa@x-tlb-hl>gyhf</ipa@x-tlb-hl>
-                <ipa@en>ercfdfg</ipa@en>
-              date: '2024-04-30'
             ’alla:
               date: '2018-04-05'
               text:
@@ -9055,7 +9048,7 @@ entries:
             kurila:
               date: '2018-09-30'
               text:
-              - <also>Kurila</also>
+              - <also>$kurila</also>
             $guozu:
               date: '2018-09-30'
               text:
@@ -9522,8 +9515,9 @@ entries:
               - <definition>Tsarin woman, major character of the <gloss>Coelacanth
                 Quartet</gloss></definition>
               - <subheading>Translations</subheading>
-              - <block><b>High Lulani:</b> <link@x-tlb-hl>Kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
-              - <b>Modern Tsarin:</b> <link@x-tlb-mt>Qōla</link@x-tlb-mt>
+              - <block><b>High Lulani:</b> <link@x-tlb-hl>$kurila</link@x-tlb-hl>
+                <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
+              - <b>Modern Tsarin:</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
               date: '2018-12-24'
               position: '4.15'
             $kurila:
@@ -9535,7 +9529,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition><link@en>Corla</link@en></definition>
               - <subheading>Notes</subheading>
-              - <gloss>transliteration of </gloss><b>Modern Tsarin</b> <link@x-tlb-mt>Qōla</link@x-tlb-mt>
+              - <gloss>transliteration of </gloss><b>Modern Tsarin</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
               date: '2024-05-04'
               position: '8.14'
             $qōla:
@@ -9545,7 +9539,7 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition><link@en>Corla</link@en></definition>
               - <subheading>Transliterations</subheading>
-              - '<b>High Lulani</b>: <link@x-tlb-hl>Kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>'
+              - '<b>High Lulani</b>: <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>'
               date: '2024-05-04'
               position: '5.29'
             $ra’ani:
@@ -10096,13 +10090,13 @@ entries:
                 <hidden>bodypart</hidden></part-of-speech>
               - <definition>tail</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl>
+              - <wordlist><block><link@x-tlb-hl>$daxunikifigi $qasa</link@x-tlb-hl>
                 <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
               date: '2019-01-06'
               position: '9.72'
-            daxunikifigi.qasa:
+            $daxunikifigi $qasa:
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>だずにきべぎ・げさ</tinellbian@x-tlb-hl></native-script>
@@ -11532,7 +11526,7 @@ entries:
                 <hidden>particle</hidden></part-of-speech>
               - <definition>one</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
+              - <wordlist><block><link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
                 わら</tinellbian@x-tlb-hl> <gloss>water</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl>
@@ -13523,7 +13517,7 @@ entries:
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop>
                 <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <gloss>water</gloss></wordlist><mobile-table>
+              - <wordlist><link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <gloss>water</gloss></wordlist><mobile-table>
               - </mobile-table>
               date: '2024-05-06'
               position: '60.14'
@@ -13899,8 +13893,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <block><link@x-tlb-hl>xuci</link@x-tlb-hl> <gloss>feather</gloss>
                 + <link@x-tlb-hl>pura</link@x-tlb-hl> <gloss>become</gloss>
-              - <link@x-tlb-hl>cula</link@x-tlb-hl> <gloss>egg</gloss>
-              - </block>
+              - <link@x-tlb-hl>cula</link@x-tlb-hl> <gloss>egg</gloss></block>
               date: '2024-05-06'
               position: '8.10'
             ’adi:
@@ -14397,7 +14390,7 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition>Zhaladi woman, from <poslink@en>The Crackled Egg</poslink@en></definition>
               - <subheading>Translations</subheading>
-              - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>Lharen</link@x-tlb-cz>'
+              - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>$lharen</link@x-tlb-cz>'
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ˈɬærən/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
@@ -14536,10 +14529,10 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/təˈpʰɛθ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Zhaladi administrator, in <poslink@None>The Crackled Egg</poslink@None></definition>
+              - <definition>Zhaladi administrator, in <poslink@en>The Crackled Egg</poslink@en></definition>
               - <subheading>Translations</subheading>
-              - <block><b>High Lulani:</b> <link@x-tlb-hl>Tapassi</link@x-tlb-hl>
-              - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>Ṭepet</link@x-tlb-cz></block>
+              - <block><b>High Lulani:</b> <link@x-tlb-hl>$tapassi</link@x-tlb-hl>
+              - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>$ṭepet</link@x-tlb-cz></block>
               date: '2024-05-06'
               position: '7.33'
             $ṭepet:
@@ -14547,8 +14540,8 @@ entries:
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ʈɛˈpet̪θ̪/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Tepeth</link@en></definition>
-              date: '2019-02-25'
+              - <definition><link@en>$tepeth</link@en></definition>
+              date: '2024-05-06'
               position: '2.22'
             dacca:
               text:
@@ -14704,7 +14697,7 @@ entries:
                 to push
               date: '2019-02-25'
               position: '9.18'
-            $mala.$ptokonoi:
+            $mala $ptokonoi:
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˌmælə ˈpʰtʰɒkʰn̩ɒɪ/</ipa@en></pronunciation>
@@ -14749,14 +14742,14 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぬび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnubɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>universe <universe> M<sup>204</sup>ν</universe></definition>
+              - <definition>universe<universe> M<sup>204</sup>ν</universe></definition>
               - <subheading>Notes</subheading>
               - This is Queen Loren’s home reality; the reality in which the planet
                 <link@en>Mala Ptokonoi</link@en> is found
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl>
                 <gloss>sky</gloss></block></wordlist>
-              date: '2019-02-25'
+              date: '2024-05-06'
               position: '7.84'
             qilaru:
               text:
@@ -16414,7 +16407,7 @@ entries:
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop>
                 <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さしたわら</tinellbian@x-tlb-hl>
+              - <wordlist><link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さしたわら</tinellbian@x-tlb-hl>
                 <gloss>water</gloss>
               - <link@x-tlb-hl>xudi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずで</tinellbian@x-tlb-hl>
                 <gloss>flow of water</gloss>
@@ -16556,11 +16549,11 @@ entries:
               - <definition>country in universe <universe>A<sup>376</sup>γ</universe></definition>
               - <subheading>Translations</subheading>
               - '<wordlist><block><b>High Lulani</b>: <link@x-tlb-hl>Xaladi</link@x-tlb-hl>'
-              - '<b>Contemporary Zhaladi</b>: <link@x-tlb-cz>Zhalad</link@x-tlb-cz></block></wordlist>'
+              - '<b>Contemporary Zhaladi</b>: <link@x-tlb-cz>$zhalad</link@x-tlb-cz></block></wordlist>'
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ˈʒalat/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Zhalad</link@en></definition>
+              - <definition><link@en>$zhalad</link@en></definition>
               position: '4.80'
             tarrada:
               text:
@@ -16799,7 +16792,7 @@ entries:
               - <definition>hydrogen</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl> <gloss>hydrogen</gloss>
-              - <link@x-tlb-hl>saxita lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
+              - <link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした
                 わる</tinellbian@x-tlb-hl> <gloss>dihydrogen monoxide</gloss>
               - <link@x-tlb-hl>xu</link@x-tlb-hl><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl>
                 <b>la</b><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずさはき
