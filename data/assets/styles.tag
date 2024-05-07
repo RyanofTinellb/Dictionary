@@ -3,10 +3,6 @@ default:
     font: Cambria
     size: 18
     ime: autocorrect
-abbr:
-  props:
-    font: Felix Titling
-    size: 80
 also:
   type: div
   param: '<i>See also:</i> <a href="$url(text)$.html">$text$</a>'
@@ -68,7 +64,7 @@ b:
 universe:
   type: span
 note:
-  type: div
+  type: span
 symbol:
   type: span
 ol:
@@ -108,6 +104,9 @@ poslink:
   key: Alt-p
   rank: -50
 glossary:
+  props:
+    font: Felix Titling
+    size: 80
   type: span
   open: <dfn><abbr class="glossary" title="
   pipe: '">'
@@ -159,6 +158,7 @@ subheading:
     top: 15
     bottom: 15
     left: 50
+    off-key: Return
   type: heading
   open: <h4>
   close: </h4>
@@ -206,7 +206,9 @@ strong:
 native-script:
   props:
     justification: centre
+    off-key: Return
   type: div
+  key: Alt-N
 pronunciation:
   type: div
   props:
@@ -220,8 +222,11 @@ javascript:
 definition:
   props:
     left: 30
+    off-key: Return
   type: div
+  key: Alt-D
 wordlist:
   type: div
+  key: Alt-W
 type:
   type: div

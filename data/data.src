@@ -3763,13 +3763,17 @@ entries:
               - ↓ <link@x-tlb-hl>tika</link@x-tlb-hl> <tinellbian@x-tlb-hl>てか</tinellbian@x-tlb-hl>
                 <gloss>fermium</gloss></block></wordlist>
             cahuri:
-              date: '2018-04-05'
+              date: '2024-05-07'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/cʰəˈhuɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>market stall</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>cahu</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほ</tinellbian@x-tlb-hl>
+                <gloss>commerce</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl>
+                <glossary>drv</glossary>
             ciʔa:
               date: '2018-04-05'
               text:
@@ -21784,3 +21788,23 @@ entries:
               - <wordlist><link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl>
                 <gloss>sadness</gloss></wordlist>
               date: '2024-05-06'
+            cahu:
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>やほ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈcahʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
+              - </part-of-speech><definition>commerce</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl>
+                <gloss>market stall</gloss></wordlist>
+              date: '2024-05-07'
+            testing:
+              text:
+              - <part-of-speech><poslink@None>abstract</poslink@None> <poslink@None>noun</poslink@None></part-of-speech>
+              - '<poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> '
+              date: '2024-05-07'
+            mammal:
+              text:
+              - <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>
+              date: '2024-05-07'
