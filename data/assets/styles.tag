@@ -15,6 +15,10 @@ also:
     underline: true
 block:
   type: div
+folded:
+  type: line
+  open: <summary class="folding">
+  close: </summary>
 folding:
   type: block
   open: <details class="folding">
@@ -29,10 +33,6 @@ table:
   type: table
 translation:
   type: div
-folded:
-  type: line
-  open: <summary class="folding">
-  close: </summary>
 transliteration:
   type: span
   language: true
@@ -103,6 +103,14 @@ poslink:
   param: $lookup:poslink$|$text$
   key: Alt-p
   rank: -50
+story-link:
+  props:
+    underline: true
+    colour: '#ff00ff'
+  open: <a href="
+  pipe: '">'
+  close: </a>
+  param: $lookup:external$|$text$
 glossary:
   props:
     font: Felix Titling
@@ -113,6 +121,7 @@ glossary:
   close: </abbr></dfn>
   param: $lookup:glossary$|$text$
   rank: -50
+  key: Alt-G
 mobile-table:
   type: div
   open: <div class="mobile">
@@ -146,6 +155,7 @@ part-of-speech:
     underline: true
     top: 15
     bottom: 7
+    off-key: Return
   key: KeyPress-2
   type: heading
   open: <h3 class="part-of-speech">

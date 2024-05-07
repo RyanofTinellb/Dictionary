@@ -233,10 +233,10 @@ entries:
               - <link@x-tlb-hl>qi’axasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねあざせ</tinellbian@x-tlb-hl>
                 <gloss>to be mature</gloss></block></wordlist>
             ’ahati:
-              date: '2018-03-27'
+              date: '2024-05-07'
               text:
               - <language-name>High Lulani</language-name>
-              - <tinellbian><native-script>あはて</native-script></tinellbian>
+              - <native-script><tinellbian>あはて</tinellbian></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈhatʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>happiness</definition>
@@ -1361,23 +1361,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: taku <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></ul></mobile-table>'
               date: '2018-03-30'
               position: '1.0'
             japa’ala:
@@ -1598,23 +1598,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: pi <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></ul></mobile-table>'
               date: '2018-04-03'
               position: '10.0'
             taca:
@@ -2100,7 +2100,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             -du:
               text:
               - <language-name>High Lulani</language-name>
@@ -2215,20 +2215,20 @@ entries:
               - h future | <link>lanu</link><tinellbian>わぬ</tinellbian> | <link>nagi</link><tinellbian>なぎ</tinellbian>
                 | <link>funi</link><tinellbian>ふに</tinellbian> | <link>hu</link><tinellbian>ほ</tinellbian>
                 | <link>ruku</link><tinellbian>るく</tinellbian></table>
-              - '<mobile>past:'
-              - 'dynamic: <link>qixa</link> <tinellbian>ねざ</tinellbian>'
+              - '<mobile-table>past:'
+              - '<ul>dynamic: <link>qixa</link> <tinellbian>ねざ</tinellbian>'
               - 'stative: <link>pi</link> <tinellbian>ぴ</tinellbian>'
               - 'negative: <link>qilu</link> <tinellbian>ねを</tinellbian>'
               - 'habitual: <link>taku</link> <tinellbian>たく</tinellbian>'
-              - 'gnomic: <link>rusa</link> <tinellbian>るさ</tinellbian>'
+              - 'gnomic: <link>rusa</link> <tinellbian>るさ</tinellbian></ul>'
               - 'present:'
-              - 'dynamic: <link>cani</link> <tinellbian>やに</tinellbian>'
+              - '<ul>dynamic: <link>cani</link> <tinellbian>やに</tinellbian>'
               - 'stative: <link>ra’u</link> <tinellbian>らう</tinellbian>'
               - 'negative: <link>ji</link> <tinellbian>じ</tinellbian>'
               - 'habitual: na <tinellbian>な</tinellbian>'
-              - 'gnomic: <link>ru</link> <tinellbian>る</tinellbian>'
+              - 'gnomic: <link>ru</link> <tinellbian>る</tinellbian></ul>'
               - 'future:'
-              - 'dynamic: <link>lanu</link> <tinellbian>わぬ</tinellbian>'
+              - '<ul>dynamic: <link>lanu</link> <tinellbian>わぬ</tinellbian>'
               - 'stative: <link>nagi</link> <tinellbian>なぎ</tinellbian>'
               - 'negative: <link>funi</link> <tinellbian>ふに</tinellbian>'
               - 'habitual: <link>hu</link> <tinellbian>ほ</tinellbian>'
@@ -3182,23 +3182,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: pari <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             -pu’a:
               date: '2018-04-05'
               text:
@@ -3669,23 +3669,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: canari <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: canari <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             cani:
               date: '2018-04-05'
               text:
@@ -3715,23 +3715,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: cani <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: cani <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
             caqara:
               date: '2018-04-05'
               text:
@@ -3815,7 +3815,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>tug</definition>
             jari:
-              date: '2018-04-05'
+              date: '2024-05-08'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl></native-script>
@@ -3826,6 +3826,39 @@ entries:
               - <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>
                 <glossary>prs;neg</glossary> + <link@x-tlb-hl>-ar-</link@x-tlb-hl>
                 <tinellbian@x-tlb-hl>・あら</tinellbian@x-tlb-hl> <glossary>trm</glossary>
+              - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
+              - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>pari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>qilaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>takaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rusara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>
+              - h present | <link@x-tlb-hl>canari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>ra’aru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>
+                | jari//<tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl> | <link@x-tlb-hl>nara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>raru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>
+              - h future | <link@x-tlb-hl>lanaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>nagari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>funari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
+              - '<mobile-table>past:'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
+              - 'present:'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
+              - 'negative: jari <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
+              - 'future:'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             ji’i:
               text:
               - <language-name>High Lulani</language-name>
@@ -4809,23 +4842,23 @@ entries:
                 | funari//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl> | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: funari <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2018-04-05'
               position: '33.2'
             funi:
@@ -4855,23 +4888,23 @@ entries:
                 | funi//<tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl> | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: funi <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               - <part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> dative
                 <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>to lack</definition>
@@ -6201,23 +6234,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: ra’aru <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             raʔasa:
               date: '2018-04-08'
               text:
@@ -6265,23 +6298,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: ra’u <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
             rapi:
               date: '2018-04-08'
               text:
@@ -6440,23 +6473,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: raru <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: raru <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2018-04-08'
               position: '1.0'
             rafa:
@@ -6670,23 +6703,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | ruku//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: ruku <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: ruku <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2018-04-08'
               position: '1.0'
             runihi:
@@ -6733,23 +6766,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: rusara <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: rusara <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             kalu-:
               date: '2018-04-09'
               text:
@@ -7131,23 +7164,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: na <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>promise</definition>
             -ʔa:
@@ -7372,23 +7405,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
             qihha:
               date: '2018-04-12'
               text:
@@ -7511,23 +7544,23 @@ entries:
                 | <link@x-tlb-hl>funi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>
                 | hu//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: hu <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
             -muka:
               date: '2024-05-02'
               text:
@@ -7611,10 +7644,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | -| <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -7648,7 +7681,7 @@ entries:
               - 'transitive: ’iffa <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             pa’usa:
               text:
               - <language-name>High Lulani</language-name>
@@ -7788,9 +7821,9 @@ entries:
               - hr2 genitive |h (alienable) | <link@x-tlb-hl>pagu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱぐ</tinellbian@x-tlb-hl>
                 | ba//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@en>disi</link@en>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -7824,7 +7857,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2018-04-20'
               position: '1.0'
             ba’u:
@@ -7861,10 +7894,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -7898,7 +7931,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             jusi:
               date: '2018-04-20'
               text:
@@ -7934,10 +7967,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -7971,7 +8004,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             kassi:
               date: '2018-04-20'
               text:
@@ -8045,7 +8078,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: kalu <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>physical body</definition>
               - <subheading>Derived Terms</subheading>
@@ -8099,10 +8132,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8136,7 +8169,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: ku <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             quhu:
               date: '2018-04-20'
               text:
@@ -8173,10 +8206,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8210,7 +8243,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             raddilla:
               date: '2018-04-20'
               text:
@@ -8264,10 +8297,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8301,7 +8334,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             filli:
               date: '2018-04-20'
               text:
@@ -8337,10 +8370,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8374,7 +8407,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             sacu:
               date: '2018-04-20'
               text:
@@ -8410,10 +8443,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8447,7 +8480,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             suma:
               date: '2018-04-20'
               text:
@@ -8483,10 +8516,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8520,7 +8553,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             huba:
               text:
               - <language-name>High Lulani</language-name>
@@ -8600,10 +8633,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8637,7 +8670,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             rone:
               date: '2018-04-22'
               text:
@@ -8681,10 +8714,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -8718,7 +8751,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
             ’usu:
               text:
               - <language-name>High Lulani</language-name>
@@ -8850,8 +8883,8 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | majja / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | majja / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -8917,7 +8950,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             mari:
               text:
               - <language-name>High Lulani</language-name>
@@ -8930,7 +8963,7 @@ entries:
               - h proximate | mari//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -8996,7 +9029,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2018-05-05'
               position: '1.0'
             sesquidecimal:
@@ -9504,12 +9537,13 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/tʰəˈɹɛʃ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Fezhlê woman, major character of the Crackled Egg</definition>
+              - <definition>Fezhlê woman, major character of <story-link>The Crackled
+                Egg</story-link></definition>
               - <subheading>Translations</subheading>
-              - '<block><b>High Lulani</b>: <link@x-tlb-hl>Turassi</link@x-tlb-hl>
+              - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl>
                 <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
-              - <b>Koine Fezhlê:</b> <link@en>Tŗsh</link@en>
-              date: '2018-12-24'
+              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></block>
+              date: '2024-05-08'
               position: '6.31'
             $corla:
               text:
@@ -9940,7 +9974,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-06'
               position: '1.0'
             bad:
@@ -10196,7 +10230,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-06'
               position: '2.17'
             -disi:
@@ -10274,7 +10308,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-06'
               position: '6.21'
             dihha:
@@ -11467,10 +11501,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -11504,7 +11538,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-10'
               position: '14.8'
             reven:
@@ -11572,23 +11606,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: lanaru <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: lanaru <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             ’a’ami:
               text:
               - <language-name>High Lulani</language-name>
@@ -11684,7 +11718,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-13'
               position: '9.85'
             ’usi:
@@ -11752,7 +11786,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -11817,7 +11851,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '2.17'
             ’aba:
@@ -11840,7 +11874,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -11906,7 +11940,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '2.14'
             ’abala:
@@ -11923,7 +11957,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -11989,7 +12023,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.31'
             ’amila:
@@ -12006,7 +12040,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12071,7 +12105,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: ’amila <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '52.10'
             ’umi:
@@ -12089,7 +12123,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12155,7 +12189,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '49.15'
             pa:
@@ -12238,7 +12272,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               - <pronunciation><ipa@x-tlb-hl>/pʰa/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl>
                 <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
@@ -12320,8 +12354,8 @@ entries:
               - h noun |h determiner</thead>
               - <tbody>h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12386,8 +12420,8 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2024-04-30'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '45.9'
             bi’u:
               text:
@@ -12574,7 +12608,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12639,7 +12673,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '54.2'
             -ca:
@@ -12708,7 +12742,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12773,7 +12807,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '5.38'
             ci’u:
@@ -12789,7 +12823,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12855,7 +12889,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.30'
             cura’a:
@@ -12900,7 +12934,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -12966,7 +13000,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.31'
             kasi:
@@ -12983,7 +13017,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13049,7 +13083,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.11'
             -kasi:
@@ -13066,7 +13100,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13131,7 +13165,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '1.0'
             kasika:
@@ -13147,7 +13181,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13213,7 +13247,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '30.9'
             kiʔaci:
@@ -13281,7 +13315,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13347,8 +13381,8 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-01-22'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '4.31'
             qa’i:
               text:
@@ -13363,7 +13397,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13428,7 +13462,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.22'
             lara:
@@ -13444,7 +13478,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13521,9 +13555,8 @@ entries:
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop>
                 <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <gloss>water</gloss></wordlist><mobile-table>
-              - </mobile-table>
-              date: '2024-05-06'
+              - <wordlist><link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <gloss>water</gloss></wordlist>
+              date: '2024-05-08'
               position: '60.14'
             sama:
               text:
@@ -13541,7 +13574,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13607,7 +13640,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '35.15'
             sulla:
@@ -13624,7 +13657,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -13689,7 +13722,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-22'
               position: '4.22'
             xu:
@@ -13954,7 +13987,7 @@ entries:
               - 'transitive: sumafupa <tinellbian@x-tlb-hl>すまふぱ</tinellbian@x-tlb-hl>'
               - 'ablative: puttufupa <tinellbian@x-tlb-hl>ぷっとふぱ</tinellbian@x-tlb-hl>'
               - 'dative: pixifupa <tinellbian@x-tlb-hl>ぴしふぱ</tinellbian@x-tlb-hl>'
-              - 'alienable genitive: pagufupa <tinellbian@x-tlb-hl>ぱぐふぱ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'alienable genitive: pagufupa <tinellbian@x-tlb-hl>ぱぐふぱ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-30'
               position: '10.5'
             pa-:
@@ -14020,7 +14053,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>suma</link@x-tlb-hl>fupa <tinellbian@x-tlb-hl>すまふぱ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>puttu</link@x-tlb-hl>fupa <tinellbian@x-tlb-hl>ぷっとふぱ</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>pixi</link@x-tlb-hl>fupa <tinellbian@x-tlb-hl>ぴしふぱ</tinellbian@x-tlb-hl>'
-              - 'alienable genitive: <link@x-tlb-hl>pagu</link@x-tlb-hl>fupa <tinellbian@x-tlb-hl>ぱぐふぱ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'alienable genitive: <link@x-tlb-hl>pagu</link@x-tlb-hl>fupa <tinellbian@x-tlb-hl>ぱぐふぱ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-01-31'
               position: '15.18'
             pi’apahi:
@@ -14115,23 +14148,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-02-02'
               position: '4.33'
             pi’adisi:
@@ -14429,23 +14462,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: rusa <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: rusa <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-02-04'
               position: '1.0'
             kimilli:
@@ -14623,23 +14656,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: ji <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-02-25'
               position: '7.22'
             kifuju:
@@ -14779,23 +14812,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: qilaru <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-02-25'
               position: '24.17'
             qixara:
@@ -14827,23 +14860,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: qixara <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: qixara <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-02-25'
               position: '26.17'
             -sa:
@@ -16587,23 +16620,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: taku <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@en>lanu</link@en> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@en>lanu</link@en> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></ul></mobile-table>'
               date: '2019-03-17'
               position: '7.14'
             fuhha:
@@ -18108,23 +18141,23 @@ entries:
                 | <link@x-tlb-hl>funari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>
                 | haru//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: haru <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-04'
               position: '8.2'
             harusa:
@@ -18180,64 +18213,71 @@ entries:
                 <hidden>pro-form</hidden></part-of-speech>
               - <definition>to do nothing; negative action</definition>
               - <subheading>See Also</subheading>
-              - <table>|h object |h place |h action |h manner |h state
+              - <table>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
+              - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>majja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kalisa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kadusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>kasika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>
               - h interrogative | <link@x-tlb-hl>sama</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-diku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でく</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>satta</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>sulla</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>lara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>saqqa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>
               - h negative | <link@x-tlb-hl>ci’u</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-cu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ゆ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>qa’i</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>
-                | buni//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl> |c2r2 -
+                | buni//<tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl> |r2c2 -
               - h universal | <link@x-tlb-hl>’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-’aba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>batuja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’abala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>
               - h existential | <link@x-tlb-hl>’umi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>-mi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>mituja</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>’amila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>
                 |c2 <link@x-tlb-hl>fana</link@x-tlb-hl>//<tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></table>
               - '<mobile-table>proximate:'
-              - 'object: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>marila</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>'
               - 'manner: <link@x-tlb-hl>madusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>'
-              - 'state: <link@x-tlb-hl>marika</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>'
+              - 'state: <link@x-tlb-hl>marika</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></ul>'
               - 'distal:'
-              - 'object: <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>kasuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>kalisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl>'
               - 'manner: <link@x-tlb-hl>kadusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl>'
-              - 'state: <link@x-tlb-hl>kasika</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl>'
+              - 'state: <link@x-tlb-hl>kasika</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl></ul>'
               - 'interrogative:'
-              - 'object: <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>satta</link@x-tlb-hl> <tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>sulla</link@x-tlb-hl> <tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl>'
               - 'manner: <link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl>'
-              - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl>'
+              - 'state: <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl></ul>'
               - 'negative:'
-              - 'object: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆい</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>qa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>げい</tinellbian@x-tlb-hl>'
-              - 'action: buni <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl>'
+              - 'action: buni <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl></ul>'
               - 'universal:'
-              - 'object: <link@x-tlb-hl>’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>batuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>'
-              - 'action: <link@x-tlb-hl>’abala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl>'
+              - 'action: <link@x-tlb-hl>’abala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl></ul>'
               - 'existential:'
-              - 'object: <link@x-tlb-hl>’umi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>'
+              - '<ul>object: <link@x-tlb-hl>’umi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-05-06'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '5.9'
             diss·samma:
               date: '2019-05-06'
@@ -18348,7 +18388,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: kalu <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>physical body</definition>
               - <subheading>Derived Terms</subheading>
@@ -18729,7 +18769,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-24'
               position: '5.64'
             su’a:
@@ -18804,7 +18844,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-24'
               position: '7.4'
             ád·duj:
@@ -18976,23 +19016,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: takaru <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '34.0'
             tali:
@@ -19224,7 +19264,7 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | -mari//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> | <link@x-tlb-hl>majja</link@x-tlb-hl>
-                / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。まっぢ</tinellbian@x-tlb-hl>
+                / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる / まっぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
@@ -19291,8 +19331,8 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-05-26'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '1.0'
             mituja:
               text:
@@ -19306,7 +19346,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -19371,7 +19411,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: mituja <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '54.0'
             millu:
@@ -19397,19 +19437,44 @@ entries:
             nagari:
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>なかく</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/nəˈkʰakʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
-                <hidden>element</hidden></part-of-speech>
-              - <definition>meitnerium</definition>
-              - <subheading>See Also</subheading>
-              - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop>
-                <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
-              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><block>← <link@x-tlb-hl>’i’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl> <gloss>hassium</gloss>
-              - → <link@x-tlb-hl>na’ipa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ないぱ</tinellbian@x-tlb-hl> <gloss>darmstadtium</gloss>
-              - ↑ <link@x-tlb-hl>natu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なと</tinellbian@x-tlb-hl> <gloss>iridium</gloss></block></wordlist>
-              date: '2019-05-26'
+              - <native-script><tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/nəˈgaɽɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></part-of-speech>
+              - <definition>will stop being; <glossary>fut;sta</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
+              - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
+              - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>pari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>qilaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>takaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rusara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>
+              - h present | <link@x-tlb-hl>canari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>ra’aru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>jari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>nara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>raru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>
+              - h future | <link@x-tlb-hl>lanaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>
+                | nagari//<tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> | <link@x-tlb-hl>funari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
+              - '<mobile-table>past:'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
+              - 'present:'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
+              - 'future:'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - 'stative: nagari <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '12.26'
             quffi:
               text:
@@ -19514,23 +19579,23 @@ entries:
                 | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
                 | rukaru//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: rukaru <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: rukaru <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '1.0'
             fana:
@@ -19545,7 +19610,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -19611,7 +19676,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: fana <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: fana <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '1.0'
             sa:
@@ -19647,10 +19712,10 @@ entries:
                 | <link@x-tlb-hl>ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>su’a</link@x-tlb-hl>//<tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl>
+                | -
               - h (inalienable) | <link@x-tlb-hl>-pahi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱひ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-ba</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl>
-                | -//<tinellbian@x-tlb-hl></tinellbian@x-tlb-hl> | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
+                | - | <link@x-tlb-hl>-disi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-qa</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
@@ -19684,7 +19749,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '51.0'
             saqqa:
@@ -19700,7 +19765,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -19766,7 +19831,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-05-26'
               position: '1.0'
             saxita.lara:
@@ -19998,7 +20063,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '51.0'
             basa:
@@ -20158,7 +20223,7 @@ entries:
               - 'transitive: <link@x-tlb-hl>’iffa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっへ</tinellbian@x-tlb-hl>'
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
-              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></mobile-table>'
+              - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '8.13'
             danna:
@@ -20264,7 +20329,7 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる 。まっぢ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる / まっぢ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
@@ -20330,8 +20395,8 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@en>mituja</link@en> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-06-16'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '54.2'
             karu:
               text:
@@ -20355,7 +20420,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -20421,7 +20486,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '54.2'
             kupira:
@@ -20500,7 +20565,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -20566,7 +20631,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '54.2'
             macu:
@@ -20590,6 +20655,9 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -20654,8 +20722,8 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-06-16'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '54.2'
             -mi:
               text:
@@ -20679,7 +20747,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -20745,7 +20813,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2024-05-01'
               position: '61.0'
             miru:
@@ -20760,8 +20828,8 @@ entries:
               - h noun |h determiner
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>majja</link@x-tlb-hl> / miru//<tinellbian@x-tlb-hl>みる。まっぢ</tinellbian@x-tlb-hl>
-                | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>majja</link@x-tlb-hl> / miru//<tinellbian@x-tlb-hl>みる
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -20827,7 +20895,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2024-04-30'
               position: '54.2'
             -na’u:
@@ -20954,23 +21022,23 @@ entries:
                 | <link@x-tlb-hl>funi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: qixa <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: qixa <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@en>ra’u</link@en> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>ru</link@x-tlb-hl> <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@en>lanu</link@en> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@en>lanu</link@en> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '1.0'
             rali:
@@ -21048,7 +21116,7 @@ entries:
               - h proximate | <link@x-tlb-hl>mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>-mari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>majja</link@x-tlb-hl> / <link@x-tlb-hl>miru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>みる
-                。まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
+                / まっぢ</tinellbian@x-tlb-hl> | <link@x-tlb-hl>marila</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>madusi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>marika</link@x-tlb-hl>//<tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl>
               - h distal | <link@x-tlb-hl>kasi</link@x-tlb-hl>//<tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl>
@@ -21113,7 +21181,7 @@ entries:
               - 'object determiner: <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl>'
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
-              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></mobile-table>'
+              - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-06-16'
               position: '4.22'
             xani:
@@ -21338,23 +21406,23 @@ entries:
                 | <link@x-tlb-hl>hu</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>
                 | <link@x-tlb-hl>ruku</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>pi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>qilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねを</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>taku</link@x-tlb-hl> <tinellbian@x-tlb-hl>たく</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさ</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>cani</link@x-tlb-hl> <tinellbian@x-tlb-hl>やに</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>ra’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>らう</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>ji</link@x-tlb-hl> <tinellbian@x-tlb-hl>じ</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl>'
-              - 'gnomic: ru <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl>'
+              - 'gnomic: ru <tinellbian@x-tlb-hl>る</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>lanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぬ</tinellbian@x-tlb-hl>'
               - 'stative: <link@x-tlb-hl>nagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なぎ</tinellbian@x-tlb-hl>'
               - 'negative: <link@x-tlb-hl>funi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふに</tinellbian@x-tlb-hl>'
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></mobile-table>'
+              - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
               date: '2019-07-07'
               position: '32.0'
             sutta:
@@ -21467,7 +21535,7 @@ entries:
               - <definition>to sleep; to fall asleep</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>narala’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss>
-              - <block><link@x-tlb-hl>narafiqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならべも</tinellbian@x-tlb-hl> <gloss>to
+              - <link@x-tlb-hl>narafiqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならべも</tinellbian@x-tlb-hl> <gloss>to
                 drift off</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>hacci</link@x-tlb-hl> <tinellbian@x-tlb-hl>はっち</tinellbian@x-tlb-hl> <gloss>to
@@ -21482,41 +21550,41 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl> <glossary>prs;hab</glossary>
                 + <link@x-tlb-hl>-ar-</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あら・</tinellbian@x-tlb-hl> <glossary>trm</glossary>
-              - <subheading>See Also</subheading>
-              - <table>|h dynamic |h stative |h negative |h habitual |h gnomic
-              - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>pari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>qilaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>takaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>rusara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>
-              - h present | <link@x-tlb-hl>canari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>ra’aru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>jari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl> <gloss>|
-                nara//<tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>| <link@x-tlb-hl>raru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>
-              - h future | <link@x-tlb-hl>lanaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>nagari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>funari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>|
-                <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
+              - <subheading>See Also</subheading><table>|h dynamic |h stative |h negative
+                |h habitual |h gnomic
+              - h past | <link@x-tlb-hl>qixara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>pari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>qilaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>takaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rusara</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>
+              - h present | <link@x-tlb-hl>canari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>ra’aru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>jari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>
+                | nara//<tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> | <link@x-tlb-hl>raru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>
+              - h future | <link@x-tlb-hl>lanaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>nagari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>funari</link@x-tlb-hl>//<tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>haru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>
+                | <link@x-tlb-hl>rukaru</link@x-tlb-hl>//<tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></table>
               - '<mobile-table>past:'
-              - 'dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
-              - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
-              - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
-              - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>qixara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねざら</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>pari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>qilaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねわる</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>takaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>たかる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rusara</link@x-tlb-hl> <tinellbian@x-tlb-hl>るさら</tinellbian@x-tlb-hl></ul>'
               - 'present:'
-              - 'dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
-              - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
-              - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
+              - '<ul>dynamic: <link@x-tlb-hl>canari</link@x-tlb-hl> <tinellbian@x-tlb-hl>やなり</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>ra’aru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らある</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>jari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢり</tinellbian@x-tlb-hl>'
               - 'habitual: nara <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>raru</link@x-tlb-hl> <tinellbian@x-tlb-hl>らる</tinellbian@x-tlb-hl></ul>'
               - 'future:'
-              - 'dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
-              - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
-              - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
-              - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
-              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></mobile-table>'
-              date: '2019-08-22'
+              - '<ul>dynamic: <link@x-tlb-hl>lanaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わなる</tinellbian@x-tlb-hl>'
+              - 'stative: <link@x-tlb-hl>nagari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ながり</tinellbian@x-tlb-hl>'
+              - 'negative: <link@x-tlb-hl>funari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふなり</tinellbian@x-tlb-hl>'
+              - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
+              - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
+              date: '2024-05-08'
               position: '9.10'
             qarihu:
               date: '2019-08-22'
@@ -21762,7 +21830,7 @@ entries:
                 <gloss>radio</gloss>
               - <link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl>
                 <gloss>market stall</gloss></wordlist>
-              date: '2024-05-07'
+              date: '2024-05-08'
               position: '14.29'
             ’ami:
               text:
@@ -21801,8 +21869,7 @@ entries:
               date: '2024-05-07'
             testing:
               text:
-              - <part-of-speech><poslink@None>abstract</poslink@None> <poslink@None>noun</poslink@None></part-of-speech>
-              - '<poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> '
+              - <link@x-tlb-hl>pupple</link@x-tlb-hl>
               date: '2024-05-07'
             mammal:
               text:

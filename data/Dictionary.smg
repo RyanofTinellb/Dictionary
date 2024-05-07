@@ -5,10 +5,10 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - -ri
+  - canari
 - - The Tinellbian Languages Dictionary
   - lex
-  - cahuri
+  - nagari
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
   transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
@@ -20,6 +20,8 @@ links:
   glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.gls
   ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\phonologies.yml
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+  external: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\external non-language
+    links.glk
 locations:
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\special\search.html
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
@@ -32,7 +34,7 @@ templates:
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\search.tpl
   sections:
-    copyright: c:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\copyright.tpl
+    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
