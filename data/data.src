@@ -21737,19 +21737,28 @@ entries:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽɨ/</ipa@x-tlb-hl></pronunciation>
-              - '<part-of-speech><poslink@x-tlb-hl>derivational</poslink@x-tlb-hl>
-                <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>:
-                <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</part-of-speech>'
+              - '<part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
+                (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>
+                → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</part-of-speech>'
               - <definition>derives an animate noun from an abstract noun</definition>
               - <subheading>Examples</subheading>
-              - <wordlist><block><link@x-tlb-hl>’axasiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
+              - <block><wordlist><link@x-tlb-hl>’axasiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
               - <link@x-tlb-hl>’asilari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss>
               - <link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
               - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person
                 from</gloss> <link@x-tlb-hl>Irìa</link@x-tlb-hl>
               - <link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio
-                operator</gloss></block></wordlist>
-              date: '2019-09-08'
+                operator</gloss></wordlist></block>
+              - '<part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl>
+                (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>
+                → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl>)</part-of-speech>'
+              - <definition>derives instruments from an abstract noun</definition>
+              - <subheading>Examples</subheading>
+              - <wordlist><link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl>
+                <gloss>radio</gloss>
+              - <link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl>
+                <gloss>market stall</gloss></wordlist>
+              date: '2024-05-07'
               position: '14.29'
             ’ami:
               text:

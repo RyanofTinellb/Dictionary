@@ -5,10 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - mullu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $tapassi
+  - -ri
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
   transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime

@@ -11,8 +11,12 @@ also:
   type: div
   param: '<i>See also:</i> <a href="$url(text)$.html">$text$</a>'
   props:
-    size: 120
-    colour: '#00ff00'
+    size: 150
+    colour: '#33cc33'
+    left: 15
+    italics: true
+    bold: true
+    underline: true
 block:
   type: div
 folding:
@@ -22,7 +26,7 @@ folding:
 gloss:
   props:
     italics: true
-    off-key: <space>
+    off-key: Return
   type: span
   key: Alt-g
 table:
@@ -38,14 +42,14 @@ transliteration:
   language: true
   props:
     ime: transliteration
-    off-key: <space>
+    off-key: space
 tinellbian:
   props:
     font: Tinellbian
     size: 150
     underline: true
     ime: tinellbian
-    off-key: <space>
+    off-key: space
   type: span
   language: true
   key: Alt-t
@@ -84,6 +88,7 @@ language-name:
     size: 120
     bold: true
     justification: centre
+    off-key: Return
   key: KeyPress-1
   type: heading
   open: '<h2 class="language" '
@@ -93,13 +98,14 @@ language-name:
 poslink:
   props:
     underline: true
-    off-key: <space>
+    off-key: space
   type: span
   language: true
   open: <a href="
   pipe: '">'
   close: </a>
   param: $lookup:poslink$|$text$
+  key: Alt-p
   rank: -50
 glossary:
   type: span
@@ -156,9 +162,12 @@ subheading:
   type: heading
   open: <h4>
   close: </h4>
+  key: KeyPress-3
 ipa:
   props:
     font: Lucida Sans Unicode
+    off-key: space
+    ime: ipa
   type: span
   open: <a href="
   pipe: '"><span class="ipa">'
@@ -166,6 +175,7 @@ ipa:
   param: $lookup:ipa$|$text$
   rank: -50
   language: true
+  key: Alt-i
 wikt-link:
   open: <a href="
   pipe: '">'
@@ -177,7 +187,7 @@ link:
     underline: true
     colour: "#0080ff"
     ime: transliteration
-    off-key: <space>
+    off-key: space
   open: <a href="
   pipe: '">'
   close: </a>
