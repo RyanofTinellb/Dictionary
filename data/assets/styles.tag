@@ -187,6 +187,9 @@ ipa:
   language: true
   key: Alt-i
 wikt-link:
+  props:
+    colour: '#6600ff'
+    underline: true
   open: <a href="
   pipe: '">'
   close: '</a>'

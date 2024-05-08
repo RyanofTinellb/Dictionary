@@ -5668,18 +5668,18 @@ entries:
               - <wordlist><block><link@x-tlb-hl>xaraduluri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざらどをり</tinellbian@x-tlb-hl>
                 <gloss>tsarship</gloss></block></wordlist>
             xaraduluri:
-              date: '2018-04-05'
+              date: '2024-05-08'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ざらどをり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕaɽədʉˈluɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived</hidden>
                 compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@x-tlb-hl>tsarship</link@x-tlb-hl></definition>
+              - <definition><link@en>tsarship</link@en></definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>xara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざら</tinellbian@x-tlb-hl>
                 <gloss>starship</gloss> + <link@x-tlb-hl>duluri</link@x-tlb-hl> <tinellbian@x-tlb-hl>どをり</tinellbian@x-tlb-hl>
-                <link@x-tlb-hl>tsar</link@x-tlb-hl>
+                <gloss><link@x-tlb-hl>tsar</link@x-tlb-hl></gloss>
             xasagi:
               date: '2018-04-05'
               text:
@@ -7069,7 +7069,7 @@ entries:
                 <gloss>foolishness</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl>
                 <gloss>nominaliser</gloss>
             mullu:
-              date: '2024-05-06'
+              date: '2024-05-08'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl></native-script>
@@ -7077,12 +7077,12 @@ entries:
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></part-of-speech>
               - <definition>-1; <overbar>1</overbar>; ron; minus one</definition>
               - <subheading>See Also</subheading>
-              - <block><wordlist>← <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl>
+              - <wordlist><block>← <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl>
                 <gloss>rwo</gloss>
               - → <link@x-tlb-hl>qihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl>
                 <gloss>zero</gloss>
               - — <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl>
-                <gloss>one</gloss></wordlist></block>
+                <gloss>one</gloss></block></wordlist>
             muru:
               date: '2018-04-11'
               text:
@@ -10614,10 +10614,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈnɨsaɲːə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
                 <hidden>bodypart</hidden></part-of-speech>
-              - <definition>bottom; posterior; derrière; buttocks</definition>
+              - <definition>buttocks; bottom; posterior; derrière</definition>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
-              date: '2019-01-06'
+              date: '2024-05-08'
               position: '6.72'
             nulli:
               text:
@@ -12591,8 +12591,8 @@ entries:
               - A vessel piloted by gods or other divine forces, able to move through
                 time, space, reality and <link@en>gingla</link@en>.
               - <subheading>Etymology</subheading>
-              - <link@en>tsar</link@en> + <link@en>ship</link@en>
-              date: '2024-05-02'
+              - <gloss><link@en>tsar</link@en></gloss> + <gloss><wikt-link>ship</wikt-link></gloss>
+              date: '2024-05-08'
               position: '6.101'
             -diku:
               text:
@@ -16511,8 +16511,8 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></part-of-speech>
               - <definition>at; in</definition>
               - <subheading>See Also</subheading>
-              - <wordlist><block><link@x-tlb-hl>qu’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>もう</tinellbian@x-tlb-hl>
-                <gloss>inside</gloss></block></wordlist>
+              - <wordlist><link@x-tlb-hl>qu’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>もう</tinellbian@x-tlb-hl>
+                <gloss>inside</gloss></wordlist>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
                 <hidden>element</hidden></part-of-speech>
               - <definition>silver</definition>
@@ -16520,15 +16520,15 @@ entries:
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop>
                 <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><block>← <link@x-tlb-hl>qala</link@x-tlb-hl>//<tinellbian@x-tlb-hl>げわ</tinellbian@x-tlb-hl>
+              - <wordlist>← <link@x-tlb-hl>qala</link@x-tlb-hl> <tinellbian@x-tlb-hl>げわ</tinellbian@x-tlb-hl>
                 <gloss>palladium</gloss>
               - → <link@x-tlb-hl>kaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>かや</tinellbian@x-tlb-hl>
                 <gloss>cadmium</gloss>
               - ↑ <link@x-tlb-hl>suki</link@x-tlb-hl> <tinellbian@x-tlb-hl>すき</tinellbian@x-tlb-hl>
                 <gloss>copper</gloss>
               - ↓ <link@x-tlb-hl>fi</link@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl>
-                <gloss>gold</gloss></block></wordlist>
-              date: '2019-03-15'
+                <gloss>gold</gloss></wordlist>
+              date: '2024-05-08'
               position: '1.0'
             li:
               text:
@@ -21866,12 +21866,4 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl>
                 <gloss>market stall</gloss></wordlist>
-              date: '2024-05-07'
-            testing:
-              text:
-              - <link@x-tlb-hl>pupple</link@x-tlb-hl>
-              date: '2024-05-07'
-            mammal:
-              text:
-              - <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>
               date: '2024-05-07'

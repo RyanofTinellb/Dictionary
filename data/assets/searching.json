@@ -25748,9 +25748,6 @@
       ],
       "1177": [
         13209
-      ],
-      "1179": [
-        13214
       ]
     },
     "past": {
@@ -94846,6 +94843,11 @@
         6428
       ]
     },
+    "buttocks": {
+      "653": [
+        6430
+      ]
+    },
     "posterior": {
       "653": [
         6430
@@ -94855,11 +94857,6 @@
       ]
     },
     "derrière": {
-      "653": [
-        6430
-      ]
-    },
-    "buttocks": {
       "653": [
         6430
       ]
@@ -107918,11 +107915,6 @@
       "1177": [
         13208
       ]
-    },
-    "pupple": {
-      "1178": [
-        13213
-      ]
     }
   },
   "lines": [
@@ -114356,7 +114348,7 @@
     "にさっな",
     "/ˈnɨsaɲːə/",
     "inanimate noun bodypart",
-    "bottom; posterior; derrière; buttocks",
+    "buttocks; bottom; posterior; derrière",
     "See Also",
     "Other Parts of the Body",
     "High Lulani",
@@ -117832,7 +117824,7 @@
     "See Also",
     "Periodic Table List of Elements",
     "Other Substances",
-    "← qala//げわ palladium",
+    "← qala げわ palladium",
     "→ kaca かや cadmium",
     "↑ suki すき copper",
     "↓ fi べ gold",
@@ -121138,9 +121130,7 @@
     "abstract noun",
     "commerce",
     "Derived Terms",
-    "cahuri やほり market stall",
-    "pupple",
-    "abstract"
+    "cahuri やほり market stall"
   ],
   "urls": [
     "index.html",
@@ -122320,9 +122310,7 @@
     "lex\\’ami.html",
     "lex\\$qorla.html",
     "lex\\’isi.html",
-    "lex\\cahu.html",
-    "lex\\testing.html",
-    "lex\\mammal.html"
+    "lex\\cahu.html"
   ],
   "pages": [
     "The Tinellbian Languages Dictionary",
@@ -123502,8 +123490,6 @@
     "’ami",
     "$qorla",
     "’isi",
-    "cahu",
-    "testing",
-    "mammal"
+    "cahu"
   ]
 }
