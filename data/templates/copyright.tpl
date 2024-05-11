@@ -4,8 +4,7 @@ styles:
     start: <span class="no-breaks">
     end: </span>
   a:
-    open: <a href="
-    pipe: '">'
+    type: anchor
   date:
     type: data
   br:

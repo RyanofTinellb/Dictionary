@@ -12,10 +12,6 @@ styles:
     type: line
   h1:
     type: heading
-  entry-data:
-    type: data
-  data:
-    type: data
   link:
     type: complete
   internal-link:

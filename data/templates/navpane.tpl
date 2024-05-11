@@ -30,8 +30,7 @@ styles:
   links:
     type: div
   a:
-    open: <a href="
-    pipe: '">'
+    type: anchor
   toc:
     type: data
   random:

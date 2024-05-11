@@ -95,11 +95,8 @@ poslink:
   props:
     underline: true
     off-key: space
-  type: span
+  type: anchor
   language: true
-  open: <a href="
-  pipe: '">'
-  close: </a>
   param: $lookup:poslink$|$text$
   key: Alt-p
   rank: -50
@@ -107,9 +104,7 @@ story-link:
   props:
     underline: true
     colour: '#ff00ff'
-  open: <a href="
-  pipe: '">'
-  close: </a>
+  type: anchor
   param: $lookup:external$|$text$
 glossary:
   props:
@@ -178,41 +173,30 @@ ipa:
     font: Lucida Sans Unicode
     off-key: space
     ime: ipa
-  type: span
-  open: <a href="
+  type: anchor
   pipe: '"><span class="ipa">'
   close: '</span></a>'
   param: $lookup:ipa$|$text$
-  rank: -50
   language: true
   key: Alt-i
 wikt-link:
   props:
     colour: '#6600ff'
     underline: true
-  open: <a href="
-  pipe: '">'
-  close: '</a>'
+  type: anchor
   param: https://en.wiktionary.org/wiki/$text$|$text$
-  rank: -50
 link:
   props:
     underline: true
     colour: "#0080ff"
     ime: transliteration
     off-key: space
-  open: <a href="
-  pipe: '">'
-  close: </a>
+  type: anchor
   param: $text$.html#$url(lookup:lang)$|$upper(text)$
   key: l
-  rank: -50
   language: true
 a:
-  open: <a href="
-  pipe: '">'
-  close: </a>
-  rank: -50
+  type: anchor
 strong:
   props:
     bold: true
