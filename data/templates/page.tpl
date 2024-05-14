@@ -12,6 +12,8 @@ styles:
     type: line
   h1:
     type: heading
+    param: ''
+    open: <h1>
   entry-data:
     type: data
   data:

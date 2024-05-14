@@ -5,7 +5,7 @@ default:
     ime: autocorrect
 also:
   type: div
-  param: '<i>See also:</i> <a href="$url(text)$.html">$text$</a>'
+  param: '<i>See also:</i> <a href="$url(text)$.html">$node$</a>'
   props:
     size: 150
     colour: '#33cc33'
@@ -29,6 +29,8 @@ gloss:
     off-key: Return
   type: span
   key: Alt-g
+multiline:
+  type: span
 table:
   type: table
 translation:
@@ -153,7 +155,7 @@ part-of-speech:
     off-key: Return
   key: KeyPress-2
   type: heading
-  open: <h3 class="part-of-speech">
+  open: <h3 class="part-of-speech"
   close: </h3>
 subheading:
   props:
@@ -165,7 +167,7 @@ subheading:
     left: 50
     off-key: Return
   type: heading
-  open: <h4>
+  open: <h4 class="subheading"
   close: </h4>
   key: KeyPress-3
 ipa:

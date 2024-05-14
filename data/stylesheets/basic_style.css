@@ -8,12 +8,16 @@
   display: none;
 }
 
-small-caps {
+.small-caps {
   font-variant: small-caps;
 }
 
 .overbar {
   text-decoration: overline;
+}
+
+.multiline .tinellbian {
+  display: block;
 }
 
 @font-face {
@@ -62,9 +66,14 @@ h1 a:link {
   flex-direction: row;
 }
 
-.nav-pane {
-  text-align: left;
-  width: 25%;
+nav {
+	min-width: 20%;
+	text-align: center;
+	white-space: nowrap;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	padding-left: 0em;
+	padding-right: 1em;
 }
 
 .nav-pane input.menu {

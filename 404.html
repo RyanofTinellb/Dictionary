@@ -5,20 +5,20 @@
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="../data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="../data/assets/favicon.png"></head>
-<body><div class="flex"><nav><details><summary> Menu </summary>
+<body><div class="flex"><nav><details open><summary> Menu </summary>
 <ul><li><a href="../index.html"><strong>Dictionary</strong></a></li>
 <div class="javascript"><form id="search"><li class="search"><input type="text" name="term"></li>
 <li class="search"><button>Search</button></li></form></div></ul>
-<div class="javascript"><div class="random"><p><a href="../special/random_entry.html">Random Entry</a></p></div></div></details></nav>
+<div class="javascript"><div class="random"><p><a href="random_entry.html">Random Entry</a></p></div></div></details></nav>
 
-<main><h1> Search the Dictionary </h1>
+<main><h1 id="searchthedictionary"> Search the Dictionary </h1>
 <form><p><input type="text" class="term" id="term" name="term" placeholder="Search..."></p>
 <p><input type="submit" class="submit" value="Search"></p></form>
 <div class="results" id="results"><p>Searching...</p></div>
 <javascript> <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"> 
  <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"> </javascript></main></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Wednesday, May 8th, 2024</span></div>
+<span class="no-breaks">Last updated: Tuesday, May 14th, 2024</span></div>
 </footer>
 <p><script src="/data/scripts/search.js"></script></p>
 <p><script src="/data/scripts/404search.js"></script></p>

@@ -37,6 +37,7 @@ styles:
     type: div
   details:
     type: block
+    open: <details open>
   summary:
     type: line
 text:
