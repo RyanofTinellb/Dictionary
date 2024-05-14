@@ -567,9 +567,13 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ʔʉˈlanʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>horniness; arousal</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>’ula</link@x-tlb-hl> <tinellbian@x-tlb-hl>うわ</tinellbian@x-tlb-hl>
+                <gloss>sex</gloss> + <link@x-tlb-hl>nu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl>
+                <gloss>desire</gloss>
               - <subheading>Derived Terms</subheading>
               - <block><wordlist><link@x-tlb-hl>dissu’ulanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすうわぬ</tinellbian@x-tlb-hl>
-                <gloss>to be horny</gloss></wordlist></block>
+                <gloss>to feel aroused</gloss></wordlist></block>
             -ulu:
               date: '2018-03-28'
               text:
@@ -2563,7 +2567,7 @@ entries:
               - ↑ <link@x-tlb-hl>kixa</link@x-tlb-hl> <tinellbian@x-tlb-hl>きざ</tinellbian@x-tlb-hl>
                 <gloss>lutetium</gloss></block></wordlist>
             nufira:
-              date: '2018-04-03'
+              date: '2024-05-14'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl></native-script>
@@ -2574,15 +2578,20 @@ entries:
               - Only used in first person, or second person questions.
               - <subheading>Example Sentences</subheading>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu ra’u dihuri nufira.</transliteration@x-tlb-hl></folded>
-              - <tinellbian@x-tlb-hl>。うす らう でほり ぬべら。</tinellbian@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。うすらうでほりぬべら。</tinellbian@x-tlb-hl>
               - <link@x-tlb-hl>ʔusu</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>
                 <link@x-tlb-hl>di</link@x-tlb-hl>-<link@x-tlb-hl>huri</link@x-tlb-hl>
                 <link@x-tlb-hl>nufira</link@x-tlb-hl>.
-              - <gloss><glossary>1int prs;sta</glossary> down-sea want.</gloss></folding>
+              - <gloss><glossary>1int</glossary> <glossary>prs;sta</glossary> down-sea
+                want.</gloss></folding>
               - <translation>“I want to be under the sea.”</translation>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>nu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl>
+                <gloss>desire</gloss> + <link@x-tlb-hl>fira</link@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl>
+                <gloss>wish</gloss>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>nufirahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべらひ</tinellbian@x-tlb-hl>
-                <gloss>expectation</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>nufirahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべらひ</tinellbian@x-tlb-hl>
+                <gloss>expectation</gloss></wordlist></block>
             nufirahi:
               date: '2018-04-03'
               text:
@@ -16670,7 +16679,7 @@ entries:
               position: '1.0'
             lulani:
               text:
-              - <also>Lulani</also>
+              - <also>$lulani</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lʉˈlanɨ/</ipa@x-tlb-hl></pronunciation>
@@ -16679,7 +16688,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>kimilli</link@x-tlb-hl> <tinellbian@x-tlb-hl>きみっえ</tinellbian@x-tlb-hl>
                 <gloss>consort</gloss></block></wordlist>
-              date: '2019-03-15'
+              date: '2024-05-14'
               position: '2.8'
             $zhalad:
               date: '2019-03-15'
@@ -21502,9 +21511,17 @@ entries:
                 <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>to stop</definition>
               - <subheading>Antonym</subheading>
-              - <wordlist><block><link@x-tlb-hl>tara</link@x-tlb-hl> <tinellbian@x-tlb-hl>たら</tinellbian@x-tlb-hl> <gloss>to
-                begin</gloss></block></wordlist>
-              date: '2019-07-07'
+              - <block><wordlist><link@x-tlb-hl>tara</link@x-tlb-hl> <tinellbian@x-tlb-hl>たら</tinellbian@x-tlb-hl> <gloss>to
+                begin</gloss></wordlist></block>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>
+                / abstract noun <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></part-of-speech>
+              - <definition>desire</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><block><link@x-tlb-hl>nufira</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl>
+                <gloss>want</gloss></block>
+              - <block><link@x-tlb-hl>’ulanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うわに</tinellbian@x-tlb-hl>
+                <gloss>to be aroused</gloss></block></wordlist>
+              date: '2024-05-14'
               position: '12.0'
             ranini:
               text:
@@ -22010,5 +22027,30 @@ entries:
               - <wordlist><link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl>
                 <gloss>market stall</gloss></wordlist>
               date: '2024-05-07'
+            ’ula:
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>うわ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈulə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>sex; sexual intercourse</definition>
+              - <subheading>Etymology</subheading>
+              - <i>variant of</i> <link@x-tlb-hl>hulla</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ;わ</tinellbian@x-tlb-hl>
+                <gloss>to have sex</gloss>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>’ulanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うわに</tinellbian@x-tlb-hl>
+                <gloss>to be aroused</gloss></wordlist>
+              date: '2024-05-14'
+            fira:
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈfiɽə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>wish</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>nufira</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl>
+                <gloss>want</gloss></wordlist>
+              date: '2024-05-14'
           text: []
           date: null

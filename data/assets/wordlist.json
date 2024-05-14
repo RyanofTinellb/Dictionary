@@ -1884,6 +1884,12 @@
     "d": "float; drift"
   },
   {
+    "t": "fira",
+    "l": "High Lulani",
+    "p": "abstract noun",
+    "d": "wish"
+  },
+  {
     "t": "fixi",
     "l": "High Lulani",
     "p": "mathematics numeral",
@@ -4420,6 +4426,12 @@
     "l": "High Lulani",
     "p": "transitive action verb",
     "d": "to stop"
+  },
+  {
+    "t": "nu",
+    "l": "High Lulani",
+    "p": "abstract noun / abstract noun quasi-suffix",
+    "d": "desire"
   },
   {
     "t": "nudda",
@@ -7414,6 +7426,12 @@
     "l": "High Lulani",
     "p": "mass noun",
     "d": "teeth"
+  },
+  {
+    "t": "’ula",
+    "l": "High Lulani",
+    "p": "abstract noun",
+    "d": "sex; sexual intercourse"
   },
   {
     "t": "’ulanu",

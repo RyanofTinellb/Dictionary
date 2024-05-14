@@ -123,18 +123,6 @@ main .gloss {
 	font-style: italic;
 }
 
-main abbr.glossary {
-	font-variant: small-caps;
-	font-style: normal;
-	text-decoration: none;
-}
-
-main abbr.glossary::after {
-	content: "?";
-	vertical-align: super;
-	font-size: smaller;
-}
-
 main .wordlist p {
 	margin-left: 3%;
 	margin-top: 0;
@@ -204,13 +192,10 @@ h2 {
 	margin-left: 4%;
 }
 
-.native-script p high-lulani {
-	transition-duration: 0.2s;
-}
-
-.native-script p high-lulani:hover {
-	padding: inherit;
-	font-size: 2em;
+.native-script .tinellbian:hover {
+	padding: revert;
+	font-size: larger;
+	cursor: auto;
 }
 
 main .pronunciation p {
@@ -285,6 +270,10 @@ main .results ul {
 main p a,
 main .results a {
 	text-decoration: none;
+}
+
+main .transliteration {
+	font-weight: bold;
 }
 
 input[type='checkbox']#chain,

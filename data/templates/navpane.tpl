@@ -1,6 +1,7 @@
 styles:
   nav:
     type: block
+    open: <nav class="main">
   input:
     type: complete
   label:

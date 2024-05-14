@@ -5,7 +5,7 @@ default:
     ime: autocorrect
 also:
   type: div
-  param: '<i>See also:</i> <a href="$url(text)$.html">$node$</a>'
+  param: '<i>See also:</i> <a href="$url(text)$.html">$upper(text)$</a>'
   props:
     size: 150
     colour: '#33cc33'
@@ -19,18 +19,28 @@ folded:
   type: line
   open: <summary class="folding">
   close: </summary>
+  key: Alt-f
+  props:
+    left: 50
 folding:
   type: block
   open: <details class="folding">
   close: </details>
+  key: Alt-F
+  props:
+    background: '#99ff99'
 gloss:
   props:
     italics: true
     off-key: Return
   type: span
   key: Alt-g
+i:
+  props:
+    italics: true
 multiline:
   type: span
+  key: Alt-m
 table:
   type: table
 translation:
@@ -67,6 +77,8 @@ universe:
   type: span
 note:
   type: span
+  props:
+    italics: true
 symbol:
   type: span
 ol:

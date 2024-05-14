@@ -5,7 +5,8 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - miru
+  - ’ula
+files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
   transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
