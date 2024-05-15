@@ -1,4 +1,4 @@
-styles: {}
+styles:
 text:
 - <!DOCTYPE html>
 - <html>

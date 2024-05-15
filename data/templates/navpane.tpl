@@ -1,46 +1,46 @@
 styles:
+  a:
+    type: anchor
+  button: {}
+  details:
+    type: block
+    open: <details open>
+  input:
+    type: complete
+  javascript:
+    type: div
+  label:
+    type: line
+  link:
+    type: link
+  links:
+    type: div
   nav:
     type: block
     open: <nav class="main">
-  input:
-    type: complete
-  label:
-    type: line
-  ul:
-    type: block
-    start: <li>
-    end: </li>
-  link:
-    type: link
-  javascript:
+  random:
     type: div
-  strong:
-    props:
-      bold: true
   search-form:
     type: block
     open: <form id="search">
     close: </form>
     start: <li class="search">
     end: </li>
-  button: {}
+  strong:
+    props:
+      bold: true
   submit-button:
     type: inline
     open: <button type="button">
     close: </button>
-  links:
-    type: div
-  a:
-    type: anchor
-  toc:
-    type: data
-  random:
-    type: div
-  details:
-    type: block
-    open: <details open>
   summary:
     type: line
+  toc:
+    type: data
+  ul:
+    type: block
+    start: <li>
+    end: </li>
 text:
 - <nav><details><summary>Menu</summary>
 - <ul><a><link>index</link>|<strong>Dictionary</strong></a>

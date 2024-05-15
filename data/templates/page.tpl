@@ -1,52 +1,52 @@
 styles:
   '!doctype':
     type: complete
-  html:
-    type: block
-    language: true
-  head:
-    type: block
-  meta:
-    type: complete
-  title:
-    type: line
-  h1:
-    type: heading
-    param: ''
-    open: <h1>
-  entry-data:
-    type: data
-  data:
-    type: data
-  link:
-    type: complete
-  internal-link:
-    type: link
-  inline-script:
-    type: line
-    open: <script>
-    close: </script>
-  script:
-    type: complete
-    close: '></script>'
   body:
     type: block
     start: <p>
     end: </p>
-  main:
-    type: block
-  flex:
-    type: div
-  template:
-    type: template
   content:
     type: div
-  javascript:
-    type: line
-  input:
-    type: complete
+  data:
+    type: data
+  entry-data:
+    type: data
+  flex:
+    type: div
   footer:
     type: block
+  h1:
+    type: heading
+    param: ''
+    open: <h1>
+  head:
+    type: block
+  html:
+    type: block
+    language: true
+  inline-script:
+    type: line
+    open: <script>
+    close: </script>
+  input:
+    type: complete
+  internal-link:
+    type: link
+  javascript:
+    type: line
+  link:
+    type: complete
+  main:
+    type: block
+  meta:
+    type: complete
+  script:
+    type: complete
+    close: '></script>'
+  template:
+    type: template
+  title:
+    type: line
 text:
 - <!doctype>html</!doctype>
 - <html@en><head><meta>name="viewport" content="width=device-width/initial-scale=1.0"</meta>
