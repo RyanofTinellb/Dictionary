@@ -70,6 +70,7 @@ text:
 - <footer><template>copyright</template></footer>
 - <script>src="/data/scripts/search.js"</script>
 - <script>src="/data/scripts/404search.js"</script>
+- <script>src="/data/scripts/word_search.js"</script>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>
