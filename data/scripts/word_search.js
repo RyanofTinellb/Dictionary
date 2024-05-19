@@ -38,15 +38,15 @@ function markdown(text) {
 
 function wordsearch() {
     let term = search();
-    let lex = window.location.href.includes('lex') ? '' : 'lex/';
     if (term) {
-        window.location.href = lex + sellCaps(term);
+        window.location.href = '/lex/' + sellCaps(term);
     }
 }
 
-function toplevelwordsearch() {
-    let term = search();
-    if (term) {
-        window.location.href = sellCaps(term);
-    }
-}
+// function toplevelwordsearch() {
+//     console.log('ultra')
+//     let term = search();
+//     if (term) {
+//         window.location.href = sellCaps(term);
+//     }
+// }

@@ -39,6 +39,13 @@ ipa strong {
     text-decoration: overline;
 }
 
+.highlight {
+    border: 1px solid red;
+    padding: 4px 5px;
+    border-radius: 15px;
+    line-height: 2;
+}
+
 @font-face {
     font-family: tinellb;
     src: url('../assets/tinellb.ttf');
@@ -73,15 +80,15 @@ table .tinellbian:hover {
 }
 
 main abbr.glossary {
-	font-variant: small-caps;
-	font-style: normal;
-	text-decoration: none;
+    font-variant: small-caps;
+    font-style: normal;
+    text-decoration: none;
 }
 
 main abbr.glossary::after {
-	content: "?";
-	vertical-align: super;
-	font-size: smaller;
+    content: "?";
+    vertical-align: super;
+    font-size: smaller;
 }
 
 h1 a:visited,
@@ -195,6 +202,10 @@ main .wordlist .block {
     margin-top: 1rem;
 }
 
+main .wordlist .block:first-child {
+    margin-top: 0;
+}
+
 main .universe {
     display: inline;
     font-family: serif;
@@ -256,11 +267,11 @@ footer nav.mini {
         text-align: left;
     }
 
-    nav.main{
+    nav.main {
         width: 100%;
     }
 
-    main table {
+    main div.desktop table {
         display: none;
     }
 
@@ -305,6 +316,20 @@ footer nav.mini {
 
     .mobile {
         display: initial;
+    }
+
+    .mobile p {
+        margin-left: 10%;
+    }
+
+    .mobile ul {
+        list-style: none;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .mobile ul li {
+        line-height: 1.5;
     }
 
     main input.folder:checked+div.folding .tooltip-text {
