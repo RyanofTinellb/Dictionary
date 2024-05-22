@@ -13,7 +13,7 @@ x-tlb-hl:
   cisclass: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#cisclasssuffixes
   communicative: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/ambitransitivity.html#communicativeverbs
   comparative: http://grammar.tinellb.com/languages/highlulani/apocrypha/comparatives.html
-  compound noun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#compoundnouns
+  compoundnoun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#compoundnouns
   conjunction: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html#coordinatingconjunctions
   determiner: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/determiners.html

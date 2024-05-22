@@ -1,4 +1,3 @@
-
 default:
   props:
     font: Cambria
@@ -171,6 +170,7 @@ poslink:
   rank: -50
 pronunciation:
   type: div
+  key: Alt-P
   props:
     justification: centre
     top: 10

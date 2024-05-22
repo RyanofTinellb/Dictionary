@@ -2148,9 +2148,15 @@
     "d": "to betray"
   },
   {
-    "t": "gurrisu",
+    "t": "gurri",
     "l": "High Lulani",
     "p": "inanimate noun",
+    "d": "board; block of wood"
+  },
+  {
+    "t": "gurrisu",
+    "l": "High Lulani",
+    "p": "inanimate derived compound noun",
     "d": "door"
   },
   {
@@ -5902,6 +5908,12 @@
     "l": "English",
     "p": "inanimate noun",
     "d": "heart"
+  },
+  {
+    "t": "su",
+    "l": "High Lulani",
+    "p": "inanimate noun",
+    "d": "hinge"
   },
   {
     "t": "su",
