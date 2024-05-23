@@ -171,9 +171,14 @@ h1 {
 	font-family: "gentium plus", serif;
 }
 
-h2 {
+h2.language {
 	/* language */
 	font-family: andika, sans-serif;
+	margin-top: 2rem;
+}
+
+h2.language:not(:first-of-type) {
+	margin-top: 4rem;
 }
 
 .ipa {

@@ -58,7 +58,7 @@ text:
 - <inline-script>let href = window.location.href;
 - if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 - let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-- window.location.href = `<internal-link>special/search</internal-link>?${term}&andOr=and`;
+- window.location.href = `<internal-link>special/search</internal-link>?${term}`;
 - '}</inline-script>'
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/word_search.js</internal-link>"</script></head>

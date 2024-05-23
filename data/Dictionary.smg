@@ -8,7 +8,7 @@ entries:
   - gurri
 - - The Tinellbian Languages Dictionary
   - lex
-  - gurrisu
+  - $lharen
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

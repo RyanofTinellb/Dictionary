@@ -90,13 +90,13 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition><link@en>Lharen</link@en></definition>
             $lharen:
-              date: '2024-05-06'
+              date: '2024-05-23'
               position: '10.17'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˈl̥æɹn̩/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Zhaladi woman, from <poslink@en>The Crackled Egg</poslink@en></definition>
+              - <definition>Zhaladi woman, from <story-link>The Crackled Egg</story-link></definition>
               - <subheading>Translations</subheading>
               - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>$lharen</link@x-tlb-cz>'
               - <language-name>Contemporary Zhaladi</language-name>
