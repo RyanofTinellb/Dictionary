@@ -6849,13 +6849,13 @@ entries:
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             kassi:
-              date: '2018-04-20'
+              date: '2024-05-26'
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈkʰalʉ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>かっせ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈkʰasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>third person inanimate ablative; <glossary>3ina;abl;</glossary> because of it; from it</definition>
+              - <definition>third person animate ablative; <glossary>3ani;abl;</glossary> because of them; from them;</definition>
               - <subheading>See Also</subheading>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -6905,7 +6905,7 @@ entries:
               - <link@x-tlb-hl>si’akalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあかを</tinellbian@x-tlb-hl> <gloss>to heal</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
-              - <block><link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
+              - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
               - <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
               - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
               - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block></wordlist>
