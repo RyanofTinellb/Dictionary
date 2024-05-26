@@ -315,6 +315,10 @@ input[type='checkbox']#debug {
 		width: 80%;
 	}
 
+	main table {
+		display: none;
+	}
+
 	main div.mobile-table p:not(:first-child) {
 		display: none;
 	}
