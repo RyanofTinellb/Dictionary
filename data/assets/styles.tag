@@ -55,13 +55,14 @@ glossary:
   props:
     font: Felix Titling
     size: 80
+    off-key: Return
   type: span
   open: <dfn><abbr class="glossary" title="
   pipe: '">'
   close: </abbr></dfn>
   param: $lookup:glossary$|$text$
   rank: -50
-  key: Alt-G
+  key: Alt-k
 h2:
   type: heading
   props:
@@ -121,7 +122,7 @@ link:
     off-key: space
   type: anchor
   param: $text$.html#$url(lookup:lang)$|$upper(text)$
-  key: l
+  key: Alt-n
   language: true
 mobile:
   props:
@@ -163,7 +164,7 @@ part-of-speech:
 poslink:
   props:
     underline: true
-    off-key: space
+    off-key: Return
   type: anchor
   language: true
   param: $lookup:poslink$|$text$
@@ -176,6 +177,7 @@ pronunciation:
     justification: centre
     top: 10
     bottom: 25
+    off-key: Return
 story-link:
   props:
     underline: true
@@ -241,5 +243,8 @@ wikt-link:
   type: anchor
   param: https://en.wiktionary.org/wiki/$text$|$text$
 wordlist:
+  props:
+    background: '#ffcccc'
+    left: 15
   type: div
   key: Alt-W
