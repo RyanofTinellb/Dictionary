@@ -5,13 +5,19 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - qikanni
+  - pana’ifu
 - - The Tinellbian Languages Dictionary
   - lex
-  - qi
+  - pana
 - - The Tinellbian Languages Dictionary
   - lex
-  - lanu
+  - jimuli
+- - The Tinellbian Languages Dictionary
+  - lex
+  - jimu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - gani-
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

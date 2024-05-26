@@ -247,4 +247,5 @@ wordlist:
     background: '#ffcccc'
     left: 15
   type: div
+  rank: 110
   key: Alt-W

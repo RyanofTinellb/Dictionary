@@ -83,9 +83,33 @@ main summary.folding {
 	margin-left: calc(20% - 1rem);
 }
 
-details.folding+p {
-	padding-left: 1em;
-	margin: 0;
+main details.folding + p {
+	margin-left: calc(20% - 1rem);
+	margin-top: 0.2rem;
+}
+
+main .wordlist {
+	margin-left: 17%;
+	margin-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+main .wordlist summary.folding {
+	margin-left: 1rem;
+}
+
+main .wordlist details.folding p {
+	margin-left: 2rem;
+}
+
+main .wordlist details.folding + p {
+	margin-left: 1rem;
+}
+
+main .wordlist p {
+	margin-left: 3%;
+	margin-top: 0;
+	line-height: 1.5;
 }
 
 main ul,
@@ -113,20 +137,9 @@ main .also p {
 	margin-left: 5%;
 }
 
-main .wordlist {
-	margin-left: 17%;
-	margin-top: 1em;
-	padding-bottom: 0.5em;
-}
 
 main .gloss {
 	font-style: italic;
-}
-
-main .wordlist p {
-	margin-left: 3%;
-	margin-top: 0;
-	line-height: 1.5;
 }
 
 main input:first-child {

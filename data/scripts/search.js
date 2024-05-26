@@ -5,21 +5,6 @@ const QUERY = HREF.split('?')[1];
 const SEARCH = document.getElementById('term');
 const RESULTS = document.getElementById('results');
 const LOWER = word => word.toLowerCase()
-const MARKDOWN = {
-    '’': "'",
-    'ʔ': "''",
-    'á': '(a',
-    'ü': '!u',
-    'û': '()u',
-    'ê': '()e',
-    'í': '(i',
-    'ì': ')i',
-    '·': '..',
-    '&nbsp;': ' ',
-    'ŗ': ',r',
-    'ō': '_o',
-    'Ṭ': ')T'
-};
 const LANGUAGES = [
     'english', 'lulani', 'high', 'demotic', 'fezhle', 'early', 'late', 'koine',
     'ptokan', 'old', 'middle', 'standard', 'brequen', 'pre-brequen', 'archaic',
@@ -85,7 +70,6 @@ function esc(string) {
 }
 
 function backupDisplay(pages, data, terms) {
-    terms = terms.map(markdown);
     let regexes = terms.map(term =>
         RegExp(`(${esc(term)}|${capitalise(esc(term))})`, 'g'));
     return `${!arr.length ? 'No matching entries found.' :
@@ -100,7 +84,7 @@ function backupDisplay(pages, data, terms) {
 }
 
 function backupUrl(link) {
-    return link
+    return '/' + link
 }
 
 function highlight(terms, line) {
@@ -238,7 +222,6 @@ function createLine(entry) {
 }
 
 function findInitial(text) {
-    text = markdown(text);
     return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
 }
 
@@ -258,41 +241,13 @@ function sellCaps(text) {
         .replace(' ', '.');
 }
 
-function markdown(text) {
-    for (md in MARKDOWN) {
-        text = text.split(md).join(MARKDOWN[md])
-    }
-    return text;
-}
-
 function getTerms() {
-    const MARKUP = ["%E2%80%99", "'",
-        "%c3%bb", "$u",
-        "%c9%a8", "\u0268",
-        "%C9%A8", "\u0268",
-        "%27", "'",
-        "\u0294", "''",
-        "\u00ec", "$e",
-        "%28", "(",
-        "%29", ")",
-        "%c5%97", ",r",
-        "%20", "+",
-        "%24", "$",
-        "%25", "%",
-        "%3b", " ",
-        "%26", "&",
-        "%2cr", ",r",
-        '%22', '"'
-    ];
     let text = '';
     for (const elt of QUERY.split('&')) {
         query = elt.split('=');
         if (query[0] == 'term') {
             text = removeTrailingPlus(query[1]).split('#')[0];
         }
-    }
-    for (let i = 0; i < MARKUP.length; i++) {
-        text = text.split(MARKUP[i]).join(MARKUP[++i]);
     }
     return text.split("+").filter(i => i != "");
 }
