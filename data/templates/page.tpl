@@ -38,6 +38,8 @@ styles:
     type: complete
   main:
     type: block
+  main-page:
+    type: div
   meta:
     type: complete
   script:
@@ -45,6 +47,7 @@ styles:
     close: '></script>'
   template:
     type: template
+    rank: -50
   title:
     type: line
 text:
@@ -56,21 +59,18 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <inline-script>let href = window.location.href;
-- if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
-- let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
-- window.location.href = `<internal-link>special/search</internal-link>?${term}`;
-- '}</inline-script>'
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
 - <script>src="<internal-link>data/scripts/word_search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
-- <main><h1><data>name</data></h1>
+- <main-page><main><h1><data>name</data></h1>
 - <data>contents</data>
 - <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode
   == 13) {wordsearch()}"</input>
 - <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
   to Entry"</input></javascript>
-- </main></flex>
+- </main></main-page></flex>
 - <footer><template>copyright</template></footer>
+- <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <inline-script>
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

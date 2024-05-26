@@ -42,6 +42,9 @@ styles:
     type: complete
   main:
     type: block
+  main-page:
+    type: div
+    rank: 110
   meta:
     type: complete
   results:
@@ -63,14 +66,14 @@ text:
 - <link>rel="stylesheet" type="text/css" href="../data/stylesheets/style.css"</link>
 - <link>rel="icon" type="image/png" href="../data/assets/favicon.png"</link></head>
 - <body><flex><template>navigation pane</template>
-- <main><h1>Search the Dictionary</h1>
+- <main-page><main><h1>Search the Dictionary</h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
 - <results>Searching...</results>
 - <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode
   == 13) {wordsearch()}"</input>
 - <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
-  to Entry"</input></javascript></main></flex>
+  to Entry"</input></javascript></main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="../data/scripts/search.js"</script>
 - <script>src="../data/scripts/word_search.js"</script>

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: tinellb;
+    src: url('../assets/tinellb.ttf');
+}
+
 a:link {
     color: #5555FF;
     /* light blue */
@@ -8,12 +13,8 @@ a:visited {
     /* light violet */
 }
 
-.symbol {
-    font-family: serif;
-    font-style: italic;
-    font-size: larger;
-}
-
+.javascript,
+.hidden,
 .mobile {
     display: none;
 }
@@ -22,7 +23,17 @@ a:visited {
     display: block;
 }
 
-ipa {
+.nextline {
+    display: block;
+}
+
+.symbol {
+    font-family: serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+.ipa {
     font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
 }
 
@@ -30,7 +41,7 @@ strong {
     font-size: 0.95rem;
 }
 
-ipa strong {
+.ipa strong {
     font-weight: 900;
     color: red;
 }
@@ -44,11 +55,6 @@ ipa strong {
     padding: 4px 5px;
     border-radius: 15px;
     line-height: 2;
-}
-
-@font-face {
-    font-family: tinellb;
-    src: url('../assets/tinellb.ttf');
 }
 
 .tinellbian {
@@ -72,20 +78,13 @@ ipa strong {
     cursor: none;
 }
 
-table .tinellbian:hover {
-    font-size: larger;
-    font-weight: inherit;
-    padding: inherit;
-    cursor: inherit;
-}
-
-main abbr.glossary {
+abbr.glossary {
     font-variant: small-caps;
     font-style: normal;
     text-decoration: none;
 }
 
-main abbr.glossary::after {
+abbr.glossary::after {
     content: "?";
     vertical-align: super;
     font-size: smaller;
@@ -99,8 +98,9 @@ h1 a:link {
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     flex-direction: row;
+    width: 95%;
 }
 
 nav.main {
@@ -109,40 +109,31 @@ nav.main {
     margin-top: 2rem;
 }
 
-nav summary {
+nav.main summary {
     list-style-type: "☰";
     text-align: center;
 }
 
-/* nav .javascript {
-    text-align: left;
-} */
-
-nav details[open] summary {
+/* nav .javascript {    text-align: left;} */
+nav.main details[open] summary {
     list-style-type: '✖';
 }
 
-nav details ul ul {
+nav.main details ul ul {
     margin-left: 5%;
     text-align: left;
 }
 
-nav details ul {
+nav.main details ul {
     text-align: center;
 }
 
-nav .nav-links {
+nav.main .nav-links {
     margin-left: 30%;
 }
 
-.javascript,
-.hidden {
-    display: none;
-}
-
-main {
-    margin-left: 5%;
-    width: 60%;
+.main-page {
+    width: 70%;
 }
 
 main p {
@@ -238,12 +229,6 @@ nav.mini p {
     margin-left: 0;
 }
 
-/* 
-footer nav.mini {
-
-} */
-
-
 .no-breaks {
     white-space: nowrap;
 }
@@ -263,7 +248,7 @@ nav li:hover {
     text-decoration: underline;
 }
 
-nav p {
+nav.main p {
     font-family: sans-serif;
     margin: 0;
     padding-left: 15%;
@@ -299,18 +284,12 @@ nav form#search {
     margin-top: 1em;
 }
 
-
 main summary.folding {
     font-family: sans-serif;
-    margin-left: 20%;
     margin-top: 0.2rem;
 }
 
-main summary.folding {
-    margin-left: calc(20% - 1rem);
-}
-
-details.folding+p {
+main details.folding+p {
     padding-left: 1em;
     margin: 0;
 }
@@ -346,29 +325,14 @@ main .wordlist {
     padding-bottom: 0.5em;
 }
 
-main .gloss {
-    font-style: italic;
-}
-
 main .wordlist p {
     margin-left: 3%;
     margin-top: 0;
     line-height: 1.5;
 }
 
-main textarea {
-    font-family: "Arial";
-}
-
-main textarea#rules {
-    width: 80%;
-    height: 10em;
-    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-main textarea#words {
-    width: 100%;
-    height: 5em;
+main .gloss {
+    font-style: italic;
 }
 
 footer {
@@ -376,9 +340,8 @@ footer {
     font-size: smaller;
     font-family: serif;
     text-align: right;
-    width: 75%;
+    width: 70%;
 }
-
 
 h1,
 h2,
@@ -387,102 +350,6 @@ h4,
 h5,
 h6 {
     margin: 0.5rem;
-}
-
-h1 {
-    /* headword */
-    font-family: "gentium plus", serif;
-}
-
-h2 {
-    /* language */
-    font-family: andika, sans-serif;
-}
-
-.ipa {
-    font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-.ipa strong {
-    font-weight: 900;
-    color: red;
-}
-
-.native-script p {
-    /* Tinellbian script */
-    font-size: x-large;
-    font-weight: normal;
-    margin-left: 4%;
-}
-
-.native-script .tinellbian:hover {
-    padding: revert;
-    font-size: larger;
-    cursor: auto;
-}
-
-main .pronunciation p {
-    margin-left: 7%;
-}
-
-main .pronunciation a {
-    text-decoration: none;
-    color: black;
-    font-weight: normal;
-    font-size: larger;
-    letter-spacing: 2px;
-}
-
-h3 {
-    /* part of speech */
-    font-size: large;
-    font-family: garamond, serif;
-    margin-left: 10%;
-    margin-bottom: 0;
-    margin-top: 1em;
-}
-
-main h3 a {
-    color: black;
-    text-decoration-style: dashed;
-}
-
-main h3 a:hover {
-    text-decoration-style: dotted;
-}
-
-main .definition p {
-    font-size: medium;
-    font-family: sans-serif;
-    font-weight: normal;
-    margin-left: 13%;
-    padding-top: 1em;
-    padding-bottom: 1em;
-}
-
-main .definition .note {
-    font-style: italic;
-}
-
-main .definition .note::before {
-    content: "("
-}
-
-main .definition .note::after {
-    content: ")"
-}
-
-
-h4 {
-    /* subheadings */
-    font-family: sans-serif;
-    text-decoration: overline;
-    margin-left: 15%;
-    margin-top: 1em;
-    font-variant: small-caps;
-    font-family: serif;
-    font-size: large;
-    font-weight: normal;
 }
 
 main .results ol,
@@ -495,71 +362,33 @@ main .results a {
     text-decoration: none;
 }
 
-main .transliteration {
-    font-weight: bold;
-}
-
 @media screen and (max-width: 800px) {
-    input#wordsearch {
-        width: 80%;
+    .flex {
+        margin-left: auto;
+        margin-right: auto;
+        flex-direction: column;
     }
 
-    main div.mobile-table p:not(:first-child) {
+    nav.main {
+        width: 100%;
+    }
+
+    .main-page {
+        width: 100%;
+    }
+
+    .desktop {
         display: none;
     }
 
-    main div.mobile-table p:first-child::before {
-        content: "(Show All)\A";
-        white-space: pre;
-        color: #5555FF;
-    }
-
-    main div.mobile-table p:first-child::after {
-        content: " \2026";
-    }
-
-    main div.mobile-table:hover p {
-        display: block;
-    }
-
-    main div.mobile-table:hover p:first-child::before {
-        content: "";
-    }
-
-    main div.mobile ul {
-        margin-top: 0em;
-    }
-
-    main div.mobile-table:hover p:first-child::after {
-        content: "";
-    }
-
-    main h5 a {
-        color: black;
-        text-decoration-style: dotted;
-    }
-
-    footer {
-        text-align: right;
-        width: 95%;
-    }
-
-    .flex {
-        flex-direction: column;
+    .mobile {
+        display: initial;
     }
 
     main {
         width: 80%;
         margin-left: 10%;
         margin-right: 10%;
-    }
-
-    main p {
-        text-align: left;
-    }
-
-    nav.main {
-        width: 100%;
     }
 
     main div.desktop table {
@@ -588,6 +417,11 @@ main .transliteration {
         font-size: smaller;
     }
 
+    main div.mobile ul {
+        /* Dictionary and Grammar tables, i.e.: list of auxiliaries */
+        margin-top: 0em;
+    }
+
     footer {
         margin-left: 5%;
         margin-right: 5%;
@@ -599,14 +433,6 @@ main .transliteration {
 
     nav.mini p {
         text-indent: 0;
-    }
-
-    .desktop {
-        display: none;
-    }
-
-    .mobile {
-        display: initial;
     }
 
     .mobile p {
@@ -623,15 +449,12 @@ main .transliteration {
         line-height: 1.5;
     }
 
-    main input.folder:checked+div.folding .tooltip-text {
-        display: none;
+    input#wordsearch {
+        width: 80%;
     }
 
-    main span.tooltip:hover .tooltip-text {
-        display: none;
-    }
-
-    main span.tooltip::after {
-        content: none;
+    footer {
+        text-align: right;
+        width: 95%;
     }
 }
