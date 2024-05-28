@@ -4,14 +4,16 @@ entries:
       children:
         lex:
           children:
+            $Brequé:
+              text: []
             $brequé:
-              date: '2018-12-27'
+              date: '2024-05-28'
               position: '3.18'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/bɹɛˈkʰæɪ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>country in universe D<sup>578</sup>η</definition>
+              - <definition>country in reality D<sup>578</sup>η</definition>
             $corla:
               date: '2018-12-24'
               position: '4.15'
@@ -45,12 +47,12 @@ entries:
               text:
               - <also>Fezhlê</also>
             $fezhlê:
-              date: '2018-10-03'
+              date: '2024-05-28'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˈfɛʒlə/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>first group of people to reach Zhalad</definition>
+              - <definition>first group of people to reach <link@en>$zhalad</link@en></definition>
             $guozu:
               date: '2018-09-30'
               text:
@@ -59,17 +61,17 @@ entries:
               - <part-of-speech>animate proper noun</part-of-speech>
               - <definition>Loren’s species, which spread out into the Tinellbian worlds from Naengi</definition>
             $irìa:
-              date: '2018-12-26'
+              date: '2024-05-28'
               position: '3.49'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɪˈɹiːə/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>the capital city of <link@en>Brequé</link@en></definition>
+              - <definition>the capital city of <link@en>$brequé</link@en></definition>
               - <subheading>Translations</subheading>
               - '<b>High Lulani</b>: <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl>'
             $kurila:
-              date: '2024-05-04'
+              date: '2024-05-28'
               position: '8.14'
               text:
               - <also>kurila</also>
@@ -77,20 +79,20 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉˈɽilə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Corla</link@en></definition>
+              - <definition><link@en>$corla</link@en></definition>
               - <subheading>Notes</subheading>
               - <gloss>transliteration of </gloss><b>Modern Tsarin</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
             $laruni:
-              date: '2019-02-04'
+              date: '2024-05-28'
               position: '5.17'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>わるに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/laˈɽunɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Lharen</link@en></definition>
+              - <definition><link@en>$lharen</link@en></definition>
             $lharen:
-              date: '2024-05-23'
+              date: '2024-05-28'
               position: '10.17'
               text:
               - <language-name>English</language-name>
@@ -102,7 +104,7 @@ entries:
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ˈɬærən/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Lharen</link@en></definition>
+              - <definition><link@en>$lharen</link@en></definition>
             $lulani:
               date: '2018-12-21'
               position: '2.8'
@@ -118,7 +120,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>High Lulani</definition>
             $lusov:
-              date: '2019-02-04'
+              date: '2024-05-28'
               position: '7.26'
               text:
               - <language-name>English</language-name>
@@ -126,99 +128,99 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition>Zhaladi town</definition>
               - <subheading>Transliterations</subheading>
-              - <wordlist><block><b>High Lulani:</b> <link@x-tlb-hl>Lusubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>をすび</tinellbian@x-tlb-hl></block></wordlist>
+              - <wordlist><block><b>High Lulani:</b> <link@x-tlb-hl>$lusubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>をすび</tinellbian@x-tlb-hl></block></wordlist>
             $lusubi:
-              date: '2019-02-04'
+              date: '2024-05-28'
               position: '5.14'
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>をすべ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/lʉˈsufɨ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>をすびべ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/lʉˈsubɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Lusov</link@en></definition>
+              - <definition><link@en>$lusov</link@en></definition>
             $lūsob:
-              date: '2019-02-03'
+              date: '2024-05-28'
               position: '1.0'
               text:
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ˈluːsoβ/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Lusov</link@en></definition>
-            $mala $ptokonoi:
-              date: '2019-02-25'
-              position: '4.77'
-              text:
-              - <language-name>English</language-name>
-              - <pronunciation><ipa@en>/ˌmælə ˈpʰtʰɒkʰn̩ɒɪ/</ipa@en></pronunciation>
-              - <part-of-speech>inanimate proper noun</part-of-speech>
-              - <definition>planet in universe <universe> M<sup>204</sup>ν</universe></definition>
+              - <definition><link@en>$lusov</link@en></definition>
             $naqi:
-              date: '2018-09-30'
+              date: '2024-05-28'
               position: '5.6'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>なね</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnaŋɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@x-tlb-hl>Mala Ptokonoi</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>$ptoko</link@x-tlb-hl></definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>soil</gloss></block></wordlist>
             $nubi:
-              date: '2024-05-06'
+              date: '2024-05-28'
               position: '7.84'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぬび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnubɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>universe<universe> M<sup>204</sup>ν</universe></definition>
+              - <definition>reality<universe> M<sup>204</sup>ν</universe></definition>
               - <subheading>Notes</subheading>
-              - This is Queen Loren’s home reality; the reality in which the planet <link@en>Mala Ptokonoi</link@en> is found
+              - This is Queen Loren’s home reality; the reality in which the planet <link@en>$ptoko</link@en> is found
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss></block></wordlist>
             $piado:
-              date: '2018-10-21'
+              date: '2024-05-28'
               position: '1.0'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/pʰɪˈjadoʊ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Toresh’s father, in “The Crackled Egg”</definition>
+              - <definition><link@en>$toresh</link@en>’s father, in <cite><story-link>The Crackled Egg</story-link></cite></definition>
               - <subheading>Translations</subheading>
-              - <block><b>High Lulani:</b> <link@en>Pi’adu</link@en> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
-              - <b>Koine Fezhlê:</b> <link@en>Piadû</link@en>
+              - <block><b>High Lulani:</b> <link@x-tlb-hl>$pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
+              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$piadû</link@x-tlb-kf>
+              - </block>
             $piadû:
-              date: '2019-01-22'
+              date: '2024-05-28'
               position: '1.0'
               text:
               - <language-name>Koine Fezhlê</language-name>
               - <pronunciation><ipa@x-tlb-kf>/ˈpjadɯ/</ipa@x-tlb-kf></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Piado</link@en></definition>
+              - <definition><link@en>$piado</link@en></definition>
               - <subheading>Translations</subheading>
-              - <b>High Lulani:</b> <link@x-tlb-hl>Pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
+              - <b>High Lulani:</b> <link@x-tlb-hl>$pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
             $pi’adu:
-              date: '2019-01-22'
+              date: '2024-05-28'
               position: '2.9'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰɨˈʔadʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Piado</link@en></definition>
+              - <definition><link@en>$piado</link@en></definition>
               - <subheading>Translations</subheading>
-              - <b>Koine Fezhle:</b> <link@en>Piadû</link@en>
+              - <b>Koine Fezhle:</b> <link@en>$piadû</link@en>
+            $ptoko:
+              date: '2024-05-28'
+              text:
+              - <language-name>English</language-name>
+              - <pronunciation><ipa@en>/ˈpʰtʰɒkʰoː/</ipa@en></pronunciation>
+              - <part-of-speech>inanimate proper noun</part-of-speech>
+              - <definition>planet in reality<universe> M<sup>204</sup>ν</universe></definition>
             $qorla:
               date: null
               text: []
             $qōla:
-              date: '2024-05-04'
+              date: '2024-05-28'
               position: '5.29'
               text:
               - <language-name>Modern Tsarin</language-name>
               - <pronunciation><ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Corla</link@en></definition>
+              - <definition><link@en>$corla</link@en></definition>
               - <subheading>Transliterations</subheading>
               - '<b>High Lulani</b>: <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>'
             $ra’ani:
@@ -265,7 +267,7 @@ entries:
               - <block><b>High Lulani:</b> <link@x-tlb-hl>$tapassi</link@x-tlb-hl>
               - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>$ṭepet</link@x-tlb-cz></block>
             $tinalli:
-              date: '2018-12-24'
+              date: '2024-05-28'
               position: '3.1'
               text:
               - <also>tinalli</also>
@@ -273,9 +275,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tɨˈnaʎːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Tinellb</link@en></definition>
+              - <definition><link@en>$tinellb</link@en></definition>
             $tinellb:
-              date: '2018-12-23'
+              date: '2024-05-28'
               position: '2.13'
               text:
               - <language-name>English</language-name>
@@ -283,7 +285,7 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition>the name given to the multiverse</definition>
               - <subheading>Translations</subheading>
-              - <b>High Lulani:</b> <link@x-tlb-hl>Tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
+              - <b>High Lulani:</b> <link@x-tlb-hl>$tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
             $toresh:
               date: '2024-05-08'
               position: '6.31'
@@ -296,7 +298,7 @@ entries:
               - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
               - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></block>
             $turassi:
-              date: '2019-01-22'
+              date: '2024-05-28'
               position: '9.30'
               text:
               - <also>turassi</also>
@@ -304,50 +306,51 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰʉˈɽasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@x-tlb-hl>Toresh</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>$toresh</link@x-tlb-hl></definition>
               - <subheading>Translations</subheading>
-              - '<b>Koine Fezhlê</b>: <link@en>Tŗsh</link@en>.'
+              - '<b>Koine Fezhlê</b>: <link@en>$tŗsh</link@en>.'
             $tŗsh:
-              date: '2019-06-30'
+              date: '2024-05-28'
               position: '2.0'
               text:
               - <language-name>Koine Fezhlê</language-name>
               - <pronunciation><ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>Toresh</link@en></definition>
+              - <definition><link@en>$toresh</link@en></definition>
               - <subheading>Translations</subheading>
-              - '<block><b>High Lulani</b>: <link@x-tlb-hl>Turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
+              - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
+              - </block>
             $xaladi:
-              date: '2019-09-07'
+              date: '2024-05-28'
               position: '3.30'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ざわで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕəˈladɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@en>Zhalad</link@en></definition>
+              - <definition><link@en>$zhalad</link@en></definition>
             $xucipura.$cula:
-              date: '2024-05-06'
+              date: '2024-05-28'
               position: '8.10'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ずちぷら・ゆわ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽəˈcʰulə/</ipa@x-tlb-hl></pronunciation>
+              - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽə</ipa@x-tlb-hl> <ipa@x-tlb-hl>ˈcʰulə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>compound <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><gloss><poslink@en>The Crackled Egg</poslink@en></gloss></definition>
+              - <definition><gloss><story-link>The Crackled Egg</story-link></gloss></definition>
               - <subheading>Etymology</subheading>
-              - <block><link@x-tlb-hl>xuci</link@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <gloss>become</gloss>
-              - <link@x-tlb-hl>cula</link@x-tlb-hl> <gloss>egg</gloss></block>
+              - <block><link@x-tlb-hl>xuci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>become</gloss>
+              - <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss></block>
             $zhalad:
-              date: '2019-03-15'
+              date: '2024-05-28'
               position: '4.80'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ʒəˈlad/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>country in universe <universe>A<sup>376</sup>γ</universe></definition>
+              - <definition>country in reality <universe>A<sup>376</sup>γ</universe></definition>
               - <subheading>Translations</subheading>
-              - '<wordlist><block><b>High Lulani</b>: <link@x-tlb-hl>Xaladi</link@x-tlb-hl>'
+              - '<wordlist><block><b>High Lulani</b>: <link@x-tlb-hl>$xaladi</link@x-tlb-hl>'
               - '<b>Contemporary Zhaladi</b>: <link@x-tlb-cz>$zhalad</link@x-tlb-cz></block></wordlist>'
               - <language-name>Contemporary Zhaladi</language-name>
               - <pronunciation><ipa@x-tlb-cz>/ˈʒalat/</ipa@x-tlb-cz></pronunciation>
@@ -2909,7 +2912,7 @@ entries:
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             cula:
-              date: '2018-03-29'
+              date: '2024-05-28'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl></native-script>
@@ -2918,7 +2921,7 @@ entries:
               - <definition>egg</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>millu</link@x-tlb-hl><b>cula</b> <tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl> <gloss>eggshell brown</gloss>
-              - <block><link@x-tlb-hl>xuci</link@x-tlb-hl><link@x-tlb-hl>nagi</link@x-tlb-hl> <b>cula</b> <tinellbian@x-tlb-hl>ずちなぎ ゆわ</tinellbian@x-tlb-hl> <gloss>hatching egg</gloss></block></wordlist>
+              - <link@x-tlb-hl>$xucipura.$cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <cite><story-link>The Crackled Egg</story-link></cite></block></wordlist>
             cura:
               date: '2019-02-28'
               position: '18.6'
@@ -15922,14 +15925,14 @@ entries:
               - <subheading>Etymology</subheading>
               - from <b>High Lulani</b> <link@x-tlb-hl>’ajjatuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぢとぢ</tinellbian@x-tlb-hl> <gloss>study</gloss>
             ʔirri’a:
-              date: '2018-12-26'
+              date: '2024-05-28'
               position: '4.27'
               text:
               - <language-name>High Lulani</language-name>
-              - <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl>
-              - <pronunciation><ipa@x-tlb-hl>/ˈirːɨa/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈirːɨʔa/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@x-tlb-hl>Irìa</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>$irìa</link@x-tlb-hl></definition>
             ’a:
               date: '2024-05-02'
               text:

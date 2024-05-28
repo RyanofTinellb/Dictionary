@@ -21,6 +21,10 @@ b:
     size: 90
 block:
   type: div
+cite:
+  key: Alt-c
+  props:
+    italics: true
 definition:
   props:
     left: 30
@@ -184,6 +188,7 @@ story-link:
     colour: '#ff00ff'
   type: anchor
   param: $lookup:external$|$text$
+  rank: -50
 strong:
   props:
     bold: true
