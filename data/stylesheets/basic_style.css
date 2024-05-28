@@ -119,7 +119,7 @@ nav.main details[open] summary {
     list-style-type: '✖';
 }
 
-nav.main details ul ul {
+nav.main details ul ul ul {
     margin-left: 5%;
     text-align: left;
 }
@@ -396,13 +396,12 @@ main .results a {
     }
 
     main div.mobile table {
-        display: block;
         margin-left: auto;
         margin-right: auto;
     }
 
     main div.mobile-table table {
-        display: block;
+        display: initial;
         margin-left: 15%;
     }
 
