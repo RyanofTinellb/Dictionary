@@ -4,8 +4,6 @@ entries:
       children:
         lex:
           children:
-            $Brequé:
-              text: []
             $brequé:
               date: '2024-05-28'
               position: '3.18'
@@ -25,22 +23,6 @@ entries:
               - <subheading>Translations</subheading>
               - <block><b>High Lulani:</b> <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
               - <b>Modern Tsarin:</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
-            $daxunikifigi $qasa:
-              date: '2019-01-06'
-              position: '11.11'
-              text:
-              - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>だずにきべぎ・げさ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/dəˌɕunɨˈkʰifɨgiˈŋasə/</ipa@x-tlb-hl></pronunciation>
-              - <pronunciation><ipa@x-tlb-hl>/ˌdaɕʉˌnikʰɨˈfigɨˈŋasə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>animal</hidden></part-of-speech>
-              - <definition>coelacanth; <gloss>three-tail fish</gloss></definition>
-              - <subheading>Etymology</subheading>
-              - <block><link@x-tlb-hl>daxuni</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずに</tinellbian@x-tlb-hl> <gloss>tail</gloss> + <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>gi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to have</gloss>
-              - <link@x-tlb-hl>qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> <gloss>fish</gloss></block><subheading>Notes</subheading>
-              - Named for its three-lobed caudal fin
-              - <subheading>See Also</subheading>
-              - <poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl>
             $fezhle:
               date: '2018-12-23'
               position: '1.0'
@@ -210,9 +192,6 @@ entries:
               - <pronunciation><ipa@en>/ˈpʰtʰɒkʰoː/</ipa@en></pronunciation>
               - <part-of-speech>inanimate proper noun</part-of-speech>
               - <definition>planet in reality<universe> M<sup>204</sup>ν</universe></definition>
-            $qorla:
-              date: null
-              text: []
             $qōla:
               date: '2024-05-28'
               position: '5.29'
@@ -3508,9 +3487,24 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>bodypart</hidden></part-of-speech>
               - <definition>tail</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>$daxunikifigi $qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+              - <wordlist><block><link@x-tlb-hl>daxunikifigi.qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
+            daxunikifigi.qasa:
+              date: '2024-05-29'
+              position: '11.11'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>だずにきべぎ・げさ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/dəˌɕunɨˈkʰifɨgiˈŋasə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>animal</hidden></part-of-speech>
+              - <definition>coelacanth; <gloss>three-tail fish</gloss></definition>
+              - <subheading>Etymology</subheading>
+              - <block><link@x-tlb-hl>daxuni</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずに</tinellbian@x-tlb-hl> <gloss>tail</gloss> + <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>gi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to have</gloss>
+              - <link@x-tlb-hl>qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> <gloss>fish</gloss></block><subheading>Notes</subheading>
+              - Named for its three-lobed caudal fin
+              - <subheading>See Also</subheading>
+              - <poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl>
             da’aru:
               date: '2019-06-16'
               position: '5.69'
@@ -4886,7 +4880,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>pagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぎ</tinellbian@x-tlb-hl> <gloss>to understand</gloss>
               - <link@x-tlb-hl>gi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎい</tinellbian@x-tlb-hl> <gloss>to understand</gloss>
-              - <block><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+              - <block><link@x-tlb-hl>daxunikifigi.qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
             gibi:
               date: '2018-04-05'
               text:
@@ -5296,9 +5290,6 @@ entries:
               - <link@x-tlb-hl>hannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はっぬ</tinellbian@x-tlb-hl> <gloss>feline</gloss> + <link@x-tlb-hl>-aku</link@x-tlb-hl> <tinellbian@x-tlb-hl>、あく</tinellbian@x-tlb-hl>  <gloss><glossary>aug</glossary></gloss>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl>
-            hannanku:
-              date: null
-              text: []
             hannu:
               date: '2024-05-26'
               text:
@@ -6142,9 +6133,6 @@ entries:
               - <link@x-tlb-hl>jimu</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむ</tinellbian@x-tlb-hl> <gloss>backyard</gloss> + <link@x-tlb-hl>-li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>quasi-</gloss>
               - <subheading>Antonym</subheading>
               - <block><wordlist><link@x-tlb-hl>qu’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>もう</tinellbian@x-tlb-hl> <gloss>inside</gloss></wordlist></block>
-            jimulu:
-              date: null
-              text: []
             jiqu:
               date: '2018-04-05'
               text:
@@ -7146,7 +7134,7 @@ entries:
               - <definition>3; three</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>kifissiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
-              - <link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべやに げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
+              - <link@x-tlb-hl>daxunikifigi.qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべやに げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><block>← <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
               - → <link@x-tlb-hl>nuru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> <gloss>four</gloss>
@@ -9470,7 +9458,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>muli</link@x-tlb-hl> <tinellbian@x-tlb-hl>むえ</tinellbian@x-tlb-hl> <gloss>foolishness</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>nominaliser</gloss>
             mullu:
-              date: '2024-05-08'
+              date: '2024-05-29'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl></native-script>
@@ -11594,7 +11582,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>animal</hidden></part-of-speech>
               - <definition>fish</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><link@x-tlb-hl>daxunikifigi qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>daxunikifigi.qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></wordlist>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl>
             qaxa:
@@ -17551,12 +17539,12 @@ entries:
               - <wordlist><block><link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               - <link@x-tlb-hl>sufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すべ</tinellbian@x-tlb-hl> <gloss>space</gloss>
               - <link@x-tlb-hl>maʔu</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl> <gloss>gingla</gloss></block></wordlist>
-          date: null
+          date: '2024-05-29'
           text: []
-      date: '2019-09-08'
+      date: '2024-05-29'
       position: '1.0'
       text:
       - <h2>About</h2>
       - <introduction>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</introduction>
-      - <introduction><javascript><h2>Searching</h2>
-      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</javascript></introduction>
+      - <javascript><introduction><h2>Searching</h2>
+      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</introduction></javascript>
