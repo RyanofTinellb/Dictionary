@@ -98,7 +98,7 @@ h1 a:link {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
-    width: 95%;
+    /* width: 95%;              Removing for now, becuase I think it's not needed   */
 }
 
 nav.main {
@@ -384,9 +384,9 @@ main .results a {
     }
 
     main {
-        width: 90%;
-        margin-left: 5%;
-        margin-right: 5%;
+        width: calc(100% - 4ch);
+        margin-left: 2ch;
+        margin-right: 2ch;
     }
 
     main div.desktop table {
