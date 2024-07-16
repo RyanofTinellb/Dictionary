@@ -7,7 +7,7 @@
 <link rel="icon" type="image/png" href="../data/assets/favicon.png">
 <script src="../data/scripts/search.js"></script>
 <script src="../data/scripts/word_search.js"></script></head>
-<body><div class="flex"><nav class="main"><details open><summary> Menu </summary>
+<body><div class="flex"><nav class="main"><details id="menu"><summary> Menu </summary>
 <p><a href="../index.html"><strong>Dictionary</strong></a></p>
 <div class="javascript"><form id="search"><p><input type="text" name="term"></p>
 <p><button>Search</button></p></form></div>
@@ -21,27 +21,30 @@
 <h3 class="part-of-speech" id="derivationalsuffix(noun:abstract→animate)"> derivational <a href="http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html">suffix</a> (<a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html">noun</a>: <a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> → <a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#animatenoun">animate</a>) </h3>
 <div class="definition"><p>derives an animate noun from an abstract noun</p></div>
 <h4 class="subheading" id="examples"> Examples </h4>
-<div class="block"><div class="wordlist"><p><a href="’axasiri.html#highlulani">’axasiri</a> <span class="tinellbian" lang="x-tlb-hl">あざせり</span> <span class="gloss">adult</span></p>
+<div class="wordlist"><div class="block"><p><a href="’axasiri.html#highlulani">’axasiri</a> <span class="tinellbian" lang="x-tlb-hl">あざせり</span> <span class="gloss">adult</span></p>
 <p><a href="’asilari.html#highlulani">’asilari</a> <span class="tinellbian" lang="x-tlb-hl">あせわり</span> <span class="gloss">friend</span></p>
 <p><a href="dissuri.html#highlulani">dissuri</a> <span class="tinellbian" lang="x-tlb-hl">でっすり</span> <span class="gloss">stranger</span></p>
-<p><a href="ʔirri’a.html#highlulani">ʔirri’a</a><b>ri</b> <span class="tinellbian" lang="x-tlb-hl">いっりあり</span> <span class="gloss">person from</span> <a href="Irìa.html#highlulani">Irìa</a></p>
+<p><a href="ʔirri’a.html#highlulani">ʔirri’a</a><b>ri</b> <span class="tinellbian" lang="x-tlb-hl">いっりあり</span> <span class="gloss">person from <a href="$irìa.html#highlulani">Irìa</a></span></p>
 <p><a href="gufu’iri.html#highlulani">gufu’iri</a> <span class="tinellbian" lang="x-tlb-hl">ぐふいり</span> <span class="gloss">radio operator</span></p></div></div>
 <h3 class="part-of-speech" id="derivationalsuffix(noun:abstract→inanimate)"> derivational <a href="http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html">suffix</a> (<a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html">noun</a>: <a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#abstractnoun">abstract</a> → <a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a>) </h3>
 <div class="definition"><p>derives instruments from an abstract noun</p></div>
 <h4 class="subheading" id="examples"> Examples </h4>
 <div class="wordlist"><p><a href="gufu’iri.html#highlulani">gufu’iri</a> <span class="tinellbian" lang="x-tlb-hl">ぐふいり</span> <span class="gloss">radio</span></p>
 <p><a href="cahuri.html#highlulani">cahuri</a> <span class="tinellbian" lang="x-tlb-hl">やほり</span> <span class="gloss">market stall</span></p></div>
-
+<h3 class="part-of-speech" id="derivationalsuffix(noun)"> derivational <a href="http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html">suffix</a> (<a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html">noun</a>) </h3>
+<div class="definition"><p>other than</p></div>
+<div class="wordlist"><p><a href="badiri.html#highlulani">badiri</a> <span class="tinellbian" lang="x-tlb-hl">ばでり</span> 	<span class="gloss">world</span></p>
+<p><a href="liqari.html#highlulani">liqari</a> <span class="tinellbian" lang="x-tlb-hl">えげり</span> 	<span class="gloss">body</span></p></div>
 <javascript> <input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"> 
  <input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"> </javascript>
 </main></div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2024 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Wednesday, May 8th, 2024</span></div>
+<span class="no-breaks">Last updated: Tuesday, July 16th, 2024</span></div>
 </footer>
 <p><script src="../data/scripts/parse_href.js"></script></p>
 <script>
  let mql = window.matchMedia("(min-width: 800px)"); 
  let details = document.getElementById("menu"); 
- if(mql.matches) { details.open = true;} 
+ if (mql.matches) {details.open = true;} 
  for (elt of document.getElementsByClassName('javascript')) { 
  elt.style.display = "block";} </script></body></html>

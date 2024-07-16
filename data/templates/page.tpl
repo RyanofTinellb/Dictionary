@@ -73,7 +73,6 @@ text:
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
 - 'let details = document.getElementById("menu");'
-- if(mql.matches) {
-    details.open = true;}
+- if (mql.matches) {details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

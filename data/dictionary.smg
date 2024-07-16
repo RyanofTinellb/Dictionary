@@ -4,6 +4,20 @@ assets:
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
 entries:
 - - The Tinellbian Languages Dictionary
+  - lex
+  - -ri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - liqari
+- - The Tinellbian Languages Dictionary
+  - lex
+  - cadi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - liqa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tihutuja
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

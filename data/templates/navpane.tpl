@@ -4,7 +4,7 @@ styles:
   button: {}
   details:
     type: block
-    open: <details open>
+    open: '<details id="menu">'
   input:
     type: complete
   javascript:

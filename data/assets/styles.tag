@@ -160,7 +160,7 @@ part-of-speech:
     underline: true
     top: 15
     bottom: 7
-    off-key: Return
+    off-key: space
   key: KeyPress-2
   type: heading
   open: <h3 class="part-of-speech"

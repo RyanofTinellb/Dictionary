@@ -1428,7 +1428,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>more; additional</definition>
             -ri:
-              date: '2024-05-08'
+              date: '2024-07-16'
               position: '14.29'
               text:
               - <also>ri</also>
@@ -1438,16 +1438,20 @@ entries:
               - '<part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</part-of-speech>'
               - <definition>derives an animate noun from an abstract noun</definition>
               - <subheading>Examples</subheading>
-              - <block><wordlist><link@x-tlb-hl>’axasiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
+              - <wordlist><block><link@x-tlb-hl>’axasiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
               - <link@x-tlb-hl>’asilari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss>
               - <link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
-              - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person from</gloss> <link@x-tlb-hl>Irìa</link@x-tlb-hl>
-              - <link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio operator</gloss></wordlist></block>
+              - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person from <link@x-tlb-hl>$irìa</link@x-tlb-hl></gloss>
+              - <link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio operator</gloss></block></wordlist>
               - '<part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl>)</part-of-speech>'
               - <definition>derives instruments from an abstract noun</definition>
               - <subheading>Examples</subheading>
               - <wordlist><link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio</gloss>
               - <link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl> <gloss>market stall</gloss></wordlist>
+              - <part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</part-of-speech>
+              - <definition>other than</definition>
+              - "<wordlist><link@x-tlb-hl>badiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばでり</tinellbian@x-tlb-hl> \t<gloss>world</gloss>"
+              - "<link@x-tlb-hl>liqari</link@x-tlb-hl> <tinellbian@x-tlb-hl>えげり</tinellbian@x-tlb-hl> \t<gloss>body</gloss></wordlist>"
             -rra:
               date: '2018-04-08'
               text:
@@ -1844,18 +1848,30 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>’appu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぷ</tinellbian@x-tlb-hl> <gloss>foetus</gloss>
               - <link@x-tlb-hl>lassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっせ</tinellbian@x-tlb-hl> <gloss>baby</gloss></block></wordlist>
+            badi:
+              date: '2024-07-16'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>ばで</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/'badɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>home</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>badiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばでり</tinellbian@x-tlb-hl> <gloss>world</gloss></wordlist>
+              - <subheading>See Also</subheading>
+              - <wordlist><link@x-tlb-hl>tihutuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl> <gloss>home</gloss></wordlist>
             badiri:
-              date: '2018-09-30'
+              date: '2024-07-16'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ばでり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˈdiɽɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>world</definition>
               - <subheading>Definition</subheading>
               - everything outside one’s home
-              - <subheading>Descendants</subheading>
-              - <b>Demotic Lulani:</b> <link@x-tlb-hl>biri</link@x-tlb-hl> <gloss>everything</gloss>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>badi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばで</tinellbian@x-tlb-hl> <gloss>home</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <gloss>other than</gloss>
             baju:
               date: '2019-02-28'
               position: '4.37'
@@ -8124,7 +8140,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>palinu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱえぬ</tinellbian@x-tlb-hl> <gloss>to realise</gloss></block></wordlist>
             liqa:
-              date: '2019-01-07'
+              date: '2024-07-16'
               position: '6.11'
               text:
               - <language-name>High Lulani</language-name>
@@ -8132,9 +8148,22 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈliŋə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>bodypart</hidden></part-of-speech>
               - <definition>head</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>liqari</link@x-tlb-hl> <tinellbian@x-tlb-hl>えげり</tinellbian@x-tlb-hl> <gloss>body</gloss></wordlist>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
-              - <wordlist><block><link@x-tlb-hl>juja</link@x-tlb-hl> <tinellbian@x-tlb-hl>よぢ</tinellbian@x-tlb-hl> <gloss>body</gloss></block></wordlist>
+            liqari:
+              date: '2024-07-16'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>えげり</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/lɨˈŋaɽɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derived <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>body</definition>
+              - <subheading>Definition</subheading>
+              - Everything below the head.
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>liqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>えげ</tinellbian@x-tlb-hl> <gloss>head</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <gloss>other than</gloss>
             lisa:
               date: '2019-01-07'
               position: '6.12'
@@ -11518,7 +11547,7 @@ entries:
               - <subheading>Derived Phrases</subheading>
               - <folding><folded><transliteration@x-tlb-hl>ʔumi ru xiku racaxa laru</folded> ru qapi.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。うみ る しく らやざ わる る げぴ。</tinellbian@x-tlb-hl>
-              - '<link@x-tlb-hl>’umi</link@x-tlb-hl> <link@x-tlb-hl>xiku</link@x-tlb-hl> <link@x-tlb-hl>-xa</link@x-tlb-hl> <link@x-tlb-hl>la</link@x-tlb-hl> <link@x-tlb-hl>-ru</link@x-tlb-hl> <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>qapi</link@x-tlb-hl>.'
+              - <link@x-tlb-hl>’umi</link@x-tlb-hl> <link@x-tlb-hl>xiku</link@x-tlb-hl> <link@x-tlb-hl>-xa</link@x-tlb-hl> <link@x-tlb-hl>la</link@x-tlb-hl> <link@x-tlb-hl>-ru</link@x-tlb-hl> <link@x-tlb-hl>ru</link@x-tlb-hl> <link@x-tlb-hl>qapi</link@x-tlb-hl>.
               - <gloss>Something <glossary>prs;gno</glossary> <glossary>rel</glossary> hang-<glossary>dtv</glossary> do-<glossary>ger</glossary> <glossary>prs;gno</glossary> rope.</gloss>
               - '<gloss>lit: “Doing is the rope that something is hung from.”</gloss><folding>'
               - “Activity is the surest path to doing something.”
@@ -14855,7 +14884,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>dissutihura</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすてほら</tinellbian@x-tlb-hl> <gloss>to be astonished</gloss></block></wordlist>
             tihutuja:
-              date: '2019-05-04'
+              date: '2024-07-16'
               position: '8.25'
               text:
               - <language-name>High Lulani</language-name>
@@ -14865,6 +14894,8 @@ entries:
               - <definition>home</definition>
               - <subheading>Etymology</subheading>
               - <wordlist><block><link@x-tlb-hl>tihu</link@x-tlb-hl> <tinellbian@x-tlb-hl>てほ</tinellbian@x-tlb-hl> <gloss>to abide</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss></block></wordlist>
+              - <subheading>See Also</subheading>
+              - <wordlist><link@x-tlb-hl>badi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばで</tinellbian@x-tlb-hl> <gloss>home</gloss></wordlist>
             tika:
               date: '2018-04-05'
               position: '1.0'
