@@ -24,8 +24,6 @@ styles:
     type: block
     open: <form id="search">
     close: </form>
-    start: <li class="search">
-    end: </li>
   strong:
     props:
       bold: true
@@ -43,7 +41,7 @@ styles:
     end: </li>
 text:
 - <nav><details><summary>Menu</summary>
-- <ul><a><link>index</link>|<strong>Dictionary</strong></a>
+- <a><link>index</link>|<strong>Dictionary</strong></a>
 - <javascript><search-form><input>type="text" name="term"</input>
-- <button>Search</button></search-form></javascript></ul>
+- <button>Search</button></search-form></javascript>
 - <javascript><random><a><link>special/random_entry</link>|Random Entry</a></random></javascript></details></nav>
