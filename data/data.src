@@ -2166,7 +2166,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbilə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></part-of-speech>
-              - <definition>-3, <overbar>3</overbar>; ree; minus three; negative three</definition>
+              - <definition>-3, <overline>3</overline>; ree; minus three; negative three</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>← <link@x-tlb-hl>missu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> <gloss>rour</gloss>
               - → <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl> <gloss>rwo</gloss>
@@ -4127,7 +4127,7 @@ entries:
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
             du’ami:
-              date: '2019-04-28'
+              date: '2024-07-17'
               position: '5.55'
               text:
               - <language-name>High Lulani</language-name>
@@ -4136,7 +4136,7 @@ entries:
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <hidden>number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl> <hidden>particle</hidden></part-of-speech>
               - <definition><symbol>i</symbol>; the imaginary unit</definition>
               - <subheading>Definition</subheading>
-              - The square root of <overbar>1</overbar> (<link@en>rone</link@en>)
+              - The square root of <overline>1</overline> (<link@en>rone</link@en>)
             du’i:
               date: '2018-04-03'
               text:
@@ -5256,7 +5256,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈhakʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-7; <overbar>7</overbar>; <link@x-tlb-hl>reven</link@x-tlb-hl>; minus seven</definition>
+              - <definition>-7; <overline>7</overline>; <link@x-tlb-hl>reven</link@x-tlb-hl>; minus seven</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>→ <link@x-tlb-hl>jusiti</link@x-tlb-hl> <tinellbian@x-tlb-hl>よせて</tinellbian@x-tlb-hl> <gloss>rix</gloss>
               - — <link@x-tlb-hl>salumi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl> <gloss>seven</gloss>
@@ -6265,7 +6265,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>よせて</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟʉˈsitɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-6; <overbar>6</overbar>; <link@en>rix</link@en>; minus six; negative six</definition>
+              - <definition>-6; <overline>6</overline>; <link@en>rix</link@en>; minus six; negative six</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>← <link@x-tlb-hl>haki</link@x-tlb-hl> <tinellbian@x-tlb-hl>はき</tinellbian@x-tlb-hl> <gloss>reven</gloss>
               - → <link@x-tlb-hl>laffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> <gloss>rive</gloss>
@@ -6675,7 +6675,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰaɲːʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-2; <overbar>2</overbar>, <link@en>rwo</link@en>, minus two</definition>
+              - <definition>-2; <overline>2</overline>, <link@en>rwo</link@en>, minus two</definition>
               - <subheading>See Also</subheading>
               - <block><wordlist>← <link@x-tlb-hl>bila</link@x-tlb-hl> <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> <gloss>ree</gloss>
               - → <link@x-tlb-hl>mullu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むっを</tinellbian@x-tlb-hl> <gloss>ron</gloss>
@@ -6870,13 +6870,13 @@ entries:
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             kassi:
-              date: '2024-05-26'
+              date: '2024-07-17'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>かっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>third person animate ablative; <glossary>3ani;abl</glossary>; because of them; from them;</definition>
+              - <definition>third person animate ablative; <glossary>3ani;abl</glossary>; because of them; from them</definition>
               - <subheading>See Also</subheading>
               - <table>r2c2 |hr2 1st person |hr2 2nd person |hc3 3rd person
               - h topic |h animate |h inanimate
@@ -6919,19 +6919,6 @@ entries:
               - 'ablative: kalu <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
               - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>physical body</definition>
-              - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@en>nakalu</link@en> <tinellbian@x-tlb-hl>なかを</tinellbian@x-tlb-hl> <gloss>to face</gloss>
-              - <link@x-tlb-hl>si’akalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあかを</tinellbian@x-tlb-hl> <gloss>to heal</gloss></block></wordlist>
-              - <subheading>See Also</subheading>
-              - <wordlist><block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
-              - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
-              - <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
-              - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
-              - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block></wordlist>
-              - <subheading>Hypernym</subheading>
-              - <wordlist><block><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></block></wordlist>
             kassu:
               date: '2019-05-11'
               position: '16.6'
@@ -7673,7 +7660,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈlafːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-5; <overbar>5</overbar>; rive; minus five</definition>
+              - <definition>-5; <overline>5</overline>; rive; minus five</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>↑ <link@x-tlb-hl>jusiti</link@x-tlb-hl> <tinellbian@x-tlb-hl>よせて</tinellbian@x-tlb-hl> <gloss>rix</gloss>
               - → <link@x-tlb-hl>missu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> <gloss>rour</gloss>
@@ -9311,7 +9298,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmisːʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-4; <overbar>4</overbar>; <link@en>rour</link@en>; minus four</definition>
+              - <definition>-4; <overline>4</overline>; <link@en>rour</link@en>; minus four</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>← <link@x-tlb-hl>laffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっべ</tinellbian@x-tlb-hl> <gloss>rive</gloss>
               - → <link@x-tlb-hl>bila</link@x-tlb-hl> <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> <gloss>ree</gloss>
@@ -9481,7 +9468,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmuʎːʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></part-of-speech>
-              - <definition>-1; <overbar>1</overbar>; ron; minus one</definition>
+              - <definition>-1; <overline>1</overline>; ron; minus one</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block>← <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl> <gloss>rwo</gloss>
               - → <link@x-tlb-hl>qihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss>
@@ -11268,7 +11255,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>pucasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷやさ</tinellbian@x-tlb-hl> <gloss>optimist</gloss></block></wordlist>
             pucasa:
-              date: '2018-03-30'
+              date: '2024-07-17'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぷやさ</tinellbian@x-tlb-hl></native-script>
@@ -11276,7 +11263,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> derived <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>optimist</definition>
               - <subheading>Etymology</subheading>
-              - <link@x-tlb-hl>puca</link@x-tlb-hl> <gloss>optimism</gloss> + <link@x-tlb-hl>sa</link@x-tlb-hl> <glossary>nmn</glossary>
+              - <link@x-tlb-hl>puca</link@x-tlb-hl> <gloss>optimism</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <glossary>nmn</glossary>
             puci:
               date: '2018-03-30'
               text:
@@ -12498,7 +12485,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˈɽɛvn̩/</ipa@en></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> <hidden>derived</hidden> cardinal numeral blend</part-of-speech>
-              - <definition>-7, <overbar>7</overbar>; minus seven; negative seven</definition>
+              - <definition>-7, <overline>7</overline>; minus seven; negative seven</definition>
               - <subheading>Etymology</subheading>
               - Blend of <gloss>reverse seven</gloss>.
               - <subheading>Translations</subheading>
@@ -12613,7 +12600,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɹaɪv/</ipa@en></pronunciation>
               - <part-of-speech>derived cardinal numeral</part-of-speech>
-              - <definition>-5, <overbar>5</overbar>; minus five; negative five</definition>
+              - <definition>-5, <overline>5</overline>; minus five; negative five</definition>
               - <subheading>Etymology</subheading>
               - Blend of <b>reverse</b> + <b>five</b>
               - <subheading>Translations</subheading>
@@ -12625,7 +12612,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɹɪks/</ipa@en></pronunciation>
               - <part-of-speech>derived cardinal <hidden>mathematics</hidden> numeral</part-of-speech>
-              - <definition>-6, <overbar>6</overbar>; minus six; negative six</definition>
+              - <definition>-6, <overline>6</overline>; minus six; negative six</definition>
               - <subheading>Etymology</subheading>
               - Blend of <b>reverse</b> + <b>six</b>
               - <subheading>Translations</subheading>
@@ -12654,7 +12641,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɽʌn/</ipa@en></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> cardinal numeral</part-of-speech>
-              - <definition>-1; <overbar>1</overbar>; negative one</definition>
+              - <definition>-1; <overline>1</overline>; negative one</definition>
               - <subheading>Translations</subheading>
               - '<b>High Lulani</b>: <link@en>mullu</link@en> <tinellbian@x-tlb-hl>むっを</tinellbian@x-tlb-hl>'
             rour:
@@ -12664,7 +12651,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɹɔː/</ipa@en></pronunciation>
               - <part-of-speech>cardinal numeral</part-of-speech>
-              - <definition>-4, <overbar>4</overbar>; negative four; minus four</definition>
+              - <definition>-4, <overline>4</overline>; negative four; minus four</definition>
               - <subheading>Etymology</subheading>
               - blend of <b>reverse</b> + <b>four</b>
               - <subheading>Translations</subheading>
@@ -12921,7 +12908,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ɹuː/</ipa@en></pronunciation>
               - <part-of-speech><hidden>mathematics</hidden> cardinal numeral</part-of-speech>
-              - <definition>-2, <overbar>2</overbar>; negative two</definition>
+              - <definition>-2, <overline>2</overline>; negative two</definition>
               - <subheading>Etymology</subheading>
               - Blend of <b>reverse</b> + <b>two</b>.
               - <subheading>Translations</subheading>
@@ -14511,7 +14498,7 @@ entries:
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
               - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl></ul></mobile-table>'
             tali:
-              date: '2019-05-26'
+              date: '2024-07-17'
               position: '11.24'
               text:
               - <language-name>High Lulani</language-name>
@@ -14520,10 +14507,10 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> dative <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>to take away from someone</definition>
               - <subheading>Example</subheading>
-              - <folding><folded><transliteration@x-tlb-hl>ʔaggami pi kalutuhhisa tali</folded> ’ita’i.</transliteration@x-tlb-hl>
+              - <folding><transliteration@x-tlb-hl><folded>ʔaggami pi kalutuhhisa tali</folded> ’ita’i.</transliteration@x-tlb-hl>
               - <tinellbian@x-tlb-hl>。あっがみ ぴ かをとっひさ たえ いたい。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl> <link@x-tlb-hl>kalu-</link@x-tlb-hl><link@x-tlb-hl>tuhhisa</link@x-tlb-hl> tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
-              - <gloss>Policeōfficer <glossary>pst;sta</glossary> <glossary>abl</glossary>-farmer take car.</gloss></folding>
+              - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl> <link@x-tlb-hl>kalu-tuhhisa</link@x-tlb-hl> tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
+              - <gloss>Police_officer <glossary>pst;sta</glossary> <glossary>abl</glossary>-farmer take car.</gloss></folding>
               - “The police officer took the car from the farmer.”
               - <part-of-speech><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl></part-of-speech>
               - <definition>subtract; minus</definition>
@@ -16250,7 +16237,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>boat</definition>
             ’ala:
-              date: '2024-05-26'
+              date: '2024-07-17'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -16260,11 +16247,11 @@ entries:
               - <definition>heat</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>’alamusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわむさ</tinellbian@x-tlb-hl> <gloss>sun’s heat</gloss>
-              - <link@x-tlb-hl>’alaxuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわずっは</tinellbian@x-tlb-hl> <gloss>heat of the fire</gloss>
-              - <link@x-tlb-hl>puci’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちあわ</tinellbian@x-tlb-hl> <gloss>summer</gloss>
+              - <link@x-tlb-hl>’alaxuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわずっは</tinellbian@x-tlb-hl> <gloss>heat of the fire</gloss></block>
+              - <block><link@x-tlb-hl>puci’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちあわ</tinellbian@x-tlb-hl> <gloss>summer</gloss>
               - <link@x-tlb-hl>naffi’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>なっべあわ</tinellbian@x-tlb-hl> <gloss>spring</gloss>
-              - <link@x-tlb-hl>japa’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢぱあわ</tinellbian@x-tlb-hl> <gloss>haze</gloss>
-              - <link@x-tlb-hl>cussi’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせあわ</tinellbian@x-tlb-hl> <gloss>to feel hot</gloss></block></wordlist>
+              - <link@x-tlb-hl>japa’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢぱあわ</tinellbian@x-tlb-hl> <gloss>haze</gloss></block>
+              - <block><link@x-tlb-hl>cussi’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせあわ</tinellbian@x-tlb-hl> <gloss>to feel hot</gloss></block></wordlist>
               - <subheading>Notes</subheading>
               - these are just about the only terms of this type. Anything else uses the genitive.
               - <subheading>Examples</subheading>

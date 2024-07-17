@@ -1,3 +1,9 @@
+.symbol {
+	font-size: larger;
+	font-family: serif;
+	font-style: italic;
+}
+
 body {
 	font-family: sans-serif;
 }

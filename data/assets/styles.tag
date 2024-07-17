@@ -152,7 +152,7 @@ ol:
   type: block
   start: <li>
   end: </li>
-overbar:
+overline:
   type: span
 part-of-speech:
   props:

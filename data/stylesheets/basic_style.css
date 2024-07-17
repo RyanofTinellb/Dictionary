@@ -101,8 +101,10 @@ h1 a:link {
     /* width: 95%;              Removing for now, becuase I think it's not needed   */
 }
 
-nav a {                         /* both types of nav */
-    text-decoration: none;      /* colour does nothing because of 'a:link' in `basic_style.css` */
+nav a {
+    /* both types of nav */
+    text-decoration: none;
+    /* colour does nothing because of 'a:link' in `basic_style.css` */
 }
 
 nav.main {
