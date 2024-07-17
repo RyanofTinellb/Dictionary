@@ -16263,8 +16263,8 @@ entries:
               - <part-of-speech><hidden>count </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>temperature degree</definition>
               - <subheading>Notes*</subheading>
-              - This temperature scale is set with <b>0</b> <gloss>0</gloss> at absolute zero, and <b>495</b> <gloss>230</gloss> at the triple point of water.
-              - In ordinary use, temperatures between <b>450</b> <gloss>200</gloss> and <b>675</b> <gloss>300</gloss> are given without the hundreds place.
+              - This temperature scale is set with <b>0</b> <gloss>0</gloss> at absolute zero, and <b>844</b> <gloss>4<overline>4</overline>4</gloss> at the triple point of water.
+              - In ordinary use, temperatures between <b>788</b> <gloss>4<overline>77</overline></gloss> and <b>1012</b> <gloss>477</gloss> are given without the hundreds place.
               - <note>*Numbers in <b>bold</b> are in decimal, numbers in <gloss>italics</gloss> are in balanced <link@x-tlb-hl>sesquidecimal</link@x-tlb-hl>.</note>
             ’alamusa:
               date: '2018-04-05'
