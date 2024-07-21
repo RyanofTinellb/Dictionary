@@ -87,6 +87,7 @@ hidden:
   type: span
   key: h
 i:
+  key: i
   props:
     italics: true
 introduction:
@@ -160,7 +161,7 @@ part-of-speech:
     underline: true
     top: 15
     bottom: 7
-    off-key: space
+    off-key: Return
   key: KeyPress-2
   type: heading
   open: <h3 class="part-of-speech"
@@ -168,7 +169,8 @@ part-of-speech:
 poslink:
   props:
     underline: true
-    off-key: Return
+    off-key: space
+    colour: '#c6c'
   type: anchor
   language: true
   param: $lookup:poslink$|$text$

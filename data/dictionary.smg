@@ -5,7 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’ala
+  - ja
+- - The Tinellbian Languages Dictionary
+  - lex
+  - garu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - jagaru
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -24,7 +30,7 @@ locations:
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\special\search.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\special\wholepage.html
-port: 23102
+port: 23103
 serialisation format:
   definition: definition
   language: language-name

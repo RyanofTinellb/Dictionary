@@ -293,7 +293,7 @@ entries:
               - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
               - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></block>
             $turassi:
-              date: '2024-05-28'
+              date: '2024-07-18'
               position: '9.30'
               text:
               - <also>turassi</also>
@@ -302,6 +302,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/tʰʉˈɽasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition><link@x-tlb-hl>$toresh</link@x-tlb-hl></definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl> <gloss>redhead</gloss>
               - <subheading>Translations</subheading>
               - '<b>Koine Fezhlê</b>: <link@en>$tŗsh</link@en>.'
             $tŗsh:
@@ -1739,6 +1741,17 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+            -’i:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</part-of-speech>
+              - <definition>denotes something having a full set of identical items</definition>
+              - <subheading>Examples</subheading>
+              - <wordlist><block><link@x-tlb-hl>’ita’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>いたい</tinellbian@x-tlb-hl> <gloss>wagon</gloss></block>
+              - <block><link@x-tlb-hl>sapi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぴい</tinellbian@x-tlb-hl> <gloss>spider</gloss></block></wordlist>
             -’illu:
               date: '2018-04-12'
               text:
@@ -1976,7 +1989,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>xima</link@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>morning</gloss></block></wordlist>
             batu:
-              date: '2019-05-04'
+              date: '2024-07-18'
               position: '9.10'
               text:
               - <language-name>High Lulani</language-name>
@@ -1987,7 +2000,8 @@ entries:
               - <subheading>Definition</subheading>
               - a group of objects collected together, or a collected mass
               - <subheading>Derived Terms</subheading>
-              - <block><link@x-tlb-hl>nuhubatu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></block><subheading>See Also</subheading>
+              - <wordlist><link@x-tlb-hl>nuhubatu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></wordlist>
+              - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>qapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>げぴ</tinellbian@x-tlb-hl> <gloss>chain</gloss>
               - <link@x-tlb-hl>ju’ipu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>assembly</gloss>
               - <link@x-tlb-hl>’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっし</tinellbian@x-tlb-hl> <gloss>crowd</gloss></block></wordlist>
@@ -1996,7 +2010,7 @@ entries:
               - <subheading>Example</subheading>
               - <folding><folded><transliteration@x-tlb-hl>Kifi batu nuru ’anu sabila.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。きべ ばと ぬる あぬ さびっわ。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>batu</link@x-tlb-hl> <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl> <link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>bila</link@x-tlb-hl>.
+              - <link@x-tlb-hl>kifi</link@x-tlb-hl> <link@x-tlb-hl>batu</link@x-tlb-hl> <link@x-tlb-hl>nuru</link@x-tlb-hl> <link@x-tlb-hl>’anu</link@x-tlb-hl> <link@x-tlb-hl>sabila</link@x-tlb-hl>.
               - <gloss>three multiple four equal one-ree.</gloss></folding>
               - “Three times four is twelve.”
               - <subheading>See Also</subheading>
@@ -4831,6 +4845,16 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈgaŋːʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>commoness; <gloss>not surprisingly</gloss></definition>
+            garu:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>がる</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈgaɽʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>beach; desert; strand</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>jagaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl> <gloss>sand</gloss></wordlist>
             gata:
               date: '2018-04-05'
               text:
@@ -5820,7 +5844,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>painting; portrait</definition>
             ja:
-              date: '2019-01-06'
+              date: '2024-07-21'
               position: '13.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -5838,6 +5862,10 @@ entries:
               - <definition>end</definition>
               - <subheading>Definition</subheading>
               - the end of something passed through, <gloss>i.e.:</gloss> a corridor
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>grain; particle</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>jagaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl> <gloss>sand</gloss></wordlist>
             jaffara:
               date: '2019-01-07'
               position: '4.54'
@@ -5851,13 +5879,13 @@ entries:
               - <block><poslink@x-tlb-hl>List of Plants</poslink@x-tlb-hl>
               - <block><poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
             jagaru:
-              date: '2019-05-26'
+              date: '2024-07-21'
               position: '13.0'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟəˈgaɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>substance</hidden></part-of-speech>
+              - <part-of-speech>derived <hidden>compound </hidden><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>substance</hidden></part-of-speech>
               - <definition>sand</definition>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
@@ -8036,7 +8064,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>kadu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かど</tinellbian@x-tlb-hl> <gloss>on</gloss></block></wordlist>
             li:
-              date: '2024-05-06'
+              date: '2024-07-19'
               position: '8.16'
               text:
               - <also>-li</also>
@@ -8046,8 +8074,12 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></part-of-speech>
               - <definition>complementiser; <glossary>com</glossary></definition>
               - <subheading>Derived Terms</subheading>
-              - <block><wordlist><link@x-tlb-hl>ku·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl> <gloss>to the </gloss>～
-              - <link@x-tlb-hl>kal·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>かをえ</tinellbian@x-tlb-hl> <gloss>because of the ～</gloss></wordlist></block>
+              - <wordlist><block><link@x-tlb-hl>ku·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl> <gloss>to the </gloss>～
+              - <link@x-tlb-hl>kal·li</link@x-tlb-hl> <tinellbian@x-tlb-hl>かをえ</tinellbian@x-tlb-hl> <gloss>because of the ～</gloss></block></wordlist>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>spoke (<i>of a wheel</i>)</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>lisanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>えさぬ</tinellbian@x-tlb-hl> <gloss>wheel</gloss></wordlist>
             lica:
               date: '2019-01-07'
               position: '6.12'
@@ -8165,15 +8197,15 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>origami</gloss></block></wordlist>
             lisanu:
-              date: '2018-04-04'
+              date: '2024-07-19'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>えさぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lɨˈsanʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden>compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>wheel</definition>
-              - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>circle of people</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>spoke</gloss> + <link@x-tlb-hl>sanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぬ</tinellbian@x-tlb-hl> <gloss>wheel</gloss>
             lisina:
               date: '2019-05-26'
               position: '5.21'
@@ -12398,6 +12430,16 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>’adda</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっだ</tinellbian@x-tlb-hl> <gloss>the past</gloss>
               - <link@x-tlb-hl>fa’ida</link@x-tlb-hl> <tinellbian@x-tlb-hl>へいだ</tinellbian@x-tlb-hl> <gloss>the present</gloss></block></wordlist>
+            rassi:
+              date: '2024-07-18'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>らっせ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈɽasːɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>blessing</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl> <gloss>redhead</gloss></wordlist>
             raʔasa:
               date: '2018-04-08'
               text:
@@ -13369,6 +13411,36 @@ entries:
               - Jealousy one feels when one’s lover loves another.
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>sanna</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっな</tinellbian@x-tlb-hl> <gloss>jealousy</gloss> + <link@x-tlb-hl>ca’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>やい</tinellbian@x-tlb-hl> <gloss>romance</gloss>
+            sanu:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>さぬ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsanʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> / <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>circle (<i>of items or people</i>)</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>lisanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>えさぬ</tinellbian@x-tlb-hl> <gloss>wheel</gloss></wordlist>
+            sapi:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>さぴ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsapʰɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>leg (<i>of an arthropod</i>)</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>sapi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぴい</tinellbian@x-tlb-hl> <gloss>spider</gloss></wordlist>
+            sapi’i:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>さぴい</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/səˈpʰiʔɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derived <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>spider</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>sapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぴ</tinellbian@x-tlb-hl> <gloss>leg</gloss> + <link@x-tlb-hl>-’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>set</gloss>
             sappahi:
               date: '2019-02-01'
               position: '1.0'
@@ -15130,7 +15202,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <gloss><link@en>tsar</link@en></gloss> + <gloss><wikt-link>ship</wikt-link></gloss>
             tu:
-              date: '2019-02-02'
+              date: '2024-07-18'
               position: '7.12'
               text:
               - <language-name>High Lulani</language-name>
@@ -15138,6 +15210,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/tʰu/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>child; offspring; daughter; son</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl> <gloss>redhead</gloss></wordlist>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Kinship Terms</poslink@x-tlb-hl>
             tuci:
@@ -15281,14 +15355,16 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
               - <definition>respectfully</definition>
             turassi:
-              date: '2018-10-01'
+              date: '2024-07-18'
               text:
               - <also>Turassi</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰʉˈɽasːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <hidden>compound</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>red-head; redhead</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <gloss>child</gloss> + <link@x-tlb-hl>rassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっせ</tinellbian@x-tlb-hl> <gloss>blessing</gloss>
             turu:
               date: '2024-05-04'
               position: '16.24'
@@ -15942,6 +16018,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈirːɨʔa/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
               - <definition><link@x-tlb-hl>$irìa</link@x-tlb-hl></definition>
+            ‘i:
+              text: []
             ’a:
               date: '2024-05-02'
               text:
@@ -17087,16 +17165,28 @@ entries:
               - <definition>vulva; vagina; internal genitalia</definition>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
+            ’ita:
+              date: '2024-07-21'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>いた</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈitə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>wheel</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>’ita’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>いたい</tinellbian@x-tlb-hl> <gloss>wagon</gloss></wordlist>
             ’ita’i:
-              date: '2018-03-27'
+              date: '2024-07-21'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>いたい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈtʰaʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>car; wagon; vehicle</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>’ita’i’assa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いたいあっさ</tinellbian@x-tlb-hl> <gloss>wagon</gloss></block></wordlist>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>’ita</link@x-tlb-hl> <tinellbian@x-tlb-hl>いた</tinellbian@x-tlb-hl> <gloss>wheel</gloss> + <link@x-tlb-hl>-’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>set</gloss>
             ’ita’i’assa:
               date: '2018-03-27'
               text:

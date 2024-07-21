@@ -13,6 +13,7 @@ if (text) {
 }
 
 let term = searchParams.get('term') 
+console.log(term)
 if (term) {
     window.location.href = `/special/search.html?term=${term}`; 
 }
