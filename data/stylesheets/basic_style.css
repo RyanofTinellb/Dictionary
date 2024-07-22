@@ -239,7 +239,7 @@ main .wordlist {
 }
 
 main .wordlist .block {
-    margin-top: 1rem;
+    margin-top: 0.75lh;
 }
 
 main .wordlist .block:first-child {
