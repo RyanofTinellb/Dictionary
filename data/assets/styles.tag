@@ -21,6 +21,7 @@ b:
     size: 90
 block:
   type: div
+  key: Alt-b
 cite:
   key: Alt-c
   props:

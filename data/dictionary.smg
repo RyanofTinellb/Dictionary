@@ -5,37 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ja
-- - The Tinellbian Languages Dictionary
-  - lex
-  - garu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - qari
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -hu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - qarihu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - lannuhu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - lannu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - taji
-- - The Tinellbian Languages Dictionary
-  - lex
-  - tajihu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - jagaru
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -uju
+  - xiku.racaxa.laru.ru.qapi
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

@@ -34,7 +34,8 @@ x-tlb-hl:
   mathematics: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/languages/highlulani/morphology/adverbs.html#modals
   motive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#motiveverbs
-  negative: http://grammar.tinellb.com/languages/highlulani/syntax/matrixclauses/negativecomplement.html
+  negative: http://grammar.tinellb.com/languages/highlulani/syntax/matrixclauses/negativecomplements.html
+  negativecomplement: http://grammar.tinellb.com/languages/highlulani/syntax/matrixclauses/negativecomplements.html
   noun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html
   nominalisation: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#nominalisation
   number: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
