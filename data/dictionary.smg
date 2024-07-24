@@ -6,6 +6,18 @@ entries:
 - - The Tinellbian Languages Dictionary
   - lex
   - xiku.racaxa.laru.ru.qapi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dihiqa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ci’u
+- - The Tinellbian Languages Dictionary
+  - lex
+  - jimu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tarra
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
