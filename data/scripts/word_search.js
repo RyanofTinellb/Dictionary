@@ -9,31 +9,22 @@ function search() {
     return createUrl(text);
 }
 
-function findInitial(text) {
-    return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
-}
-
 function createUrl(text) {
     return `${sellCaps(text)}.html`
 }
 
 const mapString = (str, fn) =>
     str.split('')
-       .map((c, i) => fn(c, i, str))
-       .join('');
+        .map((c, i) => fn(c, i, str))
+        .join('');
 
-const sellLetterCaps = letter => letter ==
-    letter.toLowerCase() ? letter : `$${letter.toLowerCase()}`
+// Changes space to period, and adds dollar-signs before capitals
+const sellLetterCaps = letter =>
+    letter == letter.toLowerCase() ? 
+    letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
 
 function sellCaps(text) {
-    return mapString(text, sellLetterCaps)
-}
-
-function markdown(text) {
-    for (md in MARKDOWN) {
-        text = text.replace(md, MARKDOWN[md]);
-    }
-    return text;
+    return mapString(text, sellLetterCaps);
 }
 
 function wordsearch() {

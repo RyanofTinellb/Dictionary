@@ -29,10 +29,10 @@ async function search(terms) {
         data = await fetch(BASE_URL);
         data = await data.json();
         results = [translit, pos_lang, def_lang]
-            .map(fn => display(fn(data, terms)))
-            .filter(entry => entry.length)
-            .sort((a, b) => a.length - b.length)
-            .join('');
+        .map(fn => display(fn(data, terms)))
+        .filter(entry => entry.length)
+        .sort((a, b) => a.length - b.length)
+        .join('');
     }
     if (results.length) {
         RESULTS.innerHTML = results;
@@ -249,7 +249,7 @@ function getTerms() {
             text = removeTrailingPlus(query[1]).split('#')[0];
         }
     }
-    return text.split("+").filter(i => i != "");
+    return decodeURI(text).split("+").filter(i => i != "");
 }
 
 function removeTrailingPlus(string) {

@@ -2,35 +2,22 @@ randomEntry();
 
 const SEARCH = 'searching.json';
 
-const MARKDOWN = {
-    '&rsquo;': "'",
-    '&#x294;': "''",
-    '&uuml;': '!u',
-    '&ecirc;': '()e',
-    '&igrave;': ')i',
-    '&middot;': '..',
-    '&nbsp;': ' ',
-    '&#x157;': ',r',
-    '&#x14d;': '_o'
-};
-
-function markdown(text) {
-    for (md in MARKDOWN) {
-        text = text.split(md).join(MARKDOWN[md]);
-    }
-    return sellCaps(text);
-}
-
-function findInitial(text) {
-    return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
-}
-
 function createUrl(text) {
-    return `../lex/${text}.html`
+    return `${sellCaps(text)}.html`
 }
+
+const mapString = (str, fn) =>
+    str.split('')
+        .map((c, i) => fn(c, i, str))
+        .join('');
+
+// Changes space to period, and adds dollar-signs before capitals
+const sellLetterCaps = letter =>
+    letter == letter.toLowerCase() ? 
+    letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
 
 function sellCaps(text) {
-    return text.replace(/^[A-Z]/g, letter => `$${letter.toLowerCase()}`)
+    return mapString(text, sellLetterCaps);
 }
 
 async function randomEntry() {
@@ -38,5 +25,5 @@ async function randomEntry() {
     data = await data.json();
 	data = Object.values(data);
     let rand = data[Math.floor(Math.random() * data.length)].t;
-    window.open(createUrl(rand), '_self');
+    window.open('/lex/' + createUrl(rand), '_self');
 }

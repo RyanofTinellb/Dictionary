@@ -30,15 +30,13 @@ function getTermfrom404() {
             term = term.split('.html')[0];
         } catch (err) {}
     }
-    return term.split(/\%20|\./);
+    return decodeURI(term).split(/\%20|\./);
 }
 
 function backupUrl(link) {
-    console.log('bakup');
     return '/' + link;
 }
 
 function createUrl(text) {
-    console.log('asdaef')
     return createPlainUrl(text);
 }
