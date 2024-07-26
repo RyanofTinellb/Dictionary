@@ -415,9 +415,10 @@ entries:
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
               - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             -ba:
-              date: '2024-07-22'
+              date: '2024-07-27'
               position: '1.0'
               text:
+              - <also>ba</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bə/</ipa@x-tlb-hl></pronunciation>
@@ -748,15 +749,23 @@ entries:
               - <wordlist><block><link@x-tlb-hl>lulani</link@x-tlb-hl><b>fi</b> <tinellbian@x-tlb-hl>をわにべ</tinellbian@x-tlb-hl> <gloss>honoured queen</gloss>
               - <link@x-tlb-hl>faʔafi</link@x-tlb-hl> <tinellbian@x-tlb-hl>へっあべ</tinellbian@x-tlb-hl> <gloss>sacred language</gloss>
               - <link@x-tlb-hl>sunufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すぬべ</tinellbian@x-tlb-hl> <gloss>robe</gloss></block></wordlist>
+            -fi’a:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>べあ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌfiʔə/</ipa@x-tlb-hl></pronunciation>
             -fi’atu:
-              date: '2018-12-27'
+              date: '2024-07-27'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/fɨʔatʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>certain; particular</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>fi’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>べあ</tinellbian@x-tlb-hl> <gloss>individuality</gloss> + <link@x-tlb-hl>-tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <glossary>drv</glossary>
             -fu:
               date: '2019-01-31'
               position: '15.18'
@@ -999,7 +1008,7 @@ entries:
               - <wordlist><link@x-tlb-hl>faxila’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>へしわい</tinellbian@x-tlb-hl> <gloss>survivor</gloss>
               - <link@x-tlb-hl>narala’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss></wordlist>
             -li:
-              date: '2024-05-26'
+              date: '2024-07-27'
               position: '1.0'
               text:
               - <also>li</also>
@@ -1011,6 +1020,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>’appuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぷえ</tinellbian@x-tlb-hl> <gloss>miscarriage</gloss>
               - <link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
+              - <link@x-tlb-hl>bunali</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶなえ</tinellbian@x-tlb-hl> <gloss>rhyme</gloss>
               - <link@x-tlb-hl>daruli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss>
               - <link@x-tlb-hl>gusuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl><gloss> person</gloss></block>
               - <block><link@x-tlb-hl>jimuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss></block></wordlist>
@@ -1156,6 +1166,16 @@ entries:
               - 'place: <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl>'
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
+            -mimutu:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/mɨˈmuthʰʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derived <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
+              - <definition>some; more than one</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>mimu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みむ</tinellbian@x-tlb-hl> <gloss>existence</gloss> + <link@x-tlb-hl>-tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <glossary>drv</glossary>
             -mimu’i:
               date: '2018-12-27'
               position: '1.0'
@@ -1511,6 +1531,16 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/səˈbufɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>different</definition>
+            -sabutu:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/səˈbutʰʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech>derived <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
+              - <definition>different</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>sabu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぶ</tinellbian@x-tlb-hl> <gloss>difference</gloss> + <link@x-tlb-hl>-tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <gloss><glossary>drv</glossary></gloss>
             -si:
               date: '2019-02-02'
               position: '8.12'
@@ -1605,6 +1635,19 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰapʰə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>next</definition>
+            -tu:
+              date: '2024-07-27'
+              text:
+              - <also>tu</also>
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/tʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> → <poslink@x-tlb-hl>determiner</poslink@x-tlb-hl>)</part-of-speech>
+              - <definition>derives a determiner from an abstract noun</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>-fi’atu</link@x-tlb-hl> <tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl> <gloss>particular</gloss>
+              - <link@x-tlb-hl>-sabutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss>
+              - <link@x-tlb-hl>-mimutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss></wordlist>
             -tu’i:
               date: '2019-01-22'
               position: '11.17'
@@ -1785,9 +1828,10 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>many</definition>
             ba:
-              date: '2018-04-20'
+              date: '2024-07-27'
               position: '1.0'
               text:
+              - <also>-ba</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ba/</ipa@x-tlb-hl></pronunciation>
@@ -1803,7 +1847,7 @@ entries:
               - hc2 ablative | <multiline><link@x-tlb-hl>puttu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷっと</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>sacu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さゆ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>raja</link@x-tlb-hl> <tinellbian@x-tlb-hl>らぢ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>kassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっせ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl></multiline>
               - hc2 dative | <multiline><link@x-tlb-hl>pixi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴし</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>ba’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばう</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>datu</link@x-tlb-hl> <tinellbian@x-tlb-hl>だと</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>jusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>よせ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl></multiline>
               - hr2 genitive |h (alienable) | <multiline><link@x-tlb-hl>pagu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐ</tinellbian@x-tlb-hl></multiline> | <multiline>ba <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>su’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl></multiline> | <multiline><link@en>disi</link@en> <tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></multiline> | -
-              - h (inalienable) | <multiline><link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></multiline> | - | <multiline><link@x-tlb-hl>-disi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></multiline></table>
+              - h (inalienable) | <multiline><link@x-tlb-hl>pa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱい</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl></multiline> | - | <multiline><link@x-tlb-hl>-disi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせ</tinellbian@x-tlb-hl></multiline> | <multiline><link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></multiline></table>
               - '<mobile-table>first person:'
               - '<ul>intransitive: <link@x-tlb-hl>’usu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うす</tinellbian@x-tlb-hl>'
               - 'transitive: <link@x-tlb-hl>suma</link@x-tlb-hl> <tinellbian@x-tlb-hl>すま</tinellbian@x-tlb-hl>'
@@ -1837,6 +1881,11 @@ entries:
               - 'ablative: <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl>'
               - 'dative: <link@x-tlb-hl>ku</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl>'
               - 'inalienable genitive: <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></ul></mobile-table>'
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>neutronium</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>banara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばなら</tinellbian@x-tlb-hl> <gloss>einsteinium</gloss></wordlist><mobile-table><ul>
+              - </ul></mobile-table>
             baca:
               date: '2018-03-30'
               text:
@@ -1915,13 +1964,15 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>baju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl> <gloss>blue</gloss> + <link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss>
             banara:
-              date: '2018-03-30'
+              date: '2024-07-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ばなら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˈnaɽə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>element</hidden></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>element</hidden></part-of-speech>
               - <definition>einsteinium</definition>
+              - <subheading>Etymology</subheading>
+              - <wordlist><link@x-tlb-hl>ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>neutronium</gloss> + <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss></wordlist>
               - <subheading>See Also</subheading>
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop> <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
@@ -2386,13 +2437,23 @@ entries:
               - <wordlist><block>← <link@x-tlb-hl>rila</link@x-tlb-hl> <tinellbian@x-tlb-hl>りわ</tinellbian@x-tlb-hl> <gloss>terbium</gloss>
               - → <link@x-tlb-hl>katiru</link@x-tlb-hl> <tinellbian@x-tlb-hl>かてる</tinellbian@x-tlb-hl> <gloss>holmium</gloss>
               - ↓ <link@x-tlb-hl>’ikka</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっか</tinellbian@x-tlb-hl> <gloss>californium</gloss></block></wordlist>
+            buna:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>ぶな</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈbunə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>homophone; homograph; homonym</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>bunali</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶなえ</tinellbian@x-tlb-hl> <gloss>rhyme</gloss></wordlist>
             bunali:
-              date: '2018-03-30'
+              date: '2024-07-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぶなえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bʉˈnalɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>rhyme; assonance</definition>
               - <subheading>Definition</subheading>
               - to have the same vowels and placement of geminates
@@ -2405,6 +2466,8 @@ entries:
               - <subheading>Non-examples</subheading>
               - <wordlist><block><b>biru / baru</b> - <gloss>different vowel sound</gloss>
               - <b>kiru / kirru</b> - <gloss>different geminate placement</gloss></block></wordlist>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>buna</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶな</tinellbian@x-tlb-hl> <gloss>homophone</gloss> + <link@x-tlb-hl>-li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>quasi-</gloss>
             buni:
               date: '2024-05-08'
               position: '5.9'
@@ -4561,6 +4624,16 @@ entries:
               - <definition><symbol>τ</symbol>; <symbol>2π</symbol>; the circle constant</definition>
               - <subheading>Definition</subheading>
               - The ratio between the circumference and radius of a circle
+            fi’a:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>べあ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈfiʔə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>distinction; difference; individuality</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>-fi’atu</link@x-tlb-hl> <tinellbian@x-tlb-hl>べあと</tinellbian@x-tlb-hl> <gloss>particular</gloss></wordlist>
             fu:
               date: '2018-04-22'
               text:
@@ -8039,8 +8112,6 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈlatʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>chance; opportunity</definition>
-            laxxa:
-              text: []
             la’a:
               date: '2018-04-04'
               text:
@@ -9220,6 +9291,18 @@ entries:
               - <definition>to be light brown; to turn beige</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>millu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl> <gloss>to be brown</gloss> + <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss>
+            mimu:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>みむ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈmimʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>existence</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>-mimutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss></wordlist>
+            mimu’i:
+              text: []
             minaʔi:
               date: '2018-04-10'
               text:
@@ -9965,7 +10048,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>land</definition>
             nara:
-              date: '2024-05-08'
+              date: '2024-07-27'
               position: '9.10'
               text:
               - <language-name>High Lulani</language-name>
@@ -9975,13 +10058,14 @@ entries:
               - <definition>to sleep; to fall asleep</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>narala’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならわい</tinellbian@x-tlb-hl> <gloss>sleeper</gloss>
-              - <link@x-tlb-hl>narafiqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならべも</tinellbian@x-tlb-hl> <gloss>to drift off</gloss></block></wordlist>
+              - <link@x-tlb-hl>narafiqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ならべも</tinellbian@x-tlb-hl> <gloss>to drift off</gloss></block>
+              - <block><link@x-tlb-hl>banara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばなら</tinellbian@x-tlb-hl> <gloss>einsteinium</gloss></block></wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>hacci</link@x-tlb-hl> <tinellbian@x-tlb-hl>はっち</tinellbian@x-tlb-hl> <gloss>to wake up</gloss></block></wordlist>
               - <part-of-speech>derived interjection</part-of-speech>
               - <definition>goodbye; good night</definition>
               - <subheading>Etymology</subheading>
-              - <b>nara</b> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
+              - <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>・あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
               - <part-of-speech>derived <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></part-of-speech>
               - <definition>to finish doing; <glossary>prs;hab</glossary>&lt;<glossary>trm</glossary>&gt;</definition>
               - <subheading>Etymology</subheading>
@@ -13031,6 +13115,18 @@ entries:
               - <definition>side of the body; flank</definition>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
+            sabu:
+              date: '2024-07-27'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>さぶ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsabʉ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>difference</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>-sabutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss></wordlist>
+            sabufi:
+              text: []
             sacu:
               date: '2018-04-20'
               text:
@@ -15186,9 +15282,10 @@ entries:
               - <subheading>Etymology</subheading>
               - <gloss><link@en>tsar</link@en></gloss> + <gloss><wikt-link>ship</wikt-link></gloss>
             tu:
-              date: '2024-07-18'
+              date: '2024-07-27'
               position: '7.12'
               text:
+              - <also>-tu</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰu/</ipa@x-tlb-hl></pronunciation>
@@ -15734,7 +15831,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></part-of-speech>
               - <definition>relativiser; <glossary>rel</glossary></definition>
             xiku.racaxa.laru.ru.qapi:
-              date: '2024-07-23'
+              date: '2024-07-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>しくらやざわるるげぴ</tinellbian@x-tlb-hl></native-script>
@@ -15742,6 +15839,12 @@ entries:
               - <part-of-speech>idiomatic <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>method for doing something</definition>
               - <subheading>Examples</subheading>
+              - <folding><folded><transliteration@x-tlb-hl>piba kuppu xiku racaxa disi ’usaju’illuru lanu qapi</transliteration@x-tlb-hl></folded>
+              - <tinellbian@x-tlb-hl>ぴばくっぷしくらやざいせうさよいっをるわぬげぴ</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>piba</link@x-tlb-hl> <link@x-tlb-hl>kuppu</link@x-tlb-hl> <link@x-tlb-hl>xiku</link@x-tlb-hl> <link@x-tlb-hl>raca</link@x-tlb-hl> <link@x-tlb-hl>-xa</link@x-tlb-hl> <link@x-tlb-hl>disi</link@x-tlb-hl> <link@x-tlb-hl>’usaju’i</link@x-tlb-hl> <link@x-tlb-hl>-illu</link@x-tlb-hl> <link@x-tlb-hl>-ru</link@x-tlb-hl> <link@x-tlb-hl>lanu</link@x-tlb-hl> <link@x-tlb-hl>qapi</link@x-tlb-hl>
+              - <gloss>most strong <glossary>com</glossary> hang-<glossary>dtv</glossary> <glossary>3ani;int</glossary> find-<glossary>psv</glossary>-<glossary>ger</glossary> <glossary>fut;dyn</glossary> rope</gloss>
+              - '<i>lit</i>: “<gloss>the strongest rope off which to hang finding him</gloss>”'
+              - </folding>“The best way to find him”
             xima:
               date: '2018-04-05'
               text:

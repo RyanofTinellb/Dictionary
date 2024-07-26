@@ -5,19 +5,16 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - xiku.racaxa.laru.ru.qapi
+  - batari
 - - The Tinellbian Languages Dictionary
   - lex
-  - dihiqa
+  - ba
 - - The Tinellbian Languages Dictionary
   - lex
-  - ci’u
+  - -ba
 - - The Tinellbian Languages Dictionary
   - lex
-  - jimu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - tarra
+  - nara
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
