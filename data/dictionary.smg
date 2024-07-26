@@ -36,7 +36,7 @@ locations:
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\special\search.html
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\special\wholepage.html
-port: 23103
+port: 23104
 serialisation format:
   definition: definition
   language: language-name
