@@ -1176,15 +1176,6 @@ entries:
               - <definition>some; more than one</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>mimu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みむ</tinellbian@x-tlb-hl> <gloss>existence</gloss> + <link@x-tlb-hl>-tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <glossary>drv</glossary>
-            -mimu’i:
-              date: '2018-12-27'
-              position: '1.0'
-              text:
-              - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>みむい</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/mɨˈmuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
-              - <definition>some; more than one</definition>
             -muka:
               date: '2024-05-02'
               text:
@@ -1522,15 +1513,6 @@ entries:
               - <link@x-tlb-hl>mulisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むえさ</tinellbian@x-tlb-hl> <gloss>fool</gloss>
               - <link@x-tlb-hl>luxirasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>をしらさ</tinellbian@x-tlb-hl> <gloss>twin</gloss>
               - <link@x-tlb-hl>tuhhisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>とっひさ</tinellbian@x-tlb-hl> <gloss>farmer</gloss></block></wordlist>
-            -sabufi:
-              date: '2019-02-25'
-              position: '5.17'
-              text:
-              - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>さぶべ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/səˈbufɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
-              - <definition>different</definition>
             -sabutu:
               date: '2024-07-27'
               text:
@@ -1827,8 +1809,6 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈʔuhʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>many</definition>
-            Tinellb:
-              text: []
             ba:
               date: '2024-07-27'
               position: '1.0'
@@ -9303,8 +9283,6 @@ entries:
               - <definition>existence</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><link@x-tlb-hl>-mimutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みむと</tinellbian@x-tlb-hl> <gloss>some</gloss></wordlist>
-            mimu’i:
-              text: []
             minaʔi:
               date: '2018-04-10'
               text:
@@ -13127,8 +13105,6 @@ entries:
               - <definition>difference</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><link@x-tlb-hl>-sabutu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぶと</tinellbian@x-tlb-hl> <gloss>different</gloss></wordlist>
-            sabufi:
-              text: []
             sacu:
               date: '2018-04-20'
               text:

@@ -171,7 +171,7 @@ function def_lang(data, terms) {
     for (let term of terms) {
         quote = term.search('"') != -1;
         term = term.replace(/"/g, '');
-        data = data.filter(entry => entry.d.split(' ').map(
+        data = data.filter(entry => entry.d.split(/\W/).map(
             word => word.toLowerCase()
         ).includes(term) ||
             (quote ? false : language(entry).includes(term)));
@@ -179,7 +179,6 @@ function def_lang(data, terms) {
             return data;
         }
     }
-    console.log(data);
     return data;
 }
 
@@ -189,7 +188,7 @@ function language(entry) {
 
 function translit(data, terms) {
     return data.filter(entry =>
-        includesAll(entry.t.split(' '), terms));
+        includesAll(entry.t.split(' ').map(word => word.toLowerCase().replace('-', '')), terms.map(word => word.toLowerCase().replace('-', ''))));
 }
 
 function keep_quotes(text) {
