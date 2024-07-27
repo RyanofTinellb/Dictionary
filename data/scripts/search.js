@@ -179,6 +179,7 @@ function def_lang(data, terms) {
             return data;
         }
     }
+    console.log(data);
     return data;
 }
 

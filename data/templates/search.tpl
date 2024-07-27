@@ -78,5 +78,8 @@ text:
 - <script>src="../data/scripts/search.js"</script>
 - <script>src="../data/scripts/word_search.js"</script>
 - <inline-script>
+- 'let mql = window.matchMedia("(min-width: 800px)");'
+- 'let details = document.getElementById("menu");'
+- if (mql.matches) {details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

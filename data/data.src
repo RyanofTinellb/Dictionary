@@ -272,13 +272,13 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition><link@en>$tinellb</link@en></definition>
             $tinellb:
-              date: '2024-05-28'
+              date: '2024-07-27'
               position: '2.13'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/təˈnelb/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>the name given to the <link@en>bubble</link@en> in which <cite><story-link>The Coelacanth Quartet</story-link></cite> takes place.</definition>
+              - <definition>the name given to the <link@en>bubble</link@en> in which <cite><story-link>The Coelacanth Quartet</story-link></cite> takes place</definition>
               - <subheading>Translations</subheading>
               - <b>High Lulani:</b> <link@x-tlb-hl>$tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
             $toresh:
@@ -1827,6 +1827,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈʔuhʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></part-of-speech>
               - <definition>many</definition>
+            Tinellb:
+              text: []
             ba:
               date: '2024-07-27'
               position: '1.0'
@@ -2216,12 +2218,12 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>bibu</link@x-tlb-hl> <tinellbian@x-tlb-hl>びぶ</tinellbian@x-tlb-hl> to complain + <link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl> <gloss>giver</gloss>
             bijju:
-              date: '2018-03-30'
+              date: '2024-07-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>びっよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bɨˈɟaɟʉ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl> <poslink@x-tlb-hl>ordinal</poslink@x-tlb-hl> </part-of-speech>
+              - <part-of-speech><poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl> <poslink@x-tlb-hl>ordinal</poslink@x-tlb-hl></part-of-speech>
               - <definition>first; 1st</definition>
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>matta</link@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>second</gloss>
@@ -5036,12 +5038,12 @@ entries:
               - <part-of-speech>clausal <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></part-of-speech>
               - <definition>in order to</definition>
             godling:
-              date: '2019-08-22'
+              date: '2024-07-27'
               position: '3.18'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˈgɒdlɪŋ/</ipa@en></pronunciation>
-              - <part-of-speech></part-of-speech>
+              - <part-of-speech>animate noun</part-of-speech>
               - <definition>theist</definition>
               - <subheading>Etymology</subheading>
               - <wikt-link>god</wikt-link> + <wikt-link>-ling</wikt-link> <gloss>follower</gloss>
