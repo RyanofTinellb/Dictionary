@@ -2055,7 +2055,7 @@ entries:
               - <link@x-tlb-hl>tali</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>minus</gloss>
               - <link@x-tlb-hl>saki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>divide</gloss></block></wordlist>
             batuja:
-              date: '2024-05-08'
+              date: '2024-07-27'
               position: '45.9'
               text:
               - <language-name>High Lulani</language-name>
@@ -17486,7 +17486,7 @@ entries:
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             ’usa:
-              date: '2019-02-26'
+              date: '2024-07-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl></native-script>
@@ -17497,14 +17497,14 @@ entries:
               - <wordlist><block><link@x-tlb-hl>’usaju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさよい</tinellbian@x-tlb-hl> <gloss>to find</gloss>
               - <link@en>’usapacca</link@en> <tinellbian@x-tlb-hl>うさぱっや</tinellbian@x-tlb-hl> <gloss>to count</gloss>
               - <link@x-tlb-hl>’usadajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさだぢび</tinellbian@x-tlb-hl> <gloss>to read</gloss>
-              - <block><link@x-tlb-hl>pa’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱうさ</tinellbian@x-tlb-hl> <gloss>to notice</gloss>
-              - <block><link@x-tlb-hl>’usatinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさてっな</tinellbian@x-tlb-hl> <gloss>visibly</gloss></block></wordlist>
+              - <link@x-tlb-hl>pa’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱうさ</tinellbian@x-tlb-hl> <gloss>to notice</gloss>
+              - <link@x-tlb-hl>’usatinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさてっな</tinellbian@x-tlb-hl> <gloss>visibly</gloss></block></wordlist>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>element</hidden></part-of-speech>
               - <definition>mercury</definition>
               - <subheading>See Also</subheading>
-              - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop> <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
+              - <wordlist><desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop> <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><block>← <link@x-tlb-hl>fi</link@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> <gloss>gold</gloss>
+              - <block>← <link@x-tlb-hl>fi</link@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> <gloss>gold</gloss>
               - → <link@x-tlb-hl>silla</link@x-tlb-hl> <tinellbian@x-tlb-hl>せっわ</tinellbian@x-tlb-hl> <gloss>thallium</gloss>
               - ↑ <link@x-tlb-hl>kaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>かや</tinellbian@x-tlb-hl> <gloss>cadmium</gloss>
               - ↓ <link@x-tlb-hl>hatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はたぬ</tinellbian@x-tlb-hl> <gloss>copernicium</gloss></block></wordlist>

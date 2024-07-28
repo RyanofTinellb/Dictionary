@@ -5,7 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - batuja
+  - ’usa
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -28,6 +28,7 @@ port: 23104
 serialisation format:
   definition: definition
   language: language-name
+  native script: native-script
   part of speech: part-of-speech
 styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
 templates:

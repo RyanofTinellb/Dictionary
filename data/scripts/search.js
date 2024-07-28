@@ -28,7 +28,7 @@ async function search(terms) {
     } else {
         data = await fetch(BASE_URL);
         data = await data.json();
-        results = [translit, pos_lang, def_lang]
+        results = [translit, pos_lang, def_lang, native_script]
         .map(fn => display(fn(data, terms)))
         .filter(entry => entry.length)
         .sort((a, b) => a.length - b.length)
@@ -171,12 +171,25 @@ function def_lang(data, terms) {
     for (let term of terms) {
         quote = term.search('"') != -1;
         term = term.replace(/"/g, '');
-        data = data.filter(entry => entry.d.split(/\W/).map(
+        if (!term) {
+            return [];
+        }
+        data = data.filter(entry => entry.d.split(/[ ;]/).map(
             word => word.toLowerCase()
         ).includes(term) ||
             (quote ? false : language(entry).includes(term)));
         if (!data.length) {
-            return data;
+            break;
+        }
+    }
+    return data;
+}
+
+function native_script(data, terms) {
+    for (let term of terms) {
+        data = data.filter(entry => entry.n == term);
+        if (!data.length) {
+            break;
         }
     }
     return data;
@@ -216,7 +229,11 @@ function display(entries) {
 }
 
 function createLine(entry) {
+    let language = entry.l.toLowerCase().split(' ').map(lang => lang.charAt(0)).join('');
+    // language = language == 'english' ? 'en' : 'x-tlb-' + language.split(' ').map(lang => lang.charAt(0)).join('');
+
     return `<li><a href="../lex/${createUrl(entry.t)}">${entry.t}</a> `
+        + (entry.n ? `<span class="tinellbian" lang="${language}">${entry.n}</span> ` : '')
         + `(${entry.l}) `
         + `<em>${entry.d}</em></li>`;
 }
