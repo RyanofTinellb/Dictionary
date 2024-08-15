@@ -4,8 +4,6 @@ assets:
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
 entries:
 - - The Tinellbian Languages Dictionary
-  - lex
-  - ’usa
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

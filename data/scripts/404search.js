@@ -9,6 +9,7 @@ function base() {
     let terms;
     if (window.location.href.indexOf('?') == -1) {
         terms = getTermfrom404();
+        document.getElementById("term").value = terms;
     } else {
         terms = getTerms();
     }

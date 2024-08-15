@@ -2005,7 +2005,7 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>si’abassa</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあばっさ</tinellbian@x-tlb-hl> <gloss>solve</gloss></block></wordlist>
             bata:
-              date: '2018-03-30'
+              date: '2024-07-28'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl></native-script>
@@ -2014,14 +2014,22 @@ entries:
               - <definition>caution; care</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>bataniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばたにっね</tinellbian@x-tlb-hl> <gloss>carefully</gloss></block></wordlist>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>work time; shift</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>batari</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばたり</tinellbian@x-tlb-hl> <gloss>afternoon</gloss></wordlist>
             batari:
-              date: '2018-03-30'
+              date: '2024-07-28'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ばたり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˈtʰaɽɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech>derived <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>afternoon</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>bata</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl> <gloss>shift</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <gloss>other than</gloss>
+              - <subheading>Notes</subheading>
+              - 'This etymology comes from the shift structure of the Ptokans: it is the quarter of the day where no one works, apart from essential personnel.'
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>xima</link@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>morning</gloss></block></wordlist>
             batu:
@@ -17486,7 +17494,7 @@ entries:
               - 'action: <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl>'
               - 'manner / state: <link@x-tlb-hl>fana</link@x-tlb-hl> <tinellbian@x-tlb-hl>へな</tinellbian@x-tlb-hl></ul></mobile-table>'
             ’usa:
-              date: '2024-07-27'
+              date: '2024-07-28'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl></native-script>
