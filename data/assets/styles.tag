@@ -19,6 +19,7 @@ b:
   props:
     bold: true
     size: 90
+  key: b
 block:
   type: div
   key: Alt-b
@@ -36,6 +37,14 @@ desktop:
   props:
     colour: '#ff00ff'
   type: span
+external:
+  props:
+    underline: true
+    colour: '#ff00ff'
+  type: anchor
+  param: $lookup:external$|$text$
+  rank: -50
+  key: Alt-e
 folded:
   type: line
   open: <summary class="folding">
@@ -185,13 +194,6 @@ pronunciation:
     top: 10
     bottom: 25
     off-key: Return
-story-link:
-  props:
-    underline: true
-    colour: '#ff00ff'
-  type: anchor
-  param: $lookup:external$|$text$
-  rank: -50
 strong:
   props:
     bold: true

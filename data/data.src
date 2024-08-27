@@ -13,7 +13,7 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition>country in reality D<sup>578</sup>η</definition>
             $corla:
-              date: '2018-12-24'
+              date: '2024-08-27'
               position: '4.15'
               text:
               - <language-name>English</language-name>
@@ -21,8 +21,9 @@ entries:
               - <part-of-speech>proper noun</part-of-speech>
               - <definition>Tsarin woman, major character of the <gloss>Coelacanth Quartet</gloss></definition>
               - <subheading>Translations</subheading>
-              - <block><b>High Lulani:</b> <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
-              - <b>Modern Tsarin:</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
+              - <b>High Lulani:</b> <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
+              - <b>Modern Tsarin:</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt><block>
+              - </block>
             $fezhle:
               date: '2018-12-23'
               position: '1.0'
@@ -80,7 +81,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ˈl̥æɹn̩/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Zhaladi woman, from <story-link>The Crackled Egg</story-link></definition>
+              - <definition>Zhaladi woman, from <external>The Crackled Egg</external></definition>
               - <subheading>Translations</subheading>
               - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>$lharen</link@x-tlb-cz>'
               - <language-name>Contemporary Zhaladi</language-name>
@@ -159,7 +160,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/pʰɪˈjadoʊ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition><link@en>$toresh</link@en>’s father, in <cite><story-link>The Crackled Egg</story-link></cite></definition>
+              - <definition><link@en>$toresh</link@en>’s father, in <cite><external>The Crackled Egg</external></cite></definition>
               - <subheading>Translations</subheading>
               - <block><b>High Lulani:</b> <link@x-tlb-hl>$pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
               - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$piadû</link@x-tlb-kf>
@@ -248,7 +249,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/təˈpʰɛθ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Zhaladi administrator, in <story-link@en>The Crackled Egg</story-link@en></definition>
+              - <definition>Zhaladi administrator, in <external@en>The Crackled Egg</external@en></definition>
               - <subheading>Translations</subheading>
               - <block><b>High Lulani:</b> <link@x-tlb-hl>$tapassi</link@x-tlb-hl>
               - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>$ṭepet</link@x-tlb-cz></block>
@@ -278,7 +279,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/təˈnelb/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>the name given to the <link@en>bubble</link@en> in which <cite><story-link>The Coelacanth Quartet</story-link></cite> takes place</definition>
+              - <definition>the name given to the <link@en>bubble</link@en> in which <cite><external>The Coelacanth Quartet</external></cite> takes place</definition>
               - <subheading>Translations</subheading>
               - <b>High Lulani:</b> <link@x-tlb-hl>$tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
             $toresh:
@@ -288,7 +289,7 @@ entries:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/tʰəˈɹɛʃ/</ipa@en></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
-              - <definition>Fezhlê woman, major character of <story-link>The Crackled Egg</story-link></definition>
+              - <definition>Fezhlê woman, major character of <external>The Crackled Egg</external></definition>
               - <subheading>Translations</subheading>
               - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
               - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></block>
@@ -334,7 +335,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ずちぷら・ゆわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽə</ipa@x-tlb-hl> <ipa@x-tlb-hl>ˈcʰulə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>compound <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><gloss><story-link>The Crackled Egg</story-link></gloss></definition>
+              - <definition><gloss><external>The Crackled Egg</external></gloss></definition>
               - <subheading>Etymology</subheading>
               - <block><link@x-tlb-hl>xuci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>become</gloss>
               - <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss></block>
@@ -2746,7 +2747,7 @@ entries:
               - 'habitual: <link@x-tlb-hl>hu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほ</tinellbian@x-tlb-hl>'
               - 'gnomic: <link@x-tlb-hl>ruku</link@x-tlb-hl> <tinellbian@x-tlb-hl>るく</tinellbian@x-tlb-hl></ul></mobile-table>'
             capi:
-              date: '2019-01-24'
+              date: '2024-08-27'
               position: '9.4'
               text:
               - <language-name>High Lulani</language-name>
@@ -2754,10 +2755,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈcʰapʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></part-of-speech>
               - <definition>after; behind; <link@x-tlb-hl>downstream</link@x-tlb-hl></definition>
-              - <subheading>Notes</subheading>
-              - Used for space, and objective time.
               - <subheading>Antonym</subheading>
-              - <link@x-tlb-hl>’ari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あり</tinellbian@x-tlb-hl> <gloss>before</gloss>
+              - <wordlist><link@x-tlb-hl>’ari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あり</tinellbian@x-tlb-hl> <gloss>before</gloss></wordlist>
+              - <subheading>Related Terms</subheading>
+              - <wordlist><link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <gloss>after</gloss></wordlist>
             capuha:
               date: '2024-07-24'
               text:
@@ -3001,7 +3002,7 @@ entries:
               - <definition>egg</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>millu</link@x-tlb-hl><b>cula</b> <tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl> <gloss>eggshell brown</gloss>
-              - <link@x-tlb-hl>$xucipura.$cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <cite><story-link>The Crackled Egg</story-link></cite></block></wordlist>
+              - <link@x-tlb-hl>$xucipura.$cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <cite><external>The Crackled Egg</external></cite></block></wordlist>
             cura:
               date: '2019-02-28'
               position: '18.6'
@@ -3621,19 +3622,19 @@ entries:
               - ↑ <link@x-tlb-hl>pibi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴび</tinellbian@x-tlb-hl> <gloss>phosphorus</gloss>
               - ↓ <link@x-tlb-hl>salari</link@x-tlb-hl> <tinellbian@x-tlb-hl>さわり</tinellbian@x-tlb-hl> <gloss>antimony</gloss></block></wordlist>
             di:
-              date: '2018-04-03'
+              date: '2024-08-27'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/di/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></part-of-speech>
-              - <definition>up; above; atop; before</definition>
-              - <subheading>Notes</subheading>
-              - used for subjective time
-              - <subheading>Derived Terms</subheading>
+              - <definition>up; above; atop; before (<i><external>subjective</external> time</i>)
+              - </definition><subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>disinnamuka</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl> <gloss>prologue</gloss></block></wordlist>
               - <subheading>Antonym</subheading>
               - <wordlist><block><link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <gloss>down</gloss></block></wordlist>
+              - <subheading>Related Terms</subheading>
+              - <wordlist><link@x-tlb-hl>’ari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あり</tinellbian@x-tlb-hl> <gloss>before</gloss></wordlist>
             diba:
               date: '2018-04-03'
               text:
@@ -4020,17 +4021,17 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>toleration</definition>
             downstream:
-              date: '2019-06-30'
+              date: '2024-08-27'
               position: '2.27'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/daʊnˈstɹiːm/</ipa@en></pronunciation>
               - <part-of-speech>preposition</part-of-speech>
-              - <definition>after</definition>
-              - <subheading>Notes</subheading>
-              - 'This term is used for objective time: if one time-travels into the past, then one’s birth may well be downstream of one’s death.'
+              - <definition>after (<i><external>objective</external> time</i>)</definition>
               - <subheading>Antonym</subheading>
               - <wordlist><block><link@en>upstream</link@en></block></wordlist>
+              - <subheading>Translations</subheading>
+              - <b>High Lulani:</b> <link@x-tlb-hl>capi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やぴ</tinellbian@x-tlb-hl>
             duci:
               date: '2018-04-03'
               position: '1.0'
@@ -4963,20 +4964,6 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/gɨˈcirːɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> / <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> / <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>replacement; <gloss>instead</gloss></definition>
-            gingla:
-              date: '2019-01-22'
-              position: '10.18'
-              text:
-              - <language-name>English</language-name>
-              - <pronunciation><ipa@en>/ˈgiŋglə/</ipa@en></pronunciation>
-              - <part-of-speech>abstract noun</part-of-speech>
-              - <definition>planes of existence; ghostly realms</definition>
-              - <subheading>Definition</subheading>
-              - There are four ginglaic dimensions. These correspond to the seven planes in some esoteric systems, or to otherworldly realms, <gloss>i.e.:</gloss> in order to explain paranormal events.
-              - <subheading>Notes</subheading>
-              - <link@en>tsarship</link@en>s are capable of moving through gingla.
-              - <subheading>Translations</subheading>
-              - '<b>High Lulani</b>: <link@en>maʔu</link@en> <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl>'
             girammi:
               date: '2018-04-05'
               text:
@@ -9045,14 +9032,14 @@ entries:
               - <wordlist><block><link@x-tlb-hl>bijju</link@x-tlb-hl> <tinellbian@x-tlb-hl>びっよ</tinellbian@x-tlb-hl> <gloss>first</gloss>
               - <link@x-tlb-hl>-uju</link@x-tlb-hl> <tinellbian@x-tlb-hl>・うよ</tinellbian@x-tlb-hl> <gloss>ordinal</gloss></block></wordlist>
             maʔu:
-              date: '2019-01-22'
+              date: '2024-08-27'
               position: '13.8'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmaʔjʉ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition><link@x-tlb-hl>gingla</link@x-tlb-hl></definition>
+              - <definition><external>gingla</external></definition>
               - <subheading>Definition</subheading>
               - The four ginglaic dimensions.
               - <subheading>Hypernyms</subheading>
@@ -11527,18 +11514,18 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>riccu</link@x-tlb-hl> <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></block></wordlist>
             qa:
-              date: '2018-10-21'
+              date: '2024-08-27'
               text:
               - <also>-qa</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋa/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></part-of-speech>
-              - <definition>down; after</definition>
-              - <subheading>Notes</subheading>
-              - Used for subjective time.
+              - <definition>down; after (<i><external>subjective</external> time</i>)</definition>
               - <subheading>Antonym</subheading>
               - <wordlist><block><link@x-tlb-hl>di</link@x-tlb-hl> <tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl> <gloss>up</gloss></block></wordlist>
+              - <subheading>Related Terms</subheading>
+              - <wordlist><link@x-tlb-hl>capi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やぴ</tinellbian@x-tlb-hl> <gloss>after</gloss></wordlist>
             qaca:
               date: '2024-07-24'
               text:
@@ -15256,7 +15243,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><link@en>tsarship</link@en></wordlist>
             tsarship:
-              date: '2024-05-08'
+              date: '2024-08-27'
               position: '6.101'
               text:
               - <language-name>English</language-name>
@@ -15267,6 +15254,8 @@ entries:
               - A vessel piloted by gods or other divine forces, able to move through time, space, reality and <link@en>gingla</link@en>.
               - <subheading>Etymology</subheading>
               - <gloss><link@en>tsar</link@en></gloss> + <gloss><wikt-link>ship</wikt-link></gloss>
+              - <subheading>Translations</subheading>
+              - <b>High Lulani:</b> <link@x-tlb-hl>xaraduluri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざらどをり</tinellbian@x-tlb-hl>
             tu:
               date: '2024-07-27'
               position: '7.12'
@@ -15523,17 +15512,17 @@ entries:
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
             upstream:
-              date: '2018-04-21'
+              date: '2024-08-27'
               position: '1.0'
               text:
               - <language-name>English</language-name>
               - <pronunciation><ipa@en>/ʌpʰˈstɹiːm/</ipa@en></pronunciation>
               - <part-of-speech>preposition</part-of-speech>
-              - <definition>before</definition>
-              - <subheading>Notes</subheading>
-              - 'This term is used for objective time: if one time-travels into the past, then one’s death may well be upstream of one’s birth.'
+              - <definition>before (<i><external>objective</external> time</i>)</definition>
               - <subheading>Antonym</subheading>
               - <wordlist><block><link@en>downstream</link@en></block></wordlist>
+              - <subheading>Translations</subheading>
+              - <b>High Lulani:</b> <link@x-tlb-hl>’ari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あり</tinellbian@x-tlb-hl>
             w:
               date: '2019-06-01'
               position: '4.50'
@@ -16683,7 +16672,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>’ara</link@x-tlb-hl> <tinellbian@x-tlb-hl>あら</tinellbian@x-tlb-hl> <gloss>face</gloss> + <link@x-tlb-hl>sikahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>せかひ</tinellbian@x-tlb-hl> <gloss>shape</gloss>
             ’ari:
-              date: '2019-04-27'
+              date: '2024-08-27'
               position: '9.4'
               text:
               - <language-name>High Lulani</language-name>
@@ -16691,10 +16680,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈʔaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></part-of-speech>
               - <definition>in front of; before; <link@en>upstream</link@en></definition>
-              - <subheading>Notes</subheading>
-              - Used for space, and for objective time
               - <subheading>Antonym</subheading>
-              - <link@x-tlb-hl>capi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やぴ</tinellbian@x-tlb-hl> <gloss>behind</gloss>
+              - <wordlist><link@x-tlb-hl>capi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やぴ</tinellbian@x-tlb-hl> <gloss>behind</gloss></wordlist>
+              - <subheading>Related Terms</subheading>
+              - <wordlist><link@x-tlb-hl>’ari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あり</tinellbian@x-tlb-hl> <gloss>before</gloss></wordlist>
             ’arri:
               date: '2018-04-05'
               text:
