@@ -20,7 +20,22 @@ entries:
   - maʔu
 - - The Tinellbian Languages Dictionary
   - lex
-  - $corla
+  - duluri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dihiqa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dihi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dihiqa.ra
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -qa
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
