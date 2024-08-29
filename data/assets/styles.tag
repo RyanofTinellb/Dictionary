@@ -173,8 +173,8 @@ part-of-speech:
     bottom: 7
     off-key: Return
   key: KeyPress-2
-  type: heading
-  open: <h3 class="part-of-speech"
+  type: line
+  open: <h3 class="part-of-speech">
   close: </h3>
 poslink:
   props:
@@ -207,8 +207,8 @@ subheading:
     bottom: 15
     left: 50
     off-key: Return
-  type: heading
-  open: <h4 class="subheading"
+  type: line
+  open: <h4 class="subheading">
   close: </h4>
   key: KeyPress-3
 sup: {}
