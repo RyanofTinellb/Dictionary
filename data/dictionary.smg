@@ -5,37 +5,10 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - qa
+  - kalu
 - - The Tinellbian Languages Dictionary
   - lex
-  - di
-- - The Tinellbian Languages Dictionary
-  - lex
-  - capi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ’ari
-- - The Tinellbian Languages Dictionary
-  - lex
-  - maʔu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - duluri
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ri
-- - The Tinellbian Languages Dictionary
-  - lex
-  - dihiqa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - dihi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - dihiqa.ra
-- - The Tinellbian Languages Dictionary
-  - lex
-  - bi
+  - -a
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
