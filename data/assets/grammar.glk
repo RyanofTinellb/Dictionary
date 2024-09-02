@@ -1,5 +1,6 @@
 x-tlb-hl:
   abstract: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#abstractnoun
+  adverb: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html
   action: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#actionverbs
   adjectival: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs
   adposition: http://grammar.tinellb.com/languages/highlulani/morphology/adpositions
@@ -9,6 +10,7 @@ x-tlb-hl:
   auxiliary: http://grammar.tinellb.com/languages/highlulani/morphology/auxiliaries.html
   cardinal: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html#cardinalnumbers
   case: http://grammar.tinellb.com/languages/highlulani/syntax/case.html
+  chance: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#chance
   chromatic: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#chromaticverbs
   cisclass: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#cisclasssuffixes
   communicative: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/ambitransitivity.html#communicativeverbs
@@ -17,6 +19,9 @@ x-tlb-hl:
   conjunction: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html#coordinatingconjunctions
   determiner: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/determiners.html
+  emotion: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#emotion
+  evidence: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#evidence
+  extent: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#extent
   foodanddrink: /special/search.html?term=food
   generic: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#quasi-suffixes
   geologicalterms: /special/search.html?term=geology
@@ -40,6 +45,7 @@ x-tlb-hl:
   nominalisation: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#nominalisation
   number: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
   numeral: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
+  occasion: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#occasion
   ordinal: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html#ordinalnumbers
   otherpartsofthebody: /special/search.html?term=bodypart
   othersubstances: /special/search.html?term=substance
@@ -49,14 +55,17 @@ x-tlb-hl:
   periodictable: http://grammar.tinellb.com/languages/highlulani/apocrypha/elements.html
   personal: http://grammar.tinellb.com/languages/highlulani/morphology/deixis/personalpro-forms.html
   possessive: http://grammar.tinellb.com/languages/highlulani/apocrypha/kinship.html#nuclearfamily
+  probability: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#probability
   prodeterminer: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/determiners.html
   pronoun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html
   pro-verb: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/index.html
   proper: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#propernouns
+  purpose: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#purpose
   quasi-suffix: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#quasi-suffixes
   quasi-transitive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#quasi-transitiveverbs
   suffix: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html
   symmetric: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#symmetricrelations
+  time: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#time
   transclass: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#transclasssuffixes
   transformative: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#transformativeverbs
   transitive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html

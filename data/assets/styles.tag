@@ -168,7 +168,6 @@ overline:
 part-of-speech:
   props:
     font: Garamond
-    underline: true
     top: 15
     bottom: 7
     off-key: Return

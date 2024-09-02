@@ -5,10 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - kalu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -a
+  - qaxa
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -21,7 +18,7 @@ links:
   glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.glk
   ipa: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\phonologies.glk
   lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
-  poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\links.glk
+  poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\grammar.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\dictionary
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
