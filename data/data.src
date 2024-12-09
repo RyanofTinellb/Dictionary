@@ -3125,22 +3125,20 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>cussi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせ</tinellbian@x-tlb-hl> <gloss>feel</gloss> + <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss>
             da:
-              date: '2024-04-30'
+              date: '2024-09-02'
               position: '3.1'
               text:
               - <also>-da</also>
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/da/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
-              - <definition>obviously; clearly</definition>
-              - <subheading>Definition</subheading>
-              - used to signify shared information.
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>bodypart</hidden></part-of-speech>
-              - <definition>palm of the hand</definition>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> bodypart</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>palm of the hand; <i>obviously</i>; <i>clearly</i>
+              - </definition><subheading>Notes</subheading>
+              - Signifies shared information when used adverbially.
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> <hidden>substance</hidden></part-of-speech>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></part-of-speech>
               - <definition>water</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>dahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だひ</tinellbian@x-tlb-hl> <gloss>ice</gloss>
@@ -6040,13 +6038,15 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>jama</link@x-tlb-hl> <gloss>flowers</gloss> + <link@x-tlb-hl>hi</link@x-tlb-hl> <gloss>collection</gloss>
             jami:
-              date: '2018-03-29'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぢみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟamɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
-              - <definition>worked out; known from evidence; evidentially</definition>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>sense; <i>known from evidence</i>; <i>evidentially</i></definition>
+              - <subheading>Notes</subheading>
+              - any of the methods by which a lifeform perceives their surroundings
             jana:
               date: '2018-03-29'
               text:
@@ -6151,15 +6151,15 @@ entries:
               - 'habitual: <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl>'
               - 'gnomic: <link@x-tlb-hl>rukaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>るかる</tinellbian@x-tlb-hl></ul></mobile-table>'
             jati:
-              date: '2018-03-30'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぢて</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟatʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> evidential adverb</part-of-speech>
-              - <definition>known through experience; apparently</definition>
-              - <subheading>Definition</subheading>
-              - used when the experience was somewhat surprising
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>(an) experience; <i>known through experience</i>; <i>apparently</i></definition>
+              - <subheading>Notes</subheading>
+              - Signifies that the experience was somewhat surprising.
             ji:
               date: '2019-02-25'
               position: '7.22'
@@ -9145,21 +9145,19 @@ entries:
               - <wordlist><block><link@x-tlb-hl>tari</link@x-tlb-hl> <tinellbian@x-tlb-hl>たり</tinellbian@x-tlb-hl> <gloss>triadic number</gloss>
               - <link@x-tlb-hl>ramaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>らまは</tinellbian@x-tlb-hl> <gloss>subtriadic number</gloss></block></wordlist>
             mica:
-              date: '2018-04-10'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmicə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><hidden>derived </hidden>interjection</part-of-speech>
+              - <part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>interjection</poslink@x-tlb-hl></part-of-speech>
               - <definition>hello</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>mici</link@x-tlb-hl> <tinellbian@x-tlb-hl>みち</tinellbian@x-tlb-hl> <gloss>peace</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>、あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
-              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
               - <definition>permission</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>sakimica</link@x-tlb-hl> <tinellbian@x-tlb-hl>さきみや</tinellbian@x-tlb-hl> <gloss>to give permission</gloss></block></wordlist>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
-              - <definition>to be allowed to; may</definition>
+              - <block><wordlist><link@x-tlb-hl>sakimica</link@x-tlb-hl> <tinellbian@x-tlb-hl>さきみや</tinellbian@x-tlb-hl> <gloss>to give permission</gloss></wordlist></block>
             mici:
               date: '2018-04-10'
               text:
@@ -10382,13 +10380,13 @@ entries:
               - ↑ <link@x-tlb-hl>sadadu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さだど</tinellbian@x-tlb-hl> <gloss>rubidium</gloss>
               - ↓ <link@x-tlb-hl>guqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっげ</tinellbian@x-tlb-hl> <gloss>francium</gloss></block></wordlist>
             nufira:
-              date: '2024-09-01'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/nʉfiɽə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden><hidden>derived </hidden>compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>want; desire</definition>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>want; desire; <i>want to</i></definition>
               - <subheading>Notes</subheading>
               - When used adverbially, this word tends to only be used in first person, or second person questions.
               - <subheading>Examples</subheading>
@@ -11572,13 +11570,13 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>qacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっや</tinellbian@x-tlb-hl> <gloss>to choose</gloss> + <link@x-tlb-hl>-’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
             qaffi:
-              date: '2018-04-12'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>げっべ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈŋafːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
-              - <definition>perceive; by perception; assume; seem</definition>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>perception; <i>assume</i>; <i>seem</i></definition>
             qala:
               date: '2018-04-09'
               text:
@@ -12417,13 +12415,13 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
               - <definition>anyway; not relevant</definition>
             raqa:
-              date: '2018-04-08'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>らげ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽaŋə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</part-of-speech>
-              - <definition>obviously; from clear evidence</definition>
+              - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>area in front of one; <i>obviously</i>; <i>from clear evidence</i></definition>
             raqu:
               date: '2018-04-08'
               text:
@@ -12729,13 +12727,13 @@ entries:
               - <wordlist>← <link@en>reven</link@en>
               - → <link@en>rive</link@en></wordlist>
             rixi:
-              date: '2018-04-08'
+              date: '2024-09-02'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>りし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽiɕɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech>adverb</part-of-speech>
-              - <definition>should; would be better to</definition>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>method; way; <i>should</i>; <i>would be better to</i></definition>
             ri’i:
               date: '2018-04-08'
               text:
@@ -15570,6 +15568,14 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈɕahə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>name</definition>
+            xaka:
+              date: '2024-09-12'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈɕakʰə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>purpose</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>failure; <i>fail to</i></definition>
             xaki:
               date: '2018-04-05'
               text:
@@ -15586,7 +15592,7 @@ entries:
               - ↑ <link@x-tlb-hl>fiqqala</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
               - ↓ <link@x-tlb-hl>qaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げざ</tinellbian@x-tlb-hl> <gloss>calcium</gloss></block></wordlist>
             xakila:
-              date: '2018-04-05'
+              date: '2024-09-09'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -15594,6 +15600,7 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ɕəˈkilə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>adverb</part-of-speech>
               - <definition>thought to be</definition>
+              - <subheading>Etymology</subheading>
             xalli:
               date: '2019-06-16'
               position: '8.0'

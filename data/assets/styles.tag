@@ -94,12 +94,14 @@ h3:
 hidden:
   props:
     colour: '#999999'
+    strikeout: true
   type: span
   key: h
 i:
   key: i
   props:
     italics: true
+    off-key: Return
 introduction:
   type: div
 ipa:

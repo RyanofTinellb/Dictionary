@@ -5,7 +5,61 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - qaxa
+  - xakila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - lisina
+- - The Tinellbian Languages Dictionary
+  - lex
+  - rafa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - pu’i
+- - The Tinellbian Languages Dictionary
+  - lex
+  - rapi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tappa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - rani
+- - The Tinellbian Languages Dictionary
+  - lex
+  - qarihu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tupi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - miru
+- - The Tinellbian Languages Dictionary
+  - lex
+  - musa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - laru
+- - The Tinellbian Languages Dictionary
+  - lex
+  - xima
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tariti
+- - The Tinellbian Languages Dictionary
+  - lex
+  - batari
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dumi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - hami
+- - The Tinellbian Languages Dictionary
+  - lex
+  - raqa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - xaka
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
