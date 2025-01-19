@@ -1,189 +1,5 @@
-.symbol {
-	font-size: larger;
-	font-family: serif;
-	font-style: italic;
-}
-
-body {
-	font-family: sans-serif;
-}
-
-nav summary {
-	list-style-type: "☰";
-}
-
-nav details[open] summary {
-	list-style-type: '✖';
-}
-
-nav a {
-	text-decoration: none;
-	color: #4444EE;
-}
-
-nav .random {
-	text-align: center;
-}
-
-nav .random:hover,
-nav li:hover {
-	font-weight: bold;
-	text-decoration: underline;
-}
-
-nav p {
-	font-family: sans-serif;
-	margin: 0;
-	padding-left: 15%;
-	padding-right: 15%;
-}
-
-nav ul {
-	list-style-type: none;
-	list-style-position: inside;
-	text-align: center;
-	padding: 0;
-	line-height: 1.5;
-}
-
-nav li.normal,
-nav li.normal a {
-	/* Top-level folder of current page */
-	font-weight: bold;
-	letter-spacing: 0;
-	text-decoration: underline;
-}
-
-nav li.link a {
-	text-decoration: none;
-}
-
-nav button {
-	display: block;
-	margin: auto;
-}
-
-nav form#search {
-	margin-top: 1em;
-}
-
-
-main div.toc {
-	columns: 4;
-	margin-top: 1em;
-}
-
-main div.toc p {
-	width: 25%;
-	margin: 0;
-}
-
-main p,
-main summary.folding {
-	font-family: sans-serif;
-	margin-left: 20%;
-	margin-top: 0.2rem;
-}
-
-main summary.folding {
-	margin-left: calc(20% - 1rem);
-}
-
-main details.folding + p {
-	margin-left: calc(20% - 1rem);
-	margin-top: 0.2rem;
-	margin-bottom: 1lh;
-}
-
-main .wordlist {
-	margin-left: 17%;
-	margin-top: 1em;
-	padding-bottom: 0.5em;
-}
-
-main .wordlist summary.folding {
-	margin-left: 1rem;
-}
-
-main .wordlist details.folding p {
-	margin-left: 2rem;
-}
-
-main .wordlist details.folding + p {
-	margin-left: 1rem;
-}
-
-main .wordlist p {
-	margin-left: 3%;
-	margin-top: 0;
-	line-height: 1.5;
-}
-
-main ul,
-main ol {
-	margin-left: 20%;
-	margin-bottom: 0;
-}
-
-main table {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 1em;
-}
-
-main table td {
-	padding: 2px 6px;
-}
-
-main table th {
-	padding-top: 4px;
-	padding-bottom: 4px;
-}
-
-main .also p {
-	margin-left: 5%;
-}
-
-
-main .gloss {
-	font-style: italic;
-}
-
-main input:first-child {
-	margin-top: 2em;
-}
-
-main textarea {
-	font-family: "Arial";
-}
-
-main textarea#rules {
-	width: 80%;
-	height: 10em;
-	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-main textarea#words {
-	width: 100%;
-	height: 5em;
-}
-
-footer {
-	margin-top: 1rem;
-	font-size: smaller;
-	font-family: serif;
-	text-align: right;
-	width: 75%;
-}
-
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	margin: 0.5rem;
+.ipa {
+	font-size: inherit;
 }
 
 h1 {
@@ -192,42 +8,28 @@ h1 {
 }
 
 h2.language {
-	/* language */
 	font-family: andika, sans-serif;
-	margin-top: 2rem;
+	margin-block-start: 2rem;
 }
 
 h2.language:not(:first-of-type) {
-	margin-top: 4rem;
+	margin-block-start: 4rem;
 }
 
-.ipa {
-	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-}
-
-.ipa strong {
-	font-weight: 900;
-	color: red;
-}
 
 .native-script p {
 	/* Tinellbian script */
 	font-size: x-large;
 	font-weight: normal;
-	margin-left: 4%;
+	margin-inline-start: 4%;
 }
 
-.native-script .tinellbian:hover {
-	padding: revert;
-	font-size: larger;
-	cursor: auto;
+
+.pronunciation p {
+	margin-inline-start: 7%;
 }
 
-main .pronunciation p {
-	margin-left: 7%;
-}
-
-main .pronunciation a {
+.pronunciation a {
 	text-decoration: none;
 	color: black;
 	font-weight: normal;
@@ -235,74 +37,54 @@ main .pronunciation a {
 	letter-spacing: 2px;
 }
 
-h3.part-of-speech {
-	/* part of speech */
-	font-size: large;
-	font-family: garamond, serif;
-	margin-left: 10%;
-	margin-bottom: 0;
-	margin-top: 1lh;
-}
-
-h3.part-of-speech:not(:first-of-type) {
-	margin-top: 2lh;
-}
-
-main h3 a {
+h3.part-of-speech a {
 	color: black;
 	text-decoration-style: dashed;
 }
 
-main h3 a:hover {
+h3.part-of-speech a:hover {
 	text-decoration-style: dotted;
 }
 
-main .definition p {
+h3.part-of-speech {
+	font-size: large;
+	font-family: garamond, serif;
+	margin-inline-start: 10%;
+	margin-block-end: 0;
+	margin-block-start: 1lh;
+}
+
+h3.part-of-speech:not(:first-of-type) {
+	margin-block-start: 2lh;
+}
+
+.definition p {
 	font-size: medium;
 	font-family: sans-serif;
 	font-weight: normal;
-	margin-left: 13%;
-	padding-top: 1em;
-	padding-bottom: 1em;
+	margin-inline-start: 13%;
+	padding-block-start: 1em;
+	padding-block-end: 1em;
 }
 
-main .definition .note {
+.definition .note {
 	font-style: italic;
 }
 
-main .definition .note::before {
+.definition .note::before {
 	content: "("
 }
 
-main .definition .note::after {
+.definition .note::after {
 	content: ")"
 }
 
 
-h4 {
-	/* subheadings */
-	font-family: sans-serif;
+h4.subheading {
+	font: normal small-caps large serif;
 	text-decoration: overline;
-	margin-left: 15%;
-	margin-top: 1em;
-	font-variant: small-caps;
-	font-family: serif;
-	font-size: large;
-	font-weight: normal;
-}
-
-main .results ol,
-main .results ul {
-	margin-left: 0;
-}
-
-main p a,
-main .results a {
-	text-decoration: none;
-}
-
-main .transliteration {
-	font-weight: bold;
+	margin-inline-start: 15%;
+	margin-block-start: 2lh;
 }
 
 input[type='checkbox']#chain,
@@ -310,63 +92,75 @@ input[type='checkbox']#chance,
 input[type='checkbox']#multi,
 input[type='checkbox']#debug {
 	display: inline;
-	margin-left: 5em;
+	margin-inline-start: 5em;
 }
 
-@media screen and (max-width: 800px) {
-	main div.toc {
-		columns: 2;
-	}
+textarea {
+	font-family: "Arial";
+}
 
-	main div.toc p {
-		width: 50%;
-	}
+textarea#rules {
+	width: 80%;
+	height: 10em;
+	font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
+}
 
-	input#wordsearch {
-		width: 80%;
-	}
+textarea#words {
+	width: 100%;
+	height: 5em;
+}
 
-	main table {
-		display: none;
-	}
+main p,
+main summary {
+	font-family: sans-serif;
+	margin-inline-start: 20%;
+	margin-block-start: 0.2rem;
+}
 
-	main div.mobile-table p:not(:first-child) {
-		display: none;
-	}
+main ul,
+main ol {
+	margin-inline-start: 20%;
+	margin-block-end: 0;
+}
 
-	main div.mobile-table p:first-child::before {
-		content: "(Show All)\A";
-		white-space: pre;
-		color: #5555FF;
-	}
+main table {
+	margin-inline-start: auto;
+	margin-inline-end: auto;
+	margin-block-start: 1em;
+}
 
-	main div.mobile-table p:first-child::after {
-		content: " \2026";
-	}
+main table td {
+	padding: 2px 6px;
+}
 
-	main div.mobile-table:hover p {
-		display: block;
-	}
+main table th {
+	padding-block-start: 4px;
+	padding-block-end: 4px;
+}
 
-	main div.mobile-table:hover p:first-child::before {
-		content: "";
-	}
+main input:first-child {
+	margin-block-start: 2em;
+}
 
-	main div.mobile ul {
-		margin-top: 0em;
-	}
 
-	main div.mobile-table:hover p:first-child::after {
-		content: "";
-	}
 
-	main h5 a {
-		color: black;
-		text-decoration-style: dotted;
-	}
 
-	footer {
-		text-align: right;
-		width: 95%;
-	}
+
+main .results ol,
+main .results ul {
+	margin-inline-start: 0;
+}
+
+
+main p a,
+main .results a {
+	text-decoration: none;
+}
+
+footer {
+	margin-block-start: 1rem;
+	font-size: smaller;
+	font-family: serif;
+	text-align: right;
+	width: 75%;
 }

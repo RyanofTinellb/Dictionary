@@ -15569,7 +15569,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>name</definition>
             xaka:
-              date: '2024-09-12'
+              date: '2025-01-10'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ざか</tinellbian@x-tlb-hl></native-script>
@@ -15592,7 +15592,7 @@ entries:
               - ↑ <link@x-tlb-hl>fiqqala</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
               - ↓ <link@x-tlb-hl>qaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げざ</tinellbian@x-tlb-hl> <gloss>calcium</gloss></block></wordlist>
             xakila:
-              date: '2024-09-09'
+              date: '2025-01-19'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -17709,7 +17709,7 @@ entries:
               - <link@x-tlb-hl>maʔu</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl> <gloss>gingla</gloss></block></wordlist>
           date: '2024-05-29'
           text: []
-      date: '2024-05-29'
+      date: '2025-01-19'
       position: '1.0'
       text:
       - <h2>About</h2>

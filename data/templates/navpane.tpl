@@ -18,8 +18,6 @@ styles:
   nav:
     type: block
     open: <nav class="main">
-  random:
-    type: div
   search-form:
     type: block
     open: <form id="search">
@@ -44,4 +42,4 @@ text:
 - <a><link>index</link>|<strong>Dictionary</strong></a>
 - <javascript><search-form><input>type="text" name="term"</input>
 - <button>Search</button></search-form></javascript>
-- <javascript><random><a><link>special/random_entry</link>|Random Entry</a></random></javascript></details></nav>
+- <javascript><ul><a><link>special/random_entry</link>|Random Entry</a></ul></javascript></details></nav>
