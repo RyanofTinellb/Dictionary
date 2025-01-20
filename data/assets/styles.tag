@@ -43,7 +43,6 @@ external:
     colour: '#ff00ff'
   type: anchor
   param: $lookup:external$|$text$
-  rank: -50
   key: Alt-e
 folded:
   type: line
@@ -117,6 +116,10 @@ ipa:
   key: Alt-i
 javascript:
   type: div
+landscape:
+  type: div
+  props:
+    background: '#ccf'
 language-name:
   props:
     font: Artisan Paris
@@ -177,6 +180,10 @@ part-of-speech:
   type: line
   open: <h3 class="part-of-speech">
   close: </h3>
+portrait:
+  type: div
+  props:
+    background: '#cfc'
 poslink:
   props:
     underline: true
@@ -186,7 +193,6 @@ poslink:
   language: true
   param: $lookup:poslink$|$text$
   key: Alt-p
-  rank: -50
 pronunciation:
   type: div
   key: Alt-P
@@ -219,6 +225,10 @@ table:
   type: table
 tbody:
   type: block
+template:
+  type: template
+  props:
+    colour: '#0f0'
 thead:
   type: block
 tinellbian:
@@ -255,8 +265,12 @@ wikt-link:
   param: https://en.wiktionary.org/wiki/$text$|$text$
 wordlist:
   props:
-    background: '#ffcccc'
+    colour: '#000'
+    background: '#ffc'
     left: 15
   type: div
-  rank: 110
   key: Alt-W
+wordlist-caption:
+  props:
+    colour: '#f99'
+  type: div

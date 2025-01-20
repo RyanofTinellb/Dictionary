@@ -1,6 +1,7 @@
 x-tlb-hl:
   abstract: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#abstractnoun
   adverb: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html
+  adverbial: http://grammar.tinellb.com/languages/highlulani/morphology/adpositions.html#asanadverb
   action: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#actionverbs
   adjectival: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#adjectivalverbs
   adposition: http://grammar.tinellb.com/languages/highlulani/morphology/adpositions
@@ -37,7 +38,7 @@ x-tlb-hl:
   listofplants: /special/search.html?term=plant
   mass: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#massnouns
   mathematics: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
-  modal: http://grammar.tinellb.com/languages/highlulani/morphology/adverbs.html#modals
+  modal: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#modals
   motive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#motiveverbs
   negative: http://grammar.tinellb.com/languages/highlulani/syntax/matrixclauses/negativecomplements.html
   negativecomplement: http://grammar.tinellb.com/languages/highlulani/syntax/matrixclauses/negativecomplements.html
@@ -57,6 +58,7 @@ x-tlb-hl:
   possessive: http://grammar.tinellb.com/languages/highlulani/apocrypha/kinship.html#nuclearfamily
   probability: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#probability
   prodeterminer: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/determiners.html
+  pro-form: http://grammar.tinellb.com/languages/highlulani/morphology/deixis/index.html#pro-forms
   pronoun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html
   pro-verb: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/index.html
   proper: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#propernouns

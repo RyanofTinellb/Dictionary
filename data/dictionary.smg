@@ -5,7 +5,97 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - xakila
+  - mari
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kasi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - sama
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ci’u
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’aba
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’umi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -mari
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -kasi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -diku
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -cu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -’aba
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -mi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - majja
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kasuja
+- - The Tinellbian Languages Dictionary
+  - lex
+  - satta
+- - The Tinellbian Languages Dictionary
+  - lex
+  - qa’i
+- - The Tinellbian Languages Dictionary
+  - lex
+  - batuja
+- - The Tinellbian Languages Dictionary
+  - lex
+  - mituja
+- - The Tinellbian Languages Dictionary
+  - lex
+  - marila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kalisa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - sulla
+- - The Tinellbian Languages Dictionary
+  - lex
+  - buni
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’abala
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’amila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - madusi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kadusi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - lara
+- - The Tinellbian Languages Dictionary
+  - lex
+  - marika
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kasika
+- - The Tinellbian Languages Dictionary
+  - lex
+  - saqqa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - fana
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -40,6 +130,7 @@ templates:
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
+    indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\indefinite_pronouns.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
