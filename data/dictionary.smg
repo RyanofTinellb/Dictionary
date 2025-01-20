@@ -5,7 +5,19 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - -fu
+  - ’anu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ju’i
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tali
+- - The Tinellbian Languages Dictionary
+  - lex
+  - batu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - naqanaludu
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
