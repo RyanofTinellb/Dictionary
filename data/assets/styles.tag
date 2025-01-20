@@ -265,8 +265,7 @@ wikt-link:
   param: https://en.wiktionary.org/wiki/$text$|$text$
 wordlist:
   props:
-    colour: '#000'
-    background: '#ffc'
+    colour: '#f33'
     left: 15
   type: div
   key: Alt-W
@@ -274,3 +273,4 @@ wordlist-caption:
   props:
     colour: '#f99'
   type: div
+  key: Alt-w

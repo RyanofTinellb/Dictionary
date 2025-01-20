@@ -5,97 +5,82 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - mari
+  - ’usu
 - - The Tinellbian Languages Dictionary
   - lex
-  - kasi
+  - filli
 - - The Tinellbian Languages Dictionary
   - lex
-  - sama
+  - mihu
 - - The Tinellbian Languages Dictionary
   - lex
-  - ci’u
+  - pa
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’aba
+  - suma
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’umi
+  - fu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -mari
+  - quhu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -kasi
+  - ’iffa
 - - The Tinellbian Languages Dictionary
   - lex
-  - -diku
+  - su’a
 - - The Tinellbian Languages Dictionary
   - lex
-  - -cu
+  - puttu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -’aba
+  - sacu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -mi
+  - raja
 - - The Tinellbian Languages Dictionary
   - lex
-  - majja
+  - kassi
 - - The Tinellbian Languages Dictionary
   - lex
-  - kasuja
+  - kalu
 - - The Tinellbian Languages Dictionary
   - lex
-  - satta
+  - pixi
 - - The Tinellbian Languages Dictionary
   - lex
-  - qa’i
+  - ba’u
 - - The Tinellbian Languages Dictionary
   - lex
-  - batuja
+  - datu
 - - The Tinellbian Languages Dictionary
   - lex
-  - mituja
+  - jusi
 - - The Tinellbian Languages Dictionary
   - lex
-  - marila
+  - ku
 - - The Tinellbian Languages Dictionary
   - lex
-  - kalisa
+  - pagu
 - - The Tinellbian Languages Dictionary
   - lex
-  - sulla
+  - ba
 - - The Tinellbian Languages Dictionary
   - lex
-  - buni
+  - disi
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’abala
+  - -pahi
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’amila
+  - -ba
 - - The Tinellbian Languages Dictionary
   - lex
-  - madusi
+  - -disi
 - - The Tinellbian Languages Dictionary
   - lex
-  - kadusi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - lara
-- - The Tinellbian Languages Dictionary
-  - lex
-  - marika
-- - The Tinellbian Languages Dictionary
-  - lex
-  - kasika
-- - The Tinellbian Languages Dictionary
-  - lex
-  - saqqa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - fana
+  - -qa
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -132,6 +117,7 @@ templates:
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\indefinite_pronouns.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
+    personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\personal_pronouns.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
