@@ -1,4 +1,5 @@
 x-tlb-hl:
+  ablative: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#ablative
   abstract: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#abstractnoun
   adverb: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html
   adverbial: http://grammar.tinellb.com/languages/highlulani/morphology/adpositions.html#asanadverb
@@ -19,6 +20,8 @@ x-tlb-hl:
   compoundnoun: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#compoundnouns
   conjunction: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/languages/highlulani/morphology/conjunctions.html#coordinatingconjunctions
+  dative: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/transitivity.html#dative
+  derived: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html
   determiner: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/determiners.html
   emotion: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#emotion
   evidence: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#evidence

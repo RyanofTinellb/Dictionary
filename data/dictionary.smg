@@ -5,82 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’usu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - filli
-- - The Tinellbian Languages Dictionary
-  - lex
-  - mihu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - pa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - suma
-- - The Tinellbian Languages Dictionary
-  - lex
-  - fu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - quhu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ’iffa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - su’a
-- - The Tinellbian Languages Dictionary
-  - lex
-  - puttu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sacu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - raja
-- - The Tinellbian Languages Dictionary
-  - lex
-  - kassi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - kalu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - pixi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ba’u
-- - The Tinellbian Languages Dictionary
-  - lex
-  - datu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - jusi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ku
-- - The Tinellbian Languages Dictionary
-  - lex
-  - pagu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ba
-- - The Tinellbian Languages Dictionary
-  - lex
-  - disi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -pahi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ba
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -disi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -qa
+  - -fu
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -112,6 +37,7 @@ templates:
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\404.tpl
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\search.tpl
   sections:
+    auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\auxiliaries.tpl
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
@@ -120,4 +46,5 @@ templates:
     personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\personal_pronouns.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
     show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
+    terminal auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\terminal_auxiliaries.tpl
   wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
