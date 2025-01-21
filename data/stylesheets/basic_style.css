@@ -1,5 +1,6 @@
 :root {
     --folding-padding: 10%;
+    --details-lineheight: 1.5;
 }
 
 body {
@@ -305,18 +306,19 @@ main details:not(:first-child) {
 main details p {
     padding-inline-start: 0;
     margin-inline-start: 1.5ch;
-    margin-block: 0.4lh;
-    line-height: 1.6;
+    margin-block: 0lh;
+    line-height: var(--details-lineheight);
 }
 
 main details+p {
     padding-inline-start: calc(var(--folding-padding) + 1.5ch);
     margin-block-start: 0;
+    line-height: var(--details-lineheight);
 }
 
 main summary {
     padding-block-start: 0.2rem;
-    line-height: 2;
+    line-height: var(--details-lineheight);
 }
 
 main .also p {
@@ -407,11 +409,16 @@ main .wordlist {
 
 main .wordlist p {
     padding-inline-start: var(--folding-padding);
-    margin-block: 0;
+    margin: 0;
+}
+
+main .wordlist details p {
+    margin-inline-start: 1.5ch;
 }
 
 main .wordlist details+p {
     margin-inline-start: 1.5ch;
+    margin-block: 0;
 }
 
 main .wordlist .block {

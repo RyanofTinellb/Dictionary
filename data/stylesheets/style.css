@@ -55,7 +55,7 @@ h3.part-of-speech {
 }
 
 h3.part-of-speech:not(:first-of-type) {
-	margin-block-start: 2lh;
+	margin-block-start: 3lh;
 }
 
 .definition p {
@@ -84,7 +84,7 @@ h4.subheading {
 	font: normal small-caps large serif;
 	text-decoration: overline;
 	margin-inline-start: 15%;
-	margin-block-start: 2lh;
+	margin-block-start: 0;
 }
 
 input[type='checkbox']#chain,
@@ -142,7 +142,17 @@ main input:first-child {
 	margin-block-start: 2em;
 }
 
+main details p {
+	margin-inline-start: calc(20% + 1.5ch);
+}
 
+main details + p {
+	padding-inline-start: var(--folding-padding);
+}
+
+main .wordlist summary {
+	margin-inline-start: 0;
+}
 
 
 

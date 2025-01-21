@@ -5819,7 +5819,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>stick; rod; branch</definition>
             kica:
-              date: '2019-02-02'
+              date: '2025-01-21'
               position: '7.12'
               text:
               - <language-name>High Lulani</language-name>
@@ -5829,7 +5829,7 @@ entries:
               - <definition>younger sibling; younger cousin; younger brother; younger sister</definition>
               - <subheading>See Also</subheading>
               - <poslink@x-tlb-hl>Kinship Terms</poslink@x-tlb-hl>
-              - <part-of-speech>interjection</part-of-speech>
+              - <part-of-speech><poslink@x-tlb-hl>derived</poslink@x-tlb-hl> <poslink@x-tlb-hl>interjection</poslink@x-tlb-hl></part-of-speech>
               - <definition>what?; pardon?</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>kicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きゆ</tinellbian@x-tlb-hl> <gloss>truth</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>、あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
@@ -7278,15 +7278,15 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>ma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>rasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>らせ</tinellbian@x-tlb-hl> <gloss>future</gloss>
             mari:
-              date: '2025-01-20'
+              date: '2025-01-21'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></part-of-speech>
-              - <definition>proximate objective pronoun; this</definition>
-              - <subheading>See Also</subheading>
+              - <definition>this; proximate object
+              - </definition><subheading>See Also</subheading>
               - <template>indefinite pronouns</template>
             marika:
               date: '2025-01-20'
@@ -7428,7 +7428,7 @@ entries:
               - <wordlist><block><link@x-tlb-hl>tari</link@x-tlb-hl> <tinellbian@x-tlb-hl>たり</tinellbian@x-tlb-hl> <gloss>triadic number</gloss>
               - <link@x-tlb-hl>ramaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>らまは</tinellbian@x-tlb-hl> <gloss>subtriadic number</gloss></block></wordlist>
             mica:
-              date: '2024-09-02'
+              date: '2025-01-21'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl></native-script>
@@ -7440,7 +7440,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
               - <definition>permission</definition>
               - <subheading>Derived Terms</subheading>
-              - <block><wordlist><link@x-tlb-hl>sakimica</link@x-tlb-hl> <tinellbian@x-tlb-hl>さきみや</tinellbian@x-tlb-hl> <gloss>to give permission</gloss></wordlist></block>
+              - <wordlist><block><link@x-tlb-hl>sakimica</link@x-tlb-hl> <tinellbian@x-tlb-hl>さきみや</tinellbian@x-tlb-hl> <gloss>to give permission</gloss></block></wordlist>
             mici:
               date: '2018-04-10'
               text:
