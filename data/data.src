@@ -707,15 +707,17 @@ entries:
               - <subheading>Examples</subheading>
               - <wordlist><block><link@x-tlb-hl>taka</link@x-tlb-hl><b>ji’a</b> <tinellbian@x-tlb-hl>たかじあ</tinellbian@x-tlb-hl> <gloss>not a sound</gloss></block></wordlist>
             -ka:
-              date: '2018-04-05'
+              date: '2025-01-25'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl>)</part-of-speech>
               - <definition>make; <glossary>abv</glossary></definition>
+              - <subheading>Notes</subheading>
+              - Used after verbs with geminate final consonants.
               - <subheading>See Also</subheading>
-              - <wordlist><block><link@x-tlb-hl>-kka</link@x-tlb-hl> <tinellbian@x-tlb-hl>、っか</tinellbian@x-tlb-hl> <glossary>abv</glossary></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>-kka</link@x-tlb-hl> <tinellbian@x-tlb-hl>、っか</tinellbian@x-tlb-hl> <glossary>abv</glossary></wordlist></block>
             -kasi:
               date: '2025-01-20'
               position: '1.0'
@@ -745,10 +747,10 @@ entries:
               - <link@x-tlb-hl>malaki</link@x-tlb-hl> <tinellbian@x-tlb-hl>まわき</tinellbian@x-tlb-hl> <gloss>mirror</gloss>
               - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss></block></wordlist>
             -kka:
-              date: '2018-04-05'
+              date: '2025-01-25'
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>、っか</tinellbian@x-tlb-hl></native-script>
+              - <native-script><tinellbian@x-tlb-hl>っか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kːə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech>inflectional <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl></part-of-speech>
               - <definition>ablative promotion; make; <glossary>abv</glossary></definition>
@@ -5304,8 +5306,6 @@ entries:
               - <definition>third person animate dative; <glossary>3ani;dat</glossary>; to them; to her; to him</definition>
               - <subheading>See Also</subheading>
               - <template>personal pronouns</template>
-            jusiti:
-              text: []
             ju’i:
               date: '2025-01-21'
               position: '4.20'
@@ -9140,7 +9140,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>purpose</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
               - <definition>intent; <gloss>on purpose</gloss></definition>
             pifa:
-              date: '2019-06-11'
+              date: '2025-01-25'
               position: '4.29'
               text:
               - <language-name>High Lulani</language-name>
@@ -9149,16 +9149,16 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>to create <gloss>ex nihilo</gloss>; to make</definition>
               - <subheading>Examples</subheading>
-              - <folding><folded><transliteration@x-tlb-hl>pifa sinna</transliteration@x-tlb-hl></folded>
+              - <wordlist><folding><folded><transliteration@x-tlb-hl>pifa sinna</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>ぴへ せっな</tinellbian@x-tlb-hl>
               - <gloss>create story</gloss>
               - <link@x-tlb-hl>pifa</link@x-tlb-hl> <link@x-tlb-hl>sinna</link@x-tlb-hl></folding>
               - “to write a book”
               - <folding><folded><transliteration@x-tlb-hl>pifilluqixa faʔa</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>ぴべっをねざ へっあ</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>pifa</link@x-tlb-hl><link@x-tlb-hl>-illu</link@x-tlb-hl>-<link@x-tlb-hl>qixa</link@x-tlb-hl> <link@x-tlb-hl>faʔa</link@x-tlb-hl>
+              - <link@x-tlb-hl>pifa-illu</link@x-tlb-hl>-<link@x-tlb-hl>qixa</link@x-tlb-hl> <link@x-tlb-hl>faʔa</link@x-tlb-hl>
               - <gloss>create-<glossary>psv</glossary>-<glossary>pst;dyn</glossary> language</gloss></folding>
-              - “conlang”
+              - “conlang”</wordlist>
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>’idu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いど</tinellbian@x-tlb-hl> <gloss>to make</gloss></block></wordlist>
             piha:
@@ -14666,10 +14666,10 @@ entries:
               - <link@x-tlb-hl>maʔu</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl> <gloss>gingla</gloss></block></wordlist>
           date: '2024-05-29'
           text: []
-      date: '2025-01-19'
+      date: '2025-01-27'
       position: '1.0'
       text:
       - <h2>About</h2>
       - <introduction>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</introduction>
-      - <javascript><introduction><h2>Searching</h2>
-      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</introduction></javascript>
+      - <introduction><javascript><h2>Searching</h2>
+      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</javascript></introduction>

@@ -7,9 +7,9 @@
   <title>
     Sound Change Applier
   </title>
-  <link rel="stylesheet" type="text/css" href="basic_style.css">
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
+  <link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
+  <link rel="icon" type="image/png" href="/data/assets/favicon.png">
   <script src="/data/scripts/sca.js"></script>
   <script>
     let href = window.location.href;
@@ -73,32 +73,34 @@
       <h1>Sound Change Applier</h1>
       <div class="main-content">
         <p>
-          <desktop><table>
-            <tr>
-              <th>
-                <ipa>∅</ipa>
-              </th>
-              <td>null phoneme</td>
-            </tr>
-            <tr>
-              <th>
-                <ipa>ː</ipa>
-              </th>
-              <td>geminate</td>
-            </tr>
-            <tr>
-              <th>
-                <ipa>↻</ipa>
-              </th>
-              <td>infinite repeat of rule</td>
-            </tr>
-          </table></desktop>
+        <table>
+          <tr>
+            <th>
+              <ipa>∅</ipa>
+            </th>
+            <td>null phoneme</td>
+          </tr>
+          <tr>
+            <th>
+              <ipa>ː</ipa>
+            </th>
+            <td>geminate</td>
+          </tr>
+          <tr>
+            <th>
+              <ipa>↻</ipa>
+            </th>
+            <td>infinite repeat of rule</td>
+          </tr>
+        </table>
+        </desktop>
         </p>
         <p>Rules take the form &ldquo;A > B / _&rdquo; where
           the environment is optional.</p>
         <p>When writing rules, spaces are ignored.
           <ipa>\s</ipa> symbolises a literal space if
-          required</p>
+          required
+        </p>
         <p>Chance can be introduced with the checkbox.</p>
         <p>The percentage chance for rules is a measure of
           how likely it is to be applied. The default is 100%.</p>
@@ -106,10 +108,10 @@
           common the word is. 100% is an everyday word, 20%
           is a niche or jargon word. Common words are changed
           more often. The default is 80%.</p>
-        <p>
-          <table id="alphabet">
+        <table class="alphabet">
+          <thead>
             <tr>
-              <td colspan="2"></td>
+              <td colspan="2">consonants</td>
               <th>labial</th>
               <th>alveolar</th>
               <th>retroflex</th>
@@ -117,6 +119,8 @@
               <th>velar</th>
               <th>glottal</th>
             </tr>
+          </thead>
+          <tbody>
             <tr>
               <th colspan="2">plosive</th>
               <td>
@@ -191,12 +195,10 @@
                 <ipa>h</ipa>
               </td>
             </tr>
-          </table></desktop>
-        </p>
-        <label for="rules">
-          <h2>Rules</h2>
-        </label>
-        <p><textarea id="rules">[+palatal] = cjɲʎxç
+          </tbody>
+        </table>
+        <h2>Rules</h2>
+        <textarea id="rules">[+palatal] = cjɲʎxç
 [-palatal] = tdnlsh
 C = [-palatal][+palatal]pbkgmqrf’
 V = aeiou
@@ -209,32 +211,37 @@ Cː > C / _#}
 [long] = āēīōū
 a > [long] / _rV
 r > \s
-</textarea></p>
-        <label for="words">
-          <h2>Words</h2>
-        </label>
-        <p><textarea id="words">80% paddi
+</textarea>
+        <h2>Words</h2>
+        <textarea id="words">80% paddi
 taro
 50% katipe
-</textarea></p>
+</textarea>
         <p><button onclick="intermediate()">Change</button>
-          <input type="checkbox" id="chain" onclick="intermediate()">
-          <label for="chain">See intermediate steps?</label></input>
-          <input type="checkbox" id="chance" onclick="intermediate()">
-          <label for="chance">Introduce chance?</label></input>
-          <input type="checkbox" id="multi" onclick="intermediate()">
-          <label for="multi">Allow multigraphs?</label></input>
-          <input type="checkbox" id="debug" onclick="intermediate()">
-          <label for="multi">Debug mode?</label></input>
+          <label>
+            <input type="checkbox" id="chain" onclick="intermediate()" />
+            See intermediate steps?
+          </label>
+          <label>
+            <input type="checkbox" id="chance" onclick="intermediate()" />
+            Introduce chance?
+          </label>
+          <label>
+            <input type="checkbox" id="multi" onclick="intermediate()" />
+            Allow multigraphs?
+          </label>
+          <label>
+            <input type="checkbox" id="debug" onclick="intermediate()" />
+            Debug mode?
+          </label>
         </p>
-        <p id="output"></p>
+        <div id="output"></div>
       </div>
-      <script type="text/javascript">
+      <script>
         for (elt of document.getElementsByClassName('javascript')) {
           elt.style.display = "block";
         }
-        let outputArea = document.getElementById('output');
-        intermediate()
+       
       </script>
     </div>
   </div>

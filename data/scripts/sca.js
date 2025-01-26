@@ -26,7 +26,6 @@ async function fillWords(language) {
     .map(a => a.t.toLowerCase())
     .filter(a => a.includes(textToInclude))
     .filter(unique);
-  console.log(data);
   getElt('words').innerHTML = data.join('\n');
 }
 
@@ -103,7 +102,6 @@ class Rules {
       rules: this.soundChanges
     };
     if (debug) summary.cats = this.categories;
-    console.log(summary);
   }
 
   fix(cats) {
@@ -419,4 +417,5 @@ function push(sounds, name, text) {
       sounds[name] = text;
     }
   }
+  console.log(sounds);
 }
