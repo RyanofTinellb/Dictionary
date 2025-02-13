@@ -230,6 +230,7 @@ class Rules {
   }
 
   factory(earlier, later, during) {
+    console.log(earlier, later, during);
     let eqn, after, arr;
     if (later.category) {
       let matchHash;
