@@ -7532,16 +7532,18 @@ entries:
               - <definition>to be crimson</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>to be red</gloss> + <link@x-tlb-hl>mulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
-            milami:
-              date: '2018-04-10'
+            mila:
+              date: '2025-02-15'
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>みわみ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/mɨˈlamɨ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>みわ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈmilə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>surroundings; mise-en-scène</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>pamilami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱみわみ</tinellbian@x-tlb-hl> <gloss>be conscious</gloss></block></wordlist>
+              - <wordlist><link@x-tlb-hl>pamila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl> <gloss>to be conscious</gloss></wordlist>
+            milami:
+              text: []
             millu:
               date: '2019-05-26'
               position: '1.0'
@@ -8681,7 +8683,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>hide</definition>
             pa:
-              date: '2025-01-20'
+              date: '2025-02-15'
               position: '61.27'
               text:
               - <language-name>High Lulani</language-name>
@@ -8709,7 +8711,7 @@ entries:
               - <link@x-tlb-hl>pakicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱきゆ</tinellbian@x-tlb-hl> <gloss>to know</gloss>
               - <link@x-tlb-hl>pamana</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱまな</tinellbian@x-tlb-hl> <gloss>to realise</gloss>
               - <link@x-tlb-hl>pamasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱませ</tinellbian@x-tlb-hl> <gloss>to decide</gloss>
-              - <link@x-tlb-hl>pamilami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱみわみ</tinellbian@x-tlb-hl> <gloss>to be conscious</gloss>
+              - <link@x-tlb-hl>pamila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl> <gloss>to be conscious</gloss>
               - <link@x-tlb-hl>palinu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱえぬ</tinellbian@x-tlb-hl> <gloss>to realise</gloss>
               - <link@x-tlb-hl>paxici</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱしち</tinellbian@x-tlb-hl> <gloss>to consider</gloss>
               - <link@x-tlb-hl>pahini</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱひに</tinellbian@x-tlb-hl> <gloss>to find one’s way</gloss>
@@ -8905,17 +8907,16 @@ entries:
               - <definition>to decide on a course of action</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl>  <gloss>think</gloss> + <link@x-tlb-hl>masi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ませ</tinellbian@x-tlb-hl> <gloss>course</gloss>
-            pamilami:
-              date: '2019-02-28'
-              position: '4.49'
+            pamila:
+              date: '2025-02-15'
               text:
               - <language-name>High Lulani</language-name>
-              - <native-script><tinellbian@x-tlb-hl>ぱみわみ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌpʰamɨˈlamɨ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/pʰəˈmilə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>to be awake; to be conscious</definition>
               - <subheading>Etymology</subheading>
-              - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>think</gloss> + <link@x-tlb-hl>milami</link@x-tlb-hl> <tinellbian@x-tlb-hl>みわみ</tinellbian@x-tlb-hl> <gloss>surroundings</gloss>
+              - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>think</gloss> + <link@x-tlb-hl>mila</link@x-tlb-hl> <tinellbian@x-tlb-hl>みわ</tinellbian@x-tlb-hl> <gloss>surroundings</gloss>
             pana:
               date: '2024-05-26'
               text:

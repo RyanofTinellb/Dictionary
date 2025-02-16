@@ -5,7 +5,16 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - -diku
+  - mila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - pa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - pamila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - milami
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
