@@ -2,19 +2,7 @@ assets:
   searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
-entries:
-- - The Tinellbian Languages Dictionary
-  - lex
-  - mila
-- - The Tinellbian Languages Dictionary
-  - lex
-  - pa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - pamila
-- - The Tinellbian Languages Dictionary
-  - lex
-  - milami
+entries: []
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

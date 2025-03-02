@@ -129,6 +129,8 @@ entries:
               - <pronunciation><ipa@x-tlb-cz>/ˈluːsoβ/</ipa@x-tlb-cz></pronunciation>
               - <part-of-speech>proper noun</part-of-speech>
               - <definition><link@en>$lusov</link@en></definition>
+            $mala.$ptokonoi:
+              text: []
             $naqi:
               date: '2024-05-28'
               position: '5.6'
@@ -6268,10 +6270,6 @@ entries:
               - <definition>to be strong; to be dense; to be heavy</definition>
               - <subheading>Antonym</subheading>
               - <wordlist><block><link@x-tlb-hl>nama</link@x-tlb-hl> <tinellbian@x-tlb-hl>なま</tinellbian@x-tlb-hl> <gloss>light</gloss></block></wordlist>
-            kurila:
-              date: '2018-09-30'
-              text:
-              - <also>$kurila</also>
             kuxalu:
               date: '2018-04-05'
               text:
@@ -7533,7 +7531,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>to be red</gloss> + <link@x-tlb-hl>mulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
             mila:
-              date: '2025-02-15'
+              date: '2025-02-18'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>みわ</tinellbian@x-tlb-hl></native-script>
@@ -7542,8 +7540,6 @@ entries:
               - <definition>surroundings; mise-en-scène</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><link@x-tlb-hl>pamila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl> <gloss>to be conscious</gloss></wordlist>
-            milami:
-              text: []
             millu:
               date: '2019-05-26'
               position: '1.0'
@@ -8683,7 +8679,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>hide</definition>
             pa:
-              date: '2025-02-15'
+              date: '2025-03-01'
               position: '61.27'
               text:
               - <language-name>High Lulani</language-name>
@@ -8908,7 +8904,7 @@ entries:
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl>  <gloss>think</gloss> + <link@x-tlb-hl>masi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ませ</tinellbian@x-tlb-hl> <gloss>course</gloss>
             pamila:
-              date: '2025-02-15'
+              date: '2025-03-01'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl></native-script>
@@ -11705,7 +11701,7 @@ entries:
               - → <link@x-tlb-hl>hatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はたぬ</tinellbian@x-tlb-hl> <gloss>copernicium</gloss>
               - ↑ <link@x-tlb-hl>fi</link@x-tlb-hl> <tinellbian@x-tlb-hl>べ</tinellbian@x-tlb-hl> <gloss>gold</gloss></block></wordlist>
             ta:
-              date: '2024-07-23'
+              date: '2025-03-01'
               position: '1.0'
               text:
               - <also>-ta</also>
