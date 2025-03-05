@@ -5,16 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - maniki
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ki
-- - The Tinellbian Languages Dictionary
-  - lex
-  - batu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - mani
+  - -’a
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

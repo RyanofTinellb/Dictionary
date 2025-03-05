@@ -1338,7 +1338,7 @@ entries:
               - <subheading>Examples</subheading>
               - <wordlist><block><b>nà</b>ra → na<b>raʔ</b>a → nar<b>à</b> <gloss>goodbye!</gloss></block></wordlist>
             -’a:
-              date: '2019-01-07'
+              date: '2025-03-06'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -1347,9 +1347,11 @@ entries:
               - <part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>verb</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</part-of-speech>
               - <definition>derives an abstract noun from a verb</definition>
               - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss>
+              - <wordlist><link@x-tlb-hl>pa’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱあ</tinellbian@x-tlb-hl> <gloss>thought</gloss>
+              - <link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss>
               - <link@x-tlb-hl>qacca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss>
-              - <link@x-tlb-hl>pa’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱあ</tinellbian@x-tlb-hl> <gloss>thought</gloss></block></wordlist>
+              - <link@x-tlb-hl>qira’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねらあ</tinellbian@x-tlb-hl> <gloss>roughness</gloss><block>
+              - </block></wordlist>
             -’aba:
               date: '2025-01-20'
               position: '2.17'
@@ -1543,15 +1545,13 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>si’abassa</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあばっさ</tinellbian@x-tlb-hl> <gloss>solve</gloss></block></wordlist>
             bata:
-              date: '2024-07-28'
+              date: '2025-03-06'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>ばた</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbatʰə/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>caution; care</definition>
-              - <subheading>Derived Terms</subheading>
-              - <wordlist><block><link@x-tlb-hl>bataniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばたにっね</tinellbian@x-tlb-hl> <gloss>carefully</gloss></block></wordlist>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>purpose</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>caution; care; <i>carefully</i></definition>
               - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>work time; shift</definition>
               - <subheading>Derived Terms</subheading>
@@ -6984,6 +6984,16 @@ entries:
               - <definition>twin</definition>
               - <subheading>Etymology</subheading>
               - <link@x-tlb-hl>luxira</link@x-tlb-hl> <tinellbian@x-tlb-hl>をしら</tinellbian@x-tlb-hl> <gloss>birth of twins</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
+            luxxa:
+              date: '2025-03-06'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>をっざ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈluɕːə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>request</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>’iluxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl> <gloss>to request</gloss></wordlist>
             lu’i:
               date: '2024-08-28'
               position: '16.30'
@@ -13921,7 +13931,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><link@x-tlb-hl>nika</link@x-tlb-hl> <tinellbian@x-tlb-hl>にか</tinellbian@x-tlb-hl> <gloss>journey</gloss></wordlist>
             ’i:
-              date: '2019-09-08'
+              date: '2025-03-06'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
@@ -13942,7 +13952,8 @@ entries:
               - <link@x-tlb-hl>’iqaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>いげや</tinellbian@x-tlb-hl> <gloss>to give one’s point of view</gloss>
               - <link@x-tlb-hl>’ikahu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いかほ</tinellbian@x-tlb-hl> <gloss>to grunt</gloss>
               - <link@x-tlb-hl>’ilagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>いわぎ</tinellbian@x-tlb-hl> <gloss>to scream</gloss>
-              - <block><link@x-tlb-hl>gufu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl> <gloss>radio</gloss></block></wordlist>
+              - <link@x-tlb-hl>’iluxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl> <gloss>to request</gloss>
+              - <link@x-tlb-hl>gufu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl> <gloss>radio</gloss></block></wordlist>
               - <subheading>Examples</subheading>
               - <folding><folded><transliteration@x-tlb-hl>ʔusu jusi ’i li lu’i fu ra’u.</transliteration@x-tlb-hl></folded>
               - <tinellbian@x-tlb-hl>。うす よせ い え をい ふ らう 。</tinellbian@x-tlb-hl>
@@ -14170,6 +14181,16 @@ entries:
               - <wordlist><block><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></block></wordlist>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>ma’iludihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>まいをでっは</tinellbian@x-tlb-hl> <gloss>to be considerate</gloss></block></wordlist>
+            ’iluxxa:
+              date: '2025-03-06'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ʔɨˈluɕːə/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>compound</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
+              - <definition>to request; to bid</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>luxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>をっざ</tinellbian@x-tlb-hl> <gloss>request</gloss>
             ’ima:
               date: '2025-01-21'
               text:
