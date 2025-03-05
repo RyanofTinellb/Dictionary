@@ -1571,7 +1571,7 @@ entries:
               - <subheading>See Also</subheading>
               - <wordlist><block><link@x-tlb-hl>xima</link@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>morning</gloss></block></wordlist>
             batu:
-              date: '2025-01-21'
+              date: '2025-03-05'
               position: '9.10'
               text:
               - <language-name>High Lulani</language-name>
@@ -1584,9 +1584,10 @@ entries:
               - <subheading>Derived Terms</subheading>
               - <wordlist><link@x-tlb-hl>nuhubatu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss></wordlist>
               - <subheading>See Also</subheading>
-              - <block><wordlist><link@x-tlb-hl>qapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>げぴ</tinellbian@x-tlb-hl> <gloss>chain</gloss>
-              - <link@x-tlb-hl>ju’ipu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>assembly</gloss>
-              - <link@x-tlb-hl>’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっし</tinellbian@x-tlb-hl> <gloss>crowd</gloss></wordlist></block>
+              - <wordlist><block><link@x-tlb-hl>’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっし</tinellbian@x-tlb-hl> <gloss>crowd</gloss>
+              - <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>abstract collection</gloss>
+              - <link@x-tlb-hl>qapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>げぴ</tinellbian@x-tlb-hl> <gloss>chain</gloss></block>
+              - <block><link@x-tlb-hl>ju’ipu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>assembly</gloss></block></wordlist>
               - <part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></part-of-speech>
               - <definition>multiplied by</definition>
               - <subheading>Examples</subheading>
@@ -5817,7 +5818,7 @@ entries:
               - <part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></part-of-speech>
               - <definition>jump</definition>; move through gingla
             ki:
-              date: '2019-03-02'
+              date: '2025-03-05'
               position: '4.27'
               text:
               - <language-name>High Lulani</language-name>
@@ -5827,8 +5828,12 @@ entries:
               - <definition>big; grow; large</definition>
               - <subheading>Derived Terms</subheading>
               - <wordlist><block><link@x-tlb-hl>katinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>かてっな</tinellbian@x-tlb-hl> <gloss>increasingly</gloss>
-              - <block><link@x-tlb-hl>kiladi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きわで</tinellbian@x-tlb-hl> <gloss>to spread out</gloss>
+              - <link@x-tlb-hl>kiladi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きわで</tinellbian@x-tlb-hl> <gloss>to spread out</gloss>
               - <link@x-tlb-hl>kipacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl> <gloss>to increase</gloss></block></wordlist>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></part-of-speech>
+              - <definition>collection; <i>a collection of abstract items</i></definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>maniki</link@x-tlb-hl> <tinellbian@x-tlb-hl>まにき</tinellbian@x-tlb-hl> <gloss>culture</gloss></wordlist>
             kibba:
               date: '2018-04-05'
               text:
@@ -7272,15 +7277,27 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/məˈnafə/</ipa@x-tlb-hl></pronunciation>
               - <part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
               - <definition>country</definition>
+            mani:
+              date: '2025-03-05'
+              text:
+              - <language-name>High Lulani</language-name>
+              - <native-script><tinellbian@x-tlb-hl>まに</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈmanɨ/</ipa@x-tlb-hl></pronunciation>
+              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>custom</definition>
+              - <subheading>Derived Terms</subheading>
+              - <wordlist><link@x-tlb-hl>maniki</link@x-tlb-hl> <tinellbian@x-tlb-hl>まにき</tinellbian@x-tlb-hl> <gloss>culture</gloss></wordlist>
             maniki:
-              date: '2019-06-11'
+              date: '2025-03-05'
               position: '1.0'
               text:
               - <language-name>High Lulani</language-name>
               - <native-script><tinellbian@x-tlb-hl>まにき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈnikʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
-              - <definition>culture</definition>
+              - <part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> <poslink@x-tlb-hl>compound</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></part-of-speech>
+              - <definition>culture; community</definition>
+              - <subheading>Etymology</subheading>
+              - <link@x-tlb-hl>mani</link@x-tlb-hl> <tinellbian@x-tlb-hl>まに</tinellbian@x-tlb-hl> <gloss>custom</gloss> + <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>collection</gloss>
             marasi:
               date: '2019-03-13'
               position: '4.14'

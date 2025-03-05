@@ -5,16 +5,16 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - $tussuli
+  - maniki
 - - The Tinellbian Languages Dictionary
   - lex
-  - $tussol
+  - ki
 - - The Tinellbian Languages Dictionary
   - lex
-  - $corla
+  - batu
 - - The Tinellbian Languages Dictionary
   - lex
-  - hisuba
+  - mani
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
