@@ -2,7 +2,19 @@ assets:
   searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
-entries: []
+entries:
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $tussuli
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $tussol
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $corla
+- - The Tinellbian Languages Dictionary
+  - lex
+  - hisuba
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

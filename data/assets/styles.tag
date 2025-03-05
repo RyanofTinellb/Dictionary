@@ -27,6 +27,7 @@ cite:
   key: Alt-c
   props:
     italics: true
+    off-key: Return
 definition:
   props:
     left: 30
