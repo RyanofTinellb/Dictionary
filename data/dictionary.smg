@@ -27,9 +27,9 @@ locations:
 port: 23104
 serialisation format:
   definition: definition
-  language: language-name
+  language: h2|language
   native script: native-script
-  part of speech: part-of-speech
+  part of speech: h3|part-of-speech
   pronunciation: pronunciation
 styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
 templates:
