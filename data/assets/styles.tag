@@ -45,17 +45,13 @@ external:
   type: anchor
   param: $lookup:external$|$text$
   key: Alt-e
-folded:
+summary|folding:
   type: line
-  open: <summary class="folding">
-  close: </summary>
   key: Alt-f
   props:
     left: 50
-folding:
+details|folding:
   type: block
-  open: <details class="folding">
-  close: </details>
   key: Alt-F
   props:
     background: '#99ff99'
@@ -121,7 +117,7 @@ landscape:
   type: div
   props:
     background: '#ccf'
-language-name:
+h2|language:
   props:
     font: Artisan Paris
     size: 120
@@ -131,10 +127,7 @@ language-name:
     top: 25
   key: KeyPress-1
   type: heading
-  open: '<h2 class="language" '
-  pipe: '>'
-  close: </h2>
-  param: id="$url(text)$"|$text$
+  param: ' id="$url(text)$|$text$'
 link:
   props:
     underline: true
@@ -166,12 +159,10 @@ note:
   props:
     italics: true
 ol:
-  type: block
-  start: <li>
-  end: </li>
+  type: ol
 overline:
   type: span
-part-of-speech:
+h3|part-of-speech:
   props:
     font: Garamond
     top: 15
@@ -179,8 +170,6 @@ part-of-speech:
     off-key: Return
   key: KeyPress-2
   type: line
-  open: <h3 class="part-of-speech">
-  close: </h3>
 portrait:
   type: div
   props:
@@ -206,7 +195,7 @@ strong:
   props:
     bold: true
 sub: {}
-subheading:
+h4|subheading:
   props:
     font: Harrington
     bold: true
@@ -216,8 +205,6 @@ subheading:
     left: 50
     off-key: Return
   type: line
-  open: <h4 class="subheading">
-  close: </h4>
   key: KeyPress-3
 sup: {}
 symbol:
@@ -253,9 +240,7 @@ transliteration:
 type:
   type: div
 ul:
-  type: block
-  start: <li>
-  end: </li>
+  type: ul
 universe:
   type: span
 wikt-link:
