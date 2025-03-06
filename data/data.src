@@ -1621,14 +1621,14 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <template>personal pronouns</template>
             bi:
-              date: '2024-08-30'
+              date: '2025-03-07'
               position: '1.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>び</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bi/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>out, out of, from</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>motion</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>out; out of; from; away from</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>dajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢび</tinellbian@x-tlb-hl> <gloss>reading</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
@@ -1636,10 +1636,10 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop> <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
-              - <wordlist><block>← <link@x-tlb-hl>matirra</link@x-tlb-hl> <tinellbian@x-tlb-hl>まてっら</tinellbian@x-tlb-hl> <gloss>selenium</gloss>
+              - <block><wordlist>← <link@x-tlb-hl>matirra</link@x-tlb-hl> <tinellbian@x-tlb-hl>まてっら</tinellbian@x-tlb-hl> <gloss>selenium</gloss>
               - → <link@x-tlb-hl>quffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>もっべ</tinellbian@x-tlb-hl> <gloss>krypton</gloss>
               - ↑ <link@x-tlb-hl>limma</link@x-tlb-hl> <tinellbian@x-tlb-hl>えっま</tinellbian@x-tlb-hl> <gloss>chlorine</gloss>
-              - ↓ <link@x-tlb-hl>papa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぱ</tinellbian@x-tlb-hl> <gloss>iodine</gloss></block></wordlist>
+              - ↓ <link@x-tlb-hl>papa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぱ</tinellbian@x-tlb-hl> <gloss>iodine</gloss></wordlist></block>
             bibu:
               date: '2018-03-30'
               text:
@@ -5234,12 +5234,12 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>jimuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss></wordlist>
             jimuli:
-              date: '2024-05-26'
+              date: '2025-03-07'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟɨˈmulɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech>derived <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>outside</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>jimu</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむ</tinellbian@x-tlb-hl> <gloss>backyard</gloss> + <link@x-tlb-hl>-li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>quasi-</gloss>
@@ -8533,12 +8533,12 @@ entries:
               - ↑ <link@x-tlb-hl>sadadu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さだど</tinellbian@x-tlb-hl> <gloss>rubidium</gloss>
               - ↓ <link@x-tlb-hl>guqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっげ</tinellbian@x-tlb-hl> <gloss>francium</gloss></block></wordlist>
             nufira:
-              date: '2024-09-02'
+              date: '2025-03-06'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/nʉfiɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>want; desire; <i>want to</i></definition>
               - <h4|subheading>Notes</h4|subheading>
               - When used adverbially, this word tends to only be used in first person, or second person questions.
