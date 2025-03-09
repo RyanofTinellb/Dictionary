@@ -4374,14 +4374,14 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>person</gloss> + <link@x-tlb-hl>’adi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss>
             ha:
-              date: '2019-06-30'
-              position: '7.21'
+              date: '2025-03-10'
+              position: '4.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ha/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>for</definition>
+              - <definition><note>with <poslink@x-tlb-hl>animates</poslink@x-tlb-hl></note> for</definition>
               - <h4|subheading>Definition</h4|subheading>
               - Denotes a beneficiary
             hacca:
@@ -4516,8 +4516,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>voice; speech</definition>
             haru:
-              date: '2025-01-20'
-              position: '8.2'
+              date: '2025-03-10'
+              position: '18.29'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かる</tinellbian@x-tlb-hl></native-script>
@@ -4535,7 +4535,8 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to be alone</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>with; consisting of</definition>
+              - <definition><note>with <poslink@x-tlb-hl>animates</poslink@x-tlb-hl></note> with
+              - <note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> consisting of</definition>
               - <h3|part-of-speech>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>at the same time; alongside; while; as</definition>
               - <h3|part-of-speech><poslink@x-tlb-hl>derived</poslink@x-tlb-hl> <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3|part-of-speech>
@@ -5235,6 +5236,7 @@ entries:
               - <wordlist><link@x-tlb-hl>jimuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss></wordlist>
             jimuli:
               date: '2025-03-07'
+              position: '1.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl></native-script>
@@ -8394,8 +8396,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>alertness</definition>
             nidu:
-              date: '2024-05-19'
-              position: '1.0'
+              date: '2025-03-10'
+              position: '7.16'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>にど</tinellbian@x-tlb-hl></native-script>
@@ -8403,7 +8405,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to use</definition>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>with; using</definition>
+              - <definition><note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> with; using</definition>
             nifi:
               date: '2018-04-03'
               text:
@@ -11049,14 +11051,34 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈsaɽə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>reins</definition>
+            sarra:
+              position: '1.0'
+              text: []
             sarru:
-              date: '2018-04-05'
+              children:
+                ? ''
+                : children:
+                    ? ''
+                    : children:
+                        ? ''
+                        : children:
+                            ? ''
+                            : position: '1.0'
+                              text: []
+                          position: '1.0'
+                          text: []
+                      position: '1.0'
+                      text: []
+                  position: '1.0'
+                  text: []
+              date: '2025-03-10'
+              position: '5.16'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さっる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsarːʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>without; instead of; rather than</definition>
+              - <definition><note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> without; instead of; rather than</definition>
             sasa:
               date: '2018-04-05'
               text:
@@ -13423,14 +13445,14 @@ entries:
               - <h4|subheading>Antonym</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>xidu</link@x-tlb-hl> <tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl> <gloss>far away</gloss></block></wordlist>
             ’aga:
-              date: '2019-04-27'
-              position: '5.34'
+              date: '2025-03-10'
+              position: '4.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あが</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔagə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>stem <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>against; to the detriment of</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition><note>with <poslink@x-tlb-hl>animates</poslink@x-tlb-hl></note> against; to the detriment of</definition>
             ’agga:
               date: '2018-03-27'
               text:

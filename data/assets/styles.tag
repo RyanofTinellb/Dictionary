@@ -158,6 +158,8 @@ note:
   type: span
   props:
     italics: true
+    size: 90
+  key: 'n'
 ol:
   type: ol
 overline:

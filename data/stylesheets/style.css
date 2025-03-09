@@ -63,7 +63,13 @@ h3.part-of-speech:not(:first-of-type) {
 	font-family: sans-serif;
 	font-weight: normal;
 	margin-inline-start: 13%;
+}
+
+.definition p:first-of-type {
 	padding-block-start: 1em;
+}
+
+.definition p:last-of-type {
 	padding-block-end: 1em;
 }
 

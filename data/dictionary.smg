@@ -5,10 +5,21 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - jimuli
+  - ha
 - - The Tinellbian Languages Dictionary
   - lex
-  - bi
+  - $lharen
+- - The Tinellbian Languages Dictionary
+  - lex
+  - nidu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’aga
+- &id001
+  - The Tinellbian Languages Dictionary
+  - lex
+  - sarru
+- *id001
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
