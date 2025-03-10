@@ -2,24 +2,7 @@ assets:
   searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\searching.json
   source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
   wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
-entries:
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ha
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $lharen
-- - The Tinellbian Languages Dictionary
-  - lex
-  - nidu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ’aga
-- &id001
-  - The Tinellbian Languages Dictionary
-  - lex
-  - sarru
-- *id001
+entries: []
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

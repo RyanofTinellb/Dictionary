@@ -3925,8 +3925,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>ablative</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to lack</definition>
             ga:
-              date: '2024-07-22'
-              position: '9.18'
+              date: '2025-03-10'
+              position: '17.31'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl></native-script>
@@ -3940,11 +3940,11 @@ entries:
               - <gloss><glossary>1int</glossary> black-<glossary>abv</glossary> meal.</gloss></details|folding>
               - “I burnt the meal.”
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>pajiga</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱじが</tinellbian@x-tlb-hl> <gloss>olive</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>pajiga</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱじが</tinellbian@x-tlb-hl> <gloss>olive</gloss></wordlist></block>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>kiʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっあ</tinellbian@x-tlb-hl> <gloss>white</gloss>
-              - <link@x-tlb-hl>millu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl> <gloss>brown</gloss></block></wordlist>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> dative <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <block><wordlist><link@x-tlb-hl>kiʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっあ</tinellbian@x-tlb-hl> <gloss>white</gloss>
+              - <link@x-tlb-hl>millu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl> <gloss>brown</gloss></wordlist></block>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> ablative <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to put</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>gajannida</link@x-tlb-hl> <tinellbian@x-tlb-hl>がぢっにだ</tinellbian@x-tlb-hl> to push</wordlist>
