@@ -91,5 +91,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# desktop.ini
-# thumbs.db
+desktop.ini
+thumbs.db
