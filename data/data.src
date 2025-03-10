@@ -4516,8 +4516,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>voice; speech</definition>
             haru:
-              date: '2025-03-10'
-              position: '18.29'
+              date: '2025-03-11'
+              position: '13.26'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かる</tinellbian@x-tlb-hl></native-script>
@@ -4528,8 +4528,8 @@ entries:
               - <wordlist><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss></wordlist>
               - <h4|subheading>Examples</h4|subheading>
               - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔa’ima haru sada.</transliteration@x-tlb-hl></summary|folding>
-              - <tinellbian@x-tlb-hl>。あいま はる さだ。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> <link@x-tlb-hl>haru</link@x-tlb-hl> <link@x-tlb-hl>sa</link@x-tlb-hl>-<link@x-tlb-hl>da</link@x-tlb-hl>.
+              - <tinellbian@x-tlb-hl>。あいまはるさだ。</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>’a’ima</link@x-tlb-hl> haru <link@x-tlb-hl>sa</link@x-tlb-hl>-<link@x-tlb-hl>da</link@x-tlb-hl>.
               - <gloss>Traveller accompany solitude-negative_aspect.</gloss></details|folding>
               - “The traveller is lonely.”
               - <h4|subheading>Derived Terms</h4|subheading>
@@ -7773,15 +7773,16 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>kicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きゆ</tinellbian@x-tlb-hl> <gloss>truth</gloss>
             muli:
-              date: '2018-04-11'
+              date: '2025-03-11'
+              position: '4.13'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian>むえ</tinellbian></native-script>
-              - <ipa@x-tlb-hl>/ˈmulɨ/</ipa@x-tlb-hl>
+              - <pronunciation><ipa@x-tlb-hl>/ˈmulɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> noun</h3|part-of-speech>
               - <definition>foolishness</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <block><wordlist><link@x-tlb-hl>mulisa</link@x-tlb-hl> <tinellbian>むえさ</tinellbian> fool</wordlist></block>
+              - <wordlist><block><link@x-tlb-hl>mulisa</link@x-tlb-hl> <tinellbian>むえさ</tinellbian> fool</block></wordlist>
             mulikki:
               date: '2018-04-11'
               text:
