@@ -2,9 +2,9 @@ styles:
   '!doctype':
     type: complete
   body:
-    type: block
-    start: <p>
     end: </p>
+    start: <p>
+    type: block
   content:
     type: div
   flex:
@@ -18,36 +18,36 @@ styles:
   head:
     type: block
   html:
-    type: block
     language: true
+    type: block
   inline-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   input:
     type: complete
   internal-link:
     type: link
   internal-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   javascript:
     type: line
   link:
     type: complete
   main:
-    type: block
-    open: <div class="main-page"><main>
     close: </main></div>
+    open: <div class="main-page"><main>
+    type: block
   meta:
     type: complete
   results:
     open: <div class="results" id="results">
     type: div
   script:
-    type: complete
     close: '></script>'
+    type: complete
   template:
     type: template
   title:
@@ -65,17 +65,15 @@ text:
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
 - <results>Searching...</results>
-- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode
-  == 13) {wordsearch()}"</input>
-- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
-  to Entry"</input></javascript></main></flex>
+- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>
+- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></javascript></main></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="/data/scripts/search.js"</script>
 - <script>src="/data/scripts/404search.js"</script>
 - <script>src="/data/scripts/word_search.js"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
-- 'let details = document.getElementById("menu");'
+- let details = document.getElementById("menu");
 - if (mql.matches) {details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

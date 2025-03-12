@@ -3,8 +3,8 @@ styles:
     type: anchor
   button: {}
   details:
+    open: <details id="menu">
     type: block
-    open: '<details id="menu">'
   input:
     type: complete
   javascript:
@@ -16,27 +16,27 @@ styles:
   links:
     type: div
   nav:
-    type: block
     open: <nav class="main">
-  search-form:
     type: block
-    open: <form id="search">
+  search-form:
     close: </form>
+    open: <form id="search">
+    type: block
   strong:
     props:
       bold: true
   submit-button:
-    type: inline
-    open: <button type="button">
     close: </button>
+    open: <button type="button">
+    type: inline
   summary:
     type: line
   toc:
     type: data
   ul:
-    type: block
-    start: <li>
     end: </li>
+    start: <li>
+    type: block
 text:
 - <nav><details><summary>Menu</summary>
 - <a><link>index</link>|<strong>Dictionary</strong></a>

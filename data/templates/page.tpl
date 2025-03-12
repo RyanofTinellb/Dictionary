@@ -2,9 +2,9 @@ styles:
   '!doctype':
     type: complete
   body:
-    type: block
-    start: <p>
     end: </p>
+    start: <p>
+    type: block
   content:
     type: div
   data:
@@ -16,18 +16,18 @@ styles:
   footer:
     type: block
   h1:
-    type: heading
-    param: ''
     open: <h1>
+    param: ''
+    type: heading
   head:
     type: block
   html:
-    type: block
     language: true
+    type: block
   inline-script:
-    type: line
-    open: <script>
     close: </script>
+    open: <script>
+    type: line
   input:
     type: complete
   internal-link:
@@ -43,11 +43,11 @@ styles:
   meta:
     type: complete
   script:
-    type: complete
     close: '></script>'
+    type: complete
   template:
-    type: template
     rank: -50
+    type: template
   title:
     type: line
 text:
@@ -63,16 +63,14 @@ text:
 - <body><flex><template>navigation pane</template>
 - <main-page><main><h1><data>name</data></h1>
 - <data>contents</data>
-- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode
-  == 13) {wordsearch()}"</input>
-- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump
-  to Entry"</input></javascript>
+- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>
+- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></javascript>
 - </main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
-- 'let details = document.getElementById("menu");'
+- let details = document.getElementById("menu");
 - if (mql.matches) {details.open = true;}
 - for (elt of document.getElementsByClassName('javascript')) {
 - elt.style.display = "block";}</inline-script></body></html@en>

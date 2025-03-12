@@ -1,213 +1,234 @@
-default:
-  props:
-    font: Cambria
-    size: 18
-    ime: autocorrect
 a:
   type: anchor
 also:
-  type: div
   param: <i>See also:</i> <a href="$url(text)$.html">$upper(text)$</a>
   props:
-    size: 150
-    colour: '#33cc33'
-    left: 15
-    italics: true
     bold: true
+    colour: '#33cc33'
+    italics: true
+    left: 15
+    size: 150
     underline: true
+  type: div
 b:
+  keys:
+    'on': b
   props:
     bold: true
     size: 90
-  key: b
 block:
+  keys:
+    'on': Alt-b
   type: div
-  key: Alt-b
 cite:
-  key: Alt-c
+  keys:
+    'off': Return
+    'on': Alt-c
   props:
     italics: true
-    off-key: Return
+default:
+  props:
+    font: Cambria
+    ime: autocorrect
+    size: 18
 definition:
+  keys:
+    'off': Return
+    'on': Alt-D
   props:
     left: 30
-    off-key: Return
   type: div
-  key: Alt-D
 desktop:
   props:
     colour: '#ff00ff'
   type: span
-external:
-  props:
-    underline: true
-    colour: '#ff00ff'
-  type: anchor
-  param: $lookup:external$|$text$
-  key: Alt-e
-summary|folding:
-  type: line
-  key: Alt-f
-  props:
-    left: 50
 details|folding:
-  type: block
-  key: Alt-F
+  keys:
+    'on': Alt-F
   props:
     background: '#99ff99'
+  type: block
+external:
+  keys:
+    'on': Alt-e
+  param: $lookup:external$|$text$
+  props:
+    colour: '#ff00ff'
+    underline: true
+  type: anchor
 gloss:
+  keys:
+    'off': Return
+    'on': Alt-g
   props:
     italics: true
-    off-key: Return
   type: span
-  key: Alt-g
 glossary:
+  close: </abbr></dfn>
+  keys:
+    'off': Return
+    'on': Alt-k
+  open: <dfn><abbr class="glossary" title="
+  param: $lookup:glossary$|$text$
+  pipe: '">'
   props:
     font: Felix Titling
     size: 80
-    off-key: Return
-  type: span
-  open: <dfn><abbr class="glossary" title="
-  pipe: '">'
-  close: </abbr></dfn>
-  param: $lookup:glossary$|$text$
   rank: -50
-  key: Alt-k
+  type: span
 h2:
-  type: heading
   props:
-    font: Artisan Paris
-    size: 120
     bold: true
+    font: Artisan Paris
     justification: centre
+    size: 120
+  type: heading
+h2|language:
+  keys:
+    'off': Return
+    'on': KeyPress-1
+  param: ' id="$url(text)$|$text$'
+  props:
+    bold: true
+    font: Artisan Paris
+    justification: centre
+    size: 120
+    top: 25
+  type: heading
 h3:
   props:
-    font: Garamond
-    underline: true
-    top: 15
     bottom: 7
+    font: Garamond
+    top: 15
+    underline: true
   type: heading
+h3|part-of-speech:
+  keys:
+    'off': Return
+    'on': KeyPress-2
+  props:
+    bottom: 7
+    font: Garamond
+    top: 15
+  type: line
+h4|subheading:
+  keys:
+    'off': Return
+    'on': KeyPress-3
+  props:
+    bold: true
+    bottom: 15
+    font: Harrington
+    left: 50
+    top: 15
+    underline: true
+  type: line
 hidden:
+  keys:
+    'on': h
   props:
     colour: '#999999'
     strikeout: true
   type: span
-  key: h
 i:
-  key: i
+  keys:
+    'off': Return
+    'on': i
   props:
     italics: true
-    off-key: Return
 introduction:
   type: div
 ipa:
+  close: </span></a>
+  keys:
+    'off': space
+    'on': Alt-i
+  language: true
+  param: $lookup:ipa$|$text$
+  pipe: '"><span class="ipa">'
   props:
     font: Lucida Sans Unicode
-    off-key: space
     ime: ipa
   type: anchor
-  pipe: '"><span class="ipa">'
-  close: </span></a>
-  param: $lookup:ipa$|$text$
-  language: true
-  key: Alt-i
 javascript:
   type: div
 landscape:
-  type: div
   props:
     background: '#ccf'
-h2|language:
-  props:
-    font: Artisan Paris
-    size: 120
-    bold: true
-    justification: centre
-    off-key: Return
-    top: 25
-  key: KeyPress-1
-  type: heading
-  param: ' id="$url(text)$|$text$'
+  type: div
 link:
+  keys:
+    'off': space
+    'on': Alt-n
+  language: true
+  param: $text$.html#$url(lookup:lang)$|$upper(text)$
   props:
-    underline: true
     colour: '#0080ff'
     ime: transliteration
-    off-key: space
+    underline: true
   type: anchor
-  param: $text$.html#$url(lookup:lang)$|$upper(text)$
-  key: Alt-n
-  language: true
 mobile:
   props:
     colour: '#ffff00'
   type: span
 mobile-table:
-  type: div
   open: <div class="mobile">
+  type: div
 multiline:
+  keys:
+    'on': Alt-m
   type: span
-  key: Alt-m
 native-script:
+  keys:
+    'off': Return
+    'on': Alt-N
   props:
     justification: centre
-    off-key: Return
   type: div
-  key: Alt-N
 note:
-  type: span
+  keys:
+    'on': n
   props:
     italics: true
     size: 90
-  key: 'n'
+  type: span
 ol:
   type: ol
 overline:
   type: span
-h3|part-of-speech:
-  props:
-    font: Garamond
-    top: 15
-    bottom: 7
-    off-key: Return
-  key: KeyPress-2
-  type: line
 portrait:
-  type: div
   props:
     background: '#cfc'
+  type: div
 poslink:
-  props:
-    underline: true
-    off-key: space
-    colour: '#c6c'
-  type: anchor
+  keys:
+    'off': space
+    'on': Alt-p
   language: true
   param: $lookup:poslink$|$text$
-  key: Alt-p
-pronunciation:
-  type: div
-  key: Alt-P
   props:
+    colour: '#c6c'
+    underline: true
+  type: anchor
+pronunciation:
+  keys:
+    'off': Return
+    'on': Alt-P
+  props:
+    bottom: 25
     justification: centre
     top: 10
-    bottom: 25
-    off-key: Return
+  type: div
 strong:
   props:
     bold: true
 sub: {}
-h4|subheading:
+summary|folding:
+  keys:
+    'on': Alt-f
   props:
-    font: Harrington
-    bold: true
-    underline: true
-    top: 15
-    bottom: 15
     left: 50
-    off-key: Return
   type: line
-  key: KeyPress-3
 sup: {}
 symbol:
   type: span
@@ -216,29 +237,33 @@ table:
 tbody:
   type: block
 template:
-  type: template
+  keys:
+    'off': Return
   props:
     colour: '#0f0'
+  type: template
 thead:
   type: block
 tinellbian:
+  keys:
+    'off': space
+    'on': Alt-t
+  language: true
   props:
     font: Tinellbian
+    ime: tinellbian
     size: 150
     underline: true
-    ime: tinellbian
-    off-key: space
   type: span
-  language: true
-  key: Alt-t
 translation:
   type: div
 transliteration:
-  type: span
+  keys:
+    'off': space
   language: true
   props:
     ime: transliteration
-    off-key: space
+  type: span
 type:
   type: div
 ul:
@@ -246,19 +271,21 @@ ul:
 universe:
   type: span
 wikt-link:
+  param: https://en.wiktionary.org/wiki/$text$|$text$
   props:
     colour: '#6600ff'
     underline: true
   type: anchor
-  param: https://en.wiktionary.org/wiki/$text$|$text$
 wordlist:
+  keys:
+    'on': Alt-W
   props:
     background: '#ffc'
     left: 15
   type: div
-  key: Alt-W
 wordlist-caption:
+  keys:
+    'on': Alt-w
   props:
     colour: '#f99'
   type: div
-  key: Alt-w

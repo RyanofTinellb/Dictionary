@@ -1,4 +1,4 @@
-styles:
+styles: null
 text:
 - <!DOCTYPE html>
 - <html>
@@ -23,9 +23,7 @@ text:
 - ''
 - ''
 - <introduction>
-- <p>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian
-  languages, consisting of High Lulani and its descendants. In addition, miscellaneous
-  English neologisms have been added, including proper nouns.</p>
+- <p>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</p>
 - </introduction>
 - ''
 - <javascript>
@@ -34,9 +32,7 @@ text:
 - ''
 - <h2 id="searching">Searching</h2>
 - ''
-- <p>The search box at the bottom of each page allows one to proceed directly to any
-  dictionary entry. Contrariwise, the search box in the navigation pane runs a general
-  search of the site.</p>
+- <p>The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</p>
 - </introduction>
 - ''
 - </javascript>
