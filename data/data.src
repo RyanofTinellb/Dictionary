@@ -2457,8 +2457,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/da/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> bodypart</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>evidence</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>palm of the hand; <i>obviously</i>; <i>clearly</i>
-              - </definition><h4|subheading>Notes</h4|subheading>
+              - <definition>palm of the hand; <i>obviously</i>; <i>clearly</i></definition>
+              - <h4|subheading>Notes</h4|subheading>
               - Signifies shared information when used adverbially.
               - <h4|subheading>See Also</h4|subheading>
               - <poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl>
@@ -2931,8 +2931,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>で</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/di/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>up; above; atop; before (<i><external>subjective</external> time</i>)
-              - </definition><h4|subheading>Derived Terms</h4|subheading>
+              - <definition>up; above; atop; before (<i><external>subjective</external> time</i>)</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>disinnamuka</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせっなむか</tinellbian@x-tlb-hl> <gloss>prologue</gloss></block></wordlist>
               - <h4|subheading>Antonym</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <gloss>down</gloss></block></wordlist>
@@ -4516,8 +4516,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>voice; speech</definition>
             haru:
-              date: '2025-03-11'
-              position: '13.26'
+              date: '2025-03-13'
+              position: '14.13'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かる</tinellbian@x-tlb-hl></native-script>
@@ -4535,8 +4535,8 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to be alone</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><note>with <poslink@x-tlb-hl>animates</poslink@x-tlb-hl></note> with
-              - <note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> consisting of</definition>
+              - <definition><note>with <poslink@x-tlb-hl>animates</poslink@x-tlb-hl></note> with</definition>
+              - <definition><note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> consisting of</definition>
               - <h3|part-of-speech>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>at the same time; alongside; while; as</definition>
               - <h3|part-of-speech><poslink@x-tlb-hl>derived</poslink@x-tlb-hl> <poslink@x-tlb-hl>auxiliary</poslink@x-tlb-hl></h3|part-of-speech>
@@ -7327,8 +7327,8 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
-              - <definition>this; proximate object
-              - </definition><h4|subheading>See Also</h4|subheading>
+              - <definition>this; proximate object</definition>
+              - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
             marika:
               date: '2025-01-20'
@@ -11052,26 +11052,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈsaɽə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>reins</definition>
-            sarra:
-              position: '1.0'
-              text: []
             sarru:
-              children:
-                ? ''
-                : children:
-                    ? ''
-                    : children:
-                        ? ''
-                        : children:
-                            ? ''
-                            : position: '1.0'
-                              text: []
-                          position: '1.0'
-                          text: []
-                      position: '1.0'
-                      text: []
-                  position: '1.0'
-                  text: []
+              children: {}
               date: '2025-03-10'
               position: '5.16'
               text:
@@ -11746,9 +11728,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>すあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsuʔə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
-              - <definition>they; he; she; third person topic intransitive; <glossary>3top;int</glossary>
-              - them; her; him; third person topic transitive; <glossary>3top;tra</glossary>
-              - theirs; his; hers; third person topic genitive; <glossary>3top;gen</glossary></definition>
+              - <definition>they; he; she; third person topic intransitive; <glossary>3top;int</glossary></definition>
+              - <definition>them; her; him; third person topic transitive; <glossary>3top;tra</glossary></definition>
+              - <definition>theirs; his; hers; third person topic genitive; <glossary>3top;gen</glossary></definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>personal pronouns</template>
             su’usi:
@@ -14181,8 +14163,6 @@ entries:
               - <link@x-tlb-hl>’ili</link@x-tlb-hl> <link@x-tlb-hl>ra’u</link@x-tlb-hl>?
               - <gloss>really prs;gno?</gloss></details|folding>
               - “Really?”
-            ’illuxa:
-              text: []
             ’ilu:
               date: '2019-05-11'
               text:

@@ -33,7 +33,9 @@ styles:
   internal-link:
     type: link
   javascript:
-    type: line
+    type: div
+    start: ''
+    end: ''
   link:
     type: complete
   main:

@@ -1,3 +1,84 @@
+h2|language:
+  keys:
+    'on': KeyPress-1
+    'off': Return
+  param: ' id="$url(text)$|$text$'
+  props:
+    bold: true
+    font: Artisan Paris
+    justification: centre
+    size: 120
+    top: 25
+  type: heading
+  hierarchy:
+    rank: 1
+    key: l
+    tag: article|faux-ami
+native-script:
+  type: div
+  keys:
+    'on': Alt-N
+    'off': Return
+  props:
+    justification: centre
+  hierarchy:
+    rank: 2
+    key: n
+    tag: div|homophone
+pronunciation:
+  type: div
+  keys:
+    'on': Alt-P
+    'off': Return
+  props:
+    bottom: 25
+    justification: centre
+    top: 10
+  hierarchy:
+    rank: 3
+    tag: div|homograph
+    key: r
+    function: strip-/
+h3|part-of-speech:
+  type: line
+  keys:
+    'on': KeyPress-2
+    'off': Return
+  props:
+    bottom: 7
+    font: Garamond
+    top: 15
+  hierarchy:
+    rank: 4
+    key: p
+    tag: section|homonym
+definition:
+  type: div
+  keys:
+    'on': Alt-D
+    'off': Return
+  props:
+    left: 30
+  hierarchy:
+    rank: 5
+    key: d
+    save: true
+    function: caps
+h4|subheading:
+  type: line
+  keys:
+    'on': KeyPress-3
+    'off': Return
+  props:
+    bold: true
+    bottom: 15
+    font: Harrington
+    left: 50
+    top: 15
+    underline: true
+  hierarchy:
+    rank: 6
+    tag: section
 a:
   type: anchor
 also:
@@ -20,8 +101,8 @@ block:
   type: div
 cite:
   keys:
-    'off': Return
     'on': Alt-c
+    'off': Return
   props:
     italics: true
 default:
@@ -29,13 +110,6 @@ default:
     font: Cambria
     ime: autocorrect
     size: 18
-definition:
-  keys:
-    'off': Return
-    'on': Alt-D
-  props:
-    left: 30
-  type: div
 desktop:
   props:
     colour: '#ff00ff'
@@ -54,16 +128,16 @@ external:
   type: anchor
 gloss:
   keys:
-    'off': Return
     'on': Alt-g
+    'off': Return
   props:
     italics: true
   type: span
 glossary:
   close: </abbr></dfn>
   keys:
-    'off': Return
     'on': Alt-k
+    'off': Return
   open: <dfn><abbr class="glossary" title="
   param: $lookup:glossary$|$text$
   pipe: '">'
@@ -79,18 +153,6 @@ h2:
     justification: centre
     size: 120
   type: heading
-h2|language:
-  keys:
-    'off': Return
-    'on': KeyPress-1
-  param: ' id="$url(text)$|$text$'
-  props:
-    bold: true
-    font: Artisan Paris
-    justification: centre
-    size: 120
-    top: 25
-  type: heading
 h3:
   props:
     bottom: 7
@@ -98,27 +160,7 @@ h3:
     top: 15
     underline: true
   type: heading
-h3|part-of-speech:
-  keys:
-    'off': Return
-    'on': KeyPress-2
-  props:
-    bottom: 7
-    font: Garamond
-    top: 15
-  type: line
-h4|subheading:
-  keys:
-    'off': Return
-    'on': KeyPress-3
-  props:
-    bold: true
-    bottom: 15
-    font: Harrington
-    left: 50
-    top: 15
-    underline: true
-  type: line
+
 hidden:
   key: h
   props:
@@ -127,8 +169,8 @@ hidden:
   type: span
 i:
   keys:
-    'off': Return
     'on': i
+    'off': Return
   props:
     italics: true
 introduction:
@@ -136,8 +178,8 @@ introduction:
 ipa:
   close: </span></a>
   keys:
-    'off': space
     'on': Alt-i
+    'off': space
   language: true
   param: $lookup:ipa$|$text$
   pipe: '"><span class="ipa">'
@@ -153,8 +195,8 @@ landscape:
   type: div
 link:
   keys:
-    'off': space
     'on': Alt-n
+    'off': space
   language: true
   param: $text$.html#$url(lookup:lang)$|$upper(text)$
   props:
@@ -166,19 +208,9 @@ mobile:
   props:
     colour: '#ffff00'
   type: span
-mobile-table:
-  open: <div class="mobile">
-  type: div
 multiline:
   key: Alt-m
   type: span
-native-script:
-  keys:
-    'off': Return
-    'on': Alt-N
-  props:
-    justification: centre
-  type: div
 note:
   key: n
   props:
@@ -195,23 +227,14 @@ portrait:
   type: div
 poslink:
   keys:
-    'off': space
     'on': Alt-p
+    'off': space
   language: true
   param: $lookup:poslink$|$text$
   props:
     colour: '#c6c'
     underline: true
   type: anchor
-pronunciation:
-  keys:
-    'off': Return
-    'on': Alt-P
-  props:
-    bottom: 25
-    justification: centre
-    top: 10
-  type: div
 strong:
   props:
     bold: true
@@ -237,8 +260,8 @@ thead:
   type: block
 tinellbian:
   keys:
-    'off': space
     'on': Alt-t
+    'off': space
   language: true
   props:
     font: Tinellbian
