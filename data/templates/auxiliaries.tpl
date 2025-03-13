@@ -4,8 +4,7 @@ styles:
       background: '#ccf'
     type: div
   link:
-    keys:
-      'on': Alt-n
+    key: Alt-n
     language: true
     param: $text$.html#$url(lookup:lang)$|$upper(text)$
     props:
@@ -14,8 +13,7 @@ styles:
       underline: true
     type: anchor
   multiline:
-    keys:
-      'on': Alt-m
+    key: Alt-m
     type: span
   portrait:
     props:
@@ -28,8 +26,7 @@ styles:
   thead:
     type: block
   tinellbian:
-    keys:
-      'on': Alt-t
+    key: Alt-t
     language: true
     props:
       font: Tinellbian
@@ -42,8 +39,7 @@ styles:
     start: <li>
     type: block
   wordlist:
-    keys:
-      'on': Alt-W
+    key: Alt-W
     props:
       colour: '#f00'
       left: 15

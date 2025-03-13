@@ -11,14 +11,12 @@ also:
     underline: true
   type: div
 b:
-  keys:
-    'on': b
+  key: b
   props:
     bold: true
     size: 90
 block:
-  keys:
-    'on': Alt-b
+  key: Alt-b
   type: div
 cite:
   keys:
@@ -43,14 +41,12 @@ desktop:
     colour: '#ff00ff'
   type: span
 details|folding:
-  keys:
-    'on': Alt-F
+  key: Alt-F
   props:
     background: '#99ff99'
   type: block
 external:
-  keys:
-    'on': Alt-e
+  key: Alt-e
   param: $lookup:external$|$text$
   props:
     colour: '#ff00ff'
@@ -124,8 +120,7 @@ h4|subheading:
     underline: true
   type: line
 hidden:
-  keys:
-    'on': h
+  key: h
   props:
     colour: '#999999'
     strikeout: true
@@ -175,8 +170,7 @@ mobile-table:
   open: <div class="mobile">
   type: div
 multiline:
-  keys:
-    'on': Alt-m
+  key: Alt-m
   type: span
 native-script:
   keys:
@@ -186,8 +180,7 @@ native-script:
     justification: centre
   type: div
 note:
-  keys:
-    'on': n
+  key: n
   props:
     italics: true
     size: 90
@@ -224,8 +217,7 @@ strong:
     bold: true
 sub: {}
 summary|folding:
-  keys:
-    'on': Alt-f
+  key: Alt-f
   props:
     left: 50
   type: line
@@ -237,8 +229,7 @@ table:
 tbody:
   type: block
 template:
-  keys:
-    'off': Return
+  off-key: Return
   props:
     colour: '#0f0'
   type: template
@@ -258,9 +249,8 @@ tinellbian:
 translation:
   type: div
 transliteration:
-  keys:
-    'off': space
   language: true
+  off-key: space
   props:
     ime: transliteration
   type: span
@@ -277,15 +267,13 @@ wikt-link:
     underline: true
   type: anchor
 wordlist:
-  keys:
-    'on': Alt-W
+  key: Alt-W
   props:
     background: '#ffc'
     left: 15
   type: div
 wordlist-caption:
-  keys:
-    'on': Alt-w
+  key: Alt-w
   props:
     colour: '#f99'
   type: div
