@@ -1,6 +1,6 @@
 h2|language:
   keys:
-    'on': KeyPress-1
+    'on': 1
     'off': Return
   param: ' id="$url(text)$|$text$'
   props:
@@ -42,7 +42,7 @@ pronunciation:
 h3|part-of-speech:
   type: line
   keys:
-    'on': KeyPress-2
+    'on': 2
     'off': Return
   props:
     bottom: 7
@@ -67,7 +67,7 @@ definition:
 h4|subheading:
   type: line
   keys:
-    'on': KeyPress-3
+    'on': 3
     'off': Return
   props:
     bold: true
@@ -252,7 +252,7 @@ table:
 tbody:
   type: block
 template:
-  off-key: Return
+  'off'-key: Return
   props:
     colour: '#0f0'
   type: template
@@ -273,7 +273,7 @@ translation:
   type: div
 transliteration:
   language: true
-  off-key: space
+  'off'-key: space
   props:
     ime: transliteration
   type: span
