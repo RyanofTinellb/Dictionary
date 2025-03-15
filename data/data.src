@@ -1055,18 +1055,20 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>last; final</definition>
             -ra:
-              date: '2019-04-28'
-              position: '10.12'
+              children: {}
+              date: '2025-03-15'
+              position: '5.38'
               text:
+              - <also>ra</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech>derivational <poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
               - <definition>denotes a pair of something</definition>
               - <h4|subheading>Examples</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>luffu</link@x-tlb-hl><b>ra</b> <tinellbian@x-tlb-hl>をっふら</tinellbian@x-tlb-hl> <gloss>eyes</gloss>
+              - <block><wordlist><link@x-tlb-hl>luffu</link@x-tlb-hl><b>ra</b> <tinellbian@x-tlb-hl>をっふら</tinellbian@x-tlb-hl> <gloss>eyes</gloss>
               - <link@x-tlb-hl>’itikku</link@x-tlb-hl><b>ra</b> <tinellbian@x-tlb-hl>いてっくら</tinellbian@x-tlb-hl> <gloss>breasts</gloss>
-              - <link@x-tlb-hl>kanu</link@x-tlb-hl><b>ra</b> <tinellbian@x-tlb-hl>かぬら</tinellbian@x-tlb-hl> <gloss>legs</gloss></block></wordlist>
+              - <link@x-tlb-hl>kanu</link@x-tlb-hl><b>ra</b> <tinellbian@x-tlb-hl>かぬら</tinellbian@x-tlb-hl> <gloss>legs</gloss></wordlist></block>
             -raqi:
               date: '2018-12-27'
               position: '1.0'
@@ -5583,7 +5585,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>play; mucking around</definition>
             kanni:
-              date: '2024-08-28'
+              date: '2025-03-15'
+              position: '10.3'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かっに</tinellbian@x-tlb-hl></native-script>
@@ -5593,7 +5596,7 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>kanni</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっに</tinellbian@x-tlb-hl> <gloss>dog</gloss>
               - <link@x-tlb-hl>qikanni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねかっに</tinellbian@x-tlb-hl> <gloss>dog</gloss></wordlist>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech>derived <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>dog</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>kanni</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっに</tinellbian@x-tlb-hl> <gloss>wolf</gloss> + <link@x-tlb-hl>-ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>、いに</tinellbian@x-tlb-hl> <gloss><glossary>dim</glossary></gloss>
@@ -9931,18 +9934,19 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>ni</link@x-tlb-hl> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> <gloss>in</gloss></block></wordlist>
             ra:
-              date: '2019-01-07'
-              position: '12.10'
+              date: '2025-03-15'
+              position: '5.44'
               text:
+              - <also>-ra</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽa/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
               - <definition>2; two</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block>← <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss>
+              - <block><wordlist>← <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss>
               - → <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss>
-              - — <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl> <gloss>rwo</gloss></block></wordlist>
+              - — <link@x-tlb-hl>kannu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっぬ</tinellbian@x-tlb-hl> <gloss>rwo</gloss></wordlist></block>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
               - <definition>metal</definition>
               - <h4|subheading>See Also</h4|subheading>

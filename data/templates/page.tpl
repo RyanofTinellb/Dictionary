@@ -70,6 +70,7 @@ text:
 - </main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>
+- <script>src="<internal-link>data/scripts/localise_links.js</internal-link>"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
 - let details = document.getElementById("menu");

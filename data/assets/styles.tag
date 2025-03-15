@@ -252,7 +252,7 @@ table:
 tbody:
   type: block
 template:
-  'off'-key: Return
+  off-key: Return
   props:
     colour: '#0f0'
   type: template
@@ -273,7 +273,7 @@ translation:
   type: div
 transliteration:
   language: true
-  'off'-key: space
+  off-key: space
   props:
     ime: transliteration
   type: span
