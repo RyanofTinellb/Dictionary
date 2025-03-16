@@ -119,6 +119,7 @@ details|folding:
   props:
     background: '#99ff99'
   type: block
+  pipe: '&NoBreak;'
 external:
   key: Alt-e
   param: $lookup:external$|$text$
@@ -136,7 +137,7 @@ gloss:
 glossary:
   close: </abbr></dfn>
   keys:
-    'on': Alt-k
+    'on': Alt-G
     'off': Return
   open: <dfn><abbr class="glossary" title="
   param: $lookup:glossary$|$text$
@@ -201,7 +202,7 @@ link:
   param: $text$.html#$url(lookup:lang)$|$upper(text)$
   props:
     colour: '#0080ff'
-    ime: transliteration
+    ime: links
     underline: true
   type: anchor
 mobile:
@@ -240,7 +241,9 @@ strong:
     bold: true
 sub: {}
 summary|folding:
-  key: Alt-f
+  keys: 
+    'on': Alt-f
+    'off': Return
   props:
     left: 50
   type: line
@@ -273,9 +276,12 @@ translation:
   type: div
 transliteration:
   language: true
-  off-key: space
+  keys:
+    'on': Alt-T
+    'off': Return
   props:
     ime: transliteration
+    bold: true
   type: span
 type:
   type: div

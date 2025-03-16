@@ -943,15 +943,16 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>only; sole</definition>
             -nissa:
-              date: '2018-04-03'
+              date: '2025-03-16'
+              position: '7.25'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌnisːə/</ipa@x-tlb-hl></pronunciation>
+              - <pronunciation><ipa@x-tlb-hl>/ˈnisːə/</ipa@x-tlb-hl></pronunciation>
               - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</h3|part-of-speech>'
               - <definition>user</definition>
               - <h4|subheading>Examples</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>xissatanissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>しっさたにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>taʔanissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></wordlist></block>
             -pa:
               date: '2025-01-20'
               position: '10.5'
@@ -2290,6 +2291,20 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈcʰiŋʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>mould (for pouring, etc.)</definition>
+            cira:
+              position: '1.0'
+              text: []
+            ciri:
+              date: '2025-03-17'
+              position: '7.19'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ちり</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈcʰiɽɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>humour; comedy; fun</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>xiciri</link@x-tlb-hl> <tinellbian@x-tlb-hl>しちり</tinellbian@x-tlb-hl> <gloss>be funny</gloss></wordlist>
             cissa:
               date: '2019-01-06'
               position: '7.0'
@@ -12180,6 +12195,28 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰasɨ/</ipa@x-tlb-hl></pronunciation>
               - <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <h3|part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>probability; <i>probably</i>; <i>probability</i> <i>≈</i> <i>0.50</i></definition>
+            taʔa:
+              date: '2025-03-17'
+              position: '7.25'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>たっあ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈtʰaʔjə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>musical instrument</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>taʔanissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></wordlist>
+            taʔanissa:
+              date: '2025-03-17'
+              position: '7.45'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>たっあにっさ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌtʰaʔjəˈnisːə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>musician</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>taʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっあ</tinellbian@x-tlb-hl> <gloss>musical instrument</gloss> + <link@x-tlb-hl>-nissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl> <gloss>user</gloss>
             ta’i:
               date: '2018-03-30'
               position: '1.0'
@@ -12994,8 +13031,8 @@ entries:
               - → <link@x-tlb-hl>rili</link@x-tlb-hl> <tinellbian@x-tlb-hl>りえ</tinellbian@x-tlb-hl> <gloss>moscovium</gloss>
               - ↑ <link@x-tlb-hl>musaqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさも</tinellbian@x-tlb-hl> <gloss>lead</gloss></block></wordlist>
             xi:
-              date: '2019-03-19'
-              position: '10.10'
+              date: '2025-03-17'
+              position: '8.13'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl></native-script>
@@ -13011,6 +13048,7 @@ entries:
               - <link@x-tlb-hl>ximussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>しむっさ</tinellbian@x-tlb-hl> <gloss>to be exotic</gloss>
               - <link@x-tlb-hl>xiranna</link@x-tlb-hl> <tinellbian@x-tlb-hl>しらっな</tinellbian@x-tlb-hl> <gloss>to be exalted</gloss>
               - <link@x-tlb-hl>xifipu</link@x-tlb-hl> <tinellbian@x-tlb-hl>しべぷ</tinellbian@x-tlb-hl> <gloss>to be rude</gloss>
+              - <link@x-tlb-hl>xiciri</link@x-tlb-hl> <tinellbian@x-tlb-hl>しちり</tinellbian@x-tlb-hl> <gloss>to be funny</gloss>
               - <link@x-tlb-hl>xihuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>しほば</tinellbian@x-tlb-hl> <gloss>to be important</gloss></block></wordlist>
             xibbuti:
               date: '2024-09-02'
@@ -13031,6 +13069,17 @@ entries:
               - <definition>idea; concept</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>paxici</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱしち</tinellbian@x-tlb-hl> <gloss>to consider</gloss></block></wordlist>
+            xiciri:
+              date: '2025-03-17'
+              position: '8.0'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>しちり</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/cʰɨˈɕiɽɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to be funny; to be comical; to be humourous</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to broadcast subtly</gloss> + <link@x-tlb-hl>ciri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちり</tinellbian@x-tlb-hl> <gloss>humour</gloss>
             xidu:
               date: '2018-04-05'
               text:
@@ -13140,26 +13189,6 @@ entries:
               - <definition>to be exalted</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>ranna</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっな</tinellbian@x-tlb-hl> <gloss>glory</gloss>
-            xissata:
-              date: '2018-04-05'
-              text:
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>しっさた</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈɕisːətʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>musical instrument</definition>
-              - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>xissatanissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>しっさたにっさ</tinellbian@x-tlb-hl> <gloss>musician</gloss></block></wordlist>
-            xissatanissa:
-              date: '2018-04-05'
-              text:
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>しっさたにっさ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈɕisːətʰaˌnisːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>musician</definition>
-              - <h4|subheading>Etymology</h4|subheading>
-              - <link@x-tlb-hl>xissata</link@x-tlb-hl> <tinellbian@x-tlb-hl>しっさた</tinellbian@x-tlb-hl> <gloss>musical instrument</gloss> + <link@x-tlb-hl>-nissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>にっさ</tinellbian@x-tlb-hl> <gloss>user</gloss>
             xita:
               date: '2024-05-02'
               position: '13.25'
@@ -13513,6 +13542,25 @@ entries:
               - <block><link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian>いせえ</tinellbian> <gloss>sadness</gloss>
               - <link@x-tlb-hl>sutti</link@x-tlb-hl> <tinellbian>すって</tinellbian> <gloss>fear</gloss>
               - <link@x-tlb-hl>dasa</link@x-tlb-hl> <tinellbian>ださ</tinellbian> <gloss>zeal</gloss></block></wordlist>
+            ’ahatilaru:
+              date: '2025-03-17'
+              position: '13.17'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>あはてわる</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ʔəˌhatʰɨˈlaɽʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>anniversary; birthday</definition>
+              - <h4|subheading>Notes</h4|subheading>
+              - usually used with <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss>
+              - <h4|subheading>Examples</h4|subheading>
+              - <details|folding><summary|folding><transliteration@x-tlb-hl>Ku’ahatilaru dissunagi!</transliteration@x-tlb-hl></summary|folding>
+              - <tinellbian@x-tlb-hl>。くあはてわるでっすなぎ。</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>ku-</link@x-tlb-hl>|<transliteration@x-tlb-hl>’ahatilaru</transliteration@x-tlb-hl> <link@x-tlb-hl>dissu</link@x-tlb-hl>-<link@x-tlb-hl>nagi</link@x-tlb-hl>
+              - <glossary>dat</glossary>-<gloss>anniversary feel-</gloss><glossary>fut;sta</glossary></details|folding>
+              - “Happy birthday!”
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss> + <link@x-tlb-hl>laru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>year</gloss>
             ’ahatini:
               date: '2018-03-27'
               text:
@@ -14724,6 +14772,7 @@ entries:
               - <link@x-tlb-hl>sufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すべ</tinellbian@x-tlb-hl> <gloss>space</gloss>
               - <link@x-tlb-hl>maʔu</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっう</tinellbian@x-tlb-hl> <gloss>gingla</gloss></block></wordlist>
           date: '2024-05-29'
+          position: '1.0'
           text: []
       date: '2025-01-27'
       position: '1.0'
