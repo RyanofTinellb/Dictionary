@@ -2,9 +2,10 @@ styles:
   a:
     type: anchor
   button: {}
-  details:
-    open: <details id="menu">
+  details#menu:
     type: block
+  entry-data:
+    type: data
   input:
     type: complete
   javascript:
@@ -15,31 +16,24 @@ styles:
     type: link
   links:
     type: div
-  nav:
-    open: <nav class="main">
+  nav|main:
     type: block
-  search-form:
-    close: </form>
-    open: <form id="search">
-    type: block
+  form#search:
+    type: line
   strong:
     props:
       bold: true
-  submit-button:
-    close: </button>
-    open: <button type="button">
-    type: inline
+  svg:
+    type: template
   summary:
     type: line
   toc:
     type: data
   ul:
-    end: </li>
-    start: <li>
-    type: block
+    type: ul
+templates:
+  magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
 text:
-- <nav><details><summary>Menu</summary>
-- <a><link>index</link>|<strong>Dictionary</strong></a>
-- <javascript><search-form><input>type="text" name="term"</input>
-- <button>Search</button></search-form></javascript>
-- <javascript><ul><a><link>special/random_entry</link>|Random Entry</a></ul></javascript></details></nav>
+  - <nav|main><details#menu><summary>Menu</summary>
+  - <a><link>index</link>|<entry-data>root</entry-data></a>
+  - '<javascript><form#search><label>Search: </label><input>type="text" name="term"</input><button><svg>magnifying glass</svg></button></form#search><ul><a><link>special/random_entry</link>|Random Entry</a></ul></javascript></details#menu></nav|main>'

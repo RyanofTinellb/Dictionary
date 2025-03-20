@@ -13543,8 +13543,8 @@ entries:
               - <link@x-tlb-hl>sutti</link@x-tlb-hl> <tinellbian>すって</tinellbian> <gloss>fear</gloss>
               - <link@x-tlb-hl>dasa</link@x-tlb-hl> <tinellbian>ださ</tinellbian> <gloss>zeal</gloss></block></wordlist>
             ’ahatilaru:
-              date: '2025-03-17'
-              position: '13.17'
+              date: '2025-03-20'
+              position: '7.35'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あはてわる</tinellbian@x-tlb-hl></native-script>
@@ -13554,10 +13554,10 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - usually used with <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss>
               - <h4|subheading>Examples</h4|subheading>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>Ku’ahatilaru dissunagi!</transliteration@x-tlb-hl></summary|folding>
-              - <tinellbian@x-tlb-hl>。くあはてわるでっすなぎ。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>ku-</link@x-tlb-hl>|<transliteration@x-tlb-hl>’ahatilaru</transliteration@x-tlb-hl> <link@x-tlb-hl>dissu</link@x-tlb-hl>-<link@x-tlb-hl>nagi</link@x-tlb-hl>
-              - <glossary>dat</glossary>-<gloss>anniversary feel-</gloss><glossary>fut;sta</glossary></details|folding>
+              - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔahatilaru dissunagi!</transliteration@x-tlb-hl></summary|folding>
+              - <tinellbian@x-tlb-hl>。あはてわるでっすなぎ。</tinellbian@x-tlb-hl>
+              - <transliteration@x-tlb-hl>’ahatilaru</transliteration@x-tlb-hl> <link@x-tlb-hl>dissu</link@x-tlb-hl>-<link@x-tlb-hl>nagi</link@x-tlb-hl>
+              - <gloss>anniversary feel-</gloss><glossary>fut;sta</glossary></details|folding>
               - “Happy birthday!”
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss> + <link@x-tlb-hl>laru</link@x-tlb-hl> <tinellbian@x-tlb-hl>わる</tinellbian@x-tlb-hl> <gloss>year</gloss>

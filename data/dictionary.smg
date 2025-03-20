@@ -43,6 +43,7 @@ templates:
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
     highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
     indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\indefinite_pronouns.tpl
+    magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
     navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
     personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\personal_pronouns.tpl
     search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
