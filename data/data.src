@@ -2291,9 +2291,6 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈcʰiŋʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>mould (for pouring, etc.)</definition>
-            cira:
-              position: '1.0'
-              text: []
             ciri:
               date: '2025-03-17'
               position: '7.19'
