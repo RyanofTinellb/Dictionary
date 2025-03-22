@@ -5,7 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - juffila
+  - -ri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - gusu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - gusuri
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime

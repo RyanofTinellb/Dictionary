@@ -12,6 +12,8 @@ styles:
     type: div
   label:
     type: line
+    open: '<label for="'
+    pipe: '">'
   link:
     type: link
   links:
@@ -36,4 +38,4 @@ templates:
 text:
   - <nav|main><details#menu><summary>Menu</summary>
   - <a><link>index</link>|<entry-data>root</entry-data></a>
-  - '<javascript><form#search><label>Search: </label><input>type="text" name="term"</input><button><svg>magnifying glass</svg></button></form#search><ul><a><link>special/random_entry</link>|Random Entry</a></ul></javascript></details#menu></nav|main>'
+  - '<javascript><form#search><label>term|Search: </label><input>type="text" name="term" id="term"</input><button><svg>magnifying glass</svg></button></form#search><ul><a><link>special/random_entry</link>|Random Entry</a></ul></javascript></details#menu></nav|main>'

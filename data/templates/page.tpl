@@ -15,6 +15,8 @@ styles:
     type: div
   footer:
     type: block
+  form#entry:
+    type: line
   h1:
     open: <h1>
     param: ''
@@ -36,6 +38,10 @@ styles:
     type: div
     start: ''
     end: ''
+  label:
+    type: line
+    open: '<label for="'
+    pipe: '">'
   link:
     type: complete
   main:
@@ -65,8 +71,8 @@ text:
 - <body><flex><template>navigation pane</template>
 - <main-page><main><h1><data>name</data></h1>
 - <data>contents</data>
-- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>
-- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></javascript>
+- '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>'
+- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></form#entry></javascript>
 - </main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>

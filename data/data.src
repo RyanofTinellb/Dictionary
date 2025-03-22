@@ -36,13 +36,6 @@ entries:
               - <pronunciation><ipa@en>/ˈfɛʒlə/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>first group of people to reach <link@en>$zhalad</link@en></definition>
-            $guozu:
-              date: '2018-09-30'
-              text:
-              - <h2|language>English</h2|language>
-              - <pronunciation><ipa@en>/ˈgʷɔs̪ʊ/</ipa@en></pronunciation>
-              - <h3|part-of-speech>animate proper noun</h3|part-of-speech>
-              - <definition>Loren’s species, which spread out into the Tinellbian worlds from Naengi</definition>
             $irìa:
               date: '2024-05-28'
               position: '3.49'
@@ -1080,8 +1073,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>more; additional</definition>
             -ri:
-              date: '2024-07-16'
-              position: '14.29'
+              date: '2025-03-23'
+              position: '21.17'
               text:
               - <also>ri</also>
               - <h2|language>High Lulani</h2|language>
@@ -1103,6 +1096,7 @@ entries:
               - <h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
               - <definition>other than</definition>
               - "<wordlist><link@x-tlb-hl>badiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばでり</tinellbian@x-tlb-hl> \t<gloss>world</gloss>"
+              - <link@x-tlb-hl>gusuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすり</tinellbian@x-tlb-hl> <gloss>animal</gloss>
               - "<link@x-tlb-hl>liqari</link@x-tlb-hl> <tinellbian@x-tlb-hl>えげり</tinellbian@x-tlb-hl> \t<gloss>body</gloss></wordlist>"
             -rra:
               date: '2018-04-08'
@@ -1432,7 +1426,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ばだ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbadə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>young <note>non-Guozu</note>; baby</definition>
+              - <definition>young <note>non-guozu</note>; baby</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’appu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぷ</tinellbian@x-tlb-hl> <gloss>foetus</gloss>
               - <link@x-tlb-hl>lassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっせ</tinellbian@x-tlb-hl> <gloss>baby</gloss></block></wordlist>
@@ -3365,7 +3359,7 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - rare
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>Guozu</gloss>
+              - <wordlist><block><link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>guozu</gloss>
               - <link@x-tlb-hl>gusuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl> <gloss>person</gloss></block></wordlist>
             duki:
               date: '2018-04-03'
@@ -4231,6 +4225,13 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈgulɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>blind person</definition>
+            guozu:
+              date: '2018-09-30'
+              text:
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈgʷɔs̪ʊ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>animate proper noun</h3|part-of-speech>
+              - <definition>Loren’s species, which spread out into the Tinellbian worlds from Naengi</definition>
             gupi:
               date: '2019-03-10'
               position: '9.10'
@@ -4340,17 +4341,19 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gurrisu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっりす</tinellbian@x-tlb-hl> <gloss>door</gloss> + <link@x-tlb-hl>cica</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちや</tinellbian@x-tlb-hl> <gloss>fence</gloss>
             gusu:
-              date: '2018-04-05'
+              date: '2025-03-23'
+              position: '10.17'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈgusʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>Guozu; person</definition>
+              - <definition>guozu; person</definition>
               - <h4|subheading>Notes</h4|subheading>
               - Only used when alive.
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>gusuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl> <gloss>person</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>gusuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl> <gloss>person</gloss>
+              - <link@x-tlb-hl>gusuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすり</tinellbian@x-tlb-hl> <gloss>animal</gloss></wordlist></block>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>duha</link@x-tlb-hl> <tinellbian@x-tlb-hl>どは</tinellbian@x-tlb-hl> <gloss>person</gloss></block></wordlist>
             gusuli:
@@ -4360,7 +4363,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/gʉˈsulɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>person; non-Guozu</definition>
+              - <definition>person; non-guozu</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>human</gloss> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>other</gloss>
               - <h4|subheading>See Also</h4|subheading>
@@ -4377,6 +4380,19 @@ entries:
               - refers to people of a nearby tribe
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>person</gloss> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>not</gloss> + <link@x-tlb-hl>’adi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss>
+            gusuri:
+              date: '2025-03-23'
+              position: '9.32'
+              text:
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぐすり</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/gʉˈsuɽɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>animal</definition>
+              - <h4|subheading>Definition</h4|subheading>
+              - non-guozu creature
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>guozu</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <gloss>other than</gloss>
             gusu’adi:
               date: '2018-04-05'
               text:
@@ -6660,7 +6676,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>わっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈlasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>baby <note>Guozu</note></definition>
+              - <definition>baby <note>guozu</note></definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’appu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぷ</tinellbian@x-tlb-hl> <gloss>foetus</gloss>
               - <link@x-tlb-hl>bada</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばだ</tinellbian@x-tlb-hl> <gloss>young</gloss></block></wordlist>

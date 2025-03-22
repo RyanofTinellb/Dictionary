@@ -31,14 +31,14 @@ h2.language:not(:first-of-type) {
 
 .pronunciation a {
 	text-decoration: none;
-	color: black;
+	color: light-dark(black, white);
 	font-weight: normal;
 	font-size: larger;
 	letter-spacing: 2px;
 }
 
 h3.part-of-speech a {
-	color: black;
+	color: light-dark(black, white);
 	text-decoration-style: dashed;
 }
 
@@ -167,6 +167,11 @@ main .results ul {
 	margin-inline-start: 0;
 }
 
+main form#entry {
+	margin-block-start: 3lh;
+	text-align: center;
+}
+
 
 main p a,
 main .results a {
@@ -179,19 +184,4 @@ footer {
 	font-family: serif;
 	text-align: right;
 	width: 75%;
-}
-
-@media (prefers-color-scheme: dark) {
-	.pronunciation a {
-		text-decoration: none;
-		color: white;
-		font-weight: normal;
-		font-size: larger;
-		letter-spacing: 2px;
-	}
-	
-	h3.part-of-speech a {
-		color: white;
-	}
-	
 }
