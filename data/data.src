@@ -5298,8 +5298,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to taste; to smell</definition>
             juffila:
-              date: '2019-01-06'
-              position: '6.59'
+              date: '2025-03-22'
+              position: '8.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>よっべわ</tinellbian@x-tlb-hl></native-script>

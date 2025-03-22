@@ -28,9 +28,9 @@ x-tlb-hl:
   emotion: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#emotion
   evidence: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#evidence
   extent: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#extent
-  foodanddrink: /special/search.html?term=food
+  foodanddrink: special/search.html?term=food
   generic: http://grammar.tinellb.com/languages/highlulani/morphology/suffixes/index.html#quasi-suffixes
-  geologicalterms: /special/search.html?term=geology
+  geologicalterms: special/search.html?term=geology
   gerund: http://grammar.tinellb.com/languages/highlulani/syntax/gerunds.html
   inanimate: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#inanimatenoun
   inanimates: https://grammar.tinellb.com/languages/highlulani/morphology/adpositions.html#inanimates
@@ -39,9 +39,9 @@ x-tlb-hl:
   intransitive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html
   kinetic: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/intransitivity.html#kineticverbs
   kinshipterms: http://grammar.tinellb.com/languages/highlulani/apocrypha/kinship.html
-  listofanimals: /special/search.html?term=animal
+  listofanimals: special/search.html?term=animal
   listofelements: http://grammar.tinellb.com/languages/highlulani/apocrypha/elements.html
-  listofplants: /special/search.html?term=plant
+  listofplants: special/search.html?term=plant
   mass: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#massnouns
   mathematics: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#modals
@@ -55,8 +55,8 @@ x-tlb-hl:
   numeral: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html
   occasion: http://grammar.tinellb.com/languages/highlulani/morphology/nouns/adverbs.html#occasion
   ordinal: http://grammar.tinellb.com/languages/highlulani/apocrypha/numbers.html#ordinalnumbers
-  otherpartsofthebody: /special/search.html?term=bodypart
-  othersubstances: /special/search.html?term=substance
+  otherpartsofthebody: special/search.html?term=bodypart
+  othersubstances: special/search.html?term=substance
   particle: http://grammar.tinellb.com/languages/highlulani/morphology/particles/index.html
   passive: http://grammar.tinellb.com/languages/highlulani/syntax/argumentpromotion.html
   perceptive: http://grammar.tinellb.com/languages/highlulani/morphology/verbs/ambitransitivity.html#perceptiveverbs
