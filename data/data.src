@@ -13081,7 +13081,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to broadcast subtly</gloss> + <link@x-tlb-hl>ciri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちり</tinellbian@x-tlb-hl> <gloss>humour</gloss>
             xidu:
-              date: '2018-04-05'
+              date: '2025-03-22'
+              position: '8.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しど</tinellbian@x-tlb-hl></native-script>
@@ -13089,7 +13090,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>far away</definition>
               - <h4|subheading>Antonym</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>’adi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss></block></wordlist>
+              - <block><wordlist><link@x-tlb-hl>’adi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss></wordlist></block>
             xifipu:
               date: '2019-03-19'
               position: '4.43'

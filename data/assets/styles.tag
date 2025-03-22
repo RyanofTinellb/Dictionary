@@ -122,7 +122,7 @@ details|folding:
   pipe: '&NoBreak;'
 external:
   key: Alt-e
-  param: $lookup:external$|$text$
+  param: $link:lookup:external$|$text$
   props:
     colour: '#ff00ff'
     underline: true
@@ -140,7 +140,7 @@ glossary:
     'on': Alt-G
     'off': Return
   open: <dfn><abbr class="glossary" title="
-  param: $lookup:glossary$|$text$
+  param: $link:lookup:glossary$|$text$
   pipe: '">'
   props:
     font: Felix Titling
@@ -182,7 +182,7 @@ ipa:
     'on': Alt-i
     'off': space
   language: true
-  param: $lookup:ipa$|$text$
+  param: $link:lookup:ipa$|$text$
   pipe: '"><span class="ipa">'
   props:
     font: Lucida Sans Unicode
@@ -231,7 +231,7 @@ poslink:
     'on': Alt-p
     'off': space
   language: true
-  param: $lookup:poslink$|$text$
+  param: $link:lookup:poslink$|$text$
   props:
     colour: '#c6c'
     underline: true
