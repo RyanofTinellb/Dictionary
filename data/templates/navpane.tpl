@@ -1,7 +1,8 @@
 styles:
   a:
     type: anchor
-  button: {}
+  button:
+    open: <button type="submit" aria-label="search">
   details#menu:
     type: block
   entry-data:

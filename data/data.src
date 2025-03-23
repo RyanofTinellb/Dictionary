@@ -14617,7 +14617,8 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
             ’usa:
-              date: '2024-07-28'
+              date: '2025-03-23'
+              position: '10.20'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl></native-script>
@@ -14627,10 +14628,9 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’usaju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさよい</tinellbian@x-tlb-hl> <gloss>to find</gloss>
               - <link@en>’usapacca</link@en> <tinellbian@x-tlb-hl>うさぱっや</tinellbian@x-tlb-hl> <gloss>to count</gloss>
-              - <link@x-tlb-hl>’usadajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさだぢび</tinellbian@x-tlb-hl> <gloss>to read</gloss>
-              - <link@x-tlb-hl>pa’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱうさ</tinellbian@x-tlb-hl> <gloss>to notice</gloss>
-              - <link@x-tlb-hl>’usatinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさてっな</tinellbian@x-tlb-hl> <gloss>visibly</gloss></block></wordlist>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
+              - <link@x-tlb-hl>’usadajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさだぢび</tinellbian@x-tlb-hl> <gloss>to read</gloss></block>
+              - <block><link@x-tlb-hl>pa’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱうさ</tinellbian@x-tlb-hl> <gloss>to notice</gloss>
+              - </block></wordlist><h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>mercury</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><desktop><poslink@x-tlb-hl>Periodic Table</poslink@x-tlb-hl></desktop> <mobile><poslink@x-tlb-hl>List of Elements</poslink@x-tlb-hl></mobile>
