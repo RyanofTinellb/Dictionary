@@ -1333,8 +1333,8 @@ entries:
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><b>nà</b>ra → na<b>raʔ</b>a → nar<b>à</b> <gloss>goodbye!</gloss></wordlist>
             -’a:
-              date: '2025-03-06'
-              position: '1.0'
+              date: '2025-03-24'
+              position: '10.20'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl></native-script>
@@ -1345,8 +1345,7 @@ entries:
               - <wordlist><link@x-tlb-hl>pa’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱあ</tinellbian@x-tlb-hl> <gloss>thought</gloss>
               - <link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss>
               - <link@x-tlb-hl>qacca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっやあ</tinellbian@x-tlb-hl> <gloss>choice</gloss>
-              - <link@x-tlb-hl>qira’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねらあ</tinellbian@x-tlb-hl> <gloss>roughness</gloss><block>
-              - </block></wordlist>
+              - <link@x-tlb-hl>qira’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねらあ</tinellbian@x-tlb-hl> <gloss>roughness</gloss></wordlist>
             -’aba:
               date: '2025-01-20'
               position: '2.17'
@@ -1789,8 +1788,8 @@ entries:
               - → <link@x-tlb-hl>’ittika</link@x-tlb-hl> <tinellbian@x-tlb-hl>いってか</tinellbian@x-tlb-hl> <gloss>oganesson</gloss>
               - ↑ <link@x-tlb-hl>sicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>せゆ</tinellbian@x-tlb-hl> <gloss>astatine</gloss></wordlist>
             bufi:
-              date: '2019-01-07'
-              position: '13.8'
+              date: '2025-03-24'
+              position: '13.16'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぶべ</tinellbian@x-tlb-hl></native-script>
@@ -1801,11 +1800,12 @@ entries:
               - <ol>any small rock, able to be held in the hand
               - solid material formed by the laying down of mineral layers</ol>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>bufiniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべにっね</tinellbian@x-tlb-hl> <gloss>stonily</gloss>
-              - <block><link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss></wordlist>
+              - <block><wordlist><link@x-tlb-hl>bufiniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべにっね</tinellbian@x-tlb-hl> <gloss>stonily</gloss>
+              - <link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss></wordlist></block>
               - <h4|subheading>See Also</h4|subheading>
               - <block><poslink@x-tlb-hl>Geological Terms</poslink@x-tlb-hl>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              - </block>
             bufiqi:
               date: '2018-03-30'
               text:
@@ -1815,13 +1815,14 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>illness</definition>
             bufitila:
-              date: '2019-01-07'
-              position: '8.10'
+              date: '2025-03-24'
+              position: '5.4'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌbufɨˈtʰilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden><definition>limestone</definition></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <definition>limestone</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>bufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべ</tinellbian@x-tlb-hl> <gloss>stone</gloss> + <link@x-tlb-hl>tila</link@x-tlb-hl> <tinellbian@x-tlb-hl>てわ</tinellbian@x-tlb-hl> <gloss>shell</gloss>
               - <h4|subheading>See Also</h4|subheading>
@@ -2395,8 +2396,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>part; section</definition>
             cussa:
-              date: '2019-05-12'
-              position: '12.17'
+              date: '2025-03-24'
+              position: '14.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl></native-script>
@@ -2404,6 +2405,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><link@x-tlb-hl>subtle</link@x-tlb-hl> bodies; psyche</definition>
               - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss>
+              - <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <wordlist><link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss>
               - <block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
@@ -2975,7 +2978,8 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>hussudiccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl> <gloss>to trip</gloss></wordlist>
             dicci:
-              date: '2018-04-03'
+              date: '2025-03-24'
+              position: '11.12'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっち</tinellbian@x-tlb-hl></native-script>
@@ -2985,11 +2989,12 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>pucidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちでっち</tinellbian@x-tlb-hl> <gloss>autumn</gloss>
               - <link@x-tlb-hl>naffidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>なっべでっち</tinellbian@x-tlb-hl> <gloss>spring</gloss>
-              - <block><link@x-tlb-hl>cussidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl> <gloss>to be cold</gloss></wordlist>
+              - <link@x-tlb-hl>cussidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl> <gloss>to be cold</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss></wordlist>
             difi:
               date: '2019-03-01'
+              position: '1.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でべ</tinellbian@x-tlb-hl></native-script>
