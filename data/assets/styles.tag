@@ -98,6 +98,8 @@ b:
     size: 90
 block:
   key: Alt-b
+  props:
+    border: true
   type: div
 cite:
   keys:
@@ -161,7 +163,6 @@ h3:
     top: 15
     underline: true
   type: heading
-
 hidden:
   key: h
   props:
@@ -199,7 +200,7 @@ link:
     'on': Alt-n
     'off': space
   language: true
-  param: $text$.html#$url(lookup:lang)$|$upper(text)$
+  param: /lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   props:
     colour: '#0080ff'
     ime: links

@@ -1800,8 +1800,8 @@ entries:
               - <ol>any small rock, able to be held in the hand
               - solid material formed by the laying down of mineral layers</ol>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <block><wordlist><link@x-tlb-hl>bufiniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべにっね</tinellbian@x-tlb-hl> <gloss>stonily</gloss>
-              - <link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss></wordlist></block>
+              - <wordlist><link@x-tlb-hl>bufiniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべにっね</tinellbian@x-tlb-hl> <gloss>stonily</gloss>
+              - <link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <block><poslink@x-tlb-hl>Geological Terms</poslink@x-tlb-hl>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
@@ -2397,7 +2397,7 @@ entries:
               - <definition>part; section</definition>
             cussa:
               date: '2025-03-24'
-              position: '14.0'
+              position: '9.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl></native-script>
@@ -2405,13 +2405,11 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><link@x-tlb-hl>subtle</link@x-tlb-hl> bodies; psyche</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss>
-              - <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
-              - <wordlist><link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss>
+              - <wordlist><block><link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></block>
               - <block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
               - <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
-              - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss></wordlist>
+              - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></wordlist>
             cussi:
@@ -2987,9 +2985,9 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>cold</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>pucidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちでっち</tinellbian@x-tlb-hl> <gloss>autumn</gloss>
-              - <link@x-tlb-hl>naffidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>なっべでっち</tinellbian@x-tlb-hl> <gloss>spring</gloss>
-              - <link@x-tlb-hl>cussidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl> <gloss>to be cold</gloss></block></wordlist>
+              - <wordlist><block><link@x-tlb-hl>pucidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちでっち</tinellbian@x-tlb-hl> <gloss>autumn</gloss>
+              - <link@x-tlb-hl>naffidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>なっべでっち</tinellbian@x-tlb-hl> <gloss>spring</gloss></block>
+              - <block><link@x-tlb-hl>cussidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl> <gloss>to be cold</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss></wordlist>
             difi:
@@ -3177,10 +3175,10 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>youth; newness</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
+              - <wordlist><link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
               - <link@x-tlb-hl>diss·sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすさ</tinellbian@x-tlb-hl> <gloss>young person</gloss></block>
               - <block><link@x-tlb-hl>dissudanagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすだなぎ</tinellbian@x-tlb-hl> <gloss>pardon</gloss></block>
-              - <block><link@x-tlb-hl>padissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱでっす</tinellbian@x-tlb-hl> <gloss>to learn</gloss></block></wordlist>
+              - <block><link@x-tlb-hl>padissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱでっす</tinellbian@x-tlb-hl> <gloss>to learn</gloss></wordlist>
             dissudanagi:
               date: '2018-04-03'
               text:
@@ -3572,8 +3570,8 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
             fara:
-              date: '2019-05-12'
-              position: '1.0'
+              date: '2025-03-24'
+              position: '10.11'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl></native-script>
@@ -3581,11 +3579,11 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><link@x-tlb-hl>subtle</link@x-tlb-hl> planes</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss>
+              - <wordlist><block><link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block>
               - <block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
               - <link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
               - <link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss>
-              - <link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual plane</gloss></wordlist>
+              - <link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual plane</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’anni</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっに</tinellbian@x-tlb-hl> <gloss>plane</gloss></wordlist>
             farra:
@@ -4064,7 +4062,8 @@ entries:
               - → <link@x-tlb-hl>tasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>たさ</tinellbian@x-tlb-hl> <gloss>nickel</gloss>
               - ↓ <link@x-tlb-hl>fula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふわ</tinellbian@x-tlb-hl> <gloss>rhodium</gloss></wordlist>
             ga’i:
-              date: '2019-02-14'
+              date: '2025-03-24'
+              position: '8.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>がい</tinellbian@x-tlb-hl></native-script>
@@ -4073,7 +4072,7 @@ entries:
               - <definition>time; occasion; while</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’ala</link@x-tlb-hl>ga’i <tinellbian@x-tlb-hl>あわがい</tinellbian@x-tlb-hl> <gloss>hot day</gloss>
-              - <block><link@x-tlb-hl>ga’iniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>がいにっね</tinellbian@x-tlb-hl> <gloss>in a timely fashion</gloss></wordlist>
+              - <block><link@x-tlb-hl>ga’iniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>がいにっね</tinellbian@x-tlb-hl> <gloss>in a timely fashion</gloss></block></wordlist>
               - <h4|subheading>Synonyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss></wordlist>
             gi:
@@ -5757,8 +5756,8 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <template>personal pronouns</template>
             kassu:
-              date: '2019-05-11'
-              position: '16.6'
+              date: '2025-03-24'
+              position: '7.24'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl></native-script>
@@ -5766,16 +5765,16 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>trade</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>kassudu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl> <gloss>trade goods</gloss>
-              - <block><link@x-tlb-hl>purakassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷらかっす</tinellbian@x-tlb-hl> <gloss>to trade</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>kassudu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっすど</tinellbian@x-tlb-hl> <gloss>trade goods</gloss></block>
+              - <block><link@x-tlb-hl>purakassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷらかっす</tinellbian@x-tlb-hl> <gloss>to trade</gloss></block></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>mind</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
+              - <wordlist><block><link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss></block>
               - <block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
               - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
-              - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></wordlist>
+              - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></wordlist>
             kassudu:
@@ -6270,8 +6269,8 @@ entries:
               - <link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss>
               - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></wordlist>
             kunubi:
-              date: '2019-05-26'
-              position: '1.0'
+              date: '2025-03-24'
+              position: '17.7'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl></native-script>
@@ -6282,15 +6281,16 @@ entries:
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <glossary>dat</glossary> + <link@x-tlb-hl>Nubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬび</tinellbian@x-tlb-hl> <gloss>Nuobi</gloss>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>kunubitu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl> <gloss>plains</gloss>
-              - <block><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></wordlist>
+              - <block><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>salilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl> <gloss>night sky</gloss>
+              - <wordlist><block><link@x-tlb-hl>salilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl> <gloss>night sky</gloss></block>
               - <block><link@x-tlb-hl>’u’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>うあ</tinellbian@x-tlb-hl> <gloss>wood</gloss>
               - <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss>
               - <link@x-tlb-hl>xuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずっは</tinellbian@x-tlb-hl> <gloss>fire</gloss>
               - <link@x-tlb-hl>cissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちっさ</tinellbian@x-tlb-hl> <gloss>air</gloss>
               - <link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>earth</gloss>
-              - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></wordlist>
+              - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></block>
+              - </wordlist>
             kunubitu’afu:
               date: '2019-01-06'
               position: '4.43'
@@ -7060,8 +7060,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>lu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> <gloss>to love</gloss> + <link@x-tlb-hl>ca’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>やい</tinellbian@x-tlb-hl> <gloss>romance</gloss>
             lu’iki:
-              date: '2019-05-12'
-              position: '3.12'
+              date: '2025-03-24'
+              position: '15.14'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl></native-script>
@@ -7075,7 +7075,7 @@ entries:
               - <block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
               - <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
-              - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></wordlist>
+              - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></wordlist>
             lu’ipu’a:
@@ -7888,8 +7888,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>pile; cairn</definition>
             musa:
-              date: '2019-05-04'
-              position: '8.15'
+              date: '2025-03-24'
+              position: '14.14'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl></native-script>
@@ -7901,7 +7901,7 @@ entries:
               - <link@x-tlb-hl>musaqapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさげぴ</tinellbian@x-tlb-hl> <gloss>week</gloss>
               - <block><link@x-tlb-hl>’alamusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわむさ</tinellbian@x-tlb-hl> <gloss>sunlight</gloss>
               - <link@x-tlb-hl>nuhumusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほむさ</tinellbian@x-tlb-hl> <gloss>diary</gloss>
-              - <link@x-tlb-hl>rakkamusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっかむさ</tinellbian@x-tlb-hl> <gloss>galaxy</gloss></wordlist>
+              - <link@x-tlb-hl>rakkamusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっかむさ</tinellbian@x-tlb-hl> <gloss>galaxy</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>luna</link@x-tlb-hl> <tinellbian@x-tlb-hl>をな</tinellbian@x-tlb-hl> <gloss>moon</gloss>
               - <link@x-tlb-hl>nuku</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬく</tinellbian@x-tlb-hl> <gloss>planet</gloss></wordlist>
@@ -7995,8 +7995,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>covering; clothing</definition>
             nada:
-              date: '2019-05-12'
-              position: '12.23'
+              date: '2025-03-24'
+              position: '11.21'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl></native-script>
@@ -8004,8 +8004,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>emotional plane</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
-              - <block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
+              - <wordlist><block><link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss></block>
+              - <link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
               - <link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
               - <link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual plane</gloss>
               - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></wordlist>
@@ -8150,8 +8150,8 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
             naludu:
-              date: '2019-06-16'
-              position: '15.23'
+              date: '2025-03-24'
+              position: '13.21'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl></native-script>
@@ -8161,8 +8161,8 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>naqanaludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なげなをど</tinellbian@x-tlb-hl> <gloss>physical need</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
-              - <block><link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
+              - <wordlist><block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss></block>
+              - <link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
               - <link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss>
               - <link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual plane</gloss>
               - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></wordlist>
@@ -8589,7 +8589,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>desire</gloss> + <link@x-tlb-hl>fira</link@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl> <gloss>wish</gloss>
             nuhu:
-              date: '2018-04-03'
+              date: '2025-03-24'
+              position: '10.19'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl></native-script>
@@ -8599,9 +8600,9 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - Also used to refer to a letter for someone
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>nuhubatu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss>
-              - <link@x-tlb-hl>nuhumusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほむさ</tinellbian@x-tlb-hl> <gloss>diary</gloss>
-              - <block><link@x-tlb-hl>tuhinuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とひぬほ</tinellbian@x-tlb-hl> <gloss>to fold up</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>nuhubatu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl> <gloss>book</gloss>
+              - <link@x-tlb-hl>nuhumusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほむさ</tinellbian@x-tlb-hl> <gloss>diary</gloss></block>
+              - <block><link@x-tlb-hl>tuhinuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とひぬほ</tinellbian@x-tlb-hl> <gloss>to fold up</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>lisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>えさ</tinellbian@x-tlb-hl> <gloss>paper</gloss></wordlist>
             nuhubatu:
@@ -10514,8 +10515,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>sense image</definition>
             ruci:
-              date: '2019-05-12'
-              position: '12.23'
+              date: '2025-03-24'
+              position: '14.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl></native-script>
@@ -10523,11 +10524,11 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>mental plane</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
+              - <wordlist><block><link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss></block>
               - <block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
               - <link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss>
               - <link@x-tlb-hl>’aka</link@x-tlb-hl> <tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl> <gloss>spiritual plane</gloss>
-              - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></wordlist>
+              - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’anni</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっに</tinellbian@x-tlb-hl> <gloss>plane</gloss></wordlist>
             ruka:
@@ -11729,7 +11730,8 @@ entries:
               - → <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>oxygen</gloss>
               - ↓ <link@x-tlb-hl>pibi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴび</tinellbian@x-tlb-hl> <gloss>phosphorus</gloss></wordlist>
             sutti:
-              date: '2018-04-05'
+              date: '2025-03-24'
+              position: '13.0'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl></native-script>
@@ -11737,8 +11739,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>fear</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>sutti’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>すっていま</tinellbian@x-tlb-hl> <gloss>hesitation</gloss>
-              - <block><link@x-tlb-hl>diss·sutti</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすすって</tinellbian@x-tlb-hl> <gloss>to be afraid</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>sutti’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>すっていま</tinellbian@x-tlb-hl> <gloss>hesitation</gloss></block>
+              - <block><link@x-tlb-hl>diss·sutti</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすすって</tinellbian@x-tlb-hl> <gloss>to be afraid</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss>
               - <link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
@@ -12761,8 +12763,8 @@ entries:
               - <gloss><glossary>1tra</glossary> close door.</gloss></details|folding>
               - “I closed the door.”
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>turulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open up</gloss></block>
-              - <block><link@x-tlb-hl>turubasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるばせ</tinellbian@x-tlb-hl> <gloss>to cover</gloss></block></wordlist>
+              - <wordlist><link@x-tlb-hl>turulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open up</gloss></block>
+              - <block><link@x-tlb-hl>turubasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるばせ</tinellbian@x-tlb-hl> <gloss>to cover</gloss></wordlist>
               - <h4|subheading>Antonym</h4|subheading>
               - <wordlist><link@x-tlb-hl>qarri</link@x-tlb-hl> <tinellbian@x-tlb-hl>げっり</tinellbian@x-tlb-hl> <gloss>to open</gloss></wordlist>
             turubasi:
@@ -13612,8 +13614,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぢ</tinellbian@x-tlb-hl> <gloss>writing</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
             ’aka:
-              date: '2019-05-12'
-              position: '12.23'
+              date: '2025-03-24'
+              position: '13.15'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あか</tinellbian@x-tlb-hl></native-script>
@@ -13621,11 +13623,11 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>spiritual plane</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
+              - <wordlist><block><link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss></block>
               - <block><link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
               - <link@x-tlb-hl>ruci</link@x-tlb-hl> <tinellbian@x-tlb-hl>るち</tinellbian@x-tlb-hl> <gloss>mental plane</gloss>
               - <link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss>
-              - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></wordlist>
+              - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’anni</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっに</tinellbian@x-tlb-hl> <gloss>plane</gloss></wordlist>
             ’akki:
@@ -14234,7 +14236,8 @@ entries:
               - <gloss>really prs;gno?</gloss></details|folding>
               - “Really?”
             ’ilu:
-              date: '2019-05-11'
+              date: '2025-03-24'
+              position: '15.9'
               text:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl></native-script>
@@ -14244,12 +14247,12 @@ entries:
               - <h4|subheading>Definition</h4|subheading>
               - the part of the self that feels emotions
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss>
+              - <wordlist><block><link@x-tlb-hl>nada</link@x-tlb-hl> <tinellbian@x-tlb-hl>なだ</tinellbian@x-tlb-hl> <gloss>emotional plane</gloss></block>
               - <block><link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
               - <link@x-tlb-hl>lu’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいき</tinellbian@x-tlb-hl> <gloss>soul</gloss>
               - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss>
-              - <block><link@x-tlb-hl>sida</link@x-tlb-hl> <tinellbian@x-tlb-hl>せだ</tinellbian@x-tlb-hl> <gloss>heart</gloss></wordlist>
+              - <link@x-tlb-hl>sida</link@x-tlb-hl> <tinellbian@x-tlb-hl>せだ</tinellbian@x-tlb-hl> <gloss>heart</gloss></block></wordlist>
               - <h4|subheading>Hypernyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lahha</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっは</tinellbian@x-tlb-hl> <gloss>body</gloss></wordlist>
               - <h4|subheading>Derived Terms</h4|subheading>
