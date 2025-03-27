@@ -1,15 +1,14 @@
 <!doctype html>
-<html lang="en"><head><meta name="viewport" content="width=device-width/initial-scale=1.0">
+<head><html lang="en"><meta name="viewport" content="width=device-width/initial-scale=1.0">
 <meta charset="utf-8">
 <title>badi - The Tinellbian Languages Dictionary</title>
 <link rel="stylesheet" type="text/css" href="/data/stylesheets/basic_style.css">
 <link rel="stylesheet" type="text/css" href="/data/stylesheets/style.css">
 <link rel="icon" type="image/png" href="/data/assets/favicon.png">
 <script src="/data/scripts/search.js"></script>
-<script src="/data/scripts/word_search.js"></script></head>
 <body><div class="flex"><nav class="main"><details id="menu"><summary>Menu</summary>
 <p><a href="/index.html">The Tinellbian Languages Dictionary</a></p>
-<div class="javascript"><form id="search"><label for="term">Search: </label><input type="text" name="term" id="term"><button type="submit" aria-label="search"><svg viewbox="0 0 24 24" aria-label="search" alt><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+<div class="javascript"><form id="search"><label for="search">Search: </label><input type="text" name="term" id="search"><button type="submit" aria-label="search"><svg viewbox="0 0 24 24" aria-label="search" alt><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
 <path d="M0 0h24v24H0z" fill="none" /></svg>
 </button></form><ul><li><a href="/special/random_entry.html">Random Entry</a></li></ul></div></details></nav>
 
@@ -20,12 +19,12 @@
 <section class="homonym"><h3 class="part-of-speech"><a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html#inanimatenoun">inanimate</a> <a href="http://grammar.tinellb.com/languages/highlulani/morphology/nouns/index.html">noun</a></h3>
 <div class="definition"><p>home</p></div>
 <section><h4 class="subheading">Derived Terms</h4>
-<div class="wordlist"><p><a href="/lex/badiri.html#highlulani">badiri</a> <span class="tinellbian" lang="x-tlb-hl">ばでり</span> <span class="gloss">world</span></p></div>
+<ul class="wordlist"><li><ul class="block"><li><a href="/lex/badiri.html#highlulani">badiri</a> <span class="tinellbian" lang="x-tlb-hl">ばでり</span> <span class="gloss">world</span></li></ul></li></ul>
 </section><section><h4 class="subheading">See Also</h4>
-<div class="wordlist"><p><a href="/lex/tihutuja.html#highlulani">tihutuja</a> <span class="tinellbian" lang="x-tlb-hl">てほとぢ</span> <span class="gloss">home</span></p></div>
+<ul class="wordlist"><li><ul class="block"><li><a href="/lex/tihutuja.html#highlulani">tihutuja</a> <span class="tinellbian" lang="x-tlb-hl">てほとぢ</span> <span class="gloss">home</span></li></ul></li></ul>
 </section></section></div></div></article>
-<div class="javascript"><form id="entry"><label for="wordsearch">Find an entry: </label><input type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}">
-<input type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"></form></div>
+<div class="javascript"><form id="entry"><label for="wordsearch">Find an entry: </label><input type="text" name="word" id="wordsearch">
+<input type="submit" value="Jump to Entry"></form></div>
 </main></div></div>
 <footer><div class="copyright"><span class="no-breaks">&copy;2017-2025 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
 <span class="no-breaks">Last updated: Tuesday, July 16th, 2024</span></div>
@@ -38,3 +37,4 @@ let details = document.getElementById("menu");
 if (mql.matches) {details.open = true;}
 for (elt of document.getElementsByClassName('javascript')) {
 elt.style.display = "block";}</script></body></html>
+</head>

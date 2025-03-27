@@ -40,6 +40,7 @@ h2.language:not(:first-of-type) {
 h3.part-of-speech a {
 	color: light-dark(black, white);
 	text-decoration-style: dashed;
+	text-underline-offset: 3px;
 }
 
 h3.part-of-speech a:hover {
@@ -123,8 +124,7 @@ main summary {
 	margin-block-start: 0.2rem;
 }
 
-main ul,
-main ol {
+main ol.definitions {
 	margin-inline-start: 20%;
 	margin-block-end: 0;
 }
@@ -160,8 +160,6 @@ main .wordlist summary {
 	margin-inline-start: 0;
 }
 
-
-
 main .results ol,
 main .results ul {
 	margin-inline-start: 0;
@@ -173,7 +171,6 @@ main form#entry {
 }
 
 
-main p a,
 main .results a {
 	text-decoration: none;
 }

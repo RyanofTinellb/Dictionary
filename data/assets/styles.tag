@@ -85,7 +85,7 @@ also:
   param: <i>See also:</i> <a href="$url(text)$.html">$upper(text)$</a>
   props:
     bold: true
-    colour: '#33cc33'
+    colour: '#3c3'
     italics: true
     left: 15
     size: 150
@@ -100,7 +100,10 @@ block:
   key: Alt-b
   props:
     border: true
-  type: div
+  rank: 90
+  prequel: <li>
+  sequel: </li>
+  type: ul
 cite:
   keys:
     'on': Alt-c
@@ -112,21 +115,23 @@ default:
     font: Cambria
     ime: autocorrect
     size: 18
+definitions:
+  type: ol
 desktop:
   props:
-    colour: '#ff00ff'
+    colour: '#f0f'
   type: span
 details|folding:
   key: Alt-F
   props:
-    background: '#99ff99'
+    background: '#9f9'
   type: block
   pipe: '&NoBreak;'
 external:
   key: Alt-e
   param: $link:lookup:external$|$text$
   props:
-    colour: '#ff00ff'
+    colour: '#f0f'
     underline: true
   type: anchor
 gloss:
@@ -166,7 +171,7 @@ h3:
 hidden:
   key: h
   props:
-    colour: '#999999'
+    colour: '#999'
     strikeout: true
   type: span
 i:
@@ -208,7 +213,7 @@ link:
   type: anchor
 mobile:
   props:
-    colour: '#ffff00'
+    colour: '#ff0'
   type: span
 multiline:
   key: Alt-m
@@ -219,8 +224,6 @@ note:
     italics: true
     size: 90
   type: span
-ol:
-  type: ol
 overline:
   type: span
 portrait:
@@ -293,7 +296,7 @@ universe:
 wikt-link:
   param: https://en.wiktionary.org/wiki/$text$|$text$
   props:
-    colour: '#6600ff'
+    colour: '#60f'
     underline: true
   type: anchor
 wordlist:
@@ -301,7 +304,7 @@ wordlist:
   props:
     background: '#ffc'
     left: 15
-  type: div
+  type: ul
 wordlist-caption:
   key: Alt-w
   props:
