@@ -1,8 +1,7 @@
-var BASE_URL = '../data/assets/wordlist.json';    // can be overriden
-var BACKUP_URL = '../data/assets/searching.json'; // by 404 search
-const HREF = window.location.href;
-const QUERY = HREF.split('?')[1];
-const SEARCH = document.getElementById('term');
+var BASE_URL = '/data/assets/wordlist.json';    // can be overriden
+var BACKUP_URL = '/data/assets/searching.json'; // by 404 search
+const SEARCH = document.getElementById('search');
+const TERM = document.getElementById('term');
 const RESULTS = document.getElementById('results');
 const LOWER = word => word.toLowerCase()
 const LANGUAGES = [
@@ -12,12 +11,12 @@ const LANGUAGES = [
     'classical', 'modern', 'solajin', 'ancient', 'medieval', 'traditional', 'new'
 ]
 
-if (HREF.indexOf('?') != -1 &&
-    HREF.toLowerCase().indexOf('search') != -1) {
+searchParams = new URLSearchParams(window.location.search);
+let terms = searchParams.get('term');
+if (terms) {
     RESULTS.innerHTML = 'Searching...';
-    const terms = getTerms();
-    place(terms);
-    search(terms);
+    SEARCH.value = terms
+    search(terms.split(' '));
 }
 
 async function search(terms) {
@@ -78,7 +77,7 @@ function backupDisplay(pages, data, terms) {
                 let link = data.urls[pagenum];
                 let name = data.pages[pagenum];
                 let lines = page.lines.map(
-                    linenum => highlight(regexes, data.lines[linenum]));
+                    linenum => boldterms(regexes, data.lines[linenum]));
                 return `<li><a href="${backupUrl(link)}">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
             }).join('')}</ul>`}`;
 }
@@ -87,7 +86,7 @@ function backupUrl(link) {
     return '/' + link
 }
 
-function highlight(terms, line) {
+function boldterms(terms, line) {
     terms.forEach(term => {
         line = line.replace(term, '<b>$1</b>');
     });
@@ -135,10 +134,6 @@ function oneTermSearch(arr, term) {
         });
     }
     return text;
-}
-
-function place(terms) {
-    SEARCH.value = terms.join(' ');
 }
 
 function pos_lang(data, terms, back) {
@@ -195,14 +190,11 @@ function native_script(data, terms) {
     return data;
 }
 
-function language(entry) {
-    return entry.l.toLowerCase().split(' ');
-}
+const language = entry => entry.l.toLowerCase().split(' ');
 
-function translit(data, terms) {
-    return data.filter(entry =>
-        includesAll(entry.t.split(' ').map(word => word.toLowerCase().replace('-', '')), terms.map(word => word.toLowerCase().replace('-', ''))));
-}
+const translit = (data, terms) => data.filter(entry =>
+    includesAll(entry.t.split(' ').map(word => word.toLowerCase().replace('-', '')), terms.map(word => word.toLowerCase().replace('-', ''))));
+
 
 function keep_quotes(text) {
     return text.toLowerCase().replace(/[^a-z'" ]/g, '');
@@ -238,9 +230,6 @@ function createLine(entry) {
         + `<em>${entry.d}</em></li>`;
 }
 
-function findInitial(text) {
-    return text.replace(/&.*?;|\W/g, '').charAt(0).toLowerCase();
-}
 
 function createUrl(text) {
     return createPlainUrl(text);
@@ -250,25 +239,14 @@ function createPlainUrl(text) {
     return `${sellCaps(text)}.html`
 }
 
-dollarise = (letter) =>
-    letter == letter.toLowerCase() ? letter : `$${letter.toLowerCase()}`
+const mapString = (str, fn) =>
+    str.split('')
+        .map((c, i) => fn(c, i, str))
+        .join('');
 
-function sellCaps(text) {
-    return text.replace(/./g, dollarise)
-        .replace(' ', '.');
-}
+// Changes space to period, and adds dollar-signs before capitals
+const sellLetterCaps = letter =>
+    letter == letter.toLowerCase() ?
+        letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
 
-function getTerms() {
-    let text = '';
-    for (const elt of QUERY.split('&')) {
-        query = elt.split('=');
-        if (query[0] == 'term') {
-            text = removeTrailingPlus(query[1]).split('#')[0];
-        }
-    }
-    return decodeURI(text).split("+").filter(i => i != "");
-}
-
-function removeTrailingPlus(string) {
-    return string.slice(-1) == '+' ? string.slice(0, -1) : string;
-}
+const sellCaps = text => mapString(text, sellLetterCaps);

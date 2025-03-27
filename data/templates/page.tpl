@@ -67,12 +67,11 @@ text:
 - <link>rel="stylesheet" type="text/css" href="<internal-link>data/stylesheets/style.css</internal-link>"</link>
 - <link>rel="icon" type="image/png" href="<internal-link>data/assets/favicon.png</internal-link>"</link>
 - <script>src="<internal-link>data/scripts/search.js</internal-link>"</script>
-- <script>src="<internal-link>data/scripts/word_search.js</internal-link>"</script></head>
 - <body><flex><template>navigation pane</template>
 - <main-page><main><h1><data>name</data></h1>
 - <data>contents</data>
-- '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>'
-- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></form#entry></javascript>
+- '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="word" id="wordsearch"</input>'
+- <input>type="submit" value="Jump to Entry"</input></form#entry></javascript>
 - </main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="<internal-link>data/scripts/parse_href.js</internal-link>"</script>

@@ -15,6 +15,8 @@ styles:
     type: div
   footer:
     type: block
+  form#entry:
+    type: line
   form:
     type: block
   h1:
@@ -38,6 +40,10 @@ styles:
     type: line
   javascript:
     type: line
+  label:
+    type: line
+    open: '<label for="'
+    pipe: '">'
   link:
     type: complete
   main:
@@ -69,12 +75,11 @@ text:
 - <main-page><main><h1>Search the Dictionary</h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
-- <results>Searching...</results>
-- <javascript><input>type="text" name="search" id="wordsearch" onKeyDown="if (event.keyCode == 13) {wordsearch()}"</input>
-- <input>type="button" name="dictionary" id="dictionary" onClick="wordsearch()" value="Jump to Entry"</input></javascript></main></main-page></flex>
+- <results></results>
+- '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="word" id="wordsearch"</input>'
+- <input>type="submit" value="Jump to Entry"</input></form#entry></javascript></main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="../data/scripts/search.js"</script>
-- <script>src="../data/scripts/word_search.js"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
 - let details = document.getElementById("menu");
