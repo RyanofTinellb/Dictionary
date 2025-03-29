@@ -5,7 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - salumi
+  - baca
 files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
 imes:
   autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
@@ -38,6 +38,7 @@ templates:
   page404: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\404.tpl
   search: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\search.tpl
   sections:
+    Periodic Table: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\periodic_table.tpl
     auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\auxiliaries.tpl
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
     family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl

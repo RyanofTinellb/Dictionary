@@ -46,6 +46,9 @@ styles:
     close: </main></div>
     open: <div class="main-page"><main>
     type: block
+  main-page:
+    rank: 110
+    type: div
   meta:
     type: complete
   results:
@@ -67,11 +70,12 @@ text:
 - <link>rel="stylesheet" type="text/css" href="../data/stylesheets/style.css"</link>
 - <link>rel="icon" type="image/png" href="../data/assets/favicon.png"</link></head>
 - <body><flex><template>navigation pane</template>
-- <main><h1>Search the Dictionary</h1>
+- <main-page><main><h1>Search the Dictionary</h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
+- <results>Searching...</results>
 - '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="word" id="wordsearch"</input>'
-- <input>type="submit" value="Jump to Entry"</input></form#entry></javascript></main></flex>
+- <input>type="submit" value="Jump to Entry"</input></form#entry></javascript></main></main-page></flex>
 - <footer><template>copyright</template></footer>
 - <script>src="/data/scripts/search.js"</script>
 - <script>src="/data/scripts/404search.js"</script>

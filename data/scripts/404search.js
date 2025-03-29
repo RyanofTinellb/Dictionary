@@ -5,7 +5,6 @@ GET = elt => document.getElementsByTagName(elt)[0]
 base();
 
 function base() {
-    RESULTS.innerHTML = 'Searching...';
     let terms;
     if (window.location.href.indexOf('?') == -1) {
         terms = getTermfrom404();
@@ -21,8 +20,7 @@ function base() {
 
 function getTermfrom404() {
     /* searches for the term after the final slash of the url, without the .html ending */
-    let terms = HREF.split('/');
-    terms = terms[terms.length - 1].split('#');
+    let terms = window.location.pathname.split('/');
     let term = terms[0];
     if (term == 'index.html') {
         term = terms[terms.length - 2];

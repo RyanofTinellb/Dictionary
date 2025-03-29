@@ -200,6 +200,8 @@ landscape:
   props:
     background: '#ccf'
   type: div
+list-block:
+  type: ul
 link:
   keys:
     'on': Alt-n
