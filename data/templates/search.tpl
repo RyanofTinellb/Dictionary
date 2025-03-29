@@ -75,11 +75,11 @@ text:
 - <main-page><main><h1>Search the Dictionary</h1>
 - <form><input>type="text" class="term" id="term" name="term" placeholder="Search..."</input>
 - <input>type="submit" class="submit" value="Search"</input></form>
-- <results></results>
+- <results>Searching...</results>
 - '<javascript><form#entry><label>wordsearch|Find an entry: </label><input>type="text" name="word" id="wordsearch"</input>'
 - <input>type="submit" value="Jump to Entry"</input></form#entry></javascript></main></main-page></flex>
 - <footer><template>copyright</template></footer>
-- <script>src="../data/scripts/search.js"</script>
+- <script>src="/data/scripts/search.js"</script>
 - <inline-script>
 - 'let mql = window.matchMedia("(min-width: 800px)");'
 - let details = document.getElementById("menu");
