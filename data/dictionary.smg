@@ -34,20 +34,17 @@ serialisation format:
   pronunciation: pronunciation
 styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
 templates:
-  main: c:\users\Ryan\tinellbianlanguages\dictionary\data\templates\page.tpl
-  page404: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\404.tpl
-  search: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\search.tpl
+  main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
+  entry: c:\users\ryan\tinellbianlanguages\top!level\data\templates\entry.tpl
+  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search404.tpl
+  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   sections:
-    Periodic Table: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\periodic_table.tpl
-    auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\auxiliaries.tpl
+    Periodic Table: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\tables\periodic_table.tpl
+    auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\auxiliaries.tpl
     copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
-    family links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\family_links.tpl
-    highlight search term: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\highlight_search_term.tpl
-    indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\indefinite_pronouns.tpl
+    indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
     magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\navpane.tpl
-    personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\personal_pronouns.tpl
-    search script: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\seach_script.tpl
-    show javascript: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\show_javascipt.tpl
-    terminal auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\terminal_auxiliaries.tpl
-  wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\wholepage.tpl
+    navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\tables\navpane.tpl
+    personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\personal_pronouns.tpl
+    terminal auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\terminal_auxiliaries.tpl
+  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl

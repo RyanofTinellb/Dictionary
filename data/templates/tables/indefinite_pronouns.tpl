@@ -1,53 +1,19 @@
 styles:
-  landscape:
-    props:
-      background: '#ccf'
-    type: div
+  landscape: div
   link:
-    key: Alt-n
+    type: anchor
     language: true
     param: $text$.html#$url(lookup:lang)$|$upper(text)$
-    props:
-      colour: '#0080ff'
-      ime: transliteration
-      underline: true
-    type: anchor
-  multiline:
-    key: Alt-m
-    type: span
-  portrait:
-    props:
-      background: '#cfc'
-    type: div
-  table:
-    type: table
-  tbody:
-    type: block
-  thead:
-    type: block
+  multiline: span
+  portrait: div
+  table: table
+  tbody: block
+  thead: block
   tinellbian:
-    key: Alt-t
-    language: true
-    props:
-      font: Tinellbian
-      ime: tinellbian
-      size: 150
-      underline: true
     type: span
-  ul:
-    end: </li>
-    start: <li>
-    type: block
-  wordlist:
-    key: Alt-W
-    props:
-      colour: '#f00'
-      left: 15
-    type: div
-  wordlist-caption:
-    props:
-      colour: '#f99'
-    type: div
+    language: true
+  wordlist: div
+  wordlist-caption: div
 text:
 - <landscape><table><thead>hr2 |hc2 object |hr2 place |hr2 action |hr2 manner |hr2 state
 - h noun |h determiner</thead>

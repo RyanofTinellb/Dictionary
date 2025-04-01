@@ -165,7 +165,7 @@ main .results ul {
 	margin-inline-start: 0;
 }
 
-main form#entry {
+main form.entry {
 	margin-block-start: 3lh;
 	text-align: center;
 }
