@@ -1,86 +1,4 @@
-h2|language:
-  keys:
-    'on': 1
-    'off': Return
-  param: ' id="$url(text)$|$text$'
-  props:
-    bold: true
-    font: Artisan Paris
-    justification: centre
-    size: 120
-    top: 25
-  type: heading
-  hierarchy:
-    rank: 1
-    key: l
-    tag: article|faux-ami
-native-script:
-  type: div
-  keys:
-    'on': Alt-N
-    'off': Return
-  props:
-    justification: centre
-  hierarchy:
-    rank: 2
-    key: n
-    tag: div|homophone
-pronunciation:
-  type: div
-  keys:
-    'on': Alt-P
-    'off': Return
-  props:
-    bottom: 25
-    justification: centre
-    top: 10
-  hierarchy:
-    rank: 3
-    tag: div|homograph
-    key: r
-    function: strip-/
-h3|part-of-speech:
-  type: line
-  keys:
-    'on': 2
-    'off': Return
-  props:
-    bottom: 7
-    font: Garamond
-    top: 15
-  hierarchy:
-    rank: 4
-    key: p
-    tag: section|homonym
-definition:
-  type: div
-  keys:
-    'on': Alt-D
-    'off': Return
-  props:
-    left: 30
-  hierarchy:
-    rank: 5
-    key: d
-    save: true
-    function: caps
-h4|subheading:
-  type: line
-  keys:
-    'on': 3
-    'off': Return
-  props:
-    bold: true
-    bottom: 15
-    font: Harrington
-    left: 50
-    top: 15
-    underline: true
-  hierarchy:
-    rank: 6
-    tag: section
-a:
-  type: anchor
+a: anchor
 also:
   param: <i>See also:</i> <a href="$url(text)$.html">$upper(text)$</a>
   props:
@@ -98,16 +16,16 @@ b:
     size: 90
 block:
   key: Alt-b
+  prequel: <li>
   props:
     border: true
   rank: 90
-  prequel: <li>
   sequel: </li>
   type: ul
 cite:
   keys:
-    'on': Alt-c
     'off': Return
+    'on': Alt-c
   props:
     italics: true
 default:
@@ -115,18 +33,29 @@ default:
     font: Cambria
     ime: autocorrect
     size: 18
-definitions:
-  type: ol
+definition:
+  hierarchy:
+    function: caps
+    key: d
+    rank: 5
+    save: true
+  keys:
+    'off': Return
+    'on': Alt-D
+  props:
+    left: 30
+  type: div
+definitions: ol
 desktop:
   props:
     colour: '#f0f'
   type: span
 details|folding:
   key: Alt-F
+  pipe: '&NoBreak;'
   props:
     background: '#9f9'
   type: block
-  pipe: '&NoBreak;'
 external:
   key: Alt-e
   param: $link:lookup:external$|$text$
@@ -136,16 +65,16 @@ external:
   type: anchor
 gloss:
   keys:
-    'on': Alt-g
     'off': Return
+    'on': Alt-g
   props:
     italics: true
   type: span
 glossary:
   close: </abbr></dfn>
   keys:
-    'on': Alt-G
     'off': Return
+    'on': Alt-G
   open: <dfn><abbr class="glossary" title="
   param: $link:lookup:glossary$|$text$
   pipe: '">'
@@ -161,6 +90,22 @@ h2:
     justification: centre
     size: 120
   type: heading
+h2|language:
+  hierarchy:
+    key: l
+    rank: 1
+    tag: article|faux-ami
+  keys:
+    'off': Return
+    'on': 1
+  param: ' id="$url(text)$|$text$'
+  props:
+    bold: true
+    font: Artisan Paris
+    justification: centre
+    size: 120
+    top: 25
+  type: heading
 h3:
   props:
     bottom: 7
@@ -168,6 +113,34 @@ h3:
     top: 15
     underline: true
   type: heading
+h3|part-of-speech:
+  hierarchy:
+    key: p
+    rank: 4
+    tag: section|homonym
+  keys:
+    'off': Return
+    'on': 2
+  props:
+    bottom: 7
+    font: Garamond
+    top: 15
+  type: line
+h4|subheading:
+  hierarchy:
+    rank: 6
+    tag: section
+  keys:
+    'off': Return
+    'on': 3
+  props:
+    bold: true
+    bottom: 15
+    font: Harrington
+    left: 50
+    top: 15
+    underline: true
+  type: line
 hidden:
   key: h
   props:
@@ -176,17 +149,16 @@ hidden:
   type: span
 i:
   keys:
-    'on': i
     'off': Return
+    'on': i
   props:
     italics: true
-introduction:
-  type: div
+introduction: div
 ipa:
   close: </span></a>
   keys:
-    'on': Alt-i
     'off': space
+    'on': Alt-i
   language: true
   param: $link:lookup:ipa$|$text$
   pipe: '"><span class="ipa">'
@@ -194,18 +166,15 @@ ipa:
     font: Lucida Sans Unicode
     ime: ipa
   type: anchor
-javascript:
-  type: div
+javascript: div
 landscape:
   props:
     background: '#ccf'
   type: div
-list-block:
-  type: ul
 link:
   keys:
-    'on': Alt-n
     'off': space
+    'on': Alt-n
   language: true
   param: /lex/$text$.html#$url(lookup:lang)$|$upper(text)$
   props:
@@ -213,6 +182,7 @@ link:
     ime: links
     underline: true
   type: anchor
+list-block: ul
 mobile:
   props:
     colour: '#ff0'
@@ -220,57 +190,77 @@ mobile:
 multiline:
   key: Alt-m
   type: span
+native-script:
+  hierarchy:
+    key: n
+    rank: 2
+    tag: div|homophone
+  keys:
+    'off': Return
+    'on': Alt-N
+  props:
+    justification: centre
+  type: div
 note:
   key: n
   props:
     italics: true
     size: 90
   type: span
-overline:
-  type: span
+overline: span
 portrait:
   props:
     background: '#cfc'
   type: div
 poslink:
   keys:
-    'on': Alt-p
     'off': space
+    'on': Alt-p
   language: true
   param: $link:lookup:poslink$|$text$
   props:
     colour: '#c6c'
     underline: true
   type: anchor
+pronunciation:
+  hierarchy:
+    function: strip-/
+    key: r
+    rank: 3
+    tag: div|homograph
+  keys:
+    'off': Return
+    'on': Alt-P
+  props:
+    bottom: 25
+    justification: centre
+    top: 10
+  type: div
 strong:
   props:
     bold: true
 sub: {}
 summary|folding:
-  keys: 
-    'on': Alt-f
+  keys:
     'off': Return
+    'on': Alt-f
   props:
     left: 50
   type: line
 sup: {}
-symbol:
-  type: span
-table:
-  type: table
-tbody:
-  type: block
+symbol: span
+table: table
+tbody: block
 template:
   off-key: Return
   props:
     colour: '#0f0'
   type: template
-thead:
-  type: block
+thead: block
 tinellbian:
   keys:
-    'on': Alt-t
     'off': space
+    'on': Alt-t
   language: true
   props:
     font: Tinellbian
@@ -278,23 +268,19 @@ tinellbian:
     size: 150
     underline: true
   type: span
-translation:
-  type: div
+translation: div
 transliteration:
-  language: true
   keys:
-    'on': Alt-T
     'off': Return
+    'on': Alt-T
+  language: true
   props:
-    ime: transliteration
     bold: true
+    ime: transliteration
   type: span
-type:
-  type: div
-ul:
-  type: ul
-universe:
-  type: span
+type: div
+ul: ul
+universe: span
 wikt-link:
   param: https://en.wiktionary.org/wiki/$text$|$text$
   props:
