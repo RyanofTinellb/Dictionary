@@ -1,30 +1,30 @@
 assets:
-  searchindex: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\searching.json
-  source: C:\Users\Ryan\TinellbianLanguages\dictionary\data\data.src
-  wordlist: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\wordlist.json
+  searchindex: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\searching.json
+  source: c:\users\ryan\tinellbianlanguages\dictionary\data\data.src
+  wordlist: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\wordlist.json
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - baca
-files: C:\Users\Ryan\TinellbianLanguages\!smeagol\files.yml
+  - mihu
+files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
-  autocorrect: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\autocorrect.ime
-  ipa: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\ipa.ime
-  links: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\links.ime
-  tinellbian: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\tinellbian.ime
-  transliteration: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\transliteration.ime
-languages: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
+  autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
+  ipa: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\ipa.ime
+  links: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\links.ime
+  tinellbian: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\tinellbian.ime
+  transliteration: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\transliteration.ime
+languages: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
 links:
-  external: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\external non-language links.glk
-  glossary: C:\Users\Ryan\TinellbianLanguages\grammar\data\assets\glossary.glk
-  ipa: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\phonologies.glk
-  lang: C:\Users\Ryan\TinellbianLanguages\toplevel\data\assets\languages.yml
-  poslink: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\grammar.glk
+  external: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\external non-language links.glk
+  glossary: c:\users\ryan\tinellbianlanguages\grammar\data\assets\glossary.glk
+  ipa: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\phonologies.glk
+  lang: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+  poslink: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\grammar.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\dictionary
-  page404: C:\Users\Ryan\TinellbianLanguages\dictionary\404.html
-  search: C:\Users\Ryan\TinellbianLanguages\dictionary\special\search.html
-  wholepage: C:\Users\Ryan\TinellbianLanguages\dictionary\special\wholepage.html
+  page404: c:\users\ryan\tinellbianlanguages\dictionary\404.html
+  search: c:\users\ryan\tinellbianlanguages\dictionary\special\search.html
+  wholepage: c:\users\ryan\tinellbianlanguages\dictionary\special\wholepage.html
 port: 23104
 serialisation format:
   definition: definition
@@ -32,19 +32,23 @@ serialisation format:
   native script: native-script
   part of speech: h3|part-of-speech
   pronunciation: pronunciation
-styles: C:\Users\Ryan\TinellbianLanguages\dictionary\data\assets\styles.tag
+styles: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\styles.tag
 templates:
+  entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
   main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
-  entry: c:\users\ryan\tinellbianlanguages\top!level\data\templates\entry.tpl
-  page404: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search404.tpl
-  search: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\search.tpl
   sections:
-    Periodic Table: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\tables\periodic_table.tpl
     auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\auxiliaries.tpl
-    copyright: c:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\copyright.tpl
-    indefinite pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
+    indefinitepronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
+    jumptoentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\jump_to_entry.tpl
     magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    navigation pane: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\tables\navpane.tpl
-    personal pronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\personal_pronouns.tpl
-    terminal auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\terminal_auxiliaries.tpl
-  wholepage: C:\Users\Ryan\TinellbianLanguages\toplevel\data\templates\wholepage.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
+    periodictable: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\periodic_table.tpl
+    personalpronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\personal_pronouns.tpl
+    randomentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\random_entry.tpl
+    terminalauxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\terminal_auxiliaries.tpl
+  special:
+    page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl
