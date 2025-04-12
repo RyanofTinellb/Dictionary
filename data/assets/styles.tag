@@ -76,13 +76,23 @@ glossary:
     'off': Return
     'on': Alt-G
   open: <dfn><abbr class="glossary" title="
-  param: $link:lookup:glossary$|$text$
+  param: $lookup:glossary$|$text$
   pipe: '">'
   props:
     font: Felix Titling
     size: 80
   rank: -50
   type: span
+h1|headword:
+  type: heading
+  keys:
+    'on': 1
+    'off': Return
+  props:
+    bold: true
+    font: Tempus Sans ITC
+    justification: centre
+    size: 130
 h2:
   props:
     bold: true
@@ -97,14 +107,14 @@ h2|language:
     tag: article|faux-ami
   keys:
     'off': Return
-    'on': 1
+    'on': 2
   param: ' id="$url(text)$|$text$'
   props:
     bold: true
     font: Artisan Paris
     justification: centre
     size: 120
-    top: 25
+    top: 10
   type: heading
 h3:
   props:
@@ -120,7 +130,7 @@ h3|part-of-speech:
     tag: section|homonym
   keys:
     'off': Return
-    'on': 2
+    'on': 3
   props:
     bottom: 7
     font: Garamond
@@ -132,7 +142,7 @@ h4|subheading:
     tag: section
   keys:
     'off': Return
-    'on': 3
+    'on': 4
   props:
     bold: true
     bottom: 15

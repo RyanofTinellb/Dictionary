@@ -1,96 +1,57 @@
-var BASE_URL = '/data/assets/wordlist.json';    // can be overriden
-var BACKUP_URL = '/data/assets/searching.json'; // by 404 search
-const SEARCH = document.getElementById('search');
 const TERM = document.getElementById('term');
+const SEARCH = document.getElementById('search');
 const RESULTS = document.getElementById('results');
-const LOWER = word => word.toLowerCase()
-const LANGUAGES = [
-    'english', 'lulani', 'high', 'demotic', 'fezhle', 'early', 'late', 'koine',
-    'ptokan', 'old', 'middle', 'standard', 'brequen', 'pre-brequen', 'archaic',
-    'common', 'zhaladi', 'proto', 'contemporary', 'reformed', 'tsarin',
-    'classical', 'modern', 'solajin', 'ancient', 'medieval', 'traditional', 'new'
-]
 
 searchParams = new URLSearchParams(window.location.search);
 let terms = searchParams.get('term');
 if (terms) {
     RESULTS.innerHTML = 'Searching...';
-    SEARCH.value = terms
+    SEARCH.value = terms;
+    TERM.value = terms;
     search(terms.split(' '));
 }
 
-async function search(terms) {
-    let data;
-    let results;
-    if (!terms) {
-        results = '';
-    } else {
-        data = await fetch(BASE_URL);
-        data = await data.json();
-        results = [translit, pos_lang, def_lang, native_script]
-        .map(fn => display(fn(data, terms)))
-        .filter(entry => entry.length)
-        .sort((a, b) => a.length - b.length)
-        .join('');
+function search() {
+    var url = "/data/assets/searching.json";
+    var xmlhttp = new XMLHttpRequest();
+    // var andButton = document.getElementById("and")
+    xmlhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            let text = JSON.parse(this.responseText);
+            let terms = getTerms();
+            if (!terms.length) {
+                arr = [];
+            } else if (terms.length == 1) {
+                arr = oneTermSearch(text, terms);
+            } else {
+                arr = multiTermSearch(text, terms, true);
+            }
+            display(arr, text, "results", terms, true);
+        }
+    };
+    xmlhttp.open("GET", url, true);
+    xmlhttp.send();
+}
+
+// returns array of terms
+function getTerms() {
+    var andOr;
+    var url;
+    var searchString;
+    var text;
+    url = window.location.href.split('?');
+    searchString = decodeURI(url[1]).split("&");
+    try {
+        andOr = searchString.split("=")[1];
+    } catch (err) {
+        andOr = "and"
     }
-    if (results.length) {
-        RESULTS.innerHTML = results;
-    } else {
-        backupSearch(terms);
+    if (andOr == "or") {
+        document.getElementById("or").checked = true
     }
-}
-
-async function backupSearch(terms) {
-    let data = await fetch(BACKUP_URL);
-    data = await data.json();
-    if (!terms.length) {
-        return;
-    } else if (terms.length == 1) {
-        arr = oneTermSearch(data, terms);
-    } else {
-        arr = multiTermSearch(data, terms);
-    }
-    RESULTS.innerHTML = backupDisplay(arr, data, terms);
-}
-
-function capitalise(string) {
-    if (string.length == 0) {
-        return ''
-    }
-    if (string.startsWith('&rsquo;')) {
-        return string.replace('&rsquo;', '&#x294;');
-    } else {
-        return string.charAt(0).toUpperCase() + string.slice(1);
-    }
-}
-
-function esc(string) {
-    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-function backupDisplay(pages, data, terms) {
-    let regexes = terms.map(term =>
-        RegExp(`(${esc(term)}|${capitalise(esc(term))})`, 'g'));
-    return `${!arr.length ? 'No matching entries found.' :
-            `<ul>${pages.map(page => {
-                let pagenum = page.page;
-                let link = data.urls[pagenum];
-                let name = data.pages[pagenum];
-                let lines = page.lines.map(
-                    linenum => boldterms(regexes, data.lines[linenum]));
-                return `<li><a href="${backupUrl(link)}">${name}</a>: ${lines.join(' &hellip; ')}</li>`;
-            }).join('')}</ul>`}`;
-}
-
-function backupUrl(link) {
-    return '/' + link
-}
-
-function boldterms(terms, line) {
-    terms.forEach(term => {
-        line = line.replace(term, '<b>$1</b>');
-    });
-    return line;
+    text = searchString[0].split("=")[1].toLowerCase();
+    document.getElementById("term").value = text.split("+").join(" ");
+    return text.split("+").filter(i => i != "");
 }
 
 function unique(arr) {
@@ -106,7 +67,7 @@ function uniquePageNumbers(pages) {
     });
 }
 
-function multiTermSearch(arr, terms) {
+function multiTermSearch(arr, terms, andButton) {
     let pages = [].concat(...terms.map(term => oneTermSearch(arr, term)));
     pages.sort((a, b) => a.page - b.page);
     let output = [];
@@ -117,11 +78,12 @@ function multiTermSearch(arr, terms) {
             current.count++;
         } else {
             if (current) { output.push(current); }
-            current = { page: page.page, lines: page.lines, count: 1 };
+            current = {page: page.page, lines: page.lines, count: 1};
         }
     }
     output = uniquePageNumbers(output);
-    return output.filter(page => page.count === terms.length);
+    filter = andButton ? page => page.count === terms.length : page => true;
+    return output.filter(filter);
 }
 
 function oneTermSearch(arr, term) {
@@ -136,117 +98,58 @@ function oneTermSearch(arr, term) {
     return text;
 }
 
-function pos_lang(data, terms, back) {
-    terms = terms.map(keep_hyphen);
-    let totalLength = data.length;
-    if (includesAll(LANGUAGES, terms)) {
-        return [];
-    }
-    for (let term of terms) {
-        let neg = term.charAt(0) == '-' ? a => !a : a => a;
-        term = term.replace(/^-/, '');
-        let arr = data.filter(entry => neg(entry.p.split(' ').includes(term)));
-        if (!arr.length || arr.length == data.length) {
-            arr = data.filter(entry => neg(language(entry).includes(term)));
-        }
-        if (!arr.length && !back) {
-            return pos_lang(data, terms.reverse(), true)
-        } else {
-            data = arr;
-        }
-    }
-    if (data.length == totalLength) {
-        return [];
-    }
-    return data;
-}
-
-function def_lang(data, terms) {
-    terms = terms.map(keep_quotes);
-    for (let term of terms) {
-        quote = term.search('"') != -1;
-        term = term.replace(/"/g, '');
-        if (!term) {
-            return [];
-        }
-        data = data.filter(entry => entry.d.split(/[ ;]/).map(
-            word => word.toLowerCase()
-        ).includes(term) ||
-            (quote ? false : language(entry).includes(term)));
-        if (!data.length) {
-            break;
-        }
-    }
-    return data;
-}
-
-function native_script(data, terms) {
-    for (let term of terms) {
-        data = data.filter(entry => entry.n == term);
-        if (!data.length) {
-            break;
-        }
-    }
-    return data;
-}
-
-const language = entry => entry.l.toLowerCase().split(' ');
-
-const translit = (data, terms) => data.filter(entry =>
-    includesAll(entry.t.split(' ').map(word => word.toLowerCase().replace('-', '')), terms.map(word => word.toLowerCase().replace('-', ''))));
-
-
-function keep_quotes(text) {
-    return text.toLowerCase().replace(/[^a-z'" ]/g, '');
-}
-
-function keep_hyphen(text) {
-    return text.toLowerCase().replace(/[^a-z-' ]/g, '')
-}
-
-function includesAll(entry, terms) {
-    return terms.every(term => entry.includes(term));
-}
-
-function includesSome(entry, terms) {
-    return terms.some(term => entry.includes(term));
-}
-
-function display(entries) {
-    if (entries.length) {
-        return `<ul>${entries.map(createLine).join('')}</ul>`;
-    } else {
+// capitalises first letter
+function capitalise(string) {
+    if (string.length == 0) {
         return ''
     }
+    if (string.startsWith('&rsquo;')) {
+        return string.replace('&rsquo;', '&#x294;');
+    } else {
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    }
 }
 
-function createLine(entry) {
-    let language = entry.l.toLowerCase().split(' ').map(lang => lang.charAt(0)).join('');
-    // language = language == 'english' ? 'en' : 'x-tlb-' + language.split(' ').map(lang => lang.charAt(0)).join('');
-
-    return `<li><a href="../lex/${createUrl(entry.t)}">${entry.t}</a> `
-        + (entry.n ? `<span class="tinellbian" lang="${language}">${entry.n}</span> ` : '')
-        + `(${entry.l}) `
-        + `<em>${entry.d}</em></li>`;
+function titleSearch(arr, terms, andButton) {
+    console.log(arr);
+    let names = arr.pages.map((elt, i) => ({
+        name: elt,
+        url: arr.urls[i],
+        count: 0,
+    }));
+    terms.forEach(term => {
+        names.forEach(name => {
+            if (name.name.toLowerCase().includes(term)) { name.count++; }
+        });
+    });
+    numTerms = terms.length;
+    // filter = andButton ? name => name.count === terms.length : name =>
+    filter = name => (andButton ? name.count === terms.length : name.count);
+    names = names.filter(filter);
+    return `<div class="title-results"><ul>${names.map(
+        name => `<a href="/${name.url}">${name.name}</a></li>`
+    ).join(';<br> ')}</ul></div>`;
 }
 
-
-function createUrl(text) {
-    return createPlainUrl(text);
+function display(pages, data, id, terms, andButton) {
+    let regexes = terms.map(term =>
+            RegExp(`(${term}|${capitalise(term)})`, 'g'));
+    document.getElementById(id).innerHTML = `${titleSearch(data, terms, andButton)}${
+    !arr.length ? terms.join(' ') + " not found" :
+         `<ol>${pages.map(page => {
+            let pagenum = page.page;
+            let link = data.urls[pagenum] + "?highlight=" + terms.join("+");
+            let name = data.pages[pagenum];
+            let lines = page.lines.map(
+                linenum => embolden(regexes, data.lines[linenum]));
+            return `<li><a href="../${link}">${name}</a>: ${
+                lines.join(' &hellip; ')}</li>`;
+    }).join('')}</ol>`}`;
 }
 
-function createPlainUrl(text) {
-    return `${sellCaps(text)}.html`
+function embolden(terms, line) {
+    terms.forEach(term => {
+        line = line.replace(term, '<b>$1</b>');
+    });
+    return line;
 }
-
-const mapString = (str, fn) =>
-    str.split('')
-        .map((c, i) => fn(c, i, str))
-        .join('');
-
-// Changes space to period, and adds dollar-signs before capitals
-const sellLetterCaps = letter =>
-    letter == letter.toLowerCase() ?
-        letter == ' ' ? '.' : letter : `$${letter.toLowerCase()}`
-
-const sellCaps = text => mapString(text, sellLetterCaps);

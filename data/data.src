@@ -1627,8 +1627,8 @@ entries:
               - <template>personal pronouns</template>
               title: ba - The Tinellbian Languages Dictionary
             baca:
-              date: '2018-03-30'
-              position: '1.0'
+              date: '2025-04-10'
+              position: '6.6'
               text:
               - <h1|headword>baca</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2462,7 +2462,8 @@ entries:
               - <wordlist><block><link@x-tlb-hl>qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <gloss>after</gloss></block></wordlist>
               title: capi - The Tinellbian Languages Dictionary
             capuha:
-              date: '2024-07-24'
+              date: '2025-04-11'
+              position: '6.26'
               text:
               - <h1|headword>capuha</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -8784,8 +8785,8 @@ entries:
               - <wordlist><block><link@x-tlb-hl>tama</link@x-tlb-hl> <gloss>assent</gloss></block></wordlist>
               title: migina - The Tinellbian Languages Dictionary
             mihu:
-              date: '2025-01-20'
-              position: '5.64'
+              date: '2025-04-12'
+              position: '5.30'
               text:
               - <h1|headword>mihu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9657,14 +9658,14 @@ entries:
               - <definition>corner</definition>
               title: narra - The Tinellbian Languages Dictionary
             naru:
-              date: '2024-09-02'
-              position: '5.14'
+              date: '2025-04-11'
+              position: '5.27'
               text:
               - <h1|headword>naru</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnaɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ </h3|part-of-speech><poslink@x-tlb-hl>time</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>time</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>slowness; <i>slowly</i></definition>
               title: naru - The Tinellbian Languages Dictionary
             nasiʔu:
@@ -9955,7 +9956,8 @@ entries:
               - <block><link@x-tlb-hl>’ulanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うわに</tinellbian@x-tlb-hl> <gloss>to be aroused</gloss></block></wordlist>
               title: nu - The Tinellbian Languages Dictionary
             nudda:
-              date: '2018-04-03'
+              date: '2025-04-11'
+              position: '6.7'
               text:
               - <h1|headword>nudda</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17208,6 +17210,7 @@ entries:
           date: '2024-05-29'
           position: '1.0'
           text: []
+          title: ''
       date: '2025-01-27'
       position: '1.0'
       text:
@@ -17215,3 +17218,4 @@ entries:
       - <introduction>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</introduction>
       - <introduction><javascript><h2>Searching</h2>
       - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</javascript></introduction>
+      title: ''
