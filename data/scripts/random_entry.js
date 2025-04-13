@@ -17,5 +17,5 @@ async function randomEntry() {
     data = await data.json();
 	data = Object.values(data);
     let rand = data[Math.floor(Math.random() * data.length)].t;
-    window.open('/lex/' + createUrl(rand), '_self');
+    window.open(createUrl(rand), '_self');
 }
