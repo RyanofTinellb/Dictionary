@@ -5,7 +5,10 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - mihu
+  - $sa’imi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $caemi
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
@@ -38,11 +41,12 @@ templates:
   main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
   sections:
     auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\auxiliaries.tpl
+    basesearch: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\base_search.tpl
     copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
     indefinitepronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
     jumptoentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\jump_to_entry.tpl
     magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
-    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
     navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
     periodictable: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\periodic_table.tpl
     personalpronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\personal_pronouns.tpl

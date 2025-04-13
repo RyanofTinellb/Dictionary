@@ -150,10 +150,11 @@ main input:first-child {
 
 main details p {
 	margin-inline-start: calc(20% + 1.5ch);
+	--folding-padding: 4ch;
 }
 
 main details + p {
-	padding-inline-start: var(--folding-padding);
+	padding-inline-start: 4ch;
 }
 
 main .wordlist summary {

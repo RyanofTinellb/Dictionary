@@ -14,6 +14,24 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>country in reality D<sup>578</sup>η</definition>
               title: Brequé - The Tinellbian Languages Dictionary
+            $caemi:
+              date: '2025-04-13'
+              position: '5.38'
+              text:
+              - <h1|headword>Caemi</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ðəˈjɛmɪ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>The goddess of light, energy and chaos</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>$tserron</link@en></block>
+              - <block><link@en>$volzd</link@en>
+              - <link@en>$zigûti</link@en>
+              - <link@en>$qolt</link@en>
+              - <link@en>$vohalu</link@en></block>
+              - <block><link@en>$yao</link@en>
+              - <link@en>$tayedu</link@en>
+              - <link@en>$umi</link@en></block></wordlist>
             $corla:
               date: '2025-03-05'
               position: '4.15'
@@ -246,14 +264,15 @@ entries:
               - <gloss>transliteration of</gloss> <b>English</b> Ryan
               title: Ra’ani - The Tinellbian Languages Dictionary
             $sa’imi:
-              date: '2018-09-30'
+              date: '2025-04-13'
+              position: '6.5'
               text:
               - <h1|headword>Sa’imi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/saˈʔimɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>Caemi; goddess of light, energy and chaos; light-giver</definition>
+              - <definition>Caemi</definition>
               - <h4|subheading>Notes</h4|subheading>
               - Also the name given to the personification of the Nuobi sun.
               - <h4|subheading>Etymology</h4|subheading>
@@ -328,8 +347,8 @@ entries:
               - <b>High Lulani:</b> <link@x-tlb-hl>$tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
               title: Tinellb - The Tinellbian Languages Dictionary
             $toresh:
-              date: '2024-05-08'
-              position: '6.31'
+              date: '2025-04-13'
+              position: '8.19'
               text:
               - <h1|headword>Toresh</h1|headword>
               - <h2|language>English</h2|language>
@@ -337,8 +356,8 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Fezhlê woman, major character of <external>The Crackled Egg</external></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
-              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></block>
+              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
+              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></list-block>
               title: Toresh - The Tinellbian Languages Dictionary
             $turassi:
               date: '2024-07-18'
@@ -378,8 +397,8 @@ entries:
               - <definition><link@en>$tussol</link@en></definition>
               title: Tussuli - The Tinellbian Languages Dictionary
             $tŗsh:
-              date: '2024-05-28'
-              position: '2.0'
+              date: '2025-04-13'
+              position: '7.26'
               text:
               - <h1|headword>Tŗsh</h1|headword>
               - <h2|language>Koine Fezhlê</h2|language>
@@ -387,7 +406,7 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition><link@en>$toresh</link@en></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></block>'
+              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></list-block>'
               title: Tŗsh - The Tinellbian Languages Dictionary
             $xaladi:
               date: '2024-05-28'
@@ -401,12 +420,12 @@ entries:
               - <definition><link@en>$zhalad</link@en></definition>
               title: Xaladi - The Tinellbian Languages Dictionary
             $xucipura.$cula:
-              date: '2024-05-28'
-              position: '8.10'
+              date: '2025-04-13'
+              position: '3.4'
               text:
               - <h1|headword>Xucipura Cula</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>ずちぷら・ゆわ</tinellbian@x-tlb-hl></native-script>
+              - <native-script><tinellbian@x-tlb-hl>ずちぷらゆわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽə</ipa@x-tlb-hl> <ipa@x-tlb-hl>ˈcʰulə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech>compound <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><gloss><external>The Crackled Egg</external></gloss></definition>
@@ -17166,8 +17185,8 @@ entries:
               - <link@x-tlb-hl>luxira</link@x-tlb-hl>’uxxi <tinellbian@x-tlb-hl>をしらうっし</tinellbian@x-tlb-hl> <gloss>set of twins</gloss></block></wordlist>
               title: ’uxxi - The Tinellbian Languages Dictionary
             ’u’a:
-              date: '2019-01-07'
-              position: '7.10'
+              date: '2025-04-13'
+              position: '10.14'
               text:
               - <h1|headword>’u’a</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17177,8 +17196,9 @@ entries:
               - <definition>wood</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
-              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
-              - <block><poslink@x-tlb-hl>List of Plants</poslink@x-tlb-hl></block><wordlist><block><link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              - <poslink@x-tlb-hl>List of Plants</poslink@x-tlb-hl></list-block>
+              - <wordlist><block><link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss>
               - <link@x-tlb-hl>xuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずっは</tinellbian@x-tlb-hl> <gloss>fire</gloss>
               - <link@x-tlb-hl>cissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちっさ</tinellbian@x-tlb-hl> <gloss>air</gloss>
               - <link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>earth</gloss>
