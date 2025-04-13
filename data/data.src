@@ -15,7 +15,7 @@ entries:
               - <definition>country in reality D<sup>578</sup>η</definition>
               title: Brequé - The Tinellbian Languages Dictionary
             $caemi:
-              date: '2025-04-13'
+              date: '2025-04-14'
               position: '5.38'
               text:
               - <h1|headword>Caemi</h1|headword>
@@ -32,6 +32,7 @@ entries:
               - <block><link@en>$yao</link@en>
               - <link@en>$tayedu</link@en>
               - <link@en>$umi</link@en></block></wordlist>
+              title: $caemi - The Tinellbian Languages Dictionary
             $corla:
               date: '2025-03-05'
               position: '4.15'

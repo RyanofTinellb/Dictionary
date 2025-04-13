@@ -161,20 +161,11 @@ main .wordlist summary {
 	margin-inline-start: 0;
 }
 
-main .results ol,
-main .results ul {
-	margin-inline-start: 0;
-}
-
 main form.entry {
 	margin-block-start: 3lh;
 	text-align: center;
 }
 
-
-main .results a {
-	text-decoration: none;
-}
 
 main ul.list-block {
   padding-inline-start: calc(20% + 4ch);
