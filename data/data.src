@@ -1008,8 +1008,8 @@ entries:
               - <definition>also</definition>
               title: -matta - The Tinellbian Languages Dictionary
             -mi:
-              date: '2025-01-20'
-              position: '61.0'
+              date: '2025-04-14'
+              position: '9.16'
               text:
               - <h1|headword>-mi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -1018,7 +1018,7 @@ entries:
               - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> → <poslink@x-tlb-hl>animate</poslink@x-tlb-hl>)</h3|part-of-speech>'
               - <definition>giver</definition>
               - <h4|subheading>Examples</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss>
+              - <wordlist><block><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss></block>
               - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
               - <definition>any; some</definition>
@@ -1205,7 +1205,8 @@ entries:
               - <link@x-tlb-hl>cikkipu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちっきぷあ</tinellbian@x-tlb-hl> <gloss>telepath</gloss></block></wordlist>
               title: -pu’a - The Tinellbian Languages Dictionary
             -qa:
-              date: '2025-01-20'
+              date: '2025-04-14'
+              position: '14.23'
               text:
               - <h1|headword>-qa</h1|headword>
               - <also>qa</also>
@@ -1219,7 +1220,7 @@ entries:
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>paguqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぐげ</tinellbian@x-tlb-hl> <gloss>mine</gloss>
               - <link@x-tlb-hl>baqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばげ</tinellbian@x-tlb-hl> <gloss>yours</gloss>
-              - <link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl> <gloss>theirs</gloss>
+              - <link@x-tlb-hl>disiqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でせげ</tinellbian@x-tlb-hl> <gloss>theirs</gloss></block>
               - <block><link@x-tlb-hl>ra</link@x-tlb-hl>qa <tinellbian@x-tlb-hl>らげ</tinellbian@x-tlb-hl> <gloss>the two of them</gloss></block></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
               - <definition>third person inanimate genitive;<glossary> 3ina;gen</glossary></definition>
@@ -2280,7 +2281,8 @@ entries:
               - <wordlist><block><link@x-tlb-hl>caba</link@x-tlb-hl> <tinellbian@x-tlb-hl>やば</tinellbian@x-tlb-hl> <gloss>helper</gloss></block></wordlist>
               title: ca - The Tinellbian Languages Dictionary
             caba:
-              date: '2018-04-05'
+              date: '2025-04-14'
+              position: '9.0'
               text:
               - <h1|headword>caba</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2289,7 +2291,7 @@ entries:
               - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>helper; assistant</definition>
               - <h4|subheading>Etymology</h4|subheading>
-              - <block><link@x-tlb-hl>ca</link@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl> <gloss>to help</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
+              - <link@x-tlb-hl>ca</link@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl> <gloss>to help</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               title: caba - The Tinellbian Languages Dictionary
             cabahi:
               date: '2018-04-05'
@@ -2580,8 +2582,8 @@ entries:
               - <definition>topic; subject</definition>
               title: cihafi - The Tinellbian Languages Dictionary
             cijja:
-              date: '2024-09-01'
-              position: '10.9'
+              date: '2025-04-14'
+              position: '12.14'
               text:
               - <h1|headword>cijja</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2593,8 +2595,8 @@ entries:
               - <wordlist><block><link@x-tlb-hl>tapucijja</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷちっぢ</tinellbian@x-tlb-hl> <gloss>to be drunk</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
-              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
-              - <block><poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl></block>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              - <poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl></list-block>
               title: cijja - The Tinellbian Languages Dictionary
             ciju:
               date: '2018-04-05'
@@ -2931,8 +2933,8 @@ entries:
               - <b>dacca</b><link@x-tlb-hl>-da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だっやだ</tinellbian@x-tlb-hl> <gloss>bad luck</gloss></block></wordlist>
               title: dacca - The Tinellbian Languages Dictionary
             dahi:
-              date: '2019-01-07'
-              position: '9.9'
+              date: '2025-04-14'
+              position: '12.14'
               text:
               - <h1|headword>dahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2944,8 +2946,8 @@ entries:
               - <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss> + <link@x-tlb-hl>hi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl> <gloss>solid</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
-              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
-              - <block><poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              - <poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl></list-block>
               title: dahi - The Tinellbian Languages Dictionary
             daja:
               date: '2024-08-30'
@@ -3071,7 +3073,8 @@ entries:
               - “Every <gloss>darill</gloss> affects every other.”
               title: darill - The Tinellbian Languages Dictionary
             daru:
-              date: '2018-04-03'
+              date: '2025-04-14'
+              position: '9.0'
               text:
               - <h1|headword>daru</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -3080,7 +3083,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>road; street</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>daruhuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるほば</tinellbian@x-tlb-hl> <gloss>main street</gloss>
+              - <wordlist><block><link@x-tlb-hl>daruhuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるほば</tinellbian@x-tlb-hl> <gloss>main street</gloss></block>
               - <block><link@x-tlb-hl>daruli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss></block></wordlist>
               title: daru - The Tinellbian Languages Dictionary
             daruhuba:
@@ -3121,9 +3124,13 @@ entries:
               - <h3|part-of-speech>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>because</definition>
               title: daru’i - The Tinellbian Languages Dictionary
+            das:
+              position: '1.0'
+              text: []
+              title: ''
             dasa:
-              date: '2019-05-26'
-              position: '12.20'
+              date: '2025-04-14'
+              position: '11.0'
               text:
               - <h1|headword>dasa</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -3134,7 +3141,7 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss>
               - <link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
-              - <link@x-tlb-hl>sutti</link@x-tlb-hl> <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> <gloss>fear</gloss>
+              - <link@x-tlb-hl>sutti</link@x-tlb-hl> <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> <gloss>fear</gloss></block>
               - <block><link@x-tlb-hl>dasatu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss>
               - <link@x-tlb-hl>dasada</link@x-tlb-hl> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss></block></wordlist>
               title: dasa - The Tinellbian Languages Dictionary
@@ -4733,8 +4740,8 @@ entries:
               - ↓ <link@x-tlb-hl>fula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ふわ</tinellbian@x-tlb-hl> <gloss>rhodium</gloss></block></wordlist>
               title: gaxiki - The Tinellbian Languages Dictionary
             ga’i:
-              date: '2025-03-24'
-              position: '8.0'
+              date: '2025-04-14'
+              position: '11.15'
               text:
               - <h1|headword>ga’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -4743,14 +4750,14 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>time; occasion; while</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>’ala</link@x-tlb-hl>ga’i <tinellbian@x-tlb-hl>あわがい</tinellbian@x-tlb-hl> <gloss>hot day</gloss>
+              - <wordlist><block><link@x-tlb-hl>’ala</link@x-tlb-hl>ga’i <tinellbian@x-tlb-hl>あわがい</tinellbian@x-tlb-hl> <gloss>hot day</gloss></block>
               - <block><link@x-tlb-hl>ga’iniqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>がいにっね</tinellbian@x-tlb-hl> <gloss>in a timely fashion</gloss></block></wordlist>
               - <h4|subheading>Synonyms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss></block></wordlist>
+              - <wordlist><link@x-tlb-hl>cura’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆらあ</tinellbian@x-tlb-hl> <gloss>time</gloss></wordlist>
               title: ga’i - The Tinellbian Languages Dictionary
             gi:
-              date: '2019-03-02'
-              position: '15.19'
+              date: '2025-04-14'
+              position: '13.0'
               text:
               - <h1|headword>gi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -4759,12 +4766,12 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>left; to the left; on the left-hand side</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>saqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl> <gloss>right</gloss></block></wordlist>
+              - <wordlist><link@x-tlb-hl>saqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl> <gloss>right</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> dative <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to carry; to take; to bring; to have; to hold; to get</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>pagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぎ</tinellbian@x-tlb-hl> <gloss>to understand</gloss>
-              - <link@x-tlb-hl>gi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎい</tinellbian@x-tlb-hl> <gloss>to understand</gloss>
+              - <wordlist><block><link@x-tlb-hl>pagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱぎ</tinellbian@x-tlb-hl> <gloss>to understand</gloss></block>
+              - <block><link@x-tlb-hl>gi’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎい</tinellbian@x-tlb-hl> <gloss>to understand</gloss></block>
               - <block><link@x-tlb-hl>daxunikifigi.qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずにきべぎ げさ</tinellbian@x-tlb-hl> <gloss>coelacanth</gloss></block></wordlist>
               title: gi - The Tinellbian Languages Dictionary
             gibi:
@@ -5661,8 +5668,8 @@ entries:
               - <template>auxiliaries</template>
               title: hu - The Tinellbian Languages Dictionary
             huba:
-              date: '2018-04-20'
-              position: '1.0'
+              date: '2025-04-14'
+              position: '11.0'
               text:
               - <h1|headword>huba</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -5673,7 +5680,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>importance</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>xihuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>しほば</tinellbian@x-tlb-hl> <gloss>to be important</gloss>
+              - <wordlist><block><link@x-tlb-hl>xihuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>しほば</tinellbian@x-tlb-hl> <gloss>to be important</gloss></block>
               - <block><link@x-tlb-hl>daruhuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるほば</tinellbian@x-tlb-hl> <gloss>main street</gloss></block></wordlist>
               title: huba - The Tinellbian Languages Dictionary
             hucu:
@@ -7317,8 +7324,8 @@ entries:
               - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></block></wordlist>
               title: kunaqi - The Tinellbian Languages Dictionary
             kunubi:
-              date: '2025-03-24'
-              position: '17.7'
+              date: '2025-04-14'
+              position: '15.0'
               text:
               - <h1|headword>kunubi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -7329,7 +7336,7 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <glossary>dat</glossary> + <link@x-tlb-hl>Nubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬび</tinellbian@x-tlb-hl> <gloss>Nuobi</gloss>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>kunubitu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl> <gloss>plains</gloss>
+              - <wordlist><block><link@x-tlb-hl>kunubitu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl> <gloss>plains</gloss></block>
               - <block><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>salilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl> <gloss>night sky</gloss></block>
@@ -7338,7 +7345,7 @@ entries:
               - <link@x-tlb-hl>xuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずっは</tinellbian@x-tlb-hl> <gloss>fire</gloss>
               - <link@x-tlb-hl>cissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちっさ</tinellbian@x-tlb-hl> <gloss>air</gloss>
               - <link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>earth</gloss>
-              - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></block></block></wordlist>
+              - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></block></wordlist>
               title: kunubi - The Tinellbian Languages Dictionary
             kunubitu’afu:
               date: '2019-01-06'
@@ -7521,8 +7528,8 @@ entries:
               - <link@x-tlb-hl>cussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっさ</tinellbian@x-tlb-hl> <gloss>psyche</gloss></block></wordlist>
               title: lahha - The Tinellbian Languages Dictionary
             lahhaduku:
-              date: '2019-05-11'
-              position: '11.7'
+              date: '2025-04-14'
+              position: '9.0'
               text:
               - <h1|headword>lahhaduku</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -7531,7 +7538,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>whole body</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>’anniduku</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっにどく</tinellbian@x-tlb-hl> <gloss>four planes</gloss>
+              - <wordlist><block><link@x-tlb-hl>’anniduku</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっにどく</tinellbian@x-tlb-hl> <gloss>four planes</gloss></block>
               - <block><link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss>
               - <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>mind</gloss>
