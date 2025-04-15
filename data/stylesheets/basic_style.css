@@ -1,5 +1,6 @@
 :root {
-    --wordlist-sep: 0.8lh
+    --wordlist-sep: 0.8lh;
+    --default-left: 2lh;
 }
 
 html {
@@ -452,7 +453,7 @@ main details {
 
 main .wordlist {
     margin-inline: 0% 15%;
-    margin-block: 2lh 2.5lh;
+    margin-block: var(--default-left) 2.5lh;
     padding-block: 0.5lh 1lh;
     padding-inline-start: 10%;
     border-left: 1px solid green;

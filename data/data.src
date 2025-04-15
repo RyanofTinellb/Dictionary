@@ -14358,62 +14358,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ta’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>たい</tinellbian@x-tlb-hl> <gloss>scent</gloss> + <link@x-tlb-hl>-tu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> <gloss>positive aspect</gloss>
               title: ta’itu’i - The Tinellbian Languages Dictionary
-            testing:
-              date: '2025-04-15'
-              position: '34.17'
-              text:
-              - <h1|headword>testing</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>たさてげ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈtʰastʰɨŋ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>testing</definition>
-              - <h4|subheading>Examples</h4|subheading>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl></summary|folding>
-              - <tinellbian@x-tlb-hl>。うすや ぢっにむへ みや。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’usu</link@x-tlb-hl>-<link@x-tlb-hl>ca</link@x-tlb-hl> <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <link@x-tlb-hl>mica</link@x-tlb-hl>.
-              - <glossary>1int</glossary>-<gloss>only dance allowed</gloss></details|folding>
-              - “Only I may dance.”
-              - This is a case of othery things.
-              - <h4|subheading>Othery Things</h4|subheading>
-              - <wordlist><link@x-tlb-hl>-nisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>にさ</tinellbian@x-tlb-hl> <gloss>sole</gloss>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl></summary|folding>
-              - <tinellbian@x-tlb-hl>。うすや ぢっにむへ みや。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’usu</link@x-tlb-hl>-<link@x-tlb-hl>ca</link@x-tlb-hl> <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <link@x-tlb-hl>mica</link@x-tlb-hl>.
-              - <glossary>1int</glossary>-<gloss>only dance allowed</gloss></details|folding>
-              - “Only I may dance.”
-              - <link@x-tlb-hl>kappa</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっぱ</tinellbian@x-tlb-hl> <gloss>turassi</gloss>
-              - <link@x-tlb-hl>alpha</link@x-tlb-hl> <tinellbian@x-tlb-hl>あlpは</tinellbian@x-tlb-hl> <gloss>alapa</gloss>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>my name is</transliteration@x-tlb-hl></summary|folding>
-              - hello
-              - this is text</details|folding>
-              - this is text too</wordlist>
-              - tezr
-              - <wordlist><block><link@x-tlb-hl>-nisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>にさ</tinellbian@x-tlb-hl> <gloss>sole</gloss>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusuca jannimufa mica.</transliteration@x-tlb-hl></summary|folding>
-              - <tinellbian@x-tlb-hl>。うすや ぢっにむへ みや。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’usu</link@x-tlb-hl>-<link@x-tlb-hl>ca</link@x-tlb-hl> <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <link@x-tlb-hl>mica</link@x-tlb-hl>.
-              - <glossary>1int</glossary>-<gloss>only dance allowed</gloss></details|folding>
-              - “Only I may dance.”
-              - <link@x-tlb-hl>kappa</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっぱ</tinellbian@x-tlb-hl> <gloss>turassi</gloss></block>
-              - <block><link@x-tlb-hl>alpha</link@x-tlb-hl> <tinellbian@x-tlb-hl>あlpは</tinellbian@x-tlb-hl> <gloss>alapa</gloss>
-              - <details|folding><summary|folding><transliteration@x-tlb-hl>my name is</transliteration@x-tlb-hl></summary|folding>
-              - hello
-              - this is text</details|folding>
-              - this is text too</block></wordlist>
-              - <h3|part-of-speech>abstract noun</h3|part-of-speech>
-              - <definition>things</definition>
-              - <definition>whatever</definition>
-              - <native-script><tinellbian@x-tlb-hl>tesてng</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/thaˈstiŋg/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>adjective</h3|part-of-speech>
-              - <definition>things again</definition>
-              - <h2|language>English</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>testing</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/mynamə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>preposition</h3|part-of-speech>
-              - <definition>abstract stuff</definition>
-              title: testing - The Tinellbian Languages Dictionary
             tiba:
               date: '2019-04-28'
               position: '4.18'
@@ -15519,8 +15463,8 @@ entries:
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>ranna</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっな</tinellbian@x-tlb-hl> <gloss>glory</gloss>
               title: xiranna - The Tinellbian Languages Dictionary
             xita:
-              date: '2025-03-27'
-              position: '10.0'
+              date: '2025-04-15'
+              position: '4.8'
               text:
               - <h1|headword>xita</h1|headword>
               - <h2|language>High Lulani</h2|language>
