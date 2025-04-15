@@ -1459,6 +1459,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>next</definition>
               title: -tapa - The Tinellbian Languages Dictionary
+            -tta:
+              date: '2025-04-16'
+              position: '5.0'
+              text:
+              - <h1|headword>-tta</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/tːə/</ipa@x-tlb-hl></pronunciation>
+              - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> → <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>)</h3|part-of-speech>'
+              - <definition>derives an abstract noun from an inanimate mass noun</definition>
+              - <h4|subheading>Examples</h4|subheading>
+              - <wordlist><link@x-tlb-hl>busatta</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl> <gloss>colour</gloss></wordlist>
+              title: -tta - The Tinellbian Languages Dictionary
             -tu:
               date: '2024-07-27'
               text:
@@ -2262,15 +2275,31 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>’issu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっす</tinellbian@x-tlb-hl> <gloss>vagina</gloss></wordlist>
               title: buqqi - The Tinellbian Languages Dictionary
+            busa:
+              date: '2025-04-16'
+              position: '8.19'
+              text:
+              - <h1|headword>busa</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぶさ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈbusə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>dye; ink; pigment</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>busatta</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl> <gloss>colour</gloss></wordlist>
+              title: busa - The Tinellbian Languages Dictionary
             busatta:
-              date: '2018-03-30'
+              date: '2025-04-16'
+              position: '8.25'
               text:
               - <h1|headword>busatta</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぶさった</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bʉˈsatːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>colour</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>busa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶさ</tinellbian@x-tlb-hl> <gloss>dye</gloss> + <link@x-tlb-hl>-tta</link@x-tlb-hl> <tinellbian@x-tlb-hl>った</tinellbian@x-tlb-hl> <glossary>drv</glossary>
               title: busatta - The Tinellbian Languages Dictionary
             ca:
               date: '2019-02-02'
@@ -5176,15 +5205,15 @@ entries:
               - <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>good night</gloss></wordlist>
               title: hacca - The Tinellbian Languages Dictionary
             hacci:
-              date: '2018-04-05'
-              position: '1.0'
+              date: '2025-04-16'
+              position: '6.22'
               text:
               - <h1|headword>hacci</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>はっち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈhacːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>to awaken</definition>
+              - <definition>to awaken; to be awake</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>hacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>はっや</tinellbian@x-tlb-hl> <gloss>good morning</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
@@ -9545,19 +9574,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>general need for intimacy; hemdóiness</definition>
               title: nali - The Tinellbian Languages Dictionary
-            nallimi:
-              date: '2019-01-07'
-              position: '6.5'
+            nalli:
+              date: '2025-04-16'
+              position: '5.24'
               text:
-              - <h1|headword>nallimi</h1|headword>
+              - <h1|headword>nalli</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>なっえみ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈnaʎːɨmɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food</hidden></h3|part-of-speech>
+              - <native-script><tinellbian@x-tlb-hl>なっえ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈnaʎːɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food</hidden></h3|part-of-speech>
               - <definition>cheese</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl></list-block>
-              title: nallimi - The Tinellbian Languages Dictionary
+              title: nalli - The Tinellbian Languages Dictionary
             naludu:
               date: '2025-03-27'
               position: '6.13'
@@ -12661,14 +12690,14 @@ entries:
               - <definition>crack</definition>
               title: sajimu - The Tinellbian Languages Dictionary
             sajja:
-              date: '2024-07-23'
-              position: '7.26'
+              date: '2025-04-16'
+              position: '5.22'
               text:
               - <h1|headword>sajja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さっぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsaɟʱːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> negative</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> negative mass</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>silence</definition>
               - <h4|subheading>Notes</h4|subheading>
               - negative complement for <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss>
