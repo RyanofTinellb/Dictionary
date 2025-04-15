@@ -1,12 +1,12 @@
 x-tlb-hl:
   ablative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#ablative
-  abstract: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#abstractnoun
+  abstract: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#abstract
   adverb: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html
   adverbial: http://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#asanadverb
   action: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#actionverbs
   adjectival: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#adjectivalverbs
   adposition: http://grammar.tinellb.com/languages/lulani/high/morphology/adpositions
-  animate: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#animatenoun
+  animate: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#animate
   animates: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#animates
   ambitransitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitivity.html
   apparent: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#apparentverbs
@@ -18,7 +18,7 @@ x-tlb-hl:
   cisclass: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#cisclasssuffixes
   communicative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitivity.html#communicativeverbs
   comparative: http://grammar.tinellb.com/languages/lulani/high/apocrypha/comparatives.html
-  compoundnoun: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#compoundnouns
+  compoundnoun: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#compound
   compoundverb: https://grammar.tinellb.com/languages/lulani/high/morphology/verbs/index.html#compoundverbs
   conjunction: http://grammar.tinellb.com/languages/lulani/high/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/languages/lulani/high/morphology/conjunctions.html#coordinatingconjunctions
@@ -32,7 +32,7 @@ x-tlb-hl:
   generic: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#quasi-suffixes
   geologicalterms: special/search.html?term=geology
   gerund: http://grammar.tinellb.com/languages/lulani/high/syntax/gerunds.html
-  inanimate: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#inanimatenoun
+  inanimate: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#inanimate
   inanimates: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#inanimates
   indefinite: http://grammar.tinellb.com/languages/lulani/high/morphology/deixis/indefinitepro-forms.html
   interjection: http://grammar.tinellb.com/languages/lulani/high/morphology/particles/interjections.html
@@ -42,7 +42,7 @@ x-tlb-hl:
   listofanimals: special/search.html?term=animal
   listofelements: http://grammar.tinellb.com/languages/lulani/high/apocrypha/elements.html
   listofplants: special/search.html?term=plant
-  mass: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#massnouns
+  mass: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#mass
   mathematics: http://grammar.tinellb.com/languages/lulani/high/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#modals
   motion: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#motion
@@ -68,7 +68,7 @@ x-tlb-hl:
   pro-form: http://grammar.tinellb.com/languages/lulani/high/morphology/deixis/index.html#pro-forms
   pronoun: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html
   pro-verb: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/index.html
-  proper: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#propernouns
+  proper: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#proper
   purpose: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#purpose
   quasi-suffix: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#quasi-suffixes
   quasi-transitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#quasi-transitiveverbs

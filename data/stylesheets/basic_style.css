@@ -275,7 +275,7 @@ nav.sidebar p {
     padding-right: 15%;
 }
 
-nav.sidebar p:first-of-type {
+nav.sidebar details > p:first-of-type {
     font-weight: bold;
     font-size: larger;
     text-wrap: balance;
