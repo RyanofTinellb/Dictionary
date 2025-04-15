@@ -139,7 +139,7 @@ h3|part-of-speech:
 h4|subheading:
   hierarchy:
     rank: 6
-    tag: section
+    tag: section|subsection
   keys:
     'off': Return
     'on': 4

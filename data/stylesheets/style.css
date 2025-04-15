@@ -1,5 +1,58 @@
+:root {
+	--section-sep: 1.5em;
+	--section-margin: max(1ch, 5%);
+	--nth-child-sep: 2lh;
+}
+
 .ipa {
 	font-size: inherit;
+}
+
+.faux-ami {
+	margin-block-start: var(--section-sep)
+}
+
+.faux-ami,
+.homophone,
+.homograph,
+.homonym,
+.definition {
+	&:not(:nth-child(2)) {
+		margin-block-start: var(--nth-child-sep);
+	}
+}
+
+.homophone,
+.homograph,
+.homonym,
+.definition,
+.subsection {
+	margin-block-start: var(--section-sep);
+	margin-inline-start: var(--section-margin);
+}
+
+.subsection,
+.subsection details,
+.subsection p,
+.subsection li {
+	margin-inline-start: calc(2 * var(--section-margin));
+}
+
+.subsection details p,
+.subsection details li {
+	margin-inline-start: 0;
+}
+
+main .wordlist {
+	p,
+	details,
+	li {
+		margin-inline-start: 0;
+	}
+}
+
+section {
+	margin-inline-start: calc(2 * var(--section-margin));
 }
 
 h1 {
@@ -9,25 +62,14 @@ h1 {
 
 h2.language {
 	font-family: andika, sans-serif;
-	margin-block-start: 2rem;
 }
-
-h2.language:not(:first-of-type) {
-	margin-block-start: 4rem;
-}
-
 
 .native-script p {
 	/* Tinellbian script */
 	font-size: x-large;
 	font-weight: normal;
-	margin-inline-start: 4%;
 }
 
-
-.pronunciation p {
-	margin-inline-start: 7%;
-}
 
 .pronunciation a {
 	text-decoration: none;
@@ -35,6 +77,10 @@ h2.language:not(:first-of-type) {
 	font-weight: normal;
 	font-size: larger;
 	letter-spacing: 2px;
+}
+
+h3.part-of-speech {
+	font-family: Garamond, serif;
 }
 
 h3.part-of-speech a {
@@ -50,48 +96,30 @@ h3.part-of-speech a:hover {
 h3.part-of-speech {
 	font-size: large;
 	font-family: garamond, serif;
-	margin-inline-start: 10%;
-	margin-block-end: 0;
-	margin-block-start: 1lh;
-}
-
-h3.part-of-speech:not(:first-of-type) {
-	margin-block-start: 3lh;
 }
 
 .definition p {
 	font-size: medium;
 	font-family: sans-serif;
 	font-weight: normal;
-	margin-inline-start: 13%;
-}
-
-.definition p:first-of-type {
-	padding-block-start: 1em;
-}
-
-.definition p:last-of-type {
-	padding-block-end: 1em;
 }
 
 .definition .note {
 	font-style: italic;
-}
 
-.definition .note::before {
-	content: "("
-}
+	&::before {
+		content: "("
+	}
 
-.definition .note::after {
-	content: ")"
+	&::after {
+		content: ")"
+	}
 }
 
 
 h4.subheading {
 	font: normal small-caps large serif;
 	text-decoration: overline;
-	margin-inline-start: 15%;
-	margin-block-start: 0;
 }
 
 input[type='checkbox']#chain,
@@ -99,7 +127,6 @@ input[type='checkbox']#chance,
 input[type='checkbox']#multi,
 input[type='checkbox']#debug {
 	display: inline;
-	margin-inline-start: 5em;
 }
 
 textarea {
@@ -117,22 +144,14 @@ textarea#words {
 	height: 5em;
 }
 
-main p,
-main summary {
+main p {
 	font-family: sans-serif;
-	margin-inline-start: 20%;
-	margin-block-start: 0.2rem;
-}
-
-main ol.definitions {
-	margin-inline-start: 20%;
-	margin-block-end: 0;
 }
 
 main table {
 	margin-inline-start: auto;
 	margin-inline-end: auto;
-	margin-block-start: 1em;
+	margin-block-start: 1lh;
 }
 
 main table td {
@@ -148,36 +167,13 @@ main input:first-child {
 	margin-block-start: 2em;
 }
 
-main details p {
-	margin-inline-start: calc(20% + 1.5ch);
-	--folding-padding: 4ch;
-}
-
-main details + p {
-	padding-inline-start: 4ch;
-}
-
-main .wordlist summary {
-	margin-inline-start: 0;
-}
-
 main form.entry {
 	margin-block-start: 3lh;
 	text-align: center;
 }
 
-
 main ul.list-block {
-  padding-inline-start: calc(20% + 4ch);
-  list-style: none;
-  line-height: 2.2;
-  margin-block-start: 2rem;
-}
-
-footer {
-	margin-block-start: 1rem;
-	font-size: smaller;
-	font-family: serif;
-	text-align: right;
-	width: 75%;
+	list-style: none;
+	line-height: 2.2;
+	margin-block-start: 2rem;
 }
