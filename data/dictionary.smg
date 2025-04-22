@@ -5,22 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’agusa
+  - cikahi
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’agu
+  - ci
 - - The Tinellbian Languages Dictionary
   - lex
-  - -sa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ri
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -tta
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ja
+  - kahi
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
