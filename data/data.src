@@ -828,17 +828,22 @@ entries:
               - <link@x-tlb-hl>bi’ini</link@x-tlb-hl> <tinellbian@x-tlb-hl>びいに</tinellbian@x-tlb-hl> <gloss>to itch</gloss></wordlist>
               title: -ini - The Tinellbian Languages Dictionary
             -ja:
-              date: '2018-04-16'
+              date: '2025-04-22'
+              position: '6.49'
               text:
               - <h1|headword>-ja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟə/</ipa@x-tlb-hl></pronunciation>
-              - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> → <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>)</h3|part-of-speech>'
-              - <definition>derives an abstract noun from an inanimate noun</definition>
+              - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>count</poslink@x-tlb-hl> → <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>)</h3|part-of-speech>'
+              - <definition>derives an abstract noun from an inanimate count noun</definition>
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><link@x-tlb-hl>ru’ihaja</link@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></wordlist>
               title: -ja - The Tinellbian Languages Dictionary
+            -ji:
+              position: '1.0'
+              text: []
+              title: ''
             -ji’a:
               date: '2018-12-27'
               position: '1.0'
@@ -1267,8 +1272,8 @@ entries:
               - <definition>more; additional</definition>
               title: -raqi - The Tinellbian Languages Dictionary
             -ri:
-              date: '2025-03-23'
-              position: '21.17'
+              date: '2025-04-22'
+              position: '15.9'
               text:
               - <h1|headword>-ri</h1|headword>
               - <also>ri</also>
@@ -1283,6 +1288,8 @@ entries:
               - <link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
               - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person from <link@x-tlb-hl>$irìa</link@x-tlb-hl></gloss>
               - <link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio operator</gloss></wordlist>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary></wordlist>
               - '<h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>noun</poslink@x-tlb-hl>: <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl>)</h3|part-of-speech>'
               - <definition>derives instruments from an abstract noun</definition>
               - <h4|subheading>Examples</h4|subheading>
@@ -1318,8 +1325,8 @@ entries:
               - <definition>derives a <poslink@x-tlb-hl>gerund</poslink@x-tlb-hl> from a noun</definition>
               title: -ru - The Tinellbian Languages Dictionary
             -sa:
-              date: '2019-02-25'
-              position: '2.12'
+              date: '2025-04-22'
+              position: '17.9'
               text:
               - <h1|headword>-sa</h1|headword>
               - <also>sa</also>
@@ -1336,6 +1343,8 @@ entries:
               - <link@x-tlb-hl>mulisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むえさ</tinellbian@x-tlb-hl> <gloss>fool</gloss>
               - <link@x-tlb-hl>luxirasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>をしらさ</tinellbian@x-tlb-hl> <gloss>twin</gloss>
               - <link@x-tlb-hl>tuhhisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>とっひさ</tinellbian@x-tlb-hl> <gloss>farmer</gloss></wordlist>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <glossary>nmn</glossary></wordlist>
               title: -sa - The Tinellbian Languages Dictionary
             -sabutu:
               date: '2024-07-27'
@@ -4658,6 +4667,10 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>minister; lord; lady</definition>
               title: gaca - The Tinellbian Languages Dictionary
+            gajannida:
+              position: '1.0'
+              text: []
+              title: ''
             gajita:
               date: '2018-05-02'
               text:
@@ -4668,6 +4681,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>treasure</definition>
               title: gajita - The Tinellbian Languages Dictionary
+            gakiluda:
+              date: '2025-04-19'
+              position: '8.44'
+              text:
+              - <h1|headword>gakiluda</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>がきをだ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌgakʰɨˈludə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>dative</poslink@x-tlb-hl> <poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to push</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>ga</link@x-tlb-hl> <tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl> <gloss>to put</gloss> + <link@x-tlb-hl>kilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss> + <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>palm</gloss>
+              title: gakiluda - The Tinellbian Languages Dictionary
             gakka:
               date: '2018-04-05'
               text:
@@ -4743,7 +4769,8 @@ entries:
               - <wordlist><link@x-tlb-hl>jagaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl> <gloss>sand</gloss></wordlist>
               title: garu - The Tinellbian Languages Dictionary
             gata:
-              date: '2018-04-05'
+              date: '2025-04-19'
+              position: '8.33'
               text:
               - <h1|headword>gata</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -4752,7 +4779,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>pendulum; swing</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>jannigata</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにがた</tinellbian@x-tlb-hl> <gloss>to swing</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>kilugata</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをがた</tinellbian@x-tlb-hl> <gloss>to swing one's legs</gloss></wordlist>
               title: gata - The Tinellbian Languages Dictionary
             gaxiki:
               date: '2019-05-26'
@@ -6022,8 +6049,8 @@ entries:
               - <wordlist><link@x-tlb-hl>hisubajana</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひすばぢな</tinellbian@x-tlb-hl> <gloss>elder</gloss></wordlist>
               title: jana - The Tinellbian Languages Dictionary
             janni:
-              date: '2025-04-14'
-              position: '11.21'
+              date: '2025-04-19'
+              position: '10.0'
               text:
               - <h1|headword>janni</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -6034,10 +6061,6 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>janni’ita’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにいたい</tinellbian@x-tlb-hl> <gloss>to drive</gloss>
               - <link@x-tlb-hl>janni’issa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにいさ</tinellbian@x-tlb-hl> <gloss>to vibrate</gloss>
-              - <link@x-tlb-hl>jannitiqaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにてげし</tinellbian@x-tlb-hl> <gloss>to tilt</gloss>
-              - <link@x-tlb-hl>janniciju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっによ</tinellbian@x-tlb-hl> <gloss>to tug</gloss>
-              - <link@x-tlb-hl>jannikiluqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにきをも</tinellbian@x-tlb-hl> <gloss>to walk</gloss>
-              - <link@x-tlb-hl>jannigata</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにがた</tinellbian@x-tlb-hl> <gloss>to swing</gloss>
               - <link@x-tlb-hl>jannimufa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにむへ</tinellbian@x-tlb-hl> <gloss>to dance</gloss>
               - <link@x-tlb-hl>jann·nika</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっににか</tinellbian@x-tlb-hl> <gloss>to travel</gloss>
               - <link@x-tlb-hl>jannililu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにえを</tinellbian@x-tlb-hl> <gloss>to take the stairs</gloss>
@@ -6047,7 +6070,6 @@ entries:
               - <link@x-tlb-hl>jannisufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにすべ</tinellbian@x-tlb-hl> <gloss>to jump</gloss>
               - <link@x-tlb-hl>jannimaʔu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにまっう</tinellbian@x-tlb-hl> <gloss>to ascend</gloss></block>
               - <block><link@x-tlb-hl>jannulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっぬを</tinellbian@x-tlb-hl> <gloss>to decelerate</gloss></block>
-              - <block><link@x-tlb-hl>gajannida</link@x-tlb-hl> <tinellbian@x-tlb-hl>がぢっにだ</tinellbian@x-tlb-hl> <gloss>to push</gloss></block>
               - </wordlist>
               title: janni - The Tinellbian Languages Dictionary
             jannibitta:
@@ -6062,6 +6084,10 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>janni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss> + <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               title: jannibitta - The Tinellbian Languages Dictionary
+            jannigata:
+              position: '1.0'
+              text: []
+              title: ''
             jannimufa:
               date: '2025-04-14'
               position: '8.33'
@@ -7046,8 +7072,8 @@ entries:
               - <list-block><poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl></list-block>
               title: kilatu’i - The Tinellbian Languages Dictionary
             kilu:
-              date: '2025-04-14'
-              position: '8.18'
+              date: '2025-04-19'
+              position: '12.0'
               text:
               - <h1|headword>kilu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -7056,7 +7082,11 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>dative</poslink@x-tlb-hl> <poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to gesture</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>kilubu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをぶ</tinellbian@x-tlb-hl> <gloss>to walk</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>kilubu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをぶ</tinellbian@x-tlb-hl> <gloss>to walk</gloss>
+              - <link@x-tlb-hl>kiluciju</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをちよ</tinellbian@x-tlb-hl> <gloss>to tug</gloss>
+              - <link@x-tlb-hl>kilugata</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをがた</tinellbian@x-tlb-hl> <gloss>to swing one's legs</gloss>
+              - <link@x-tlb-hl>kiluqaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをげし</tinellbian@x-tlb-hl> <gloss>to rolls one's eyes</gloss></block>
+              - <block><link@x-tlb-hl>gakiluda</link@x-tlb-hl> <tinellbian@x-tlb-hl>がきをだ</tinellbian@x-tlb-hl> <gloss>to push</gloss></block></wordlist>
               title: kilu - The Tinellbian Languages Dictionary
             kilubu:
               date: '2025-04-14'
@@ -7071,6 +7101,47 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>kilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss> + <link@x-tlb-hl>bu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶ</tinellbian@x-tlb-hl> <gloss>foot</gloss>
               title: kilubu - The Tinellbian Languages Dictionary
+            kiluciju:
+              date: '2025-04-19'
+              position: '5.44'
+              text:
+              - <h1|headword>kiluciju</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きをちよ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌkʰilʉˈcʰiɟʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>ablative</poslink@x-tlb-hl> <poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to tug</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss> + <link@x-tlb-hl>ciju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちよ</tinellbian@x-tlb-hl> <gloss>tug</gloss>
+              title: kiluciju - The Tinellbian Languages Dictionary
+            kilugata:
+              date: '2025-04-19'
+              position: '5.42'
+              text:
+              - <h1|headword>kilugata</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きをがた</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌkʰilʉgatə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>dative</poslink@x-tlb-hl> <poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to swing one’s legs</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss> + <link@x-tlb-hl>gata</link@x-tlb-hl> <tinellbian@x-tlb-hl>がた</tinellbian@x-tlb-hl> <gloss>swing</gloss>
+              title: kilugata - The Tinellbian Languages Dictionary
+            kiluqaxi:
+              date: '2025-04-19'
+              position: '10.33'
+              text:
+              - <h1|headword>kiluqaxi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きをげし</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌkʰilʉˈŋaɕi/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to tilt (<i>e.g.:</i> one’s head)</definition>
+              - <h4|subheading>Notes</h4|subheading>
+              - this refers to a gesture used to indicate disbelief
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きを</tinellbian@x-tlb-hl> <gloss>to gesture</gloss> + <link@x-tlb-hl>qaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>げし</tinellbian@x-tlb-hl> <gloss>tilt</gloss>
+              title: kiluqaxi - The Tinellbian Languages Dictionary
             kimadi:
               date: '2019-03-02'
               position: '7.21'
@@ -10359,6 +10430,7 @@ entries:
               title: pacadu - The Tinellbian Languages Dictionary
             pacca:
               date: '2018-03-28'
+              position: '1.0'
               text:
               - <h1|headword>pacca</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -11363,6 +11435,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>hope; fear; prediction; <i>predicted to</i></definition>
               title: qaxa - The Tinellbian Languages Dictionary
+            qaxi:
+              date: '2025-04-18'
+              position: '8.32'
+              text:
+              - <h1|headword>qaxi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>げし</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈŋaɕɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>tilt; rotation</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>kiluqaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きをげし</tinellbian@x-tlb-hl> <gloss>to roll one's eyes</gloss></wordlist>
+              title: qaxi - The Tinellbian Languages Dictionary
             qaʔiku:
               date: '2018-04-09'
               text:
@@ -14558,19 +14643,6 @@ entries:
               - <h4|subheading>Antonym</h4|subheading>
               - <wordlist><link@x-tlb-hl>runi</link@x-tlb-hl> <tinellbian@x-tlb-hl>るに</tinellbian@x-tlb-hl> <gloss>to be similar to</gloss></wordlist>
               title: tinna - The Tinellbian Languages Dictionary
-            tiqaxi:
-              date: '2018-04-05'
-              position: '1.0'
-              text:
-              - <h1|headword>tiqaxi</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>てげし</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/tʰɨˈŋaɕɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>tilt; rotation</definition>
-              - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>tikutiqaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにてげし</tinellbian@x-tlb-hl> <gloss>to tilt</gloss></wordlist>
-              title: tiqaxi - The Tinellbian Languages Dictionary
             tirri:
               date: '2018-04-05'
               text:
@@ -15857,8 +15929,8 @@ entries:
               - ↓ <link@x-tlb-hl>rili</link@x-tlb-hl> <tinellbian@x-tlb-hl>りえ</tinellbian@x-tlb-hl> <gloss>moscovium</gloss></wordlist>
               title: ’aggini - The Tinellbian Languages Dictionary
             ’agu:
-              date: '2019-02-03'
-              position: '1.0'
+              date: '2025-04-22'
+              position: '8.21'
               text:
               - <h1|headword>’agu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -15866,16 +15938,21 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈʔagʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>contest</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>’agusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぐさ</tinellbian@x-tlb-hl> <gloss>competitor</gloss></wordlist>
               title: ’agu - The Tinellbian Languages Dictionary
             ’agusa:
-              date: '2018-04-05'
+              date: '2025-04-22'
+              position: '6.22'
               text:
               - <h1|headword>’agusa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あぐさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈgusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>contest</definition>
+              - <h3|part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>contestant; competitor</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>’agu</link@x-tlb-hl> <tinellbian@x-tlb-hl>あぐ</tinellbian@x-tlb-hl> <gloss>contest</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               title: ’agusa - The Tinellbian Languages Dictionary
             ’ahati:
               date: '2025-04-15'

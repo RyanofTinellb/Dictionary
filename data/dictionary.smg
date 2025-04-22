@@ -5,13 +5,22 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - busatta
+  - ’agusa
 - - The Tinellbian Languages Dictionary
   - lex
-  - pacca
+  - ’agu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -sa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ri
 - - The Tinellbian Languages Dictionary
   - lex
   - -tta
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ja
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime

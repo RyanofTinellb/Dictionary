@@ -33,8 +33,6 @@ default:
     font: Cambria
     ime: autocorrect
     size: 18
-    background: '#111'
-    colour: '#fff'
 definition:
   hierarchy:
     function: caps
@@ -302,7 +300,7 @@ wikt-link:
 wordlist:
   key: Alt-W
   props:
-    background: '#331'
+    background: '#ffc'
     left: 15
   type: ul
 wordlist-caption:
