@@ -2209,8 +2209,8 @@ entries:
               - <link@x-tlb-hl>buma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶま</tinellbian@x-tlb-hl> <gloss>to write</gloss> + <link@x-tlb-hl>’ajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぢ</tinellbian@x-tlb-hl> <gloss>writing</gloss>
               title: buma’ajja - The Tinellbian Languages Dictionary
             bumissi:
-              date: '2018-03-30'
-              position: '1.0'
+              date: '2025-04-24'
+              position: '8.32'
               text:
               - <h1|headword>bumissi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2218,6 +2218,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/bʉˈmisːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>dysprosium</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>bu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶ</tinellbian@x-tlb-hl> <gloss>foot</gloss> + <link@x-tlb-hl>missi</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっせ</tinellbian@x-tlb-hl> <gloss>levitation</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
