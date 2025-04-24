@@ -840,10 +840,6 @@ entries:
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><link@x-tlb-hl>ru’ihaja</link@x-tlb-hl> <tinellbian@x-tlb-hl>るいはぢ</tinellbian@x-tlb-hl> <gloss>history</gloss></wordlist>
               title: -ja - The Tinellbian Languages Dictionary
-            -ji:
-              position: '1.0'
-              text: []
-              title: ''
             -ji’a:
               date: '2018-12-27'
               position: '1.0'
@@ -2597,6 +2593,19 @@ entries:
               - <wordlist><link@x-tlb-hl>lu’ica’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいやい</tinellbian@x-tlb-hl> <gloss>to love</gloss>
               - <link@x-tlb-hl>sannaca’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっなやい</tinellbian@x-tlb-hl> <gloss>jealousy</gloss></wordlist>
               title: ca’i - The Tinellbian Languages Dictionary
+            ci:
+              date: '2025-04-22'
+              position: '8.17'
+              text:
+              - <h1|headword>ci</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ち</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/cʰi/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>extension; reach</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>cikahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちかひ</tinellbian@x-tlb-hl> <gloss>extent</gloss></wordlist>
+              title: ci - The Tinellbian Languages Dictionary
             cica:
               date: '2018-04-05'
               text:
@@ -2659,6 +2668,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>tug</definition>
               title: ciju - The Tinellbian Languages Dictionary
+            cikahi:
+              date: '2025-04-22'
+              position: '8.0'
+              text:
+              - <h1|headword>cikahi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ちかひ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/cʰɨˈkʰahɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>extent</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>reach; extent; <gloss>to that extent</gloss>; <gloss>even</gloss></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>ci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ち</tinellbian@x-tlb-hl> <gloss>extension</gloss> + <link@x-tlb-hl>kahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かひ</tinellbian@x-tlb-hl> <gloss>arm</gloss>
+              title: cikahi - The Tinellbian Languages Dictionary
             cikki:
               date: '2019-03-01'
               position: '4.28'
@@ -2685,17 +2707,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>cikki</link@x-tlb-hl> <gloss>to perceive</gloss> + <link@x-tlb-hl>-pu’a</link@x-tlb-hl><gloss> </gloss><glossary>nmn</glossary>
               title: cikkipu’a - The Tinellbian Languages Dictionary
-            cipati:
-              date: '2024-09-02'
-              position: '5.41'
-              text:
-              - <h1|headword>cipati</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>ちぱて</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/cʰɨˈpʰatʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>extent</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>reach; extent; <gloss>to that extent</gloss>; <gloss>even</gloss></definition>
-              title: cipati - The Tinellbian Languages Dictionary
             cipu:
               date: '2018-04-05'
               text:
@@ -4673,10 +4684,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>minister; lord; lady</definition>
               title: gaca - The Tinellbian Languages Dictionary
-            gajannida:
-              position: '1.0'
-              text: []
-              title: ''
             gajita:
               date: '2018-05-02'
               text:
@@ -6090,10 +6097,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>janni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss> + <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               title: jannibitta - The Tinellbian Languages Dictionary
-            jannigata:
-              position: '1.0'
-              text: []
-              title: ''
             jannimufa:
               date: '2025-04-14'
               position: '8.33'
@@ -6529,8 +6532,8 @@ entries:
               - <template>indefinite pronouns</template>
               title: kadusi - The Tinellbian Languages Dictionary
             kahi:
-              date: '2019-01-06'
-              position: '6.72'
+              date: '2025-04-22'
+              position: '7.13'
               text:
               - <h1|headword>kahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -6538,6 +6541,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰahɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> bodypart</hidden></h3|part-of-speech>
               - <definition>arm</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>cikahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちかひ</tinellbian@x-tlb-hl> <gloss>extension</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: kahi - The Tinellbian Languages Dictionary

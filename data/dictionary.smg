@@ -5,6 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
+<<<<<<< HEAD
   - bumissi
 - - The Tinellbian Languages Dictionary
   - lex
@@ -27,6 +28,15 @@ entries:
 - - The Tinellbian Languages Dictionary
   - lex
   - -ja
+=======
+  - cikahi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ci
+- - The Tinellbian Languages Dictionary
+  - lex
+  - kahi
+>>>>>>> a5737370e435f96f776bcc93e56a74dde1952293
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
