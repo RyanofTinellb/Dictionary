@@ -5,25 +5,19 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - lumi
+  - fiqqala
 - - The Tinellbian Languages Dictionary
   - lex
-  - batu
+  - la
 - - The Tinellbian Languages Dictionary
   - lex
-  - takki
+  - fiqqa
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’uhu
+  - fiqqabaju
 - - The Tinellbian Languages Dictionary
   - lex
-  - salumi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - xita
+  - baju
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime

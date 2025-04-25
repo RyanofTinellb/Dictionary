@@ -1701,8 +1701,8 @@ entries:
               - <link@x-tlb-hl>badi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばで</tinellbian@x-tlb-hl> <gloss>home</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <gloss>other than</gloss>
               title: badiri - The Tinellbian Languages Dictionary
             baju:
-              date: '2019-02-28'
-              position: '4.37'
+              date: '2025-04-25'
+              position: '8.31'
               text:
               - <h1|headword>baju</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -1711,7 +1711,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be blue; to turn blue</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></block>
+              - <block><link@x-tlb-hl>fiqqabaju</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげばよ</tinellbian@x-tlb-hl> <gloss>emerald</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>red</gloss>
               - <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>yellow</gloss>
@@ -4463,15 +4464,49 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>xifipu</link@x-tlb-hl> <tinellbian@x-tlb-hl>しべぷ</tinellbian@x-tlb-hl> <gloss>to be rude</gloss></wordlist>
               title: fipu - The Tinellbian Languages Dictionary
+            fiqqa:
+              date: '2025-04-25'
+              position: '9.23'
+              text:
+              - <h1|headword>fiqqa</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>べっげ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈfiŋːə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <definition>beryl; emerald; aquamarine</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>fiqqala</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss>
+              - <link@x-tlb-hl>fiqqabaju</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげばよ</tinellbian@x-tlb-hl> <gloss>emerald</gloss></wordlist>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              title: fiqqa - The Tinellbian Languages Dictionary
+            fiqqabaju:
+              date: '2025-04-25'
+              position: '8.36'
+              text:
+              - <h1|headword>fiqqabaju</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>べっげばよ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌfiŋːəˈbaɟʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <definition>emerald; aquamarine</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>fiqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげ</tinellbian@x-tlb-hl> <gloss>beryl</gloss> + <link@x-tlb-hl>baju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl> <gloss>to be blue</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              title: fiqqabaju - The Tinellbian Languages Dictionary
             fiqqala:
-              date: '2018-04-05'
+              date: '2025-04-25'
+              position: '5.32'
               text:
               - <h1|headword>fiqqala</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈfiŋːələ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>beryllium</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>fiqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>べっげ</tinellbian@x-tlb-hl> <gloss>beryl</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>catabolism</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
@@ -7574,8 +7609,8 @@ entries:
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <glossary>dat</glossary> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <glossary>com</glossary>
               title: ku·li - The Tinellbian Languages Dictionary
             la:
-              date: '2019-03-19'
-              position: '15.13'
+              date: '2025-04-25'
+              position: '21.41'
               text:
               - <h1|headword>la</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -7591,11 +7626,13 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>わら</tinellbian@x-tlb-hl> <gloss>hydrogen</gloss>
               - <link@x-tlb-hl>saxita.lara</link@x-tlb-hl> <tinellbian@x-tlb-hl>さした わる</tinellbian@x-tlb-hl> <gloss>dihydrogen monoxide</gloss>
-              - <link@x-tlb-hl>xu</link@x-tlb-hl><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>haki</link@x-tlb-hl> <b>la</b><link@x-tlb-hl>sa</link@x-tlb-hl><link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずさはき わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></wordlist>
+              - <link@x-tlb-hl>xusahaki</link@x-tlb-hl> <b>la</b><link@x-tlb-hl>sakifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずさはき わさきべ</tinellbian@x-tlb-hl> <gloss>octane</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
               - <wordlist>→ <link@x-tlb-hl>li’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>えあ</tinellbian@x-tlb-hl> <gloss>helium</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>catabolism; breaking down; making simpler</definition>
               title: la - The Tinellbian Languages Dictionary
             ladi:
               date: '2019-05-26'
@@ -17083,8 +17120,8 @@ entries:
               - ↑ <link@x-tlb-hl>fasami</link@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></wordlist>
               title: ’ittika - The Tinellbian Languages Dictionary
             ’ixxa:
-              date: '2019-01-06'
-              position: '5.0'
+              date: '2025-04-25'
+              position: '11.0'
               text:
               - <h1|headword>’ixxa</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17094,17 +17131,9 @@ entries:
               - <definition>belly</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
-              title: ’ixxa - The Tinellbian Languages Dictionary
-            ’ixxa’i:
-              date: '2018-11-18'
-              text:
-              - <h1|headword>’ixxa’i</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>いっざい</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈʔiɕːəʔi/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>pride in another</definition>
-              title: ’ixxa’i - The Tinellbian Languages Dictionary
+              title: ’ixxa - The Tinellbian Languages Dictionary
             ’i’ami:
               date: '2018-03-28'
               text:

@@ -152,7 +152,9 @@ h4|subheading:
     underline: true
   type: line
 hidden:
-  key: h
+  keys:
+    'on': h
+    'off': Return
   props:
     colour: '#999'
     strikeout: true
