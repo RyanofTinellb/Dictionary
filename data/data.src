@@ -962,17 +962,6 @@ entries:
               - <link@x-tlb-hl>gusuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐすえ</tinellbian@x-tlb-hl><gloss> person</gloss></block>
               - <block><link@x-tlb-hl>jimuli</link@x-tlb-hl> <tinellbian@x-tlb-hl>じむえ</tinellbian@x-tlb-hl> <gloss>outside</gloss></block></wordlist>
               title: -li - The Tinellbian Languages Dictionary
-            -lumi:
-              date: '2018-12-27'
-              position: '1.0'
-              text:
-              - <h1|headword>-lumi</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>をみ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈlumɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>several</definition>
-              title: -lumi - The Tinellbian Languages Dictionary
             -ma:
               date: '2019-06-16'
               position: '5.34'
@@ -1446,17 +1435,6 @@ entries:
               - “the queen and the king”
               - </wordlist>
               title: -ta - The Tinellbian Languages Dictionary
-            -takki:
-              date: '2019-01-06'
-              position: '5.0'
-              text:
-              - <h1|headword>-takki</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈtʰakːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>many</definition>
-              title: -takki - The Tinellbian Languages Dictionary
             -tapa:
               date: '2018-12-27'
               position: '1.0'
@@ -1643,16 +1621,9 @@ entries:
               - Used with monosyllabic verbs.
               title: -’illu - The Tinellbian Languages Dictionary
             -’uhu:
-              date: '2018-12-26'
-              position: '3.10'
-              text:
-              - <h1|headword>-’uhu</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>うほ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈʔuhʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>determiner</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>many</definition>
-              title: -’uhu - The Tinellbian Languages Dictionary
+              position: '1.0'
+              text: []
+              title: ''
             ba:
               date: '2025-01-20'
               position: '1.0'
@@ -1859,14 +1830,14 @@ entries:
               - <wordlist><link@x-tlb-hl>xima</link@x-tlb-hl> <tinellbian@x-tlb-hl>しま</tinellbian@x-tlb-hl> <gloss>morning</gloss></wordlist>
               title: batari - The Tinellbian Languages Dictionary
             batu:
-              date: '2025-03-05'
-              position: '9.10'
+              date: '2025-04-25'
+              position: '5.15'
               text:
               - <h1|headword>batu</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈbatʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>collection; group; store</definition>
               - <h4|subheading>Definition</h4|subheading>
               - a group of objects collected together, or a collected mass
@@ -5906,8 +5877,8 @@ entries:
               - <definition>painting; portrait</definition>
               title: hu’asa - The Tinellbian Languages Dictionary
             ja:
-              date: '2024-07-21'
-              position: '13.0'
+              date: '2025-04-25'
+              position: '10.15'
               text:
               - <h1|headword>ja</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -5917,10 +5888,8 @@ entries:
               - <definition>along; across</definition>
               - <h4|subheading>Definition</h4|subheading>
               - side-to-side
-              - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>jannija</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっにぢ</tinellbian@x-tlb-hl> <gloss>to move across</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>ma’iki</link@x-tlb-hl> <tinellbian@x-tlb-hl>まいき</tinellbian@x-tlb-hl> <gloss>across</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>ma’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>まいき</tinellbian@x-tlb-hl> <gloss>across</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>end</definition>
               - <h4|subheading>Definition</h4|subheading>
@@ -6099,6 +6068,10 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>janni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss> + <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               title: jannibitta - The Tinellbian Languages Dictionary
+            jannija:
+              position: '1.0'
+              text: []
+              title: ''
             jannimufa:
               date: '2025-04-14'
               position: '8.33'
@@ -8297,6 +8270,17 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>to do</gloss> + <link@x-tlb-hl>-ulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>、うを</tinellbian@x-tlb-hl> <gloss>undo</gloss>
               title: lulu - The Tinellbian Languages Dictionary
+            lumi:
+              date: '2025-04-25'
+              position: '2.0'
+              text:
+              - <h1|headword>lumi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>をみ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈlumɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>a group of several</definition>
+              title: lumi - The Tinellbian Languages Dictionary
             luna:
               date: '2018-04-04'
               text:
@@ -8879,20 +8863,21 @@ entries:
               - <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               - <link@x-tlb-hl>sufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すべ</tinellbian@x-tlb-hl> <gloss>space</gloss></wordlist>
               title: maʔu - The Tinellbian Languages Dictionary
-            ma’iki:
-              date: '2018-03-30'
+            ma’i:
+              date: '2025-04-25'
+              position: '6.6'
               text:
-              - <h1|headword>ma’iki</h1|headword>
+              - <h1|headword>ma’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>まいき</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/məˈʔikɨ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>まい</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈmaʔɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>across</definition>
               - <h4|subheading>Definition</h4|subheading>
               - from one end to the other
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>ja</link@x-tlb-hl> <gloss>across</gloss></wordlist>
-              title: ma’iki - The Tinellbian Languages Dictionary
+              title: ma’i - The Tinellbian Languages Dictionary
             ma’iludihha:
               date: '2019-03-13'
               position: '4.16'
@@ -12617,10 +12602,11 @@ entries:
               - → <link@en>rone</link@en></wordlist>
               title: rwo - The Tinellbian Languages Dictionary
             sa:
-              date: '2025-04-24'
-              position: '9.22'
+              date: '2025-04-25'
+              position: '22.3'
               text:
               - <h1|headword>sa</h1|headword>
+              - <also>-sa|sa-</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sa/</ipa@x-tlb-hl></pronunciation>
@@ -12639,6 +12625,10 @@ entries:
               - <wordlist>← <link@x-tlb-hl>sutta</link@x-tlb-hl> <tinellbian@x-tlb-hl>すった</tinellbian@x-tlb-hl> <gloss>nitrogen</gloss>
               - → <link@x-tlb-hl>ca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>やあ</tinellbian@x-tlb-hl> <gloss>fluorine</gloss>
               - ↓ <link@x-tlb-hl>ta</link@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>sulphur</gloss></wordlist>
+              - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
+              - <definition>one</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>solitude</definition>
               - <h4|subheading>Notes</h4|subheading>
@@ -12921,14 +12911,14 @@ entries:
               - <wordlist><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss></wordlist>
               title: salilu - The Tinellbian Languages Dictionary
             salumi:
-              date: '2025-03-27'
-              position: '9.15'
+              date: '2025-04-25'
+              position: '5.17'
               text:
               - <h1|headword>salumi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さをみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/səˈlumɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
               - <definition>7; seven</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist>← <link@x-tlb-hl>’usi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うせ</tinellbian@x-tlb-hl> <gloss>six</gloss>
@@ -14095,8 +14085,8 @@ entries:
               - <template>terminal auxiliaries</template>
               title: takaru - The Tinellbian Languages Dictionary
             takki:
-              date: '2025-01-21'
-              position: '4.22'
+              date: '2025-04-25'
+              position: '7.0'
               text:
               - <h1|headword>takki</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -15254,8 +15244,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               title: xakila - The Tinellbian Languages Dictionary
             xalli:
-              date: '2019-06-16'
-              position: '8.0'
+              date: '2025-04-25'
+              position: '9.0'
               text:
               - <h1|headword>xalli</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -15266,7 +15256,7 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - Not used with possessives.
               - <h4|subheading>See Also</h4|subheading>
-              - '*kinship*'
+              - <list-block><poslink@x-tlb-hl>Kinship Terms</poslink@x-tlb-hl></list-block>
               - <wordlist><link@x-tlb-hl>silu</link@x-tlb-hl> <tinellbian@x-tlb-hl>よっえが</tinellbian@x-tlb-hl> <gloss>spouse</gloss></wordlist>
               title: xalli - The Tinellbian Languages Dictionary
             xanaki:
@@ -17208,6 +17198,21 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>teeth</definition>
               title: ’udi - The Tinellbian Languages Dictionary
+            ’uhu:
+              date: '2025-04-25'
+              position: '6.15'
+              text:
+              - <h1|headword>’uhu</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>うほ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈʔuhʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>a group of many</definition>
+              title: ’uhu - The Tinellbian Languages Dictionary
+            ’uhu-:
+              position: '1.0'
+              text: []
+              title: ''
             ’ula:
               date: '2024-05-14'
               text:

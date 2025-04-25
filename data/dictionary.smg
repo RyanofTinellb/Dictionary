@@ -5,28 +5,25 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - bumissi
+  - lumi
 - - The Tinellbian Languages Dictionary
   - lex
-  - missi
+  - batu
 - - The Tinellbian Languages Dictionary
   - lex
-  - bu
+  - takki
 - - The Tinellbian Languages Dictionary
   - lex
-  - saxxuru
+  - ’uhu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -ru
+  - salumi
 - - The Tinellbian Languages Dictionary
   - lex
-  - ru
+  - sa
 - - The Tinellbian Languages Dictionary
   - lex
-  - xixu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ja
+  - xita
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
@@ -63,7 +60,6 @@ templates:
     copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
     indefinitepronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
     jumptoentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\jump_to_entry.tpl
-    magnifying glass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying glass.tpl
     magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
     navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
     periodictable: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\periodic_table.tpl
