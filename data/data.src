@@ -506,8 +506,8 @@ entries:
               - <template>terminal auxiliaries</template>
               title: -ar- - The Tinellbian Languages Dictionary
             -ba:
-              date: '2025-01-20'
-              position: '1.0'
+              date: '2025-04-26'
+              position: '19.24'
               text:
               - <h1|headword>-ba</h1|headword>
               - <also>ba</also>
@@ -520,6 +520,15 @@ entries:
               - <wordlist><link@x-tlb-hl>’ussaba</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっさば</tinellbian@x-tlb-hl> <gloss>follower</gloss>
               - <link@x-tlb-hl>caba</link@x-tlb-hl> <tinellbian@x-tlb-hl>やば</tinellbian@x-tlb-hl> <gloss>helper</gloss>
               - <link@x-tlb-hl>hisuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひすば</tinellbian@x-tlb-hl> <gloss>administrator</gloss></wordlist>
+              - <h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>number</poslink@x-tlb-hl> → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
+              - <definition>polyhedron; three-dimensional shape</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>kifiba</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべば</tinellbian@x-tlb-hl> <gloss>tetrahedron</gloss>
+              - <link@x-tlb-hl>nuruba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるば</tinellbian@x-tlb-hl> <gloss>cube</gloss>
+              - <link@x-tlb-hl>kifibara</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべばら</tinellbian@x-tlb-hl> <gloss>octahedron</gloss>
+              - <link@x-tlb-hl>guhiba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐひば</tinellbian@x-tlb-hl> <gloss>dodecahedron</gloss>
+              - <link@x-tlb-hl>takkiba</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっきば</tinellbian@x-tlb-hl> <gloss>icosahedron</gloss>
+              - <link@x-tlb-hl>pu’iba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷいば</tinellbian@x-tlb-hl> <gloss>sphere</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>personal</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
               - <definition>second person genitive; <glossary>2gen</glossary></definition>
               - <h4|subheading>See Also</h4|subheading>
@@ -1371,24 +1380,21 @@ entries:
               - <definition>either; or</definition>
               title: -sija - The Tinellbian Languages Dictionary
             -ssiji:
-              date: '2024-07-22'
-              position: '4.3'
+              date: '2025-04-26'
+              position: '5.30'
               text:
               - <h1|headword>-ssiji</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sːɨɟi/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>mathematics</poslink@x-tlb-hl> → <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
-              - <definition>shape</definition>
+              - <h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>number</poslink@x-tlb-hl> → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
+              - <definition>shape; polygon</definition>
               - <h4|subheading>Notes</h4|subheading>
               - derives the names of shapes from the number of edges or vertices
-              - <h4|subheading>Etymology</h4|subheading>
-              - From the final three morae of <link@x-tlb-hl>purissiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷりっせじ</tinellbian@x-tlb-hl> <gloss>circle</gloss>
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><link@x-tlb-hl>kifissiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl> <gloss>triangle</gloss>
-              - <link@x-tlb-hl>nurussiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss></wordlist>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>purissiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷりっせじ</tinellbian@x-tlb-hl> <gloss>circle</gloss></wordlist>
+              - <link@x-tlb-hl>nurussiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl> <gloss>quadrilateral</gloss>
+              - <link@x-tlb-hl>pu’issiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷいっせじ</tinellbian@x-tlb-hl> <gloss>circle</gloss></wordlist>
               title: -ssiji - The Tinellbian Languages Dictionary
             -ss·su:
               date: '2019-04-28'
@@ -1620,10 +1626,6 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - Used with monosyllabic verbs.
               title: -’illu - The Tinellbian Languages Dictionary
-            -’uhu:
-              position: '1.0'
-              text: []
-              title: ''
             ba:
               date: '2025-01-20'
               position: '1.0'
@@ -6103,10 +6105,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>janni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss> + <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
               title: jannibitta - The Tinellbian Languages Dictionary
-            jannija:
-              position: '1.0'
-              text: []
-              title: ''
             jannimufa:
               date: '2025-04-14'
               position: '8.33'
@@ -11210,18 +11208,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>to change</gloss> + <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>trade</gloss>
               title: purakassu - The Tinellbian Languages Dictionary
-            purissiji:
-              date: '2018-03-30'
-              text:
-              - <h1|headword>purissiji</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>ぷりっせじ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/pʰʉˈɽisːɨɟɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>circle</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>-ssiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> <gloss>shape</gloss></wordlist>
-              title: purissiji - The Tinellbian Languages Dictionary
             pusu:
               date: '2018-03-30'
               text:
@@ -11264,7 +11250,8 @@ entries:
               - <definition>message</definition>
               title: puxila - The Tinellbian Languages Dictionary
             pu’i:
-              date: '2018-04-05'
+              date: '2025-04-26'
+              position: '7.44'
               text:
               - <h1|headword>pu’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -11272,6 +11259,7 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈpʰuʔɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</h3|part-of-speech>
               - <definition>expresses incredulity</definition>
+              - <h3|part-of-speech><hidden>mathematics </hidden><poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <poslink@x-tlb-hl>number</poslink@x-tlb-hl><hidden> numeral particle</hidden></h3|part-of-speech>
               title: pu’i - The Tinellbian Languages Dictionary
             pu’iba:
               date: '2018-03-30'
@@ -11285,6 +11273,19 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>riccu</link@x-tlb-hl> <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></wordlist>
               title: pu’iba - The Tinellbian Languages Dictionary
+            pu’issiji:
+              date: '2025-04-26'
+              position: '8.37'
+              text:
+              - <h1|headword>pu’issiji</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぷいっせじ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/pʰʉˈʔisːɨɟɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>circle</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>pu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷい</tinellbian@x-tlb-hl> <gloss>infinity</gloss> + <link@x-tlb-hl>-ssiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> <gloss>polygon</gloss>
+              title: pu’issiji - The Tinellbian Languages Dictionary
             qa:
               date: '2024-08-27'
               text:
@@ -17238,10 +17239,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>a group of many</definition>
               title: ’uhu - The Tinellbian Languages Dictionary
-            ’uhu-:
-              position: '1.0'
-              text: []
-              title: ''
             ’ula:
               date: '2024-05-14'
               text:

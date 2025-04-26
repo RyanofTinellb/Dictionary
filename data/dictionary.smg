@@ -5,19 +5,10 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - fiqqala
+  - -ssiji
 - - The Tinellbian Languages Dictionary
   - lex
-  - la
-- - The Tinellbian Languages Dictionary
-  - lex
-  - fiqqa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - fiqqabaju
-- - The Tinellbian Languages Dictionary
-  - lex
-  - baju
+  - -ba
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
@@ -64,3 +55,4 @@ templates:
     page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
     search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
     wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl
+url: http://dictionary.tinellb.com
