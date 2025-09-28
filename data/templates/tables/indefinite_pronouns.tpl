@@ -3,7 +3,8 @@ styles:
   link:
     type: anchor
     language: true
-    param: $text$.html#$url(lookup:lang)$|$upper(text)$
+    param: $text$.html#$url(lookup)$|$upper(text)$
+    category: lang
   multiline: span
   portrait: div
   table: table

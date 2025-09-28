@@ -1,29 +1,29 @@
 x-tlb-hl:
-  ablative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#ablative
+  ablative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#ablative
   abstract: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#abstract
   adverb: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html
   adverbial: http://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#asanadverb
-  action: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#actionverbs
-  adjectival: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#adjectivalverbs
+  action: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#actionverbs
+  adjectival: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html#adjectivalverbs
   adposition: http://grammar.tinellb.com/languages/lulani/high/morphology/adpositions
   animate: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#animate
   animates: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#animates
-  ambitransitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitivity.html
-  apparent: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#apparentverbs
+  ambitransitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitive.html
+  apparent: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#apparentverbs
   auxiliary: http://grammar.tinellb.com/languages/lulani/high/morphology/auxiliaries.html
   cardinal: http://grammar.tinellb.com/languages/lulani/high/apocrypha/numbers.html#cardinalnumbers
   case: http://grammar.tinellb.com/languages/lulani/high/syntax/case.html
   chance: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#chance
-  chromatic: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#chromaticverbs
+  chromatic: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html#chromaticverbs
   cisclass: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#cisclasssuffixes
-  communicative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitivity.html#communicativeverbs
+  communicative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitive.html#communicativeverbs
   comparative: http://grammar.tinellb.com/languages/lulani/high/apocrypha/comparatives.html
   compoundnoun: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#compound
   compoundverb: https://grammar.tinellb.com/languages/lulani/high/morphology/verbs/index.html#compoundverbs
   conjunction: http://grammar.tinellb.com/languages/lulani/high/morphology/conjunctions.html
   coordinating: http://grammar.tinellb.com/languages/lulani/high/morphology/conjunctions.html#coordinatingconjunctions
   count: https://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#count
-  dative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#dative
+  dative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#dative
   derived: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html
   determiner: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/determiners.html
   emotion: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#emotion
@@ -37,8 +37,8 @@ x-tlb-hl:
   inanimates: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#inanimates
   indefinite: http://grammar.tinellb.com/languages/lulani/high/morphology/deixis/indefinitepro-forms.html
   interjection: http://grammar.tinellb.com/languages/lulani/high/morphology/particles/interjections.html
-  intransitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html
-  kinetic: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#kineticverbs
+  intransitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html
+  kinetic: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html#kineticverbs
   kinshipterms: http://grammar.tinellb.com/languages/lulani/high/apocrypha/kinship.html
   listofanimals: special/search.html?term=animal
   listofelements: http://grammar.tinellb.com/languages/lulani/high/apocrypha/elements.html
@@ -47,7 +47,7 @@ x-tlb-hl:
   mathematics: http://grammar.tinellb.com/languages/lulani/high/apocrypha/numbers.html
   modal: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#modals
   motion: https://grammar.tinellb.com/languages/lulani/high/morphology/adpositions.html#motion
-  motive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#motiveverbs
+  motive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#motiveverbs
   negative: http://grammar.tinellb.com/languages/lulani/high/syntax/matrixclauses/negativecomplements.html
   negativecomplement: http://grammar.tinellb.com/languages/lulani/high/syntax/matrixclauses/negativecomplements.html
   noun: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html
@@ -60,7 +60,7 @@ x-tlb-hl:
   othersubstances: special/search.html?term=substance
   particle: http://grammar.tinellb.com/languages/lulani/high/morphology/particles/index.html
   passive: http://grammar.tinellb.com/languages/lulani/high/syntax/argumentpromotion.html
-  perceptive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitivity.html#perceptiveverbs
+  perceptive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/ambitransitive.html#perceptiveverbs
   periodictable: http://grammar.tinellb.com/languages/lulani/high/apocrypha/elements.html
   personal: http://grammar.tinellb.com/languages/lulani/high/morphology/deixis/personalpro-forms.html
   possessive: http://grammar.tinellb.com/languages/lulani/high/apocrypha/kinship.html#nuclearfamily
@@ -72,13 +72,13 @@ x-tlb-hl:
   proper: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/index.html#proper
   purpose: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#purpose
   quasi-suffix: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#quasi-suffixes
-  quasi-transitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#quasi-transitiveverbs
+  quasi-transitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html#quasi-transitiveverbs
   sahaki: http://grammar.tinellb.com/languages/lulani/high/apocrypha/numbers.html#two-digitnumbers
   suffix: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html
-  symmetric: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitivity.html#symmetricrelations
+  symmetric: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/intransitive.html#symmetricrelations
   time: http://grammar.tinellb.com/languages/lulani/high/morphology/nouns/adverbs.html#time
   transclass: http://grammar.tinellb.com/languages/lulani/high/morphology/suffixes/index.html#transclasssuffixes
-  transformative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#transformativeverbs
-  transitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html
+  transformative: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#transformativeverbs
+  transitive: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html
   verb: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/index.html
-  vital: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitivity.html#vitalverbs
+  vital: http://grammar.tinellb.com/languages/lulani/high/morphology/verbs/transitive.html#vitalverbs

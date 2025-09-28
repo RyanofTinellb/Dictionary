@@ -2366,18 +2366,19 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>tent</definition>
               title: dajju - The Tinellbian Languages Dictionary
-            dalliji:
-              date: '2018-04-03'
+            dalli:
+              title: dalli - The Tinellbian Languages Dictionary
               text:
-              - <h1|headword>dalliji</h1|headword>
+              - <h1|headword>dalli</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>だっえじ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈdaʎːɨɟi/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>だっえ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈdaʎːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>usefulness</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>mu</link@x-tlb-hl><b>dalliji</b> <tinellbian@x-tlb-hl>むだっえじ</tinellbian@x-tlb-hl> <gloss>to be useful</gloss></wordlist>
-              title: dalliji - The Tinellbian Languages Dictionary
+              - <wordlist><link@x-tlb-hl>mu</link@x-tlb-hl><b>dalli</b> <tinellbian@x-tlb-hl>むだっえ</tinellbian@x-tlb-hl> <gloss>to be useful</gloss></wordlist>
+              position: '8.25'
+              date: '2025-09-28'
             danagi:
               date: '2018-04-03'
               text:
@@ -9734,8 +9735,8 @@ entries:
               - <definition>room</definition>
               title: mixi - The Tinellbian Languages Dictionary
             mu:
-              date: '2025-01-21'
-              position: '8.9'
+              date: '2025-09-28'
+              position: '9.25'
               text:
               - <h1|headword>mu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9745,6 +9746,7 @@ entries:
               - <definition>to be good</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>mutaddi</link@x-tlb-hl> <tinellbian@x-tlb-hl>むたっで</tinellbian@x-tlb-hl> <gloss>to be in order</gloss>
+              - <link@x-tlb-hl>mudalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>むだっえ</tinellbian@x-tlb-hl> <gloss>to be useful</gloss>
               - <link@x-tlb-hl>mudibada</link@x-tlb-hl> <tinellbian@x-tlb-hl>むでばだ</tinellbian@x-tlb-hl> <gloss>to be doing ok</gloss>
               - <link@x-tlb-hl>mukicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むきゆ</tinellbian@x-tlb-hl> <gloss>to be correct</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
@@ -9756,6 +9758,18 @@ entries:
               - → <link@x-tlb-hl>qihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねっは</tinellbian@x-tlb-hl> <gloss>zero</gloss>
               - — <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss></wordlist>
               title: mu - The Tinellbian Languages Dictionary
+            mudalli:
+              title: mudalli - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>mudalli</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <pronunciation><ipa@x-tlb-hl>/mʉˈdaʎɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived </hidden>compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to be useful</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>dalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だっえ</tinellbian@x-tlb-hl> <gloss>use</gloss>
+              position: '7.31'
+              date: '2025-09-28'
             mudibada:
               date: '2019-03-13'
               position: '1.0'
@@ -13717,19 +13731,25 @@ entries:
               - ↑ <link@x-tlb-hl>quffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>もっべ</tinellbian@x-tlb-hl> <gloss>krypton</gloss>
               - ↓ <link@x-tlb-hl>fasami</link@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></wordlist>
               title: sahha - The Tinellbian Languages Dictionary
+            sa‘i:
+              title: ''
+              text: []
+              position: '1.0'
             sa’i:
-              date: '2025-04-15'
-              position: '9.0'
+              date: '2025-09-28'
+              position: '6.20'
               text:
               - <h1|headword>sa’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsaʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>light; <link@en>subtle</link@en> energy</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>light; <link@en>subtle</link@en> energgy</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>sa’ijakki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいぢっき</tinellbian@x-tlb-hl> <gloss>candlelight</gloss></block>
-              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
+              - <block><link@x-tlb-hl>$sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>saru</link@x-tlb-hl> <tinellbian@x-tlb-hl>さる</tinellbian@x-tlb-hl> <gloss>physical energy</gloss></wordlist>
               title: sa’i - The Tinellbian Languages Dictionary
             sa’ijakki:
               date: '2018-04-05'
@@ -14118,6 +14138,18 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><note>with <poslink@x-tlb-hl>inanimates</poslink@x-tlb-hl></note> without; instead of; rather than</definition>
               title: sarru - The Tinellbian Languages Dictionary
+            saru:
+              title: saru - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>saru</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsaɽʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>energy; physical energy</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>sa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さい</tinellbian@x-tlb-hl> <gloss>subtle energy</gloss></wordlist>
+              position: '7.21'
+              date: '2025-09-17'
             sasa:
               date: '2018-04-05'
               text:
@@ -15779,8 +15811,8 @@ entries:
               - <definition><link@en>$tinellb</link@en></definition>
               title: Tinalli - The Tinellbian Languages Dictionary
             tinalli:
-              date: '2025-04-26'
-              position: '7.6'
+              date: '2025-09-17'
+              position: '8.0'
               text:
               - <h1|headword>tinalli</h1|headword>
               - <also>$tinalli</also>

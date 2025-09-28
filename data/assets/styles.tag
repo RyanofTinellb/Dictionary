@@ -58,7 +58,8 @@ details|folding:
   type: block
 external:
   key: Alt-e
-  param: $link:lookup:external$|$text$
+  param: $lookup$|$text$
+  category: external
   props:
     colour: '#f0f'
     underline: true
@@ -76,7 +77,8 @@ glossary:
     'off': Return
     'on': Alt-G
   open: <dfn><abbr class="glossary" title="
-  param: $lookup:glossary$|$text$
+  param: $lookup$|$text$
+  category: glossary
   pipe: '">'
   props:
     font: Felix Titling
@@ -172,7 +174,8 @@ ipa:
     'off': space
     'on': Alt-i
   language: true
-  param: $link:lookup:ipa$|$text$
+  param: $lookup$|$text$
+  category: ipa
   pipe: '"><span class="ipa">'
   props:
     font: Lucida Sans Unicode
@@ -188,7 +191,8 @@ link:
     'off': space
     'on': Alt-n
   language: true
-  param: /lex/$text$.html#$url(lookup:lang)$|$upper(text)$
+  param: /lex/$text$.html#$url(lookup)$|$upper(text)$
+  category: lang
   props:
     colour: '#0080ff'
     ime: links
@@ -229,7 +233,8 @@ poslink:
     'off': space
     'on': Alt-p
   language: true
-  param: $link:lookup:poslink$|$text$
+  param: $lookup$|$text$
+  category: poslink
   props:
     colour: '#c6c'
     underline: true

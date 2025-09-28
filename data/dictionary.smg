@@ -11,7 +11,13 @@ entries:
   - tihura
 - - The Tinellbian Languages Dictionary
   - lex
-  - tinalli
+  - sa’i
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dalli
+- - The Tinellbian Languages Dictionary
+  - lex
+  - mudalli
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
