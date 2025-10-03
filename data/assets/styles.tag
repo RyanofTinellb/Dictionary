@@ -1,6 +1,8 @@
 a: anchor
 also:
-  param: <i>See also:</i> <a href="$url(text)$.html">$upper(text)$</a>
+  param:
+    string: <i>See also:</i> <a href="$link$">$text$</a>
+    link: /lex/$dictionary(text)$.html
   props:
     bold: true
     colour: '#3c3'
@@ -58,8 +60,10 @@ details|folding:
   type: block
 external:
   key: Alt-e
-  param: $lookup$|$text$
-  category: external
+  param:
+    string: $link$|$node$
+    link: $lookup
+    category: external
   props:
     colour: '#f0f'
     underline: true
@@ -77,8 +81,9 @@ glossary:
     'off': Return
     'on': Alt-G
   open: <dfn><abbr class="glossary" title="
-  param: $lookup$|$text$
-  category: glossary
+  param:
+    string: $lookup$|$node$
+    category: glossary
   pipe: '">'
   props:
     font: Felix Titling
@@ -87,6 +92,7 @@ glossary:
   type: span
 h1|headword:
   type: heading
+  param: '>$node$'
   keys:
     'on': 1
     'off': Return
@@ -110,7 +116,9 @@ h2|language:
   keys:
     'off': Return
     'on': 2
-  param: ' id="$url(text)$|$text$'
+  param:
+    string: ' id="$link$|$node$'
+    link: $grammar(text)$
   props:
     bold: true
     font: Artisan Paris
@@ -174,8 +182,10 @@ ipa:
     'off': space
     'on': Alt-i
   language: true
-  param: $lookup$|$text$
-  category: ipa
+  param:
+    string: $link$|$text$
+    link: $grammar(lookup)$
+    category: ipa
   pipe: '"><span class="ipa">'
   props:
     font: Lucida Sans Unicode
@@ -191,8 +201,10 @@ link:
     'off': space
     'on': Alt-n
   language: true
-  param: /lex/$text$.html#$url(lookup)$|$upper(text)$
-  category: lang
+  param:
+    string: $link$|$text$
+    link: /lex/$dictionary(text)$.html#$grammar(lookup)$
+    category: lang
   props:
     colour: '#0080ff'
     ime: links
@@ -233,8 +245,10 @@ poslink:
     'off': space
     'on': Alt-p
   language: true
-  param: $lookup$|$text$
-  category: poslink
+  param:
+    string: $link$|$node$
+    link: $grammar(lookup)$
+    category: poslink
   props:
     colour: '#c6c'
     underline: true
@@ -299,7 +313,9 @@ type: div
 ul: ul
 universe: span
 wikt-link:
-  param: https://en.wiktionary.org/wiki/$text$|$text$
+  param:
+    string: $expand(link)$|$node$
+    link: https://en.wiktionary.org/wiki/$text$
   props:
     colour: '#60f'
     underline: true

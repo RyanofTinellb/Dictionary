@@ -8,29 +8,23 @@ entries:
   - -ssiji
 - - The Tinellbian Languages Dictionary
   - lex
-  - tihura
+  - dissu
 - - The Tinellbian Languages Dictionary
   - lex
-  - sa’i
-- - The Tinellbian Languages Dictionary
-  - lex
-  - dalli
-- - The Tinellbian Languages Dictionary
-  - lex
-  - mudalli
+  - -’aba
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
-  autocorrect: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\autocorrect.ime
-  ipa: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\ipa.ime
-  links: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\links.ime
-  tinellbian: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\tinellbian.ime
-  transliteration: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\transliteration.ime
-languages: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+  autocorrect: c:\users\ryan\tinellbianlanguages\www\data\assets\autocorrect.ime
+  ipa: c:\users\ryan\tinellbianlanguages\www\data\assets\ipa.ime
+  links: c:\users\ryan\tinellbianlanguages\www\data\assets\links.ime
+  tinellbian: c:\users\ryan\tinellbianlanguages\www\data\assets\tinellbian.ime
+  transliteration: c:\users\ryan\tinellbianlanguages\www\data\assets\transliteration.ime
+languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
 links:
   external: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\external non-language links.glk
   glossary: c:\users\ryan\tinellbianlanguages\grammar\data\assets\glossary.glk
   ipa: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\phonologies.glk
-  lang: c:\users\ryan\tinellbianlanguages\toplevel\data\assets\languages.yml
+  lang: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
   poslink: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\grammar.glk
 locations:
   directory: c:\users\ryan\tinellbianlanguages\dictionary
@@ -46,22 +40,22 @@ serialisation format:
   pronunciation: pronunciation
 styles: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\styles.tag
 templates:
-  entry: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\entry.tpl
-  main: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\page.tpl
+  entry: c:\users\ryan\tinellbianlanguages\www\data\templates\entry.tpl
+  main: c:\users\ryan\tinellbianlanguages\www\data\templates\page.tpl
   sections:
     auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\auxiliaries.tpl
-    basesearch: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\base_search.tpl
-    copyright: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\copyright.tpl
+    basesearch: c:\users\ryan\tinellbianlanguages\www\data\templates\base_search.tpl
+    copyright: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\copyright.tpl
     indefinitepronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
     jumptoentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\jump_to_entry.tpl
-    magnifyingglass: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\svg\magnifying_glass.tpl
-    navigationpane: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\sections\navpane.tpl
+    magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl
+    navigationpane: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\navpane.tpl
     periodictable: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\periodic_table.tpl
     personalpronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\personal_pronouns.tpl
     randomentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\random_entry.tpl
     terminalauxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\terminal_auxiliaries.tpl
   special:
-    page404: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search404.tpl
-    search: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\search.tpl
-    wholepage: c:\users\ryan\tinellbianlanguages\toplevel\data\templates\wholepage.tpl
+    page404: c:\users\ryan\tinellbianlanguages\www\data\templates\search404.tpl
+    search: c:\users\ryan\tinellbianlanguages\www\data\templates\search.tpl
+    wholepage: c:\users\ryan\tinellbianlanguages\www\data\templates\wholepage.tpl
 url: http://dictionary.tinellb.com

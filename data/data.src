@@ -76,8 +76,8 @@ entries:
               - ↓ <link@x-tlb-hl>paraba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱらば</tinellbian@x-tlb-hl> <gloss>thorium</gloss></wordlist>
               title: ’a’ami - The Tinellbian Languages Dictionary
             -’aba:
-              date: '2025-01-20'
-              position: '2.17'
+              date: '2025-10-03'
+              position: '9.19'
               text:
               - <h1|headword>-’aba</h1|headword>
               - <also>’aba</also>
@@ -1253,9 +1253,10 @@ entries:
               - <h3|part-of-speech>inanimate noun</h3|part-of-speech>
               - <definition>a section of the Universe, often not accessible from outside</definition>
               - <h4|subheading>Examples</h4|subheading>
-              - <wordlist><link@en>$tinellb</link@en>
-              - <link@en>$the’a</link@en></wordlist>
+              - <wordlist><link@en>Tinellb</link@en>
+              - <link@en>The’a</link@en></wordlist>
               title: bubble - The Tinellbian Languages Dictionary
+              position: '1.0'
             buccata:
               date: '2018-03-30'
               text:
@@ -1582,14 +1583,14 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>The goddess of light, energy and chaos</definition>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@en>$tserron</link@en></block>
-              - <block><link@en>$volzd</link@en>
-              - <link@en>$zigûti</link@en>
-              - <link@en>$qolt</link@en>
-              - <link@en>$vohalu</link@en></block>
-              - <block><link@en>$yao</link@en>
-              - <link@en>$tayedu</link@en>
-              - <link@en>$umi</link@en></block></wordlist>
+              - <wordlist><block><link@en>Tserron</link@en></block>
+              - <block><link@en>Volzd</link@en>
+              - <link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
               title: $caemi - The Tinellbian Languages Dictionary
             caga:
               date: '2019-01-06'
@@ -2027,8 +2028,8 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Tsarin woman, major character of the <cite>Coelacanth Quartet</cite></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
-              - <b>Modern Tsarin:</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt></wordlist>
+              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>Kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>
+              - <b>Modern Tsarin:</b> <link@x-tlb-mt>Qōla</link@x-tlb-mt></wordlist>
               title: Corla - The Tinellbian Languages Dictionary
             -cu:
               date: '2025-01-20'
@@ -2054,7 +2055,7 @@ entries:
               - <definition>egg</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>millu</link@x-tlb-hl><b>cula</b> <tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl> <gloss>eggshell brown</gloss>
-              - <link@x-tlb-hl>$xucipura.$cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <cite><external>The Crackled Egg</external></cite></wordlist>
+              - <link@x-tlb-hl>Xucipura.Cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずちぷら ゆわ</tinellbian@x-tlb-hl> <cite><external>The Crackled Egg</external></cite></wordlist>
               title: cula - The Tinellbian Languages Dictionary
             cura:
               date: '2019-02-28'
@@ -2376,9 +2377,9 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>usefulness</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>mu</link@x-tlb-hl><b>dalli</b> <tinellbian@x-tlb-hl>むだっえ</tinellbian@x-tlb-hl> <gloss>to be useful</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>mudalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>むだっえ</tinellbian@x-tlb-hl> <gloss>to be useful</gloss></wordlist>
               position: '8.25'
-              date: '2025-09-28'
+              date: '2025-10-01'
             danagi:
               date: '2018-04-03'
               text:
@@ -3705,11 +3706,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>へしわい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌfaɕɨˈlaʔɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>survivor; <link@en>$fezhlê</link@en></definition>
+              - <definition>survivor; <link@en>Fezhlê</link@en></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>faxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>へし</tinellbian@x-tlb-hl> <gloss>to survive</gloss> + <link@x-tlb-hl>-la’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>わい</tinellbian@x-tlb-hl> <gloss><glossary>nmn</glossary></gloss>
               - <h4|subheading>Descendants</h4|subheading>
-              - <wordlist><b>Koine Fezhlê:</b> <link@en>$fezhlê</link@en></wordlist>
+              - <wordlist><b>Koine Fezhlê:</b> <link@en>Fezhlê</link@en></wordlist>
               title: faxila’i - The Tinellbian Languages Dictionary
             faʔa:
               date: '2018-04-05'
@@ -3749,7 +3750,7 @@ entries:
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ˈfɛʒlə/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>first group of people to reach <link@en>$zhalad</link@en></definition>
+              - <definition>first group of people to reach <link@en>Zhalad</link@en></definition>
               title: Fezhlê - The Tinellbian Languages Dictionary
             -ffi:
               date: '2019-05-04'
@@ -5856,7 +5857,7 @@ entries:
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ɪˈɹiːə/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>the capital city of <link@en>$brequé</link@en></definition>
+              - <definition>the capital city of <link@en>Brequé</link@en></definition>
               - <h4|subheading>Translations</h4|subheading>
               - '<b>High Lulani</b>: <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl>'
               title: Irìa - The Tinellbian Languages Dictionary
@@ -7882,9 +7883,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉˈɽilə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$corla</link@en></definition>
+              - <definition><link@en>Corla</link@en></definition>
               - <h4|subheading>Notes</h4|subheading>
-              - <gloss>transliteration of </gloss><b>Modern Tsarin</b> <link@x-tlb-mt>$qōla</link@x-tlb-mt>
+              - <gloss>transliteration of </gloss><b>Modern Tsarin</b> <link@x-tlb-mt>Qōla</link@x-tlb-mt>
               title: Kurila - The Tinellbian Languages Dictionary
             kuxalu:
               date: '2018-04-05'
@@ -8284,7 +8285,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>わるに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/laˈɽunɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$lharen</link@en></definition>
+              - <definition><link@en>Lharen</link@en></definition>
               title: Laruni - The Tinellbian Languages Dictionary
             lasakka:
               date: '2018-04-04'
@@ -8359,11 +8360,11 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Zhaladi woman, from <external>The Crackled Egg</external></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>$lharen</link@x-tlb-cz>'
+              - '<b>Contemporary Zhaladi: </b><link@x-tlb-cz>Lharen</link@x-tlb-cz>'
               - <h2|language>Contemporary Zhaladi</h2|language>
               - <pronunciation><ipa@x-tlb-cz>/ˈɬærən/</ipa@x-tlb-cz></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$lharen</link@en></definition>
+              - <definition><link@en>Lharen</link@en></definition>
               title: Lharen - The Tinellbian Languages Dictionary
             -li:
               date: '2025-03-25'
@@ -8753,7 +8754,7 @@ entries:
               position: '2.8'
               text:
               - <h1|headword>lulani</h1|headword>
-              - <also>$lulani</also>
+              - <also>Lulani</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>をわに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lʉˈlanɨ/</ipa@x-tlb-hl></pronunciation>
@@ -8809,7 +8810,7 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Zhaladi town</definition>
               - <h4|subheading>Transliterations</h4|subheading>
-              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>$lusubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>をすび</tinellbian@x-tlb-hl></wordlist>
+              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>Lusubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>をすび</tinellbian@x-tlb-hl></wordlist>
               title: Lusov - The Tinellbian Languages Dictionary
             $lusubi:
               date: '2024-05-28'
@@ -8820,7 +8821,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>をすびべ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lʉˈsubɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$lusov</link@en></definition>
+              - <definition><link@en>Lusov</link@en></definition>
               title: Lusubi - The Tinellbian Languages Dictionary
             luxi:
               date: '2019-05-26'
@@ -8885,7 +8886,7 @@ entries:
               - <h2|language>Contemporary Zhaladi</h2|language>
               - <pronunciation><ipa@x-tlb-cz>/ˈluːsoβ/</ipa@x-tlb-cz></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$lusov</link@en></definition>
+              - <definition><link@en>Lusov</link@en></definition>
               title: Lūsob - The Tinellbian Languages Dictionary
             -ma:
               date: '2019-06-16'
@@ -9768,8 +9769,8 @@ entries:
               - <definition>to be useful</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>dalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だっえ</tinellbian@x-tlb-hl> <gloss>use</gloss>
-              position: '7.31'
-              date: '2025-09-28'
+              position: '8.0'
+              date: '2025-10-02'
             mudibada:
               date: '2019-03-13'
               position: '1.0'
@@ -10374,7 +10375,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>なね</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnaŋɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@x-tlb-hl>$ptoko</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>Ptoko</link@x-tlb-hl></definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>soil</gloss></wordlist>
               title: Naqi - The Tinellbian Languages Dictionary
@@ -10790,7 +10791,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>reality<universe> M<sup>204</sup>ν</universe></definition>
               - <h4|subheading>Notes</h4|subheading>
-              - This is Queen Loren’s home reality; the reality in which the planet <link@en>$ptoko</link@en> is found
+              - This is Queen Loren’s home reality; the reality in which the planet <link@en>Ptoko</link@en> is found
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss></wordlist>
               title: Nubi - The Tinellbian Languages Dictionary
@@ -11596,10 +11597,10 @@ entries:
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/pʰɪˈjadoʊ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$toresh</link@en>’s father, in <cite><external>The Crackled Egg</external></cite></definition>
+              - <definition><link@en>Toresh</link@en>’s father, in <cite><external>The Crackled Egg</external></cite></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <list-block><b>High Lulani:</b> <link@x-tlb-hl>$pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
-              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$piadû</link@x-tlb-kf></list-block>
+              - <list-block><b>High Lulani:</b> <link@x-tlb-hl>Pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
+              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>Piadû</link@x-tlb-kf></list-block>
               title: Piado - The Tinellbian Languages Dictionary
             $pi’adu:
               date: '2024-05-28'
@@ -11610,9 +11611,9 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰɨˈʔadʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$piado</link@en></definition>
+              - <definition><link@en>Piado</link@en></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <b>Koine Fezhle:</b> <link@en>$piadû</link@en>
+              - <b>Koine Fezhle:</b> <link@en>Piadû</link@en>
               title: Pi’adu - The Tinellbian Languages Dictionary
             $piadû:
               date: '2024-05-28'
@@ -11622,9 +11623,9 @@ entries:
               - <h2|language>Koine Fezhlê</h2|language>
               - <pronunciation><ipa@x-tlb-kf>/ˈpjadɯ/</ipa@x-tlb-kf></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$piado</link@en></definition>
+              - <definition><link@en>Piado</link@en></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <b>High Lulani:</b> <link@x-tlb-hl>$pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
+              - <b>High Lulani:</b> <link@x-tlb-hl>Pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
               title: Piadû - The Tinellbian Languages Dictionary
             pi’apahi:
               date: '2019-02-01'
@@ -12622,9 +12623,9 @@ entries:
               - <h2|language>Modern Tsarin</h2|language>
               - <pronunciation><ipa@x-tlb-mt>/ˈǂʰɔːlə/</ipa@x-tlb-mt></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$corla</link@en></definition>
+              - <definition><link@en>Corla</link@en></definition>
               - <h4|subheading>Transliterations</h4|subheading>
-              - '<b>High Lulani</b>: <link@x-tlb-hl>$kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>'
+              - '<b>High Lulani</b>: <link@x-tlb-hl>Kurila</link@x-tlb-hl> <tinellbian@x-tlb-hl>くりわ</tinellbian@x-tlb-hl>'
               title: Qōla - The Tinellbian Languages Dictionary
             -ra:
               children: {}
@@ -13091,7 +13092,7 @@ entries:
               - <wordlist><link@x-tlb-hl>’axasiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせり</tinellbian@x-tlb-hl> <gloss>adult</gloss>
               - <link@x-tlb-hl>’asilari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss>
               - <link@x-tlb-hl>dissuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすり</tinellbian@x-tlb-hl> <gloss>stranger</gloss>
-              - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person from <link@x-tlb-hl>$irìa</link@x-tlb-hl></gloss>
+              - <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl><b>ri</b> <tinellbian@x-tlb-hl>いっりあり</tinellbian@x-tlb-hl> <gloss>person from <link@x-tlb-hl>Irìa</link@x-tlb-hl></gloss>
               - <link@x-tlb-hl>gufu’iri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふいり</tinellbian@x-tlb-hl> <gloss>radio operator</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary></wordlist>
@@ -13731,23 +13732,19 @@ entries:
               - ↑ <link@x-tlb-hl>quffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>もっべ</tinellbian@x-tlb-hl> <gloss>krypton</gloss>
               - ↓ <link@x-tlb-hl>fasami</link@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></wordlist>
               title: sahha - The Tinellbian Languages Dictionary
-            sa‘i:
-              title: ''
-              text: []
-              position: '1.0'
             sa’i:
-              date: '2025-09-28'
-              position: '6.20'
+              date: '2025-10-03'
+              position: '6.19'
               text:
               - <h1|headword>sa’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsaʔɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>light; <link@en>subtle</link@en> energgy</definition>
+              - <definition>light; <link@en>subtle</link@en> energy</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>sa’ijakki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいぢっき</tinellbian@x-tlb-hl> <gloss>candlelight</gloss></block>
-              - <block><link@x-tlb-hl>$sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
+              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>saru</link@x-tlb-hl> <tinellbian@x-tlb-hl>さる</tinellbian@x-tlb-hl> <gloss>physical energy</gloss></wordlist>
               title: sa’i - The Tinellbian Languages Dictionary
@@ -13763,6 +13760,7 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>sa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さい</tinellbian@x-tlb-hl> <gloss>light</gloss> + <link@x-tlb-hl>jakki</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっき</tinellbian@x-tlb-hl> <gloss>candle</gloss>
               title: sa’ijakki - The Tinellbian Languages Dictionary
+              position: '1.0'
             $sa’imi:
               date: '2025-04-13'
               position: '6.5'
@@ -15407,7 +15405,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>たぱっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰəˈpʰasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$tepeth</link@en></definition>
+              - <definition><link@en>Tepeth</link@en></definition>
               title: Tapassi - The Tinellbian Languages Dictionary
             tappa:
               date: '2018-03-30'
@@ -15612,8 +15610,8 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Zhaladi administrator, in <external@en>The Crackled Egg</external@en></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <list-block><b>High Lulani:</b> <link@x-tlb-hl>$tapassi</link@x-tlb-hl>
-              - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>$ṭepet</link@x-tlb-cz></list-block>
+              - <list-block><b>High Lulani:</b> <link@x-tlb-hl>Tapassi</link@x-tlb-hl>
+              - <b>Contemporary Zhaladi:</b> <link@x-tlb-cz>Ṭepet</link@x-tlb-cz></list-block>
               title: Tepeth - The Tinellbian Languages Dictionary
             $the’a:
               date: '2024-05-28'
@@ -15624,8 +15622,9 @@ entries:
               - <h3|part-of-speech>inanimate proper noun</h3|part-of-speech>
               - <definition>The <link@en>bubble</link@en> in which the Earth is found</definition>
               - <h4|subheading>Notes</h4|subheading>
-              - This is not the same bubble as <link@en>$tinellb</link@en>.
+              - This is not the same bubble as <link@en>Tinellb</link@en>.
               title: The’a - The Tinellbian Languages Dictionary
+              position: '1.0'
             ti’a:
               date: '2024-09-01'
               position: '1.0'
@@ -15692,7 +15691,7 @@ entries:
               - <wordlist><link@x-tlb-hl>tujatihu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢてほ</tinellbian@x-tlb-hl> <gloss>home</gloss></wordlist>
               title: tihu - The Tinellbian Languages Dictionary
             tihura:
-              date: '2018-04-05'
+              date: '2025-10-03'
               text:
               - <h1|headword>tihura</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -15703,7 +15702,7 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>dissutihura</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすてほら</tinellbian@x-tlb-hl> <gloss>to be astonished</gloss></wordlist>
               title: tihura - The Tinellbian Languages Dictionary
-              position: '1.0'
+              position: '9.0'
             tihutuja:
               date: '2024-07-16'
               position: '8.25'
@@ -15799,8 +15798,8 @@ entries:
               - </list-block>
               title: tila - The Tinellbian Languages Dictionary
             $tinalli:
-              date: '2024-05-28'
-              position: '3.1'
+              date: '2025-10-03'
+              position: '7.7'
               text:
               - <h1|headword>Tinalli</h1|headword>
               - <also>tinalli</also>
@@ -15808,14 +15807,14 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tɨˈnaʎːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$tinellb</link@en></definition>
+              - <link@en><definition>Tinellb</definition></link@en>
               title: Tinalli - The Tinellbian Languages Dictionary
             tinalli:
               date: '2025-09-17'
               position: '8.0'
               text:
               - <h1|headword>tinalli</h1|headword>
-              - <also>$tinalli</also>
+              - <also>Tinalli</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tɨˈnaʎːɨ/</ipa@x-tlb-hl></pronunciation>
@@ -15832,7 +15831,7 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>the name given to the <link@en>bubble</link@en> in which <cite><external>The Coelacanth Quartet</external></cite> takes place</definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <b>High Lulani:</b> <link@x-tlb-hl>$tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
+              - <b>High Lulani:</b> <link@x-tlb-hl>Tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
               title: Tinellb - The Tinellbian Languages Dictionary
             tinna:
               date: '2024-09-02'
@@ -15967,8 +15966,8 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Fezhlê woman, major character of <external>The Crackled Egg</external></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
-              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>$tŗsh</link@x-tlb-kf></list-block>
+              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>Turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl>'
+              - <b>Koine Fezhlê:</b> <link@x-tlb-kf>Tŗsh</link@x-tlb-kf></list-block>
               title: Toresh - The Tinellbian Languages Dictionary
             triadic:
               date: '2025-04-15'
@@ -16271,11 +16270,11 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰʉˈɽasːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@x-tlb-hl>$toresh</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>Toresh</link@x-tlb-hl></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl> <gloss>redhead</gloss>
               - <h4|subheading>Translations</h4|subheading>
-              - '<b>Koine Fezhlê</b>: <link@en>$tŗsh</link@en>.'
+              - '<b>Koine Fezhlê</b>: <link@en>Tŗsh</link@en>.'
               title: Turassi - The Tinellbian Languages Dictionary
             turassi:
               date: '2024-07-18'
@@ -16362,7 +16361,7 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>Zhaladi man, minor character of the <cite>Coelacanth Quartet</cite></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>$tussuli</link@x-tlb-hl></wordlist>
+              - <wordlist><b>High Lulani:</b> <link@x-tlb-hl>Tussuli</link@x-tlb-hl></wordlist>
               title: Tussol - The Tinellbian Languages Dictionary
             $tussuli:
               date: '2025-03-05'
@@ -16372,7 +16371,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>とっすえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰʉˈsulɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$tussol</link@en></definition>
+              - <definition><link@en>Tussol</link@en></definition>
               title: Tussuli - The Tinellbian Languages Dictionary
             tu’uci:
               date: '2019-01-07'
@@ -16408,9 +16407,9 @@ entries:
               - <h2|language>Koine Fezhlê</h2|language>
               - <pronunciation><ipa@x-tlb-kf>/tr̩ʃ/</ipa@x-tlb-kf></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$toresh</link@en></definition>
+              - <definition><link@en>Toresh</link@en></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>$turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></list-block>'
+              - '<list-block><b>High Lulani</b>: <link@x-tlb-hl>Turassi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とらっせ</tinellbian@x-tlb-hl></list-block>'
               title: Tŗsh - The Tinellbian Languages Dictionary
             ’u:
               date: '2019-04-28'
@@ -16857,7 +16856,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>ざわで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕəˈladɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><link@en>$zhalad</link@en></definition>
+              - <definition><link@en>Zhalad</link@en></definition>
               title: Xaladi - The Tinellbian Languages Dictionary
             xalli:
               date: '2025-04-25'
@@ -17326,7 +17325,7 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: xuci - The Tinellbian Languages Dictionary
-            $xucipura.$cula:
+            $xucipura.Cula:
               date: '2025-04-13'
               position: '3.4'
               text:
@@ -17464,12 +17463,12 @@ entries:
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>country in reality <universe>A<sup>376</sup>γ</universe></definition>
               - <h4|subheading>Translations</h4|subheading>
-              - '<wordlist><b>High Lulani</b>: <link@x-tlb-hl>$xaladi</link@x-tlb-hl>'
-              - '<b>Contemporary Zhaladi</b>: <link@x-tlb-cz>$zhalad</link@x-tlb-cz></wordlist>'
+              - '<wordlist><b>High Lulani</b>: <link@x-tlb-hl>Xaladi</link@x-tlb-hl>'
+              - '<b>Contemporary Zhaladi</b>: <link@x-tlb-cz>Zhalad</link@x-tlb-cz></wordlist>'
               - <h2|language>Contemporary Zhaladi</h2|language>
               - <pronunciation><ipa@x-tlb-cz>/ˈʒalat/</ipa@x-tlb-cz></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$zhalad</link@en></definition>
+              - <definition><link@en>Zhalad</link@en></definition>
               title: Zhalad - The Tinellbian Languages Dictionary
             -ʔa:
               date: '2018-04-12'
@@ -17496,7 +17495,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈirːɨʔa/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@x-tlb-hl>$irìa</link@x-tlb-hl></definition>
+              - <definition><link@x-tlb-hl>Irìa</link@x-tlb-hl></definition>
               title: ʔirri’a - The Tinellbian Languages Dictionary
             $ṭepet:
               date: '2024-05-06'
@@ -17506,17 +17505,17 @@ entries:
               - <h2|language>Contemporary Zhaladi</h2|language>
               - <pronunciation><ipa@x-tlb-cz>/ʈɛˈpet̪θ̪/</ipa@x-tlb-cz></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition><link@en>$tepeth</link@en></definition>
+              - <definition><link@en>Tepeth</link@en></definition>
               title: Ṭepet - The Tinellbian Languages Dictionary
           date: '2024-05-29'
           position: '1.0'
           text: []
           title: ''
-      date: '2025-01-27'
-      position: '1.0'
+      date: '2025-10-03'
+      position: '2.9'
       text:
       - <h2>About</h2>
       - <introduction>This dictionary aims to describe all the vocabulary items of the twenty Tinellbian languages, consisting of High Lulani and its descendants. In addition, miscellaneous English neologisms have been added, including proper nouns.</introduction>
-      - <introduction><javascript><h2>Searching</h2>
-      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</javascript></introduction>
-      title: ''
+      - <javascript><introduction><h2>Searching</h2>
+      - The search box at the bottom of each page allows one to proceed directly to any dictionary entry. Contrariwise, the search box in the navigation pane runs a general search of the site.</introduction></javascript>
+      title: The Tinellbian Languages Dictionary

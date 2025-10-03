@@ -3,8 +3,10 @@ styles:
   link:
     type: anchor
     language: true
-    param: $text$.html#$url(lookup)$|$upper(text)$
-    category: lang
+    param:
+      string: $link$|$node$
+      link: /lex/$dictionary(text)$.html#$grammar(lookup)$
+      category: lang
   multiline: span
   portrait: div
   table: table
