@@ -57,14 +57,14 @@ entries:
               - ↓ <link@x-tlb-hl>nasufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なすべ</tinellbian@x-tlb-hl> <gloss>ruthenium</gloss></wordlist>
               title: ’a - The Tinellbian Languages Dictionary
             ’a’ami:
-              date: '2024-05-02'
-              position: '7.16'
+              date: '2025-10-04'
+              position: '7.9'
               text:
               - <h1|headword>’a’ami</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈʔamɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>compound noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden><poslink@x-tlb-hl> noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>cerium</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> <gloss>iron</gloss> + <link@x-tlb-hl>’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみ</tinellbian@x-tlb-hl> <gloss>ghost</gloss>
@@ -309,14 +309,14 @@ entries:
               - <wordlist><link@x-tlb-hl>buma’ajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶまあっぢ</tinellbian@x-tlb-hl> <gloss>to write</gloss></wordlist>
               title: ’ajja - The Tinellbian Languages Dictionary
             ’ajjatuja:
-              date: '2024-07-21'
-              position: '9.23'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>’ajjatuja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あっぢとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔaɟʱːəˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>study; office</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぢ</tinellbian@x-tlb-hl> <gloss>writing</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
@@ -397,31 +397,33 @@ entries:
               - <note>Numbers in <b>bold</b> are in decimal, numbers in <gloss>italics</gloss> are in balanced <link@x-tlb-hl>sesquidecimal</link@x-tlb-hl>.</note>
               title: ’ala - The Tinellbian Languages Dictionary
             ’alamusa:
-              date: '2018-04-05'
+              date: '2025-10-04'
               text:
               - <h1|headword>’alamusa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あわむさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔaləˈmusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>sunlight</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss> + <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>sun</gloss>
               title: ’alamusa - The Tinellbian Languages Dictionary
+              position: '9.0'
             ’alaxuhha:
-              date: '2018-04-05'
+              date: '2025-10-04'
               text:
               - <h1|headword>’alaxuhha</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あわずっは</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔaləˈɕuçːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>firelight</definition>
               - <h4|subheading>Definition</h4|subheading>
               - The heat or light of a fire
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss> + <link@x-tlb-hl>xuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずっは</tinellbian@x-tlb-hl> <gloss>fire</gloss>
               title: ’alaxuhha - The Tinellbian Languages Dictionary
+              position: '8.27'
             ’ali:
               date: '2018-03-27'
               text:
@@ -439,20 +441,6 @@ entries:
               - ↑ <link@x-tlb-hl>disa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でさ</tinellbian@x-tlb-hl> <gloss>aluminium</gloss>
               - ↓ <link@x-tlb-hl>luka</link@x-tlb-hl> <tinellbian@x-tlb-hl>をか</tinellbian@x-tlb-hl> <gloss>indium</gloss></wordlist>
               title: ’ali - The Tinellbian Languages Dictionary
-            ’alissa:
-              date: '2018-03-27'
-              text:
-              - <h1|headword>’alissa</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>あえっさ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ʔəˈlisːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>need</definition>
-              - <h4|subheading>Definition</h4|subheading>
-              - a subtle requirement. Note that the object of requirement may be physical or subtle.
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>naqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>need</gloss></wordlist>
-              title: ’alissa - The Tinellbian Languages Dictionary
             ’alla:
               date: '2018-04-05'
               text:
@@ -529,14 +517,14 @@ entries:
               - <link@x-tlb-hl>fara</link@x-tlb-hl> <tinellbian@x-tlb-hl>へら</tinellbian@x-tlb-hl> <gloss>subtle planes</gloss></wordlist>
               title: ’anni - The Tinellbian Languages Dictionary
             ’anniduku:
-              date: '2019-05-25'
-              position: '7.5'
+              date: '2025-10-04'
+              position: '7.9'
               text:
               - <h1|headword>’anniduku</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あっにどく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔaɲːɨˈdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived generic compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>four planes</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’anni</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっに</tinellbian@x-tlb-hl> <gloss>plane</gloss> + <link@x-tlb-hl>duku</link@x-tlb-hl> <tinellbian@x-tlb-hl>どく</tinellbian@x-tlb-hl> <gloss>set</gloss>
@@ -647,14 +635,14 @@ entries:
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: ’ara - The Tinellbian Languages Dictionary
             ’arasikahi:
-              date: '2019-05-04'
-              position: '4.28'
+              date: '2025-10-04'
+              position: '8.31'
               text:
               - <h1|headword>’arasikahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あらせかひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˌɽasɨˈkʰahɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden>derived generic compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>facial shape</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ara</link@x-tlb-hl> <tinellbian@x-tlb-hl>あら</tinellbian@x-tlb-hl> <gloss>face</gloss> + <link@x-tlb-hl>sikahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>せかひ</tinellbian@x-tlb-hl> <gloss>shape</gloss>
@@ -894,14 +882,14 @@ entries:
               - <link@x-tlb-hl>millu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl> <gloss>brown</gloss></wordlist>
               title: baju - The Tinellbian Languages Dictionary
             bajukunubi:
-              date: '2019-02-28'
-              position: '4.54'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>bajukunubi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˌɟukʰʉˈnubɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound<hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be sky-blue</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>baju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl> <gloss>blue</gloss> + <link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss>
@@ -1202,14 +1190,14 @@ entries:
               - <link@x-tlb-hl>bi’u’iku</link@x-tlb-hl> <tinellbian@x-tlb-hl>びういく</tinellbian@x-tlb-hl> <gloss>to have hunger pangs</gloss></wordlist>
               title: bi’u - The Tinellbian Languages Dictionary
             bi’u’iku:
-              date: '2024-05-02'
-              position: '4.44'
+              date: '2025-10-04'
+              position: '5.45'
               text:
               - <h1|headword>bi’u’iku</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>びういく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌbiʔʉˈʔikʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be starving</definition>
               - <h4|subheading>Definition</h4|subheading>
               - to have hunger pains
@@ -1315,14 +1303,14 @@ entries:
               - <definition>illness</definition>
               title: bufiqi - The Tinellbian Languages Dictionary
             bufitila:
-              date: '2025-03-24'
-              position: '5.4'
+              date: '2025-10-04'
+              position: '11.16'
               text:
               - <h1|headword>bufitila</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌbufɨˈtʰilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
               - <definition>limestone</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>bufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべ</tinellbian@x-tlb-hl> <gloss>stone</gloss> + <link@x-tlb-hl>tila</link@x-tlb-hl> <tinellbian@x-tlb-hl>てわ</tinellbian@x-tlb-hl> <gloss>shell</gloss>
@@ -1347,14 +1335,14 @@ entries:
               - </wordlist>
               title: buma - The Tinellbian Languages Dictionary
             buma’ajja:
-              date: '2025-03-27'
-              position: '7.36'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>buma’ajja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぶまあっぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌbuməˈʔaɟʱːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to write</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>buma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶま</tinellbian@x-tlb-hl> <gloss>to write</gloss> + <link@x-tlb-hl>’ajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぢ</tinellbian@x-tlb-hl> <gloss>writing</gloss>
@@ -1932,14 +1920,14 @@ entries:
               - <wordlist><link@x-tlb-hl>cikkipu’a</link@x-tlb-hl> <gloss>telepath</gloss></wordlist>
               title: cikki - The Tinellbian Languages Dictionary
             cikkipu’a:
-              date: '2019-01-22'
-              position: '7.29'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>cikkipu’a</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ちっきぷあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌcʰikːɨˈpʰuʔə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>telepath</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>cikki</link@x-tlb-hl> <gloss>to perceive</gloss> + <link@x-tlb-hl>-pu’a</link@x-tlb-hl><gloss> </gloss><glossary>nmn</glossary>
@@ -2164,27 +2152,27 @@ entries:
               - <link@x-tlb-hl>cussidicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl> <gloss>to be cold</gloss></wordlist>
               title: cussi - The Tinellbian Languages Dictionary
             cussi’ala:
-              date: '2019-03-01'
-              position: '4.44'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>cussi’ala</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ゆっせあわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈcusːɨˌʔalə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be hot</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>cussi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆっせ</tinellbian@x-tlb-hl> <gloss>feel</gloss> + <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss>
               title: cussi’ala - The Tinellbian Languages Dictionary
             cussidicci:
-              date: '2019-03-01'
-              position: '4.44'
+              date: '2025-10-04'
+              position: '5.30'
               text:
               - <h1|headword>cussidicci</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ゆっせでっち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌcusːɨˈdicːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be cold; to feel cold</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>cussi</link@x-tlb-hl> <gloss>touch</gloss> + <link@x-tlb-hl>dicci</link@x-tlb-hl> <gloss>cold</gloss>
@@ -2280,17 +2268,18 @@ entries:
               - <wordlist><link@x-tlb-hl>dacataca</link@x-tlb-hl> <tinellbian@x-tlb-hl>だやたや</tinellbian@x-tlb-hl> <gloss>bench</gloss></wordlist>
               title: daca - The Tinellbian Languages Dictionary
             dacataca:
-              date: '2018-04-03'
+              date: '2025-10-04'
               text:
               - <h1|headword>dacataca</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だやたや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdacʰəˈtʰacʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>bench</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>daca</link@x-tlb-hl> <tinellbian@x-tlb-hl>だや</tinellbian@x-tlb-hl> <gloss>seat</gloss> + <link@x-tlb-hl>taca</link@x-tlb-hl> <tinellbian@x-tlb-hl>たや</tinellbian@x-tlb-hl> <gloss>plank</gloss>
               title: dacataca - The Tinellbian Languages Dictionary
+              position: '9.0'
             dacca:
               date: '2019-02-25'
               position: '9.10'
@@ -2306,14 +2295,14 @@ entries:
               - <b>dacca</b><link@x-tlb-hl>-da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だっやだ</tinellbian@x-tlb-hl> <gloss>bad luck</gloss></wordlist>
               title: dacca - The Tinellbian Languages Dictionary
             dahi:
-              date: '2025-04-14'
-              position: '12.14'
+              date: '2025-10-04'
+              position: '6.3'
               text:
               - <h1|headword>dahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdahɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food</hidden></h3|part-of-speech>
               - <definition>ice</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss> + <link@x-tlb-hl>hi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl> <gloss>solid</gloss>
@@ -2351,14 +2340,14 @@ entries:
               - <block><link@x-tlb-hl>dajabituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢびとぢ</tinellbian@x-tlb-hl> <gloss>library</gloss></block></wordlist>
               title: dajabi - The Tinellbian Languages Dictionary
             dajabituja:
-              date: '2019-05-04'
-              position: '7.25'
+              date: '2025-10-04'
+              position: '8.34'
               text:
               - <h1|headword>dajabituja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だぢびとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/dəˌɟabɨˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>library; <gloss>readingplace</gloss></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢび</tinellbian@x-tlb-hl> <gloss>reading</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
@@ -2461,17 +2450,18 @@ entries:
               - <block><link@x-tlb-hl>daruli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるえ</tinellbian@x-tlb-hl> <gloss>wrong way</gloss></block></wordlist>
               title: daru - The Tinellbian Languages Dictionary
             daruhuba:
-              date: '2018-04-03'
+              date: '2025-10-04'
               text:
               - <h1|headword>daruhuba</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だるほば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdaɽʉˈhubə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>main street</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>daru</link@x-tlb-hl> <tinellbian@x-tlb-hl>だる</tinellbian@x-tlb-hl> <gloss>road</gloss> + <link@x-tlb-hl>huba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほば</tinellbian@x-tlb-hl> <gloss>importance</gloss>
               title: daruhuba - The Tinellbian Languages Dictionary
+              position: '9.0'
             daru’i:
               date: '2018-04-03'
               text:
@@ -2719,17 +2709,18 @@ entries:
               - ↓ <link@x-tlb-hl>salari</link@x-tlb-hl> <tinellbian@x-tlb-hl>さわり</tinellbian@x-tlb-hl> <gloss>antimony</gloss></wordlist>
               title: da’u - The Tinellbian Languages Dictionary
             daxaʔa:
-              date: '2018-04-03'
+              date: '2025-10-04'
               text:
               - <h1|headword>daxaʔa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だざっあ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/dəˈɕaʔjə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>steam; water vapour; fog; mist</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss> + <link@x-tlb-hl>xaʔa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざっあ</tinellbian@x-tlb-hl> <gloss>gas</gloss>
               title: daxaʔa - The Tinellbian Languages Dictionary
+              position: '8.25'
             daxuni:
               date: '2019-01-06'
               position: '9.72'
@@ -2746,18 +2737,19 @@ entries:
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: daxuni - The Tinellbian Languages Dictionary
             daxunikifigi.qasa:
-              date: '2024-05-29'
-              position: '11.11'
+              date: '2025-10-04'
+              position: '10.0'
               text:
               - <h1|headword>daxunikifigi qasa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だずにきべぎ・げさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/dəˌɕunɨˈkʰifɨgiˈŋasə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> animal</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <hidden>compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> animal</hidden></h3|part-of-speech>
               - <definition>coelacanth; <gloss>three-tail fish</gloss></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <list-block><link@x-tlb-hl>daxuni</link@x-tlb-hl> <tinellbian@x-tlb-hl>だずに</tinellbian@x-tlb-hl> <gloss>tail</gloss> + <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>gi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to have</gloss>
-              - <link@x-tlb-hl>qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> <gloss>fish</gloss></list-block><h4|subheading>Notes</h4|subheading>
+              - <link@x-tlb-hl>qasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げさ</tinellbian@x-tlb-hl> <gloss>fish</gloss>
+              - </list-block><h4|subheading>Notes</h4|subheading>
               - Named for its three-lobed caudal fin
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl></list-block>
@@ -3049,38 +3041,40 @@ entries:
               - <link@x-tlb-hl>baqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばげ</tinellbian@x-tlb-hl> <gloss>yours</gloss></wordlist>
               title: disiqa - The Tinellbian Languages Dictionary
             diss·sa:
-              date: '2018-04-03'
+              date: '2025-10-04'
               text:
               - <h1|headword>diss·sa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdisˈsa/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>young person; youth</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>young</gloss> + <link@x-tlb-hl>-sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               title: diss·sa - The Tinellbian Languages Dictionary
+              position: '8.27'
             diss·samma:
-              date: '2019-05-06'
+              date: '2025-10-04'
               text:
               - <h1|headword>diss·samma</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすさま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisˈsamːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>vital</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>vital</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to romantically love; to truly love; to inconditionally love</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>feel</gloss> + <link@x-tlb-hl>samma</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっま</tinellbian@x-tlb-hl> <gloss>true-love</gloss>
               title: diss·samma - The Tinellbian Languages Dictionary
+              position: '8.36'
             diss·sutti:
-              date: '2019-03-01'
-              position: '4.44'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>diss·sutti</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすすって</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisˈsutːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be afraid; to feel fear</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>sutti</link@x-tlb-hl> <tinellbian@x-tlb-hl>すって</tinellbian@x-tlb-hl> <gloss>fear</gloss>
@@ -3128,7 +3122,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすあはて</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉʔəˈhatʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be happy</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>’ahati</link@x-tlb-hl> <tinellbian@x-tlb-hl>あはて</tinellbian@x-tlb-hl> <gloss>happiness</gloss>
@@ -3140,7 +3134,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすだなぎ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdisːʉdaˌnagɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>pardon</definition>
               - <h4|subheading>Definition</h4|subheading>
               - An official forgiveness by a ruler or administrator.
@@ -3155,7 +3149,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすいせえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉʔɨˈsilɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be sad</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
@@ -3168,7 +3162,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすまっえよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉˈmaʎːɨɟu/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to feel happiness in the moment</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>malliju</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっえよ</tinellbian@x-tlb-hl> <gloss>happiness</gloss>
@@ -3181,7 +3175,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすみち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉˈmicʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be peaceful</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>mici</link@x-tlb-hl> <tinellbian@x-tlb-hl>みち</tinellbian@x-tlb-hl> <gloss>peace</gloss>
@@ -3206,7 +3200,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすてほら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉtʰiˈhuɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be astonished</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>tihura</link@x-tlb-hl> <tinellbian@x-tlb-hl>てほら</tinellbian@x-tlb-hl> <gloss>astonishment</gloss>
@@ -3219,7 +3213,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>でっすうわぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌdisːʉʔuˈlanʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be aroused; to be horny</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>’ulanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>うわぬ</tinellbian@x-tlb-hl> <gloss>arousal</gloss>
@@ -3362,7 +3356,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>どく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> generic <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>complete set</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lahhaduku</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっはどく</tinellbian@x-tlb-hl> <gloss>body</gloss>
@@ -4357,7 +4351,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぎい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈgiʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound dative <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> dative <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to understand communication</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to hold</gloss> + <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss>
@@ -4424,7 +4418,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation>/<ipa@x-tlb-hl>gʉˈfuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>radio transmission</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gufu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふ</tinellbian@x-tlb-hl> <gloss>radio transmission</gloss> + <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss>
@@ -4505,11 +4499,11 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐぴやで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌgupʰɨˈcʰadɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to stay behind</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gupi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐぴ</tinellbian@x-tlb-hl> <gloss>to sit</gloss> + <link@x-tlb-hl>cadi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やで</tinellbian@x-tlb-hl> <gloss>wall</gloss>
-              - <h3|part-of-speech>ablative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech>ablative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to guard</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gupi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐぴ</tinellbian@x-tlb-hl> <gloss>to sit</gloss> + <link@x-tlb-hl>cadi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やで</tinellbian@x-tlb-hl> <gloss>wall</gloss>
@@ -4522,7 +4516,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐぴてば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌgupʰɨˈtʰibə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to stand still</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gupi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐぴ</tinellbian@x-tlb-hl> <gloss>to stand</gloss> + <link@x-tlb-hl>tiba</link@x-tlb-hl> <tinellbian@x-tlb-hl>てば</tinellbian@x-tlb-hl> <gloss>legs</gloss>
@@ -4566,7 +4560,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐっねぷっわた</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌguŋːɨˈpʰuʎːəta/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>dative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech>dative <poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to betray</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>guqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっね</tinellbian@x-tlb-hl> <gloss>to be bad</gloss> + <link@x-tlb-hl>pullata</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷっわた</tinellbian@x-tlb-hl> <gloss>betrayal</gloss>
@@ -4590,7 +4584,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐっりす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈgurːɨsu/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>compound noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>door</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gurri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっり</tinellbian@x-tlb-hl> <gloss>board</gloss> + <link@x-tlb-hl>su</link@x-tlb-hl> <tinellbian@x-tlb-hl>す</tinellbian@x-tlb-hl> <gloss>hinge</gloss>
@@ -4604,7 +4598,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐっりすちや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌgurːɨsuˈcʰicʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>compound noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>gate</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gurrisu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐっりす</tinellbian@x-tlb-hl> <gloss>door</gloss> + <link@x-tlb-hl>cica</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちや</tinellbian@x-tlb-hl> <gloss>fence</gloss>
@@ -4634,7 +4628,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐすあで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌgusʉˈʔadɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>neighbour</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>gusu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐす</tinellbian@x-tlb-hl> <gloss>person</gloss> + <link@x-tlb-hl>’adi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あで</tinellbian@x-tlb-hl> <gloss>near</gloss>
@@ -4660,7 +4654,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぐすえあで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌgusʉliˈʔadɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>neighbour</definition>
               - <h4|subheading>Notes</h4|subheading>
               - refers to people of a nearby tribe
@@ -4890,7 +4884,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/həˈɽusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be alone</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>to accompany</gloss> + <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss>
@@ -5170,7 +5164,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ひすばぢな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/hɨˌsubəˈɟanə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>elder</definition>
               - <h4|subheading>Definition</h4|subheading>
               - A person chosen to lead because of their old age and wisdom.
@@ -5185,7 +5179,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ひすと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/hɨˈsutʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>vital</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>vital</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to babysit</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>hisu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひす</tinellbian@x-tlb-hl> <gloss>to administer</gloss> + <link@x-tlb-hl>tu</link@x-tlb-hl> <tinellbian@x-tlb-hl>と</tinellbian@x-tlb-hl> <gloss>child</gloss>
@@ -5306,7 +5300,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ほっわせさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌhuʎːəˈsisə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived compound</hidden> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to have sex-play</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>hulla</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわ</tinellbian@x-tlb-hl> <gloss>to have sex</gloss> + <link@x-tlb-hl>sisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>せさ</tinellbian@x-tlb-hl> <gloss>nudity</gloss>
@@ -5385,7 +5379,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ほっすでっやは</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌhusːʉˈdicːəha/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to trip over</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>hussu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっす</tinellbian@x-tlb-hl> <gloss>to fall</gloss> + <link@x-tlb-hl>diccaha</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっやは</tinellbian@x-tlb-hl> <gloss>obstacle</gloss>
@@ -5404,7 +5398,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ほっすでべ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌhusːʉˈdifɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to nod; to move sharply downwards</definition>
               - <h4|subheading>Notes</h4|subheading>
               - such movement of one’s head denotes a negative
@@ -5485,7 +5479,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いびぶ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈbibʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to complain</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>bibu</link@x-tlb-hl> <tinellbian@x-tlb-hl>びぶ</tinellbian@x-tlb-hl> <gloss>complaint</gloss>
@@ -5498,7 +5492,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いちぷ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈcʰipʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to ask</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>cipu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちぷ</tinellbian@x-tlb-hl> <gloss>question</gloss>
@@ -5511,7 +5505,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いだぢび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔidəˈɟabɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to read out; to read aloud</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>dajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢび</tinellbian@x-tlb-hl> <gloss>reading</gloss>
@@ -5524,7 +5518,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いだた</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈdatʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to reply back; to answer in return</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>data</link@x-tlb-hl> <tinellbian@x-tlb-hl>だた</tinellbian@x-tlb-hl> <gloss>back</gloss>
@@ -5582,7 +5576,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いふっは</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɨˈfuçːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to argue</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>fuhha</link@x-tlb-hl> <gloss>argument</gloss>
@@ -5595,7 +5589,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いふっはなく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˌfuççəˈnakʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to agree</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ifuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>いふっは</tinellbian@x-tlb-hl> <gloss>to argue </gloss>+ <link@x-tlb-hl>naku</link@x-tlb-hl> <tinellbian@x-tlb-hl>なく</tinellbian@x-tlb-hl> <gloss>together</gloss>
@@ -5608,7 +5602,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いほゆ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈhucʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to inform</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>hucu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほゆ</tinellbian@x-tlb-hl> <gloss>information</gloss>
@@ -5637,7 +5631,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いいっせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈʔisːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to sing</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>’issi</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっせ</tinellbian@x-tlb-hl> <gloss>song</gloss>
@@ -5650,7 +5644,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いかほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈkʰahʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to grunt</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>kahu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かほ</tinellbian@x-tlb-hl> <gloss>grunt</gloss>
@@ -5693,7 +5687,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いわぎ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɨˈlagɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to scream; to yell; to shout</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>lagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぎ</tinellbian@x-tlb-hl> <gloss>yell</gloss>
@@ -5799,7 +5793,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈluɕːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>compound verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <hidden>derived compound</hidden><poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to request; to bid</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>luxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>をっざ</tinellbian@x-tlb-hl> <gloss>request</gloss>
@@ -5853,7 +5847,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いげや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈŋacʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to give one’s side of the story</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>qaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>げや</tinellbian@x-tlb-hl> <gloss>perspective</gloss>
@@ -5925,7 +5919,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いせえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈsilɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>compound noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>sadness</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>dissu’isili</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすいせえ</tinellbian@x-tlb-hl> <gloss>to be sad</gloss>
@@ -5971,7 +5965,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いせっな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˈsiɲːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to tell a story; to tell a tale</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to speak</gloss> + <link@x-tlb-hl>sinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>せっな</tinellbian@x-tlb-hl> <gloss>story</gloss>
@@ -6044,7 +6038,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>いたいあっさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔɨˌtʰaʔɨˈʔasːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>wagon</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’ita’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>いたい</tinellbian@x-tlb-hl> <gloss>car</gloss> + <link@x-tlb-hl>’assa</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっさ</tinellbian@x-tlb-hl> <gloss>goods</gloss>
@@ -6261,7 +6255,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぢまひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɟəˈmahɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>garden</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>jama</link@x-tlb-hl> <gloss>flowers</gloss> + <link@x-tlb-hl>hi</link@x-tlb-hl> <gloss>collection</gloss>
@@ -6321,7 +6315,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぢっにびった</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɟaɲːɨˈbitːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to travel through time</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>janni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっに</tinellbian@x-tlb-hl> <gloss>to move</gloss> + <link@x-tlb-hl>bitta</link@x-tlb-hl> <tinellbian@x-tlb-hl>びった</tinellbian@x-tlb-hl> <gloss>time</gloss>
@@ -6372,7 +6366,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぢぱあわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɟapʰəˈʔalə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>haze</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>japa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢぱ</tinellbian@x-tlb-hl> <gloss>mist</gloss> + <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss>
@@ -6474,7 +6468,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>じべるいぬっえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɟifɨˌɽuʔɨˈnuʎːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> geology</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> geology</hidden></h3|part-of-speech>
               - <definition>mountain lake</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>jifiru’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>じべるい</tinellbian@x-tlb-hl> <gloss>lake</gloss> + <link@x-tlb-hl>nulli</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬっえ</tinellbian@x-tlb-hl> <gloss>mountain</gloss>
@@ -6602,7 +6596,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>よいどく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɟuʔɨˌdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived compound</hidden> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to marry</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>link</gloss> + <link@x-tlb-hl>duku</link@x-tlb-hl> <tinellbian@x-tlb-hl>どく</tinellbian@x-tlb-hl> <gloss>set</gloss>
@@ -6633,7 +6627,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>よいさたど</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɟuʔɨsəˈtadʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived</hidden> compound <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>quasi-transitive</poslink@x-tlb-hl><hidden> intransitive derived compound</hidden> <poslink@x-tlb-hl>symmetric</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to meet</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>to join</gloss> + <link@x-tlb-hl>satadu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さたど</tinellbian@x-tlb-hl> <gloss>conversation</gloss>
@@ -6868,7 +6862,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かをえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌkʰalˈli/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>because of the ～; <glossary>abl</glossary>-<glossary>com</glossary></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - from <b>kaluli</b> &lt; <link@en>kalu-</link@en> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <glossary>abl</glossary> + <link@en>li</link@en> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <glossary>com</glossary>
@@ -7365,7 +7359,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>きわで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰɨˈladɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to spread out</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>to be big</gloss> + <link@x-tlb-hl>ladi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わで</tinellbian@x-tlb-hl> <gloss>spreading</gloss>
@@ -7462,7 +7456,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>きまで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰɨˈmadɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be tall</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>to be big</gloss> + <link@x-tlb-hl>madi</link@x-tlb-hl> <tinellbian@x-tlb-hl>まで</tinellbian@x-tlb-hl> <gloss>to rise</gloss>
@@ -7491,7 +7485,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>きぱっや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kɨˈpʰacːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to grow in number; to be lots</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>grow</gloss> + <link@x-tlb-hl>pacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっや</tinellbian@x-tlb-hl> <gloss>number</gloss>
@@ -7763,7 +7757,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>くえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉˈli/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to the ～; <glossary>dat</glossary>-<glossary>com</glossary></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ku-</link@x-tlb-hl> <tinellbian@x-tlb-hl>く</tinellbian@x-tlb-hl> <glossary>dat</glossary> + <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <glossary>com</glossary>
@@ -7861,7 +7855,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰʉˌnubɨtʰʉˈʔafʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> geology</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> geology</hidden></h3|part-of-speech>
               - <definition>flatlands</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>earth</gloss> + <link@x-tlb-hl>tu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とあふ</tinellbian@x-tlb-hl> <gloss>plain</gloss>
@@ -8060,7 +8054,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>わっはどく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌlaçːəˈdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound generic</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>whole body</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’anniduku</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっにどく</tinellbian@x-tlb-hl> <gloss>four planes</gloss></block>
@@ -8284,7 +8278,7 @@ entries:
               - <definition>interrogative manner; how</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
               - <definition>diatomic hydrogen; H<sub>2</sub></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>hydrogen</gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
@@ -8591,7 +8585,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>えさぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lɨˈsanʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>wheel</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>li</link@x-tlb-hl> <tinellbian@x-tlb-hl>え</tinellbian@x-tlb-hl> <gloss>spoke</gloss> + <link@x-tlb-hl>sanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さぬ</tinellbian@x-tlb-hl> <gloss>wheel</gloss>
@@ -8679,7 +8673,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>をいやい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌluʔɨˈcaʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to love romantically</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>lu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>をい</tinellbian@x-tlb-hl> <gloss>to love</gloss> + <link@x-tlb-hl>ca’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>やい</tinellbian@x-tlb-hl> <gloss>romance</gloss>
@@ -8725,7 +8719,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>をいさっま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌluʔɨˈsamːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to love unconditionally</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>lu’i</link@x-tlb-hl> <gloss>to love</gloss> + <link@x-tlb-hl>samma</link@x-tlb-hl> <gloss>unconditional love</gloss>
@@ -8879,7 +8873,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>をしら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/lʉˈɕiɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>birth of twins</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>luxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>をし</tinellbian@x-tlb-hl> <gloss>multiple birth</gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
@@ -8998,7 +8992,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>までてば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmadɨˈtʰibə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to stand up; to be standing</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>madi</link@x-tlb-hl> <gloss>to rise</gloss> + <link@x-tlb-hl>tiba</link@x-tlb-hl> <gloss>legs</gloss>
@@ -9036,7 +9030,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まへって</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈfatːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to decide to</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>fatti</link@x-tlb-hl> <tinellbian@x-tlb-hl>へって</tinellbian@x-tlb-hl> <gloss>good idea</gloss>
@@ -9074,7 +9068,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まいをでっは</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˌʔilʉˈdiççə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be considerate</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss> + <link@x-tlb-hl>dihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっは</tinellbian@x-tlb-hl> <gloss>others</gloss>
@@ -9246,7 +9240,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まにき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈnikʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> <poslink@x-tlb-hl>compound noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> generic <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>culture; community</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mani</link@x-tlb-hl> <tinellbian@x-tlb-hl>まに</tinellbian@x-tlb-hl> <gloss>custom</gloss> + <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>collection</gloss>
@@ -9259,7 +9253,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まらせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈɽasɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to want to</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>rasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>らせ</tinellbian@x-tlb-hl> <gloss>future</gloss>
@@ -9584,7 +9578,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>みくむを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmikʰʉˈmulʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound<hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden><hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be crimson</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>miku</link@x-tlb-hl> <tinellbian@x-tlb-hl>みく</tinellbian@x-tlb-hl> <gloss>to be red</gloss> + <link@x-tlb-hl>mulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むを</tinellbian@x-tlb-hl> <gloss>blood</gloss>
@@ -9628,7 +9622,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>みっをゆわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmiʎːʉˈcʰulə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound<hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden><hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be light brown; to turn beige</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>millu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっを</tinellbian@x-tlb-hl> <gloss>to be brown</gloss> + <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss>
@@ -9805,7 +9799,7 @@ entries:
               - <h1|headword>mudalli</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <pronunciation><ipa@x-tlb-hl>/mʉˈdaʎɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived </hidden>compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <hidden>derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be useful</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>dalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>だっえ</tinellbian@x-tlb-hl> <gloss>use</gloss>
@@ -9819,7 +9813,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むでばだ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmudɨˈbadə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be doing ok</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>dibada</link@x-tlb-hl> <tinellbian@x-tlb-hl>でばだ</tinellbian@x-tlb-hl> <gloss>living</gloss>
@@ -9856,7 +9850,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むきゆ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/mʉˈkʰicʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be right; to be correct</definition>
               - <h4|subheading>Notes</h4|subheading>
               - Refers to people who are correct.
@@ -9985,7 +9979,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むさげぴ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmusəˈŋapʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>week</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>day</gloss> + <link@x-tlb-hl>qapi</link@x-tlb-hl> <tinellbian@x-tlb-hl>げぴ</tinellbian@x-tlb-hl> <gloss>chain</gloss>
@@ -10017,7 +10011,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むさたぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌmusəˈtʰanʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>astronomy</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>star</gloss> + <link@x-tlb-hl>tanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぬ</tinellbian@x-tlb-hl> <gloss>study</gloss>
@@ -10042,7 +10036,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むたっで</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/mʉˈtʰadʱːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be in order</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>mu</link@x-tlb-hl> <tinellbian@x-tlb-hl>む</tinellbian@x-tlb-hl> <gloss>to be good</gloss> + <link@x-tlb-hl>taddi</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっで</tinellbian@x-tlb-hl> <gloss>order</gloss>
@@ -10151,7 +10145,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なっべあわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈnafːɨˌʔalə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>summer</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>naffi</link@x-tlb-hl> <gloss>dry season</gloss> + <link@x-tlb-hl>’ala</link@x-tlb-hl> <gloss>heat</gloss>
@@ -10167,7 +10161,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なっべでっち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌnafːɨˈdicːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>winter</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>naffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なっべ</tinellbian@x-tlb-hl> <gloss>dry season</gloss> + <link@x-tlb-hl>dicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっち</tinellbian@x-tlb-hl> <gloss>cold</gloss>
@@ -10261,7 +10255,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なかを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/nəˈkalʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to face</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>na</link@x-tlb-hl> <tinellbian@x-tlb-hl>な</tinellbian@x-tlb-hl> <gloss>to face</gloss> + <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
@@ -10379,8 +10373,8 @@ entries:
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: napuxi - The Tinellbian Languages Dictionary
             naqa:
-              date: '2019-03-18'
-              position: '8.12'
+              date: '2025-10-04'
+              position: '11.0'
               text:
               - <h1|headword>naqa</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -10391,17 +10385,17 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>naqanaludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なげなをど</tinellbian@x-tlb-hl> <gloss>physically need</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>’alissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>あえっさ</tinellbian@x-tlb-hl> <gloss>need</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>lissa</link@x-tlb-hl> <tinellbian@x-tlb-hl>えっさ</tinellbian@x-tlb-hl> <gloss>need</gloss></wordlist>
               title: naqa - The Tinellbian Languages Dictionary
             naqanaludu:
-              date: '2025-01-21'
-              position: '7.43'
+              date: '2025-10-04'
+              position: '9.0'
               text:
               - <h1|headword>naqanaludu</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>なげなをど</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/nəˌŋanəˈludʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to physically need</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>naqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>to need</gloss> + <link@x-tlb-hl>naludu</link@x-tlb-hl> <tinellbian@x-tlb-hl>なをど</tinellbian@x-tlb-hl> <gloss>physical plane</gloss>
@@ -10466,7 +10460,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ならべも</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌnaɽəˈfiŋʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to drift off to sleep</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss> + <link@x-tlb-hl>fiqu</link@x-tlb-hl> <tinellbian@x-tlb-hl>べも</tinellbian@x-tlb-hl> <gloss>drift</gloss>
@@ -10900,7 +10894,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌnuhʉˈbatʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>book</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>paper</gloss> + <link@x-tlb-hl>batu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl> <gloss>collection</gloss>
@@ -10913,7 +10907,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬほむさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌnuhʉˈmusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>diary; journal</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>folded paper</gloss> + <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>day</gloss>
@@ -11242,7 +11236,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱでっす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈdisːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to learn</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>dissu</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっす</tinellbian@x-tlb-hl> <gloss>newness</gloss>
@@ -11255,7 +11249,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱぎ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈpagɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to understand; to know</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>gi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎ</tinellbian@x-tlb-hl> <gloss>to hold</gloss>
@@ -11310,7 +11304,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱひに</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pəˈhinɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to find one’s way</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>hini</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひに</tinellbian@x-tlb-hl> <gloss>path</gloss>
@@ -11323,7 +11317,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱぢがる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰaɟəˈgaɽʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to assess a situation</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>jagaru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢがる</tinellbian@x-tlb-hl> <gloss>absorption</gloss>
@@ -11352,7 +11346,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱじが</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈɟigə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food plant</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> food plant</hidden></h3|part-of-speech>
               - <definition>olive</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>paji</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱじ</tinellbian@x-tlb-hl> <gloss>fruit</gloss> + <link@x-tlb-hl>ga</link@x-tlb-hl> <tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl> <gloss>black</gloss>
@@ -11368,7 +11362,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱきゆ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈkʰicʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to think of as true; to know</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>think</gloss> + <link@x-tlb-hl>kicu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きゆ</tinellbian@x-tlb-hl> <gloss>truth</gloss>
@@ -11381,7 +11375,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱえぬ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰə’linʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to realise</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>linu</link@x-tlb-hl> <tinellbian@x-tlb-hl>えぬ</tinellbian@x-tlb-hl> <gloss>realisation</gloss>
@@ -11394,7 +11388,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱまな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈmanə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to realise</definition>
               - <h4|subheading>Definition</h4|subheading>
               - To have a thought slowly rise in one’s mind.
@@ -11409,7 +11403,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱませ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈmasɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound communicaive <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> communicaive <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to decide on a course of action</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl>  <gloss>think</gloss> + <link@x-tlb-hl>masi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ませ</tinellbian@x-tlb-hl> <gloss>course</gloss>
@@ -11421,7 +11415,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱみわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈmilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be awake; to be conscious</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>think</gloss> + <link@x-tlb-hl>mila</link@x-tlb-hl> <tinellbian@x-tlb-hl>みわ</tinellbian@x-tlb-hl> <gloss>surroundings</gloss>
@@ -11484,7 +11478,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰaɲːəɕaˈʔuɕːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>army</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pannaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざ</tinellbian@x-tlb-hl> <gloss>warrior</gloss> + <link@x-tlb-hl>’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うっし</tinellbian@x-tlb-hl> <gloss>group</gloss>
@@ -11554,7 +11548,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱりだ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈɽidə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to expect</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>rida</link@x-tlb-hl> <tinellbian@x-tlb-hl>りだ</tinellbian@x-tlb-hl> <gloss>expectation</gloss>
@@ -11567,7 +11561,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱてるせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰatʰɨˈɽusɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to remember</definition>
               - <h4|subheading>Definition</h4|subheading>
               - to recall an event
@@ -11582,7 +11576,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱうさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰəˈʔusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to notice</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss>
@@ -11595,7 +11589,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱしち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pəˈɕicʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to consider</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>xici</link@x-tlb-hl> <tinellbian@x-tlb-hl>しち</tinellbian@x-tlb-hl> <gloss>concept</gloss>
@@ -11930,7 +11924,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぷちあわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰucʰɨˈʔalə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>spring</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>puci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷち</tinellbian@x-tlb-hl> <gloss>wet season</gloss> + <link@x-tlb-hl>’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あわ</tinellbian@x-tlb-hl> <gloss>heat</gloss>
@@ -11946,7 +11940,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぷちでっち</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰucʰɨˈdicːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>autumn</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>puci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷち</tinellbian@x-tlb-hl> <gloss>wet season</gloss> + <link@x-tlb-hl>dicci</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっち</tinellbian@x-tlb-hl> <gloss>cold</gloss>
@@ -12025,7 +12019,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぷらかっす</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌpʰuɽəˈkasːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to trade</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>to change</gloss> + <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>trade</gloss>
@@ -12372,7 +12366,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ねあざせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌŋiʔəˈɕasɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be mature; to be old</definition>
               - <h4|subheading>Definition</h4|subheading>
               - To believe oneself to be mature.
@@ -12402,7 +12396,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ねいく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋɨˈʔikʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be hungry</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>qi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ね</tinellbian@x-tlb-hl> <gloss>to experience</gloss> + <link@x-tlb-hl>’iku</link@x-tlb-hl> <tinellbian@x-tlb-hl>いく</tinellbian@x-tlb-hl> <gloss>hunger</gloss>
@@ -12459,7 +12453,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ねまっえよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋɨˈmaʎːɨɟu/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to orgasm</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>qi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ね</tinellbian@x-tlb-hl> <gloss>to experience</gloss> + <link@x-tlb-hl>malliju</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっえよ</tinellbian@x-tlb-hl> <gloss>orgasm</gloss>
@@ -12487,7 +12481,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ねらくなね</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ŋɨˌɽakʰʉˈnaŋɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be dirty</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>qira</link@x-tlb-hl> <tinellbian@x-tlb-hl>ねら</tinellbian@x-tlb-hl> <gloss>to be rough</gloss> + <link@x-tlb-hl>kunaqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くなね</tinellbian@x-tlb-hl> <gloss>dirt</gloss>
@@ -12837,7 +12831,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>らっかむさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɽakːəˈmusə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>galaxy</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>rakka</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっか</tinellbian@x-tlb-hl> <gloss>island</gloss> + <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>star</gloss>
@@ -13482,7 +13476,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>るかが</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽʉˈkʰagə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>obsidian, <gloss>blackglass</gloss></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ruka</link@x-tlb-hl> <tinellbian@x-tlb-hl>るか</tinellbian@x-tlb-hl> <gloss>glass</gloss> + <link@x-tlb-hl>ga</link@x-tlb-hl> <tinellbian@x-tlb-hl>が</tinellbian@x-tlb-hl> <gloss>black</gloss>
@@ -13803,7 +13797,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さいぢっき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsaʔɨˈɟakːɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>candlelight</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>sa’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>さい</tinellbian@x-tlb-hl> <gloss>light</gloss> + <link@x-tlb-hl>jakki</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢっき</tinellbian@x-tlb-hl> <gloss>candle</gloss>
@@ -13899,7 +13893,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さきみや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsakʰɨˈmicʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to give permission</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>saki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>to share</gloss> + <link@x-tlb-hl>mica</link@x-tlb-hl> <tinellbian@x-tlb-hl>みや</tinellbian@x-tlb-hl> <gloss>permission</gloss>
@@ -14074,7 +14068,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さっなやい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsaɲːəˈcaʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> <poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>jealousy</definition>
               - <h4|subheading>Definition</h4|subheading>
               - Jealousy one feels when one’s lover loves another.
@@ -14254,7 +14248,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さたさま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsatʰəˈsamə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> phrase</h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> phrase</h3|part-of-speech>
               - <definition>how much?</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>sata</link@x-tlb-hl> <tinellbian@x-tlb-hl>さた</tinellbian@x-tlb-hl> <gloss>for</gloss> + <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl> <gloss>what?</gloss>
@@ -14282,7 +14276,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さした わら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/saˌɕitʰəˈlaɽa/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> substance</hidden></h3|part-of-speech>
               - <definition>water; dihydrogen monoxide; H<sub>2</sub>O</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <list-block><link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>oxygen</gloss> + <link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss>
@@ -14364,7 +14358,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>せあばっさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsiʔəˈbasːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to solve a problem</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>si’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあ</tinellbian@x-tlb-hl> <gloss>fix</gloss> + <link@x-tlb-hl>bassa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばっさ</tinellbian@x-tlb-hl> <gloss>situation</gloss>
@@ -14377,7 +14371,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>せあかを</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsiʔəˈkʰalʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to heal the body</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>si’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>せあ</tinellbian@x-tlb-hl> <gloss>heal</gloss> + <link@x-tlb-hl>kalu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かを</tinellbian@x-tlb-hl> <gloss>body</gloss>
@@ -14511,7 +14505,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>せくいく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsikʰʉˈʔikʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to starve</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>siku</link@x-tlb-hl> <tinellbian@x-tlb-hl>せく</tinellbian@x-tlb-hl> <gloss>to die</gloss> + <link@x-tlb-hl>’iku</link@x-tlb-hl> <tinellbian@x-tlb-hl>いく</tinellbian@x-tlb-hl> <gloss>hunger</gloss>
@@ -14964,7 +14958,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>すげなては</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sʉˌŋanəˈtʰihə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be booked; to be reserved</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <wordlist><link@x-tlb-hl>suqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さげ</tinellbian@x-tlb-hl> <gloss>ready</gloss> + <link@x-tlb-hl>natiha</link@x-tlb-hl> <tinellbian@x-tlb-hl>なては</tinellbian@x-tlb-hl> <gloss>box</gloss></wordlist>
@@ -15038,7 +15032,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>すっていま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌsutːɨˈʔimə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>hesitation; <gloss>voidfear</gloss></definition>
               - <h4|subheading>Definition</h4|subheading>
               - A fear arising from lack of knowledge of the future
@@ -15508,7 +15502,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たぷちっぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰapʰʉˈcʰiɟʱːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be drunk</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tapu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to enjoy</gloss> + <link@x-tlb-hl>cijja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちっぢ</tinellbian@x-tlb-hl> <gloss>alcohol</gloss>
@@ -15521,7 +15515,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たぷなら</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰapʰʉˈnaɽə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be tired</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tapu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to enjoy</gloss> + <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss>
@@ -15588,7 +15582,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たっらとい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰarːəˈtʰuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>being impressed; having a positive impression</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tarra</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっら</tinellbian@x-tlb-hl> <gloss>impression</gloss> + <link@x-tlb-hl>-tu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> <gloss>positive aspect</gloss>
@@ -15760,7 +15754,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰihʉˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>home</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <wordlist><link@x-tlb-hl>tihu</link@x-tlb-hl> <tinellbian@x-tlb-hl>てほ</tinellbian@x-tlb-hl> <gloss>to abide</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss></wordlist>
@@ -15823,7 +15817,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>てくてげし</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰɨˌkʰutʰɨˈŋaɕɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><hidden>derived</hidden> compound <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound</hidden> <poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>kinetic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to tilt</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tiku</link@x-tlb-hl> <tinellbian@x-tlb-hl>てく</tinellbian@x-tlb-hl> <gloss>to rotate</gloss> + <link@x-tlb-hl>tiqaxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>てげし</tinellbian@x-tlb-hl> <gloss>tilt</gloss>
@@ -15964,7 +15958,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>てせっねどく</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰɨˌsi,qːɨˈdukʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>university</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tisiqqi</link@x-tlb-hl> <tinellbian@x-tlb-hl>てせっね</tinellbian@x-tlb-hl> <gloss>department</gloss> + <link@x-tlb-hl>duku</link@x-tlb-hl> <tinellbian@x-tlb-hl>どく</tinellbian@x-tlb-hl> <gloss>set</gloss>
@@ -16200,7 +16194,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>とひぬほ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtuhɨˈnuhʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be folded up</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tuhi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とひ</tinellbian@x-tlb-hl> <gloss>small</gloss> + <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>origami</gloss>
@@ -16366,7 +16360,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>とるばせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰuɽʉˈbasɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to cover</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>turu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とる</tinellbian@x-tlb-hl> <gloss>to close</gloss> + <link@x-tlb-hl>basi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばせ</tinellbian@x-tlb-hl> <gloss>lid</gloss>
@@ -16381,7 +16375,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>とるくっへ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌtʰuɽʉˈkʰufːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>transformative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to fill; to stack; to <gloss>give-fill</gloss></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>turu</link@x-tlb-hl> <gloss>to fill</gloss> + <link@x-tlb-hl>kuffa</link@x-tlb-hl> <gloss>to give</gloss>
@@ -16671,7 +16665,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>うさだぢび</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔʉˌsadəˈɟabɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to read</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss> + <link@x-tlb-hl>dajabi</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢび</tinellbian@x-tlb-hl> <gloss>reading</gloss>
@@ -16684,7 +16678,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>うさよい</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔusəˈɟuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to find</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>see</gloss> + <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>link</gloss>
@@ -16697,7 +16691,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>うさぱっや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌʔusəˈpʰacːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to count</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>to see</gloss> + <link@x-tlb-hl>pacca</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっや</tinellbian@x-tlb-hl> <gloss>quantity</gloss>
@@ -16972,7 +16966,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ざらどをり</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕaɽədʉˈluɽɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition><link@en>tsarship</link@en></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xara</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざら</tinellbian@x-tlb-hl> <gloss>starship</gloss> + <link@x-tlb-hl>duluri</link@x-tlb-hl> <tinellbian@x-tlb-hl>どをり</tinellbian@x-tlb-hl> <gloss><link@x-tlb-hl>tsar</link@x-tlb-hl></gloss>
@@ -17076,7 +17070,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しあざせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕiʔəˈɕasɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be mature</definition>
               - <h4|subheading>Notes</h4|subheading>
               - Refers to <link@x-tlb-hl>subtle</link@x-tlb-hl> maturity.
@@ -17140,7 +17134,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しべぷ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈfipʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be rude</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to project</gloss> + <link@x-tlb-hl>fipu</link@x-tlb-hl> <tinellbian@x-tlb-hl>べぷ</tinellbian@x-tlb-hl> <gloss>rudeness</gloss>
@@ -17153,7 +17147,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しほば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈhubə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be important</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to project</gloss> + <link@x-tlb-hl>huba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほば</tinellbian@x-tlb-hl> <gloss>importance</gloss>
@@ -17166,7 +17160,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しぢぷ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈɟapʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be sincere; to seem sincere</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>japu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢぷ</tinellbian@x-tlb-hl> <gloss>sincerity</gloss>
@@ -17218,7 +17212,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しむっさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈmusːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be exotic</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>mussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むっさ</tinellbian@x-tlb-hl> <gloss>exoticism</gloss>
@@ -17231,7 +17225,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しぴき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈpʰikʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>apparent</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>apparent</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be clear; to be obvious</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>appear</gloss> + <link@x-tlb-hl>piki</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴき</tinellbian@x-tlb-hl> <gloss>clarity</gloss>
@@ -17244,7 +17238,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>しらっな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕɨˈɽaɲːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be exalted</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>ranna</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっな</tinellbian@x-tlb-hl> <gloss>glory</gloss>
@@ -17358,7 +17352,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ずあばよ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌɕuʔəˈbaɟʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> animal</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> animal</hidden></h3|part-of-speech>
               - <definition>bluebird</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずあ</tinellbian@x-tlb-hl> <gloss>bird</gloss> + <link@x-tlb-hl>baju</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよ</tinellbian@x-tlb-hl> <gloss>blue</gloss>
@@ -17376,20 +17370,6 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Other Parts of the Body</poslink@x-tlb-hl></list-block>
               title: xuci - The Tinellbian Languages Dictionary
-            $xucipura.Cula:
-              date: '2025-04-13'
-              position: '3.4'
-              text:
-              - <h1|headword>Xucipura Cula</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>ずちぷらゆわ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽə</ipa@x-tlb-hl> <ipa@x-tlb-hl>ˈcʰulə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech>compound <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition><gloss><external>The Crackled Egg</external></gloss></definition>
-              - <h4|subheading>Etymology</h4|subheading>
-              - <list-block><link@x-tlb-hl>xuci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>become</gloss>
-              - <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss></list-block>
-              title: Xucipura Cula - The Tinellbian Languages Dictionary
             xudda:
               date: '2019-01-06'
               position: '4.40'
@@ -17474,7 +17454,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ずわぎ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕʉˈlagɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to scream</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ず</tinellbian@x-tlb-hl> <gloss>to project</gloss> + <link@x-tlb-hl>lagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わぎ</tinellbian@x-tlb-hl> <gloss>scream</gloss>
@@ -17487,7 +17467,7 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ずせな</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕʉˈsinə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived</hidden> compound <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> derived compound</hidden> <poslink@x-tlb-hl>adjectival</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be pretty; to be cute; to be beautiful</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ず</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>sina</link@x-tlb-hl> <tinellbian@x-tlb-hl>せな</tinellbian@x-tlb-hl> <gloss>beauty</gloss>
@@ -17700,6 +17680,35 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>purpose</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>obligation; <i>have to</i>; <i>must</i></definition>
               position: '7.0'
+              date: '2025-10-04'
+            lissa:
+              title: lissa - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>lissa</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>えっさ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈlisːə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>need</definition>
+              - <h4|subheading>Definition</h4|subheading>
+              - a subtle requirement. Note that the object of requirement may be physical or subtle.
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>naqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>なげ</tinellbian@x-tlb-hl> <gloss>need</gloss></wordlist>
+              position: '10.12'
+              date: '2025-10-04'
+            $xucipura.$cula:
+              title: $xucipura.$cula - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Xucipura Cula</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ずちぷらゆわ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌɕucʰɨˈpʰuɽə</ipa@x-tlb-hl> <ipa@x-tlb-hl>ˈcʰulə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>proper</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition><gloss><external>The Crackled Egg</external></gloss></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <list-block><link@x-tlb-hl>xuci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>become</gloss>
+              - <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss></list-block>
+              position: '5.0'
               date: '2025-10-04'
           date: '2024-05-29'
           position: '1.0'
