@@ -13541,8 +13541,8 @@ entries:
               - <wordlist><link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <glossary>nmn</glossary></wordlist>
               title: -sa - The Tinellbian Languages Dictionary
             sa:
-              date: '2025-04-25'
-              position: '22.3'
+              date: '2025-10-04'
+              position: '32.20'
               text:
               - <h1|headword>sa</h1|headword>
               - <also>-sa|sa-</also>
@@ -13575,6 +13575,7 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>sasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ささ</tinellbian@x-tlb-hl> <gloss>introvert</gloss></block>
               - <block><link@x-tlb-hl>sada</link@x-tlb-hl> <tinellbian@x-tlb-hl>さだ</tinellbian@x-tlb-hl> <gloss>loneliness</gloss></block>
+              - <block><link@x-tlb-hl>saniki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さにき</tinellbian@x-tlb-hl> <gloss>seaborgium</gloss></block>
               - <block><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to be alone</gloss></block></wordlist>
               title: sa - The Tinellbian Languages Dictionary
             sabba:
@@ -13977,7 +13978,7 @@ entries:
               title: sani - The Tinellbian Languages Dictionary
             saniki:
               date: '2025-10-04'
-              position: '13.0'
+              position: '8.33'
               text:
               - <h1|headword>saniki</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -13985,6 +13986,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/səˈnikʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>seaborgium</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss> + <link@x-tlb-hl>niki</link@x-tlb-hl> <tinellbian@x-tlb-hl>にき</tinellbian@x-tlb-hl> <gloss>sanctuary</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
@@ -17559,6 +17562,17 @@ entries:
               - <h4|subheading>Definition</h4|subheading>
               - 'Something general recalled. Cf: <link@x-tlb-hl>tanna</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっな</tinellbian@x-tlb-hl>.'
               position: '8.26'
+              date: '2025-10-04'
+            niki:
+              title: niki - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword><gloss>niki</gloss></h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>にき</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈnikʰɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>sanctuary; haven; retreat; harbour</definition>
+              position: '7.0'
               date: '2025-10-04'
           date: '2024-05-29'
           position: '1.0'
