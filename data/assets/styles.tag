@@ -267,6 +267,9 @@ pronunciation:
     justification: centre
     top: 10
   type: div
+remove-pipe:
+  type: blank
+  pipe: '&NoBreak;'
 strong:
   props:
     bold: true
