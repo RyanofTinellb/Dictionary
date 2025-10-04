@@ -76,8 +76,8 @@ entries:
               - ↓ <link@x-tlb-hl>paraba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱらば</tinellbian@x-tlb-hl> <gloss>thorium</gloss></wordlist>
               title: ’a’ami - The Tinellbian Languages Dictionary
             -’aba:
-              date: '2025-10-03'
-              position: '9.19'
+              date: '2025-10-04'
+              position: '7.39'
               text:
               - <h1|headword>-’aba</h1|headword>
               - <also>’aba</also>
@@ -107,15 +107,17 @@ entries:
               - <template>indefinite pronouns</template>
               title: ’aba - The Tinellbian Languages Dictionary
             ’abala:
-              date: '2025-01-20'
-              position: '4.31'
+              date: '2025-10-04'
+              position: '8.31'
               text:
               - <h1|headword>’abala</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/əˈbalə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form derived compound</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
               - <definition>to do everything; universal action</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl> <gloss>everything</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>to do</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: ’abala - The Tinellbian Languages Dictionary
@@ -493,15 +495,17 @@ entries:
               - <link@x-tlb-hl>’a’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl> <gloss>cerium</gloss>
               title: ’ami - The Tinellbian Languages Dictionary
             ’amila:
-              date: '2025-01-20'
-              position: '52.10'
+              date: '2025-10-04'
+              position: '8.43'
               text:
               - <h1|headword>’amila</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/əˈmilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
-              - <definition>to do something; existential action</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form derived compound</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
+              - <definition>to do something; to do anything; existential action</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Alteration of</b> <link@x-tlb-hl>’umi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl> <gloss>anything</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>to do</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: ’amila - The Tinellbian Languages Dictionary
@@ -1036,15 +1040,17 @@ entries:
               - <link@x-tlb-hl>saki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>divide</gloss></wordlist>
               title: batu - The Tinellbian Languages Dictionary
             batuja:
-              date: '2025-01-20'
-              position: '45.9'
+              date: '2025-10-04'
+              position: '8.45'
               text:
               - <h1|headword>batuja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/bəˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>everywhere; universal place</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Elision of</b> <link@x-tlb-hl>’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl> <gloss>everything</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: batuja - The Tinellbian Languages Dictionary
@@ -2030,8 +2036,8 @@ entries:
               - <b>Modern Tsarin:</b> <link@x-tlb-mt>Qōla</link@x-tlb-mt></wordlist>
               title: Corla - The Tinellbian Languages Dictionary
             -cu:
-              date: '2025-01-20'
-              position: '5.38'
+              date: '2025-10-04'
+              position: '11.0'
               text:
               - <h1|headword>-cu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2039,6 +2045,8 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/cʰu/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
               - <definition>none; negative object determiner</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Elision of</b> <link@x-tlb-hl>ci’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>ちう</tinellbian@x-tlb-hl> <gloss>nothing</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: -cu - The Tinellbian Languages Dictionary
@@ -3427,7 +3435,7 @@ entries:
               - <definition>repetition; <gloss>repeatedly</gloss></definition>
               title: dura - The Tinellbian Languages Dictionary
             dusi:
-              date: '2018-04-03'
+              date: '2025-10-04'
               text:
               - <h1|headword>dusi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -3435,7 +3443,11 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈdusɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>manner; fashion; way</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>madusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl> <gloss>in this way</gloss>
+              - <link@x-tlb-hl>kadusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl> <gloss>in that way</gloss></wordlist>
               title: dusi - The Tinellbian Languages Dictionary
+              position: '9.22'
             dusuni:
               date: '2019-01-06'
               position: '6.72'
@@ -6763,15 +6775,17 @@ entries:
               - <wordlist><link@x-tlb-hl>la’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>わあ</tinellbian@x-tlb-hl> <gloss>on</gloss></wordlist>
               title: kadu - The Tinellbian Languages Dictionary
             kadusi:
-              date: '2025-01-20'
-              position: '54.2'
+              date: '2025-10-04'
+              position: '8.27'
               text:
               - <h1|headword>kadusi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰəˈdusɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>that way; in that manner; distal manner</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>that way; distal manner; <i>in that manner</i></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl> <gloss>that</gloss>  + <link@x-tlb-hl>dusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>どせ</tinellbian@x-tlb-hl> <gloss>way</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: kadusi - The Tinellbian Languages Dictionary
@@ -6832,15 +6846,17 @@ entries:
               - <list-block><poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl></list-block>
               title: kala - The Tinellbian Languages Dictionary
             kalisa:
-              date: '2025-01-20'
-              position: '4.31'
+              date: '2025-10-04'
+              position: '8.45'
               text:
               - <h1|headword>kalisa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰəˈlisə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form derived compound</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
               - <definition>to do that; distal action</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - '<b>metathesis of</b> <i><b>kasila</b></i>: <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl> <gloss>that</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <i>to do</i>'
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: kalisa - The Tinellbian Languages Dictionary
@@ -7057,8 +7073,8 @@ entries:
               - <template>indefinite pronouns</template>
               title: -kasi - The Tinellbian Languages Dictionary
             kasi:
-              date: '2025-01-20'
-              position: '4.11'
+              date: '2025-10-04'
+              position: '10.2'
               text:
               - <h1|headword>kasi</h1|headword>
               - <also>-kasi</also>
@@ -7067,19 +7083,26 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈkʰasɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
               - <definition>that; distal object</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>kadusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かどせ</tinellbian@x-tlb-hl> <gloss>in that way</gloss>
+              - <link@x-tlb-hl>kalisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl> <gloss>to do that</gloss>
+              - <link@x-tlb-hl>kasika</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl> <gloss>in that state</gloss>
+              - <link@x-tlb-hl>kasuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl> <gloss>there</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: kasi - The Tinellbian Languages Dictionary
             kasika:
-              date: '2025-01-20'
-              position: '30.9'
+              date: '2025-10-04'
+              position: '8.61'
               text:
               - <h1|headword>kasika</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰəˈsikʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form derived compound</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>that way; in that state; distal state</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Elision of</b> <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl> <gloss>that</gloss> + <link@x-tlb-hl>rika</link@x-tlb-hl> <tinellbian@x-tlb-hl>りか</tinellbian@x-tlb-hl> <gloss>state</gloss>, on pattern of <link@x-tlb-hl>marika</link@x-tlb-hl>.
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: kasika - The Tinellbian Languages Dictionary
@@ -7133,15 +7156,17 @@ entries:
               - <link@x-tlb-hl>kassu</link@x-tlb-hl> <tinellbian@x-tlb-hl>かっす</tinellbian@x-tlb-hl> <gloss>to trade</gloss> + <link@x-tlb-hl>-di</link@x-tlb-hl> <tinellbian@x-tlb-hl>ど</tinellbian@x-tlb-hl> <glossary>drv</glossary>
               title: kassudi - The Tinellbian Languages Dictionary
             kasuja:
-              date: '2025-01-20'
-              position: '54.2'
+              date: '2025-10-04'
+              position: '8.28'
               text:
               - <h1|headword>kasuja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰəˈsuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun derived compound</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>there; distal place</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせ</tinellbian@x-tlb-hl> <gloss>that</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: kasuja - The Tinellbian Languages Dictionary
@@ -7919,8 +7944,8 @@ entries:
               - ↓ <link@x-tlb-hl>disa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でさ</tinellbian@x-tlb-hl> <gloss>aluminium</gloss></wordlist>
               title: kuxxu - The Tinellbian Languages Dictionary
             la:
-              date: '2025-04-25'
-              position: '21.41'
+              date: '2025-10-04'
+              position: '10.0'
               text:
               - <h1|headword>la</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -7929,8 +7954,13 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>action</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>do</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><b>la</b><link@x-tlb-hl>tuni</link@x-tlb-hl> <tinellbian@x-tlb-hl>わとに</tinellbian@x-tlb-hl> <gloss>to do again</gloss>
-              - <link@x-tlb-hl>lulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>をを</tinellbian@x-tlb-hl> <gloss>to undo</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>’abala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl> <gloss>to do everything</gloss>
+              - <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl> <gloss>to do anything</gloss>
+              - <link@x-tlb-hl>kalisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>かえさ</tinellbian@x-tlb-hl> <gloss>to do that</gloss>
+              - <link@x-tlb-hl>marila</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl> <gloss>to do this</gloss>
+              - <link@x-tlb-hl>sulla</link@x-tlb-hl> <tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl> <gloss>to do what?</gloss></block>
+              - <block><b>la</b><link@x-tlb-hl>tuni</link@x-tlb-hl> <tinellbian@x-tlb-hl>わとに</tinellbian@x-tlb-hl> <gloss>to do again</gloss>
+              - <link@x-tlb-hl>lulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>をを</tinellbian@x-tlb-hl> <gloss>to undo</gloss></block></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>hydrogen</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
@@ -8984,15 +9014,17 @@ entries:
               - <definition>window</definition>
               title: madu - The Tinellbian Languages Dictionary
             madusi:
-              date: '2025-01-20'
-              position: '54.2'
+              date: '2025-10-04'
+              position: '5.28'
               text:
               - <h1|headword>madusi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈdusɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>this way; in this manner; proximate manner</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>this way; proximate manner; <i>in this manner</i></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> <gloss>this</gloss> + <link@x-tlb-hl>dusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>どせ</tinellbian@x-tlb-hl> <gloss>manner</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: madusi - The Tinellbian Languages Dictionary
@@ -9048,17 +9080,20 @@ entries:
               - <link@x-tlb-hl>ma</link@x-tlb-hl> <tinellbian@x-tlb-hl>ま</tinellbian@x-tlb-hl> <gloss>to feel</gloss> + <link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss> + <link@x-tlb-hl>dihha</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっは</tinellbian@x-tlb-hl> <gloss>others</gloss>
               title: ma’iludihha - The Tinellbian Languages Dictionary
             majja:
-              date: '2025-01-20'
+              date: '2025-10-04'
               text:
               - <h1|headword>majja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈmaɟʱːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>here; proximate place</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> <gloss>this</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: majja - The Tinellbian Languages Dictionary
+              position: '5.28'
             maku:
               date: '2018-04-06'
               position: '1.0'
@@ -9243,8 +9278,8 @@ entries:
               - <template>indefinite pronouns</template>
               title: -mari - The Tinellbian Languages Dictionary
             mari:
-              date: '2025-01-21'
-              position: '1.0'
+              date: '2025-10-04'
+              position: '10.24'
               text:
               - <h1|headword>mari</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9252,32 +9287,41 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈmaɽɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
               - <definition>this; proximate object</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>madusi</link@x-tlb-hl> <tinellbian@x-tlb-hl>まどせ</tinellbian@x-tlb-hl> <gloss>in this way</gloss>
+              - <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl> <gloss>here</gloss>
+              - <link@x-tlb-hl>marika</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl> <gloss>in this state</gloss>
+              - <link@x-tlb-hl>marila</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl> <gloss>to do this</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: mari - The Tinellbian Languages Dictionary
             marika:
-              date: '2025-01-20'
-              position: '54.2'
+              date: '2025-10-04'
+              position: '8.41'
               text:
               - <h1|headword>marika</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈɽikʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>this way; in this state; proximate state</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Haplology of</b> <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> <gloss>this</gloss> + <link@x-tlb-hl>rika</link@x-tlb-hl> <tinellbian@x-tlb-hl>りか</tinellbian@x-tlb-hl> <gloss>state</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: marika - The Tinellbian Languages Dictionary
             marila:
-              date: '2025-01-20'
-              position: '4.31'
+              date: '2025-10-04'
+              position: '8.25'
               text:
               - <h1|headword>marila</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>まりわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/məˈɽilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form derived compound</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
               - <definition>to do this; proximate action</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>mari</link@x-tlb-hl> <tinellbian@x-tlb-hl>まり</tinellbian@x-tlb-hl> <gloss>this</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>to do</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: marila - The Tinellbian Languages Dictionary
@@ -9388,7 +9432,7 @@ entries:
               title: maʔu - The Tinellbian Languages Dictionary
             -mi:
               date: '2025-10-04'
-              position: '10.0'
+              position: '14.49'
               text:
               - <h1|headword>-mi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9400,8 +9444,10 @@ entries:
               - <wordlist><block><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss></block>
               - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block>
               - <block><link@x-tlb-hl>fasami</link@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></block></wordlist>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> pro-form determiner</hidden></h3|part-of-speech>
               - <definition>any; some</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Elision of</b> <link@x-tlb-hl>’umi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl> <gloss>anything</gloss> when used as a suffix
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: -mi - The Tinellbian Languages Dictionary
@@ -9692,15 +9738,17 @@ entries:
               - — <link@x-tlb-hl>nuru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> <gloss>four</gloss></wordlist>
               title: missu - The Tinellbian Languages Dictionary
             mituja:
-              date: '2025-01-20'
-              position: '54.0'
+              date: '2025-10-04'
+              position: '10.19'
               text:
               - <h1|headword>mituja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/mɨˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>somewhere; anywhere; anytime; sometime; existential place</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>somewhere; anywhere; sometime; anytime; existential place; <i>wherever</i>; <i>whenever</i></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Elision of</b> <link@x-tlb-hl>’umi</link@x-tlb-hl> <tinellbian@x-tlb-hl>うみ</tinellbian@x-tlb-hl> <gloss>anything</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: mituja - The Tinellbian Languages Dictionary
@@ -10870,17 +10918,17 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>folded paper</gloss> + <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>day</gloss>
               title: nuhumusa - The Tinellbian Languages Dictionary
-            nu’ifi:
-              date: '2019-06-10'
-              position: '5.12'
+            nufi:
+              date: '2025-10-04'
+              position: '7.0'
               text:
-              - <h1|headword>nu’ifi</h1|headword>
+              - <h1|headword>nufi</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>ぬいべ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/nʉˈʔifɨ/</ipa@x-tlb-hl></pronunciation>
+              - <native-script><tinellbian@x-tlb-hl>ぬべ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈnufɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>hide</definition>
-              title: nu’ifi - The Tinellbian Languages Dictionary
+              title: nufi - The Tinellbian Languages Dictionary
             nuki:
               date: '2018-04-03'
               text:
@@ -12849,15 +12897,16 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>ramirratuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみっらとぢ</tinellbian@x-tlb-hl> <gloss>hotel</gloss></wordlist>
               title: ramirra - The Tinellbian Languages Dictionary
+              position: '1.0'
             ramirratuja:
-              date: '2019-05-04'
-              position: '4.29'
+              date: '2025-10-04'
+              position: '5.39'
               text:
               - <h1|headword>ramirratuja</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>らみっらとぢ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɽəˌmirːəˈtʰuɟə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> compound <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>hotel</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ramirra</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみっら</tinellbian@x-tlb-hl> <gloss>guest</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
@@ -13161,7 +13210,7 @@ entries:
               - <wordlist><link@x-tlb-hl>girammi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎらっみ</tinellbian@x-tlb-hl> <gloss>thunder</gloss></wordlist>
               title: ri’i - The Tinellbian Languages Dictionary
             rika:
-              date: '2018-04-08'
+              date: '2025-10-04'
               text:
               - <h1|headword>rika</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -13169,9 +13218,14 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈrikʰə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>and thus</definition>
-              - <h3|part-of-speech><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>state of being; condition</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>kasika</link@x-tlb-hl> <tinellbian@x-tlb-hl>かせか</tinellbian@x-tlb-hl> <gloss>in that state</gloss>
+              - <link@x-tlb-hl>marika</link@x-tlb-hl> <tinellbian@x-tlb-hl>まりか</tinellbian@x-tlb-hl> <gloss>in this state</gloss>
+              - <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl> <gloss>in what state?</gloss></wordlist>
               title: rika - The Tinellbian Languages Dictionary
+              position: '12.24'
             rila:
               date: '2018-04-08'
               text:
@@ -13937,8 +13991,8 @@ entries:
               - <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>one</gloss> + <b>lu</b> <tinellbian@x-tlb-hl>を</tinellbian@x-tlb-hl> <gloss>(linking morpheme)</gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
               title: salura - The Tinellbian Languages Dictionary
             sama:
-              date: '2025-01-20'
-              position: '35.15'
+              date: '2025-10-04'
+              position: '9.24'
               text:
               - <h1|headword>sama</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -13947,20 +14001,23 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
               - <definition>what; who; interrogative object</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>satasama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さたさま</tinellbian@x-tlb-hl> <gloss>how much?</gloss></wordlist>
+              - <wordlist><block><link@x-tlb-hl>satta</link@x-tlb-hl> <tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl> <gloss>where?</gloss>
+              - <link@x-tlb-hl>saqqa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl> <gloss>in what state?</gloss>
+              - <link@x-tlb-hl>sulla</link@x-tlb-hl> <tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl> <gloss>to do what?</gloss></block></wordlist>
+              - <wordlist><block><link@x-tlb-hl>satasama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さたさま</tinellbian@x-tlb-hl> <gloss>how much?</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: sama - The Tinellbian Languages Dictionary
             samma:
-              date: '2019-02-25'
-              position: '9.15'
+              date: '2025-10-04'
+              position: '6.30'
               text:
               - <h1|headword>samma</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さっま</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsamːə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>unconditional love</definition>
+              - <definition>unconditional love; compassion</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>lu’isamma</link@x-tlb-hl> <tinellbian@x-tlb-hl>をいさっま</tinellbian@x-tlb-hl> <gloss>to love unconditionally</gloss>
               - <link@x-tlb-hl>diss·samma</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすさっま</tinellbian@x-tlb-hl> <gloss>to feel unconditional love</gloss></wordlist>
@@ -14098,15 +14155,17 @@ entries:
               - <definition>word</definition>
               title: saqala - The Tinellbian Languages Dictionary
             saqqa:
-              date: '2025-01-20'
-              position: '1.0'
+              date: '2025-10-04'
+              position: '6.39'
               text:
               - <h1|headword>saqqa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さっげ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsaŋːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>how; in what state; interrogative state</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> noun pro-form</hidden> ~ <poslink@x-tlb-hl>prodeterminer</poslink@x-tlb-hl><hidden> determiner</hidden> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>how; interrogative state; <i>in what state</i></definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Alteration of</b> <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl> <gloss>what?</gloss> + <link@x-tlb-hl>rika</link@x-tlb-hl> <tinellbian@x-tlb-hl>りか</tinellbian@x-tlb-hl> <gloss>state</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: saqqa - The Tinellbian Languages Dictionary
@@ -14201,15 +14260,17 @@ entries:
               - <link@x-tlb-hl>sata</link@x-tlb-hl> <tinellbian@x-tlb-hl>さた</tinellbian@x-tlb-hl> <gloss>for</gloss> + <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl> <gloss>what?</gloss>
               title: satasama - The Tinellbian Languages Dictionary
             satta:
-              date: '2025-01-20'
-              position: '4.22'
+              date: '2025-10-04'
+              position: '8.10'
               text:
               - <h1|headword>satta</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsatːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden> ~ <poslink@x-tlb-hl>adverbial</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>where; interrogative place</definition>
+              - <h4|subheading>Etymology</h4|subheading><b>
+              - Alteration of </b><link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl> <gloss>what?</gloss> + <link@x-tlb-hl>tuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>とぢ</tinellbian@x-tlb-hl> <gloss>place</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: satta - The Tinellbian Languages Dictionary
@@ -14787,15 +14848,17 @@ entries:
               - ↓ <link@x-tlb-hl>minaʔi</link@x-tlb-hl> <tinellbian@x-tlb-hl>みなっい</tinellbian@x-tlb-hl> <gloss>tungsten</gloss></wordlist>
               title: sula - The Tinellbian Languages Dictionary
             sulla:
-              date: '2025-01-20'
-              position: '4.22'
+              date: '2025-10-04'
+              position: '8.40'
               text:
               - <h1|headword>sulla</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>すっわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈsuʎːə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl><hidden> pro-form derived compound</hidden> <poslink@x-tlb-hl>pro-verb</poslink@x-tlb-hl><hidden> verb</hidden></h3|part-of-speech>
               - <definition>to do what; interrogative action</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <b>Alteration of</b> <link@x-tlb-hl>sama</link@x-tlb-hl> <tinellbian@x-tlb-hl>さま</tinellbian@x-tlb-hl> <gloss>what?</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>to do</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: sulla - The Tinellbian Languages Dictionary
@@ -16161,8 +16224,8 @@ entries:
               - <wordlist><link@x-tlb-hl>-da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>negative aspect</gloss></wordlist>
               title: -tu’i - The Tinellbian Languages Dictionary
             tuja:
-              date: '2024-09-02'
-              position: '10.13'
+              date: '2025-10-04'
+              position: '12.0'
               text:
               - <h1|headword>tuja</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -16171,9 +16234,14 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>place; location in space</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>dajabituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢびとぢ</tinellbian@x-tlb-hl> <gloss>library</gloss>
+              - <wordlist><block><link@x-tlb-hl>batuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl> <gloss>everywhere</gloss>
+              - <link@x-tlb-hl>kasuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>かすぢ</tinellbian@x-tlb-hl> <gloss>there</gloss>
+              - <link@x-tlb-hl>majja</link@x-tlb-hl> <tinellbian@x-tlb-hl>まっぢ</tinellbian@x-tlb-hl> <gloss>here</gloss>
+              - <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとは</tinellbian@x-tlb-hl> <gloss>somewhere</gloss>
+              - <link@x-tlb-hl>satta</link@x-tlb-hl> <tinellbian@x-tlb-hl>さった</tinellbian@x-tlb-hl> <gloss>where?</gloss></block>
+              - <block><link@x-tlb-hl>dajabituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>だぢびとぢ</tinellbian@x-tlb-hl> <gloss>library</gloss>
               - <link@x-tlb-hl>tihutuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>てほとぢ</tinellbian@x-tlb-hl> <gloss>home</gloss>
-              - <link@x-tlb-hl>ramirratuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみっらとぢ</tinellbian@x-tlb-hl> <gloss>hotel</gloss></wordlist>
+              - <link@x-tlb-hl>ramirratuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみっらとぢ</tinellbian@x-tlb-hl> <gloss>hotel</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>-ppa</link@x-tlb-hl> <tinellbian@x-tlb-hl>っあ</tinellbian@x-tlb-hl> <gloss>time</gloss></wordlist>
               title: tuja - The Tinellbian Languages Dictionary
@@ -16540,8 +16608,8 @@ entries:
               - <link@x-tlb-hl>turulu</link@x-tlb-hl> <tinellbian@x-tlb-hl>とるを</tinellbian@x-tlb-hl> <gloss>to open</gloss></wordlist>
               title: -ulu - The Tinellbian Languages Dictionary
             ’umi:
-              date: '2025-01-20'
-              position: '49.15'
+              date: '2025-10-04'
+              position: '9.25'
               text:
               - <h1|headword>’umi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -16549,6 +16617,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈʔumɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>indefinite</poslink@x-tlb-hl> <poslink@x-tlb-hl>pronoun</poslink@x-tlb-hl><hidden> pro-form noun</hidden></h3|part-of-speech>
               - <definition>anything; something; anyone; anything; existential object noun</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>-mi</link@x-tlb-hl> <tinellbian@x-tlb-hl>み</tinellbian@x-tlb-hl> <gloss>any</gloss>
+              - <link@x-tlb-hl>’amila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あみわ</tinellbian@x-tlb-hl> <gloss>to do anything</gloss>
+              - <link@x-tlb-hl>mituja</link@x-tlb-hl> <tinellbian@x-tlb-hl>みとぢ</tinellbian@x-tlb-hl> <gloss>anywhere</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <template>indefinite pronouns</template>
               title: ’umi - The Tinellbian Languages Dictionary
@@ -17590,10 +17662,6 @@ entries:
               - <wordlist><link@x-tlb-hl>bixaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>びざや</tinellbian@x-tlb-hl> <gloss>task</gloss></wordlist>
               position: '8.15'
               date: '2025-10-04'
-            cali:
-              title: ''
-              text: []
-              position: '1.0'
             cala:
               title: cala - The Tinellbian Languages Dictionary
               text:
@@ -17631,7 +17699,7 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈcʰaʎːə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>purpose</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>obligation; <i>have to</i>; <i>must</i></definition>
-              position: '4.4'
+              position: '7.0'
               date: '2025-10-04'
           date: '2024-05-29'
           position: '1.0'

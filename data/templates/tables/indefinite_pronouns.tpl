@@ -54,7 +54,7 @@ text:
 - 'action: <link@x-tlb-hl>buni</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶに</tinellbian@x-tlb-hl></wordlist>'
 - <wordlist-caption>universal:</wordlist-caption><wordlist>
 - 'object noun: <link@x-tlb-hl>’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>'
-- 'object determiner: <link@x-tlb-hl>-’aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>'
+- 'object determiner: <link@x-tlb-hl>-aba</link@x-tlb-hl> <tinellbian@x-tlb-hl>あば</tinellbian@x-tlb-hl>'
 - 'place: <link@x-tlb-hl>batuja</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばとぢ</tinellbian@x-tlb-hl>'
 - 'action: <link@x-tlb-hl>’abala</link@x-tlb-hl> <tinellbian@x-tlb-hl>あばわ</tinellbian@x-tlb-hl></wordlist>'
 - <wordlist-caption>existential:</wordlist-caption><wordlist>
