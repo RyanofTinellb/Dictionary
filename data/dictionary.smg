@@ -5,10 +5,22 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - diss·sutti
+  - julliga
 - - The Tinellbian Languages Dictionary
   - lex
-  - $xucipura.$cula
+  - ga
+- - The Tinellbian Languages Dictionary
+  - lex
+  - julli
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ’appu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - lassi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - natiha
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\www\data\assets\autocorrect.ime
