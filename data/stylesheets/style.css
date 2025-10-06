@@ -148,6 +148,10 @@ main p {
 	font-family: sans-serif;
 }
 
+main details {
+	margin-block-start: var(--section-sep);
+}
+
 main table {
 	margin-inline-start: auto;
 	margin-inline-end: auto;
