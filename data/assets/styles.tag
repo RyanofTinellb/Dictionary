@@ -10,7 +10,21 @@ also:
     left: 15
     size: 150
     underline: true
-  type: div
+  type: span
+  key: Alt-a
+also-also:
+  param:
+    string: $link$|$text$
+    link: /lex/$dictionary(text)$.html
+  props:
+    bold: true
+    colour: '#3c3'
+    italics: true
+    left: 15
+    size: 150
+    underline: true
+  type: anchor
+  key: Alt-A
 b:
   key: b
   props:
