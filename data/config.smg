@@ -5,10 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - lasakka
+  - raddila
 - - The Tinellbian Languages Dictionary
   - lex
-  - -’a
+  - raddi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - la
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\www\data\assets\autocorrect.ime
