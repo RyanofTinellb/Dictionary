@@ -1602,7 +1602,7 @@ entries:
               - <link@x-tlb-hl>ca</link@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl> <gloss>to help</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               title: caba - The Tinellbian Languages Dictionary
             cabahi:
-              date: '2018-04-05'
+              date: '2025-10-10'
               text:
               - <h1|headword>cabahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -1617,6 +1617,7 @@ entries:
               - → <link@x-tlb-hl>’i’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl> <gloss>hassium</gloss>
               - ↑ <link@x-tlb-hl>hasuki</link@x-tlb-hl> <tinellbian@x-tlb-hl>はすき</tinellbian@x-tlb-hl> <gloss>rhenium</gloss></wordlist>
               title: cabahi - The Tinellbian Languages Dictionary
+              position: '12.20'
             cadi:
               date: '2018-04-05'
               text:
@@ -2547,13 +2548,17 @@ entries:
               - “Every <gloss>darill</gloss> affects every other.”
               title: darill - The Tinellbian Languages Dictionary
             daru:
-              date: '2025-04-14'
-              position: '9.0'
+              date: '2025-10-10'
+              position: '8.18'
               text:
               - <h1|headword>daru</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>だる</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈdaɽʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>one; generic they; generic you</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>daru’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるい</tinellbian@x-tlb-hl> because</wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>road; street</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
@@ -2574,7 +2579,7 @@ entries:
               title: daruhuba - The Tinellbian Languages Dictionary
               position: '9.0'
             daru’i:
-              date: '2025-10-09'
+              date: '2025-10-10'
               text:
               - <h1|headword>daru’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -2582,8 +2587,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/dəɽuʔɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech>subordinating <poslink@x-tlb-hl>conjunction</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>because</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>daru</link@x-tlb-hl> <tinellbian@x-tlb-hl>だる</tinellbian@x-tlb-hl> <gloss>they</gloss> + <link@x-tlb-hl>’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>い</tinellbian@x-tlb-hl> <gloss>to say</gloss>
               title: daru’i - The Tinellbian Languages Dictionary
-              position: '1.0'
+              position: '8.26'
             daruli:
               date: '2019-01-30'
               position: '10.24'
@@ -5617,8 +5624,8 @@ entries:
               title: -’i - The Tinellbian Languages Dictionary
               position: '5.2'
             ’i:
-              date: '2025-10-07'
-              position: '2.3'
+              date: '2025-10-10'
+              position: '34.22'
               text:
               - <h1|headword>’i</h1|headword>
               - <also>-’i</also>
@@ -5630,7 +5637,7 @@ entries:
               - <h4|subheading>Negative Complement</h4|subheading>
               - <link@x-tlb-hl>sajja</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっぢ</tinellbian@x-tlb-hl> <gloss>silence</gloss>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>’isinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせっな</tinellbian@x-tlb-hl> <gloss>to tell a story</gloss>
+              - <wordlist><block><link@x-tlb-hl>’isinna</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせっな</tinellbian@x-tlb-hl> <gloss>to tell a story</gloss>
               - <link@x-tlb-hl>’icipu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いちぷ</tinellbian@x-tlb-hl> <gloss>to ask</gloss>
               - <link@x-tlb-hl>’i’issi</link@x-tlb-hl> <tinellbian@x-tlb-hl>いいっせ</tinellbian@x-tlb-hl> <gloss>to sing</gloss>
               - <link@x-tlb-hl>’ibibu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いびぶ</tinellbian@x-tlb-hl> <gloss>to complain</gloss>
@@ -5640,8 +5647,9 @@ entries:
               - <link@x-tlb-hl>’iqaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>いげや</tinellbian@x-tlb-hl> <gloss>to give one’s point of view</gloss>
               - <link@x-tlb-hl>’ikahu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いかほ</tinellbian@x-tlb-hl> <gloss>to grunt</gloss>
               - <link@x-tlb-hl>’ilagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>いわぎ</tinellbian@x-tlb-hl> <gloss>to scream</gloss>
-              - <link@x-tlb-hl>’iluxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl> <gloss>to request</gloss>
-              - <link@x-tlb-hl>gufu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl> <gloss>radio</gloss></wordlist>
+              - <link@x-tlb-hl>’iluxxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>いをっざ</tinellbian@x-tlb-hl> <gloss>to request</gloss></block>
+              - <block><link@x-tlb-hl>daru’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>だるい</tinellbian@x-tlb-hl> <gloss>because</gloss>
+              - <link@x-tlb-hl>gufu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐふい</tinellbian@x-tlb-hl> <gloss>radio</gloss></block></wordlist>
               - <h4|subheading>Examples</h4|subheading>
               - <details|folding><summary|folding><transliteration@x-tlb-hl>ʔusu jusi ’i li lu’i fu ra’u.</transliteration@x-tlb-hl></summary|folding>
               - <tinellbian@x-tlb-hl>。うす よせ い え をい ふ らう 。</tinellbian@x-tlb-hl>
