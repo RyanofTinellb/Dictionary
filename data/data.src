@@ -724,20 +724,22 @@ entries:
               position: '8.19'
               date: '2025-10-06'
             ’asila:
-              date: '2025-10-08'
+              date: '2025-10-09'
               text:
               - <h1|headword>’asila</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あせわ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈsilə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>friendship</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>’asi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせ</tinellbian@x-tlb-hl> <gloss>quest</gloss> + <link@x-tlb-hl>la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>relationship</gloss>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’asilari</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわり</tinellbian@x-tlb-hl> <gloss>friend</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>kuli’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>くえあ</tinellbian@x-tlb-hl> <gloss>acquaintance</gloss></wordlist>
               title: ’asila - The Tinellbian Languages Dictionary
-              position: '11.0'
+              position: '8.33'
             ’asilari:
               date: '2018-03-27'
               text:
@@ -4116,6 +4118,7 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>nufira</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬべら</tinellbian@x-tlb-hl> <gloss>want</gloss></wordlist>
               title: fira - The Tinellbian Languages Dictionary
+              position: '1.0'
             fixi:
               date: '2019-04-28'
               position: '7.0'
@@ -5294,6 +5297,7 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>hiru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひる</tinellbian@x-tlb-hl> <gloss>gratitude</gloss> + <link@x-tlb-hl>-a</link@x-tlb-hl> <tinellbian@x-tlb-hl>、あ</tinellbian@x-tlb-hl> <glossary>inj</glossary>
               title: hira - The Tinellbian Languages Dictionary
+              position: '1.0'
             hiru:
               date: '2024-09-02'
               position: '10.50'
@@ -8169,8 +8173,8 @@ entries:
               - <list-block><poslink@x-tlb-hl>Geological Terms</poslink@x-tlb-hl></list-block>
               title: kunubitu’afu - The Tinellbian Languages Dictionary
             kupira:
-              date: '2024-09-02'
-              position: '5.26'
+              date: '2025-10-09'
+              position: '9.45'
               text:
               - <h1|headword>kupira</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -8244,8 +8248,8 @@ entries:
               - ↓ <link@x-tlb-hl>disa</link@x-tlb-hl> <tinellbian@x-tlb-hl>でさ</tinellbian@x-tlb-hl> <gloss>aluminium</gloss></wordlist>
               title: kuxxu - The Tinellbian Languages Dictionary
             la:
-              date: '2025-10-08'
-              position: '30.21'
+              date: '2025-10-09'
+              position: '34.21'
               text:
               - <h1|headword>la</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -8277,6 +8281,10 @@ entries:
               - <wordlist><link@x-tlb-hl>mi’ula</link@x-tlb-hl> <tinellbian@x-tlb-hl>みうわ</tinellbian@x-tlb-hl> <gloss>reed</gloss>
               - <link@x-tlb-hl>raddila</link@x-tlb-hl> <tinellbian@x-tlb-hl>らっでわ</tinellbian@x-tlb-hl> <gloss>thulium</gloss>
               - <link@x-tlb-hl>fiqqala</link@x-tlb-hl><tinellbian@x-tlb-hl>べっげわ</tinellbian@x-tlb-hl> <gloss>beryllium</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>relationship</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>’asila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわ</tinellbian@x-tlb-hl> <gloss>friendship</gloss></wordlist>
               title: la - The Tinellbian Languages Dictionary
             la’a:
               date: '2018-04-04'
@@ -11218,6 +11226,7 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬ</tinellbian@x-tlb-hl> <gloss>desire</gloss> + <link@x-tlb-hl>fira</link@x-tlb-hl> <tinellbian@x-tlb-hl>べら</tinellbian@x-tlb-hl> <gloss>wish</gloss>
               title: nufira - The Tinellbian Languages Dictionary
+              position: '1.0'
             nuhu:
               date: '2025-03-24'
               position: '10.19'
@@ -13347,6 +13356,7 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss> + <b>ni</b> <tinellbian@x-tlb-hl>に</tinellbian@x-tlb-hl> <gloss>linking morpheme</gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
               title: ranira - The Tinellbian Languages Dictionary
+              position: '1.0'
             ranna:
               date: '2018-04-08'
               text:
@@ -14869,14 +14879,14 @@ entries:
               - <wordlist><link@x-tlb-hl>sikahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>せかひ</tinellbian@x-tlb-hl> <gloss>sculpture</gloss></wordlist>
               title: sika - The Tinellbian Languages Dictionary
             sikahi:
-              date: '2024-09-02'
-              position: '4.38'
+              date: '2025-10-09'
+              position: '5.27'
               text:
               - <h1|headword>sikahi</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>せかひ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sɨˈkʰahɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>quasi-suffix</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>sculpture; <i>shape</i>; <i>form</i></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <wordlist><link@x-tlb-hl>sika</link@x-tlb-hl> <tinellbian@x-tlb-hl>せか</tinellbian@x-tlb-hl> <gloss>clay</gloss> + <link@x-tlb-hl>hi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひ</tinellbian@x-tlb-hl> <gloss>solid</gloss></wordlist>
@@ -18162,6 +18172,23 @@ entries:
               - <wordlist><link@x-tlb-hl>laqura</link@x-tlb-hl> <tinellbian@x-tlb-hl>わもら</tinellbian@x-tlb-hl> <gloss>mendelevium</gloss></wordlist>
               position: '10.12'
               date: '2025-10-08'
+            ’asi:
+              title: ’asi - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>’asi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>あせ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈʔasɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>quest; trial; tribulation; obstacle</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>’asila</link@x-tlb-hl> <tinellbian@x-tlb-hl>あせわ</tinellbian@x-tlb-hl> <gloss>friendship</gloss></wordlist>
+              position: '8.21'
+              date: '2025-10-09'
+            -ira:
+              title: ''
+              text: []
+              position: '1.0'
           date: '2024-05-29'
           position: '1.0'
           text: []

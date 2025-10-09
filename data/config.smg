@@ -5,7 +5,16 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’asila
+  - kupira
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ira
+- - The Tinellbian Languages Dictionary
+  - lex
+  - fira
+- - The Tinellbian Languages Dictionary
+  - lex
+  - nufira
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\www\data\assets\autocorrect.ime
