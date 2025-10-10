@@ -115,6 +115,7 @@ h1|headword:
     font: Tempus Sans ITC
     justification: centre
     size: 130
+    ime: special-symbols
 h2:
   props:
     bold: true
@@ -221,7 +222,7 @@ link:
     category: lang
   props:
     colour: '#0080ff'
-    ime: links
+    ime: transliteration
     underline: true
   type: anchor
 list-block: ul

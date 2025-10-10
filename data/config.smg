@@ -5,12 +5,17 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - qapura
+  - diccaha
+- - The Tinellbian Languages Dictionary
+  - lex
+  - dicca
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ha
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
-  autocorrect: c:\users\ryan\tinellbianlanguages\www\data\assets\autocorrect.ime
+  autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
   ipa: c:\users\ryan\tinellbianlanguages\www\data\assets\ipa.ime
-  links: c:\users\ryan\tinellbianlanguages\www\data\assets\links.ime
   tinellbian: c:\users\ryan\tinellbianlanguages\www\data\assets\tinellbian.ime
   transliteration: c:\users\ryan\tinellbianlanguages\www\data\assets\transliteration.ime
 languages: c:\users\ryan\tinellbianlanguages\www\data\assets\languages.yml
