@@ -83,6 +83,16 @@ h3.part-of-speech {
 	font-family: Garamond, serif;
 }
 
+h3.part-of-speech > .derivation {
+	&::before {
+		content: '(';
+	}
+
+	&::after {
+		content: ')';
+	}
+}
+
 h3.part-of-speech a {
 	color: light-dark(black, white);
 	text-decoration-style: dashed;

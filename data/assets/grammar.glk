@@ -56,8 +56,8 @@ x-tlb-hl:
   numeral: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html
   occasion: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#occasion
   ordinal: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html#ordinalnumbers
-  otherpartsofthebody: special/Search.html?term=bodypart
-  othersubstances: special/Search.html?term=substance
+  partsofthebody: special/Search.html?term=bodypart
+  substances: special/Search.html?term=substance
   particle: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Particles/Index.html
   passive: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Argument Promotion.html
   perceptive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Ambitransitive.html#perceptiveverbs

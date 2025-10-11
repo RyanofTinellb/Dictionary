@@ -11,7 +11,9 @@ also:
     size: 150
     underline: true
   type: span
-  key: Alt-a
+  keys:
+    'on': Alt-a
+    'off': space
 also-also:
   param:
     string: $link$|$text$
@@ -62,6 +64,14 @@ definition:
     left: 30
   type: div
 definitions: ol
+derivation:
+  type: span
+  keys:
+    'on': Alt-d
+    'off': space
+  props:
+    size: 80
+    border: on
 desktop:
   props:
     colour: '#f0f'
