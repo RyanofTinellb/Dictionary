@@ -5,22 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - nisanna
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ni
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sanna
-- - The Tinellbian Languages Dictionary
-  - lex
-  - data
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ’idata
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ’i
+  - jaffara
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
