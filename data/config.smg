@@ -5,13 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’aru’u
+  - malliju
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’a
+  - -iju
 - - The Tinellbian Languages Dictionary
   - lex
-  - ru’u
+  - malli
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

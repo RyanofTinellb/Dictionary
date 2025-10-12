@@ -49,7 +49,8 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>iron</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>’a’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl> <gloss>cerium</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>’a’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>ああみ</tinellbian@x-tlb-hl> <gloss>cerium</gloss>
+              - <link@x-tlb-hl>’aru’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>あるう</tinellbian@x-tlb-hl> <gloss>strontium</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Substances</poslink@x-tlb-hl></list-block>
@@ -58,7 +59,7 @@ entries:
               - → <link@x-tlb-hl>gaxiki</link@x-tlb-hl> <tinellbian@x-tlb-hl>がしき</tinellbian@x-tlb-hl> <gloss>cobalt</gloss>
               - ↓ <link@x-tlb-hl>nasufi</link@x-tlb-hl> <tinellbian@x-tlb-hl>なすべ</tinellbian@x-tlb-hl> <gloss>ruthenium</gloss></wordlist>
               title: ’a - The Tinellbian Languages Dictionary
-              position: '7.4'
+              position: '10.20'
             ’a’ami:
               date: '2025-10-04'
               position: '7.9'
@@ -698,8 +699,10 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>あるう</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ʔəˈɽuʔʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>strontium</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>あ</tinellbian@x-tlb-hl> <gloss>iron</gloss> + <link@x-tlb-hl>ru’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>るう</tinellbian@x-tlb-hl> <gloss>glow</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Substances</poslink@x-tlb-hl></list-block>
@@ -708,7 +711,7 @@ entries:
               - ↑ <link@x-tlb-hl>qaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げざ</tinellbian@x-tlb-hl> <gloss>calcium</gloss>
               - ↓ <link@x-tlb-hl>baca</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばや</tinellbian@x-tlb-hl> <gloss>barium</gloss></wordlist>
               title: ’aru’u - The Tinellbian Languages Dictionary
-              position: '13.16'
+              position: '5.27'
             ’asa:
               title: ’asa - The Tinellbian Languages Dictionary
               text:
@@ -3666,8 +3669,8 @@ entries:
               title: dusi - The Tinellbian Languages Dictionary
               position: '9.22'
             fa:
-              date: '2024-09-02'
-              position: '5.50'
+              date: '2025-10-12'
+              position: '10.18'
               text:
               - <h1|headword>fa</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -3675,6 +3678,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/fa/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>possibility; <gloss>maybe; possibly; probability ≈ 0.50</gloss></definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>crossing</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>faluki</link@x-tlb-hl> <tinellbian@x-tlb-hl>へをき</tinellbian@x-tlb-hl> <gloss>journey</gloss></wordlist>
               title: fa - The Tinellbian Languages Dictionary
             fa’aka:
               date: '2019-01-06'
@@ -3746,7 +3753,7 @@ entries:
               title: fajuli - The Tinellbian Languages Dictionary
               position: '8.16'
             faluki:
-              date: '2018-04-05'
+              date: '2025-10-12'
               text:
               - <h1|headword>faluki</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -3754,7 +3761,10 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/fəˈlukʰɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>journey</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>fa</link@x-tlb-hl> fa <gloss>crossing</gloss> + <link@x-tlb-hl>luki</link@x-tlb-hl> <tinellbian@x-tlb-hl>をき</tinellbian@x-tlb-hl> <gloss>countryside</gloss>
               title: faluki - The Tinellbian Languages Dictionary
+              position: '8.36'
             fama:
               title: fama - The Tinellbian Languages Dictionary
               text:
@@ -9721,8 +9731,9 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>position</definition>
               title: mali - The Tinellbian Languages Dictionary
+              position: '1.0'
             malliju:
-              date: '2018-04-06'
+              date: '2025-10-12'
               text:
               - <h1|headword>malliju</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9737,9 +9748,11 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>dissumalliju</link@x-tlb-hl> <tinellbian@x-tlb-hl>でっすまっえよ</tinellbian@x-tlb-hl> <gloss>to be happy</gloss>
               - <link@x-tlb-hl>qimalliju</link@x-tlb-hl> <tinellbian@x-tlb-hl>しまっえよ</tinellbian@x-tlb-hl> <gloss>to orgasm</gloss></wordlist>
+              - <link@x-tlb-hl>malli</link@x-tlb-hl> <link@x-tlb-hl>ju</link@x-tlb-hl> <link@x-tlb-hl>-iju</link@x-tlb-hl> <link@x-tlb-hl>-ju</link@x-tlb-hl>
               title: malliju - The Tinellbian Languages Dictionary
+              position: '14.17'
             mallu:
-              date: '2018-04-06'
+              date: '2025-10-12'
               text:
               - <h1|headword>mallu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -9748,6 +9761,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>address</definition>
               title: mallu - The Tinellbian Languages Dictionary
+              position: '6.7'
             malu:
               date: '2024-07-22'
               position: '5.15'
@@ -15676,19 +15690,22 @@ entries:
               - <template>personal pronouns</template>
               title: suma - The Tinellbian Languages Dictionary
             sumika:
-              date: '2018-04-05'
+              date: '2025-10-12'
               text:
               - <h1|headword>sumika</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sʉmikʰə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>westwards</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>sumi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すみ</tinellbian@x-tlb-hl> <gloss>clockwise</gloss> + <link@x-tlb-hl>ka</link@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>south</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>ka</link@x-tlb-hl> <tinellbian@x-tlb-hl>か</tinellbian@x-tlb-hl> <gloss>south</gloss>
               - <link@x-tlb-hl>sani</link@x-tlb-hl> <tinellbian@x-tlb-hl>さに</tinellbian@x-tlb-hl> <gloss>north</gloss>
               - <link@x-tlb-hl>gibi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぎび</tinellbian@x-tlb-hl> <gloss>east</gloss></wordlist>
               title: sumika - The Tinellbian Languages Dictionary
+              position: '5.17'
             sunu:
               date: '2025-10-12'
               text:
@@ -18606,9 +18623,77 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>るう</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈɽuʔʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              position: '6.0'
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>glow</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>’aru’u</link@x-tlb-hl> <tinellbian@x-tlb-hl>あるう</tinellbian@x-tlb-hl> <gloss>strontium</gloss></wordlist>
+              position: '8.20'
               date: '2025-10-12'
+            sumi:
+              title: sumi - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>sumi</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>すみ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsumɨ/</ipa@x-tlb-hl></pronunciation>
+              - <poslink@x-tlb-hl>location</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl>
+              - <definition>deasil; clockwise</definition>
+              - <h4|subheading>Antonym</h4|subheading>
+              - <wordlist><link@x-tlb-hl>rasu</link@x-tlb-hl> <tinellbian@x-tlb-hl>らす</tinellbian@x-tlb-hl> <gloss>widdershins</gloss></wordlist>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>sumika</link@x-tlb-hl> <tinellbian@x-tlb-hl>すみか</tinellbian@x-tlb-hl> <gloss>west</gloss></wordlist>
+              position: '5.9'
+              date: '2025-10-12'
+            rasu:
+              title: rasu - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>rasu</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>らす</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈɽasʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>direction</poslink@x-tlb-hl> <poslink@x-tlb-hl>adposition</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>widdershins; anti-clockwise; counter-clockwise</definition>
+              - <h4|subheading>Antonym</h4|subheading>
+              - <wordlist><link@x-tlb-hl>sumi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すみ</tinellbian@x-tlb-hl> <gloss>deasil</gloss></wordlist>
+              position: '5.10'
+              date: '2025-10-12'
+            falu:
+              title: ''
+              text: []
+              position: '1.0'
+            luki:
+              title: luki - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>luki</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>をき</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈlukʰɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>countryside</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>faluki</link@x-tlb-hl> <tinellbian@x-tlb-hl>へをき</tinellbian@x-tlb-hl> <gloss>journey</gloss></wordlist>
+              position: '8.18'
+              date: '2025-10-12'
+            malli:
+              title: ''
+              text: []
+              position: '1.0'
+            ju:
+              title: ''
+              text: []
+              position: '1.0'
+            -iju:
+              title: ''
+              text: []
+              position: '1.0'
+            -ju:
+              title: ''
+              text: []
+              position: '1.0'
+            malla:
+              title: ''
+              text: []
+              position: '1.0'
           date: '2024-05-29'
           position: '1.0'
           text: []
