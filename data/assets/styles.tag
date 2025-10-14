@@ -94,7 +94,7 @@ external:
   type: anchor
 gloss:
   keys:
-    'off': Return
+    'off': space
     'on': Alt-g
   props:
     italics: true
