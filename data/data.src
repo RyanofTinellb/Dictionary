@@ -2366,8 +2366,8 @@ entries:
               - <link@x-tlb-hl>cussi</link@x-tlb-hl> <gloss>touch</gloss> + <link@x-tlb-hl>dicci</link@x-tlb-hl> <gloss>cold</gloss>
               title: cussidicci - The Tinellbian Languages Dictionary
             -da:
-              date: '2025-03-25'
-              position: '2.0'
+              date: '2025-10-15'
+              position: '12.16'
               text:
               - <h1|headword>-da</h1|headword>
               - <also>da</also>
@@ -2380,6 +2380,7 @@ entries:
               - <wordlist><link@en>’isilida</link@en> <tinellbian@x-tlb-hl>いせえだ</tinellbian@x-tlb-hl> <gloss>sadness</gloss>
               - <link@en>dasada</link@en> <tinellbian@x-tlb-hl>ださだ</tinellbian@x-tlb-hl> <gloss>anger</gloss>
               - <link@en>ta’ida</link@en> <tinellbian@x-tlb-hl>たいだ</tinellbian@x-tlb-hl> <gloss>stink</gloss>
+              - <link@x-tlb-hl>talida</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえだ</tinellbian@x-tlb-hl> <gloss>decay</gloss>
               - <link@en>tarrada</link@en> <tinellbian@x-tlb-hl>たっらだ</tinellbian@x-tlb-hl> <gloss>disappointment</gloss></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@en>-tu’i</link@en> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> <gloss>positive</gloss></wordlist>
@@ -4996,8 +4997,8 @@ entries:
               position: '7.0'
               date: '2025-10-11'
             ha:
-              date: '2025-10-13'
-              position: '11.22'
+              date: '2025-10-15'
+              position: '15.18'
               text:
               - <h1|headword>ha</h1|headword>
               - <also>-ha</also>
@@ -5010,6 +5011,10 @@ entries:
               - Denotes a beneficiary
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>hatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はたぬ</tinellbian@x-tlb-hl> <gloss>copernicium</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>clock</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>hasuki</link@x-tlb-hl> <tinellbian@x-tlb-hl>はすき</tinellbian@x-tlb-hl> <gloss>rhenium</gloss></wordlist>
               title: ha - The Tinellbian Languages Dictionary
             hacca:
               date: '2018-04-05'
@@ -5227,14 +5232,16 @@ entries:
               - <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>to accompany</gloss> + <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl> <gloss>solitude</gloss>
               title: harusa - The Tinellbian Languages Dictionary
             hasuki:
-              date: '2018-04-03'
+              date: '2025-10-15'
               text:
               - <h1|headword>hasuki</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>はすき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/həˈsukʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>rhenium</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>ha</link@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>clock</gloss> + <link@x-tlb-hl>suki</link@x-tlb-hl> <tinellbian@x-tlb-hl>すき</tinellbian@x-tlb-hl> <gloss>copper</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
@@ -5243,7 +5250,7 @@ entries:
               - ↑ <link@x-tlb-hl>nikili</link@x-tlb-hl> <tinellbian@x-tlb-hl>にきえ</tinellbian@x-tlb-hl> <gloss>technetium</gloss>
               - ↓ <link@x-tlb-hl>cabahi</link@x-tlb-hl> <tinellbian@x-tlb-hl>やばひ</tinellbian@x-tlb-hl> <gloss>bohrium</gloss></wordlist>
               title: hasuki - The Tinellbian Languages Dictionary
-              position: '1.0'
+              position: '8.27'
             hata:
               date: '2018-04-05'
               text:
@@ -5256,7 +5263,7 @@ entries:
               title: hata - The Tinellbian Languages Dictionary
               position: '1.0'
             hatanu:
-              date: '2025-10-13'
+              date: '2025-10-15'
               text:
               - <h1|headword>hatanu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -5265,16 +5272,15 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>copernicium</definition>
               - <h4|subheading>Etymology</h4|subheading>
-              - <link@x-tlb-hl>ha</link@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>for</gloss> + <link@x-tlb-hl>tanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぬ</tinellbian@x-tlb-hl> <gloss>study</gloss>
+              - <link@x-tlb-hl>ha</link@x-tlb-hl> <tinellbian@x-tlb-hl>は</tinellbian@x-tlb-hl> <gloss>for</gloss> + <link@x-tlb-hl>tanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぬ</tinellbian@x-tlb-hl> <gloss>priest</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
               - <wordlist>← <link@x-tlb-hl>su’usi</link@x-tlb-hl> <tinellbian@x-tlb-hl>すうせ</tinellbian@x-tlb-hl> <gloss>roentgenium</gloss>
               - → <link@x-tlb-hl>rabaci</link@x-tlb-hl> <tinellbian@x-tlb-hl>らばち</tinellbian@x-tlb-hl> <gloss>nihonium</gloss>
               - ↑ <link@x-tlb-hl>’usa</link@x-tlb-hl> <tinellbian@x-tlb-hl>うさ</tinellbian@x-tlb-hl> <gloss>mercury</gloss></wordlist>
-              - <link@x-tlb-hl>ha</link@x-tlb-hl> <link@x-tlb-hl>hata</link@x-tlb-hl> <link@x-tlb-hl>nu</link@x-tlb-hl> <link@x-tlb-hl>tanu</link@x-tlb-hl>
               title: hatanu - The Tinellbian Languages Dictionary
-              position: '5.18'
+              position: '14.17'
             haxxa:
               date: '2018-04-03'
               text:
@@ -6131,6 +6137,7 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - This suffix is attached to verbs ending with a geminate consonant.
               title: -ilu - The Tinellbian Languages Dictionary
+              position: '1.0'
             ’ilu:
               date: '2025-03-24'
               position: '15.9'
@@ -9050,6 +9057,7 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>stairs</definition>
               title: lilu - The Tinellbian Languages Dictionary
+              position: '1.0'
             limma:
               date: '2018-04-04'
               text:
@@ -14405,19 +14413,32 @@ entries:
               - <wordlist><link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <glossary>nmn</glossary></wordlist>
               title: -sa - The Tinellbian Languages Dictionary
             sa:
-              date: '2025-10-07'
-              position: '2.3'
+              date: '2025-10-15'
+              position: '33.14'
               text:
               - <h1|headword>sa</h1|headword>
               - <also>-sa</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>さ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/sa/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
+              - <definition>one</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>intransitive</poslink@x-tlb-hl><hidden> adjectival</hidden> <poslink@x-tlb-hl>chromatic</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to be yellow; to make yellow</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>sakiri</link@x-tlb-hl> <tinellbian@x-tlb-hl>さきら</tinellbian@x-tlb-hl> <gloss>summer half-marigold</gloss></block>
               - <block><link@x-tlb-hl>saxxuru</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっずる</tinellbian@x-tlb-hl> <gloss>berkelium</gloss></block></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>solitude</definition>
+              - <h4|subheading>Notes</h4|subheading>
+              - <poslink@x-tlb-hl>Negative complement</poslink@x-tlb-hl> for <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss>.
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><block><link@x-tlb-hl>sasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ささ</tinellbian@x-tlb-hl> <gloss>introvert</gloss></block>
+              - <block><link@x-tlb-hl>sada</link@x-tlb-hl> <tinellbian@x-tlb-hl>さだ</tinellbian@x-tlb-hl> <gloss>loneliness</gloss></block>
+              - <block><link@x-tlb-hl>saniki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さにき</tinellbian@x-tlb-hl> <gloss>seaborgium</gloss></block>
+              - <block><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to be alone</gloss></block></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
               - <definition>oxygen</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
@@ -14428,19 +14449,6 @@ entries:
               - <wordlist>← <link@x-tlb-hl>sutta</link@x-tlb-hl> <tinellbian@x-tlb-hl>すった</tinellbian@x-tlb-hl> <gloss>nitrogen</gloss>
               - → <link@x-tlb-hl>ca’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>やあ</tinellbian@x-tlb-hl> <gloss>fluorine</gloss>
               - ↓ <link@x-tlb-hl>ta</link@x-tlb-hl> <tinellbian@x-tlb-hl>た</tinellbian@x-tlb-hl> <gloss>sulphur</gloss></wordlist>
-              - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
-              - <definition>one</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>xita</link@x-tlb-hl> <tinellbian@x-tlb-hl>した</tinellbian@x-tlb-hl> <gloss>one</gloss></wordlist>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>solitude</definition>
-              - <h4|subheading>Notes</h4|subheading>
-              - <poslink@x-tlb-hl>Negative complement</poslink@x-tlb-hl> for <link@x-tlb-hl>haru</link@x-tlb-hl> <tinellbian@x-tlb-hl>はる</tinellbian@x-tlb-hl> <gloss>with</gloss>.
-              - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>sasa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ささ</tinellbian@x-tlb-hl> <gloss>introvert</gloss></block>
-              - <block><link@x-tlb-hl>sada</link@x-tlb-hl> <tinellbian@x-tlb-hl>さだ</tinellbian@x-tlb-hl> <gloss>loneliness</gloss></block>
-              - <block><link@x-tlb-hl>saniki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さにき</tinellbian@x-tlb-hl> <gloss>seaborgium</gloss></block>
-              - <block><link@x-tlb-hl>harusa</link@x-tlb-hl> <tinellbian@x-tlb-hl>はるさ</tinellbian@x-tlb-hl> <gloss>to be alone</gloss></block></wordlist>
               title: sa - The Tinellbian Languages Dictionary
             sabba:
               date: '2019-02-01'
@@ -14784,8 +14792,8 @@ entries:
               title: salari - The Tinellbian Languages Dictionary
               position: '8.27'
             salilu:
-              date: '2018-04-05'
-              position: '1.0'
+              date: '2025-10-15'
+              position: '8.14'
               text:
               - <h1|headword>salilu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -15940,14 +15948,16 @@ entries:
               - <wordlist><link@x-tlb-hl>hamitirita</link@x-tlb-hl> <tinellbian@x-tlb-hl>はみてりた</tinellbian@x-tlb-hl> <gloss>all the time</gloss></wordlist>
               title: -ta - The Tinellbian Languages Dictionary
             ta:
-              date: '2025-10-14'
-              position: '10.23'
+              date: '2025-10-15'
+              position: '7.8'
               text:
               - <h1|headword>ta</h1|headword>
               - <also>-ta</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian>た</tinellbian></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰa/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>interjection</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>well; um</definition>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>bell</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
@@ -15962,8 +15972,6 @@ entries:
               - → <link@x-tlb-hl>limma</link@x-tlb-hl> <tinellbian>えっま</tinellbian> <gloss>chlorine</gloss>
               - ↑ <link@x-tlb-hl>sa</link@x-tlb-hl> <tinellbian>さ</tinellbian> <gloss>oxygen</gloss>
               - ↓ <link@x-tlb-hl>matirra</link@x-tlb-hl> <tinellbian>まてっら</tinellbian> <gloss>selenium</gloss></wordlist>
-              - <h3|part-of-speech><poslink@x-tlb-hl>interjection</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>well; um</definition>
               title: ta - The Tinellbian Languages Dictionary
             taca:
               date: '2018-04-03'
@@ -16191,22 +16199,14 @@ entries:
               - <template>auxiliaries</template>
               title: taku - The Tinellbian Languages Dictionary
             tali:
-              date: '2025-01-21'
-              position: '11.24'
+              date: '2025-10-15'
+              position: '5.20'
               text:
               - <h1|headword>tali</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰalɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> dative <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>to take away from someone</definition>
-              - <h4|subheading>Examples</h4|subheading>
-              - <details|folding><transliteration@x-tlb-hl><summary|folding>ʔaggami pi kalutuhhisa tali</summary|folding> ’ita’i.</transliteration@x-tlb-hl>
-              - <tinellbian@x-tlb-hl>。あっがみ ぴ かをとっひさ たえ いたい。</tinellbian@x-tlb-hl>
-              - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl> <link@x-tlb-hl>kalu-tuhhisa</link@x-tlb-hl> tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
-              - <gloss>Police_officer <glossary>pst;sta</glossary> <glossary>abl</glossary>-farmer take car.</gloss></details|folding>
-              - “The police officer took the car from the farmer.”
-              - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>mathematics </hidden><poslink@x-tlb-hl>particle</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>subtract; minus</definition>
               - <h4|subheading>Examples</h4|subheading>
               - <details|folding><summary|folding><transliteration@x-tlb-hl>Qihha tali bila ’anu kifi.</transliteration@x-tlb-hl></summary|folding>
@@ -16219,17 +16219,32 @@ entries:
               - <link@x-tlb-hl>ju’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>よい</tinellbian@x-tlb-hl> <gloss>plus</gloss>
               - <link@x-tlb-hl>batu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl> <gloss>multiply</gloss>
               - <link@x-tlb-hl>saki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さき</tinellbian@x-tlb-hl> <gloss>divide</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>transitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>motive</poslink@x-tlb-hl> dative <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>to take away from someone</definition>
+              - <h4|subheading>Examples</h4|subheading>
+              - <details|folding><transliteration@x-tlb-hl><summary|folding>ʔaggami pi kalutuhhisa tali</summary|folding> ’ita’i.</transliteration@x-tlb-hl>
+              - <tinellbian@x-tlb-hl>。あっがみ ぴ かをとっひさ たえ いたい。</tinellbian@x-tlb-hl>
+              - <link@x-tlb-hl>’aggami</link@x-tlb-hl> <link@x-tlb-hl>pi</link@x-tlb-hl> <link@x-tlb-hl>kalu-tuhhisa</link@x-tlb-hl> tali <link@x-tlb-hl>’ita’i</link@x-tlb-hl>.
+              - <gloss>Police_officer <glossary>pst;sta</glossary> <glossary>abl</glossary>-farmer take car.</gloss></details|folding>
+              - “The police officer took the car from the farmer.”
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>entropy</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>talitu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえとい</tinellbian@x-tlb-hl> <gloss>progress</gloss>
+              - <link@x-tlb-hl>talida</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえだ</tinellbian@x-tlb-hl> <gloss>decay</gloss></wordlist>
               title: tali - The Tinellbian Languages Dictionary
             talida:
-              date: '2018-04-12'
-              position: '1.0'
+              date: '2025-10-15'
+              position: '8.32'
               text:
               - <h1|headword>talida</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たえだ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/tʰəˈlidə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>entropy</definition>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>decay</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>tali</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>entropy</gloss> + <link@x-tlb-hl>-da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>negative</gloss>
               title: talida - The Tinellbian Languages Dictionary
             tama:
               date: '2018-03-31'
@@ -16312,8 +16327,8 @@ entries:
               - a belief in something someone else is saying
               title: tanni - The Tinellbian Languages Dictionary
             tanu:
-              date: '2025-10-13'
-              position: '11.22'
+              date: '2025-10-15'
+              position: '13.22'
               text:
               - <h1|headword>tanu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -16324,6 +16339,8 @@ entries:
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><link@x-tlb-hl>kissatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>きっさたぬ</tinellbian@x-tlb-hl> <gloss>martial art</gloss>
               - <link@x-tlb-hl>musatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさたぬ</tinellbian@x-tlb-hl> <gloss>astronomy</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>priest</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>hatanu</link@x-tlb-hl> <tinellbian@x-tlb-hl>はたぬ</tinellbian@x-tlb-hl> <gloss>copernicium</gloss></wordlist>
               title: tanu - The Tinellbian Languages Dictionary
@@ -17208,8 +17225,8 @@ entries:
               - <link@x-tlb-hl>tuhi</link@x-tlb-hl> <tinellbian@x-tlb-hl>とひ</tinellbian@x-tlb-hl> <gloss>small</gloss> + <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>origami</gloss>
               title: tuhinuhu - The Tinellbian Languages Dictionary
             -tu’i:
-              date: '2019-01-22'
-              position: '11.17'
+              date: '2025-10-15'
+              position: '11.22'
               text:
               - <h1|headword>-tu’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17221,6 +17238,7 @@ entries:
               - <wordlist><link@x-tlb-hl>’isilitu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせえとい</tinellbian@x-tlb-hl> <gloss>pensiveness</gloss>
               - <link@x-tlb-hl>dasatu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ださとい</tinellbian@x-tlb-hl> <gloss>passion</gloss>
               - <link@x-tlb-hl>ta’itu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>たいとい</tinellbian@x-tlb-hl> <gloss>aroma</gloss>
+              - <link@x-tlb-hl>talitu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえとい</tinellbian@x-tlb-hl> <gloss>progress</gloss>
               - <link@x-tlb-hl>tarratu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっらとい</tinellbian@x-tlb-hl> <gloss>good impression</gloss></wordlist>
               - <h4|subheading>Antonym</h4|subheading>
               - <wordlist><link@x-tlb-hl>-da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>negative aspect</gloss></wordlist>
@@ -19005,6 +19023,27 @@ entries:
               - <poslink@x-tlb-hl>Parts of the Body</poslink@x-tlb-hl>
               position: '8.23'
               date: '2025-10-14'
+            talitu’i:
+              title: talitu’i - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>talitu’i</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>たえとい</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌtʰalɨˈtʰuʔɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>progress</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>tali</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>entropy</gloss> + <link@x-tlb-hl>-tu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> <gloss>positive</gloss>
+              position: '8.35'
+              date: '2025-10-15'
+            sali:
+              title: ''
+              text: []
+              position: '1.0'
+            -lu:
+              title: ''
+              text: []
+              position: '1.0'
             hasu:
               title: ''
               text: []

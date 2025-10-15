@@ -5,22 +5,22 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - hasuki
+  - salilu
 - - The Tinellbian Languages Dictionary
   - lex
-  - ha
+  - sa
 - - The Tinellbian Languages Dictionary
   - lex
-  - hasu
+  - sali
 - - The Tinellbian Languages Dictionary
   - lex
-  - suki
+  - lilu
 - - The Tinellbian Languages Dictionary
   - lex
-  - ki
+  - lu
 - - The Tinellbian Languages Dictionary
   - lex
-  - -ki
+  - -lu
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
