@@ -5,22 +5,19 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - salilu
+  - ’i’ami
 - - The Tinellbian Languages Dictionary
   - lex
-  - sa
+  - ’i
 - - The Tinellbian Languages Dictionary
   - lex
-  - sali
+  - ’ami
 - - The Tinellbian Languages Dictionary
   - lex
-  - lilu
+  - -mi
 - - The Tinellbian Languages Dictionary
   - lex
-  - lu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -lu
+  - mi
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

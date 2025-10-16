@@ -828,8 +828,8 @@ entries:
               - <link@x-tlb-hl>’axasi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あざせ</tinellbian@x-tlb-hl> <gloss>maturity</gloss> + <link@x-tlb-hl>-ri</link@x-tlb-hl> <tinellbian@x-tlb-hl>り</tinellbian@x-tlb-hl> <glossary>nmn</glossary>
               title: ’axasiri - The Tinellbian Languages Dictionary
             -ba:
-              date: '2025-04-26'
-              position: '19.24'
+              date: '2025-10-16'
+              position: '13.20'
               text:
               - <h1|headword>-ba</h1|headword>
               - <also>ba</also>
@@ -843,7 +843,7 @@ entries:
               - <link@x-tlb-hl>caba</link@x-tlb-hl> <tinellbian@x-tlb-hl>やば</tinellbian@x-tlb-hl> <gloss>helper</gloss>
               - <link@x-tlb-hl>hisuba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひすば</tinellbian@x-tlb-hl> <gloss>administrator</gloss></wordlist>
               - <h3|part-of-speech>derivational <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> (<poslink@x-tlb-hl>number</poslink@x-tlb-hl> → <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl>)</h3|part-of-speech>
-              - <definition>polyhedron; three-dimensional shape</definition>
+              - <definition>polyhedron; polytope</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>kifiba</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべば</tinellbian@x-tlb-hl> <gloss>tetrahedron</gloss>
               - <link@x-tlb-hl>nuruba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬるば</tinellbian@x-tlb-hl> <gloss>cube</gloss>
@@ -6268,15 +6268,10 @@ entries:
               - a point in space-time-reality-<link@x-tlb-hl>gingla</link@x-tlb-hl>
               title: ’isa - The Tinellbian Languages Dictionary
             ’isaki:
-              date: '2018-03-28'
-              text:
-              - <h1|headword>’isaki</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>いさき</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ʔɨsakʰɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl>, <poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>company; business</definition>
+              date: '2025-10-16'
+              text: []
               title: ’isaki - The Tinellbian Languages Dictionary
+              position: '1.0'
             ’isi:
               date: '2024-05-06'
               text:
@@ -7836,17 +7831,20 @@ entries:
               - — <link@x-tlb-hl>bila</link@x-tlb-hl> <tinellbian@x-tlb-hl>びわ</tinellbian@x-tlb-hl> <gloss>ree</gloss></wordlist>
               title: kifi - The Tinellbian Languages Dictionary
             kifissiji:
-              date: '2018-04-05'
+              date: '2025-10-16'
               text:
               - <h1|headword>kifissiji</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>きべっせじ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/kʰɨˈfisːɨɟi/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
               - <definition>triangle</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>-ssiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> <gloss>shape</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
               title: kifissiji - The Tinellbian Languages Dictionary
+              position: '11.0'
             kifuju:
               date: '2019-02-25'
               position: '7.20'
@@ -7882,19 +7880,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>ki</link@x-tlb-hl> <tinellbian@x-tlb-hl>き</tinellbian@x-tlb-hl> <gloss>to be big</gloss> + <link@x-tlb-hl>ladi</link@x-tlb-hl> <tinellbian@x-tlb-hl>わで</tinellbian@x-tlb-hl> <gloss>spreading</gloss>
               title: kiladi - The Tinellbian Languages Dictionary
-            kilatu’i:
-              date: '2019-01-06'
-              position: '6.59'
-              text:
-              - <h1|headword>kilatu’i</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>きわとい</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˌkʰiləˈtʰuʔɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> animal</hidden></h3|part-of-speech>
-              - <definition>deer</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <list-block><poslink@x-tlb-hl>List of Animals</poslink@x-tlb-hl></list-block>
-              title: kilatu’i - The Tinellbian Languages Dictionary
             kilu:
               date: '2025-04-19'
               position: '12.0'
@@ -8370,8 +8355,8 @@ entries:
               - <link@x-tlb-hl>’ima</link@x-tlb-hl> <tinellbian@x-tlb-hl>いま</tinellbian@x-tlb-hl> <gloss>void</gloss></wordlist>
               title: kunaqi - The Tinellbian Languages Dictionary
             kunubi:
-              date: '2025-04-14'
-              position: '15.0'
+              date: '2025-10-16'
+              position: '13.9'
               text:
               - <h1|headword>kunubi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -8385,7 +8370,7 @@ entries:
               - <wordlist><block><link@x-tlb-hl>kunubitu’afu</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬびとあふ</tinellbian@x-tlb-hl> <gloss>plains</gloss></block>
               - <block><link@x-tlb-hl>bajukunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばよくぬび</tinellbian@x-tlb-hl> <gloss>to be sky-blue</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><block><link@x-tlb-hl>salilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl> <gloss>night sky</gloss></block>
+              - <wordlist><block><link@x-tlb-hl>sallu</link@x-tlb-hl> <tinellbian@x-tlb-hl>さっを</tinellbian@x-tlb-hl> <gloss>night sky</gloss></block>
               - <block><link@x-tlb-hl>’u’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>うあ</tinellbian@x-tlb-hl> <gloss>wood</gloss>
               - <link@x-tlb-hl>da</link@x-tlb-hl> <tinellbian@x-tlb-hl>だ</tinellbian@x-tlb-hl> <gloss>water</gloss>
               - <link@x-tlb-hl>xuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずっは</tinellbian@x-tlb-hl> <gloss>fire</gloss>
@@ -11749,17 +11734,19 @@ entries:
               - — <link@x-tlb-hl>missu</link@x-tlb-hl> <tinellbian@x-tlb-hl>みっす</tinellbian@x-tlb-hl> <gloss>rour</gloss></wordlist>
               title: nuru - The Tinellbian Languages Dictionary
             nurussiji:
-              date: '2019-05-04'
-              position: '7.21'
+              date: '2025-10-16'
+              position: '11.0'
               text:
               - <h1|headword>nurussiji</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬるっせじ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/nʉˈɽusːɨɟi/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
               - <definition>square; rectangle; quadrilateral</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nuru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> <gloss>four</gloss> + <link@x-tlb-hl>-ssiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> <gloss>shape</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
               title: nurussiji - The Tinellbian Languages Dictionary
             nussa:
               date: '2018-04-03'
@@ -12162,7 +12149,7 @@ entries:
               - <wordlist><link@x-tlb-hl>kami</link@x-tlb-hl> <tinellbian@x-tlb-hl>かみ</tinellbian@x-tlb-hl> <gloss>domestication</gloss></wordlist>
               title: pani - The Tinellbian Languages Dictionary
             pannaxa:
-              date: '2025-10-10'
+              date: '2025-10-16'
               text:
               - <h1|headword>pannaxa</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -12170,13 +12157,15 @@ entries:
               - <pronunciation><ipa@x-tlb-hl>/ˈpʰaɲːəɕa/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>warrior</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>panna</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっな</tinellbian@x-tlb-hl> <gloss>member</gloss> + <link@x-tlb-hl>xa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl> <gloss>war</gloss>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>pannaxa’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss></wordlist>
               title: pannaxa - The Tinellbian Languages Dictionary
-              position: '8.25'
+              position: '8.27'
             pannaxa’uxxi:
-              date: '2019-05-04'
-              position: '4.27'
+              date: '2025-10-16'
+              position: '6.4'
               text:
               - <h1|headword>pannaxa’uxxi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -12667,8 +12656,8 @@ entries:
               - <link@x-tlb-hl>puci’ala</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷちあわ</tinellbian@x-tlb-hl> <gloss>spring</gloss></wordlist>
               title: pucidicci - The Tinellbian Languages Dictionary
             pu’i:
-              date: '2025-04-26'
-              position: '7.44'
+              date: '2025-10-16'
+              position: '8.8'
               text:
               - <h1|headword>pu’i</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -12677,31 +12666,35 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>modal</poslink@x-tlb-hl> adverb</h3|part-of-speech>
               - <definition>expresses incredulity</definition>
               - <h3|part-of-speech><hidden>mathematics </hidden><poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl> <poslink@x-tlb-hl>number</poslink@x-tlb-hl><hidden> numeral particle</hidden></h3|part-of-speech>
+              - <definition>infinity</definition>
               title: pu’i - The Tinellbian Languages Dictionary
             pu’iba:
-              date: '2018-03-30'
+              date: '2025-10-16'
               text:
               - <h1|headword>pu’iba</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぷいば</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰʉˈʔibə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>ball</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>riccu</link@x-tlb-hl> <tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl> <gloss>sphere</gloss></wordlist>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>ball; sphere</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>pu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷい</tinellbian@x-tlb-hl> <gloss>infinity</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polyhedron</gloss>
               title: pu’iba - The Tinellbian Languages Dictionary
+              position: '8.35'
             pu’issiji:
-              date: '2025-04-26'
-              position: '8.37'
+              date: '2025-10-16'
+              position: '11.0'
               text:
               - <h1|headword>pu’issiji</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぷいっせじ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/pʰʉˈʔisːɨɟɨ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
               - <definition>circle</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>pu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷい</tinellbian@x-tlb-hl> <gloss>infinity</gloss> + <link@x-tlb-hl>-ssiji</link@x-tlb-hl> <tinellbian@x-tlb-hl>っせじ</tinellbian@x-tlb-hl> <gloss>polygon</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
               title: pu’issiji - The Tinellbian Languages Dictionary
             pullata:
               date: '2018-04-16'
@@ -13964,18 +13957,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>end (of a line, stick)</definition>
               title: rica - The Tinellbian Languages Dictionary
-            riccu:
-              date: '2018-04-08'
-              text:
-              - <h1|headword>riccu</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/ˈɽicːʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>sphere</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>pu’iba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷいば</tinellbian@x-tlb-hl> <gloss>ball</gloss></wordlist>
-              title: riccu - The Tinellbian Languages Dictionary
             rida:
               date: '2018-04-08'
               text:
@@ -14791,19 +14772,6 @@ entries:
               - ↓ <link@x-tlb-hl>’aggini</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっぎに</tinellbian@x-tlb-hl> <gloss>bismuth</gloss></wordlist>
               title: salari - The Tinellbian Languages Dictionary
               position: '8.27'
-            salilu:
-              date: '2025-10-15'
-              position: '8.14'
-              text:
-              - <h1|headword>salilu</h1|headword>
-              - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>さえを</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/səˈlilʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>night sky</definition>
-              - <h4|subheading>See Also</h4|subheading>
-              - <wordlist><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss></wordlist>
-              title: salilu - The Tinellbian Languages Dictionary
             salumi:
               date: '2025-04-25'
               position: '5.17'
@@ -16145,15 +16113,15 @@ entries:
               - <template>terminal auxiliaries</template>
               title: takaru - The Tinellbian Languages Dictionary
             takki:
-              date: '2025-04-25'
-              position: '7.0'
+              date: '2025-10-16'
+              position: '6.26'
               text:
               - <h1|headword>takki</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈtʰakːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><hidden>mathematics</hidden> <poslink@x-tlb-hl>cardinal</poslink@x-tlb-hl><hidden> number</hidden> <poslink@x-tlb-hl>numeral</poslink@x-tlb-hl><hidden> particle</hidden></h3|part-of-speech>
-              - <definition>100; one hundred; (225)</definition>
+              - <definition><b>225</b> <i>100</i>; one hundred; many</definition>
               title: takki - The Tinellbian Languages Dictionary
             takku:
               title: takku - The Tinellbian Languages Dictionary
@@ -17813,8 +17781,8 @@ entries:
               - <template>personal pronouns</template>
               title: ’usu - The Tinellbian Languages Dictionary
             ’uxxi:
-              date: '2024-09-02'
-              position: '4.36'
+              date: '2025-10-16'
+              position: '6.15'
               text:
               - <h1|headword>’uxxi</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17827,8 +17795,8 @@ entries:
               - <h4|subheading>Hyponyms</h4|subheading>
               - <wordlist><link@x-tlb-hl>ju’ipu’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>よいぷあ</tinellbian@x-tlb-hl> <gloss>assembly</gloss></wordlist>
               - <h4|subheading>Derived Terms</h4|subheading>
-              - <wordlist><link@x-tlb-hl>pannaxa’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss>
-              - <link@x-tlb-hl>luxira</link@x-tlb-hl>’uxxi <tinellbian@x-tlb-hl>をしらうっし</tinellbian@x-tlb-hl> <gloss>set of twins</gloss></wordlist>
+              - <wordlist><link@x-tlb-hl>pannaxa’uxxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざうっし</tinellbian@x-tlb-hl> <gloss>army</gloss>
+              - <link@x-tlb-hl>luxira</link@x-tlb-hl><b>’uxxi</b> <tinellbian@x-tlb-hl>をしらうっし</tinellbian@x-tlb-hl> <gloss>set of twins</gloss></wordlist>
               title: ’uxxi - The Tinellbian Languages Dictionary
             w:
               date: '2019-06-01'
@@ -17843,15 +17811,17 @@ entries:
               - Can also be pronounced as <gloss>double-u</gloss>
               title: w - The Tinellbian Languages Dictionary
             -xa:
-              date: '2018-04-05'
+              date: '2025-10-16'
               text:
               - <h1|headword>-xa</h1|headword>
+              - <also>xa</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>suffix</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>dative promotion; dtv</definition>
+              - <definition>dative promotion; <glossary>dtv</glossary></definition>
               title: -xa - The Tinellbian Languages Dictionary
+              position: '7.21'
             xa’a:
               date: '2018-04-05'
               text:
@@ -18960,15 +18930,20 @@ entries:
               title: xa - The Tinellbian Languages Dictionary
               text:
               - <h1|headword>xa</h1|headword>
+              - <also>-xa</also>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ざ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ɕa/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>war</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>pannaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざ</tinellbian@x-tlb-hl> <gloss>warrior</gloss></wordlist>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>ring <note>jewellery</note></definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>xasagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざさぎ</tinellbian@x-tlb-hl> <gloss>neptunium</gloss></wordlist>
-              position: '6.14'
-              date: '2025-10-14'
+              position: '9.20'
+              date: '2025-10-16'
             sagi:
               title: sagi - The Tinellbian Languages Dictionary
               text:
@@ -19036,18 +19011,133 @@ entries:
               - <link@x-tlb-hl>tali</link@x-tlb-hl> <tinellbian@x-tlb-hl>たえ</tinellbian@x-tlb-hl> <gloss>entropy</gloss> + <link@x-tlb-hl>-tu’i</link@x-tlb-hl> <tinellbian@x-tlb-hl>とい</tinellbian@x-tlb-hl> <gloss>positive</gloss>
               position: '8.35'
               date: '2025-10-15'
-            sali:
-              title: ''
-              text: []
-              position: '1.0'
-            -lu:
-              title: ''
-              text: []
-              position: '1.0'
-            hasu:
-              title: ''
-              text: []
-              position: '1.0'
+            sallu:
+              title: sallu - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>sallu</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>さっを</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈsaʎːʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>night sky</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><link@x-tlb-hl>kunubi</link@x-tlb-hl> <tinellbian@x-tlb-hl>くぬび</tinellbian@x-tlb-hl> <gloss>sky</gloss></wordlist>
+              position: '8.14'
+              date: '2025-10-16'
+            panna:
+              title: panna - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>panna</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぱっな</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈpaɲːa/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>animate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>one of a group of people</definition>
+              - <h4|subheading>Derived Terms</h4|subheading>
+              - <wordlist><link@x-tlb-hl>pannaxa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱっなざ</tinellbian@x-tlb-hl> <gloss>warrior</gloss></wordlist>
+              position: '8.20'
+              date: '2025-10-16'
+            kifiba:
+              title: kifiba - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>kifiba</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きべば</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/kʰiˈfibə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>tetrahedron</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polytope</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '8.30'
+              date: '2025-10-16'
+            nuruba:
+              title: nuruba - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>nuruba</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぬるば</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/nʉˈɽubə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>cube</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>nuru</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬる</tinellbian@x-tlb-hl> <gloss>four</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polyhedron</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '5.28'
+              date: '2025-10-16'
+            kifibara:
+              title: kifibara - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>kifibara</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きべばら</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˌkʰifɨˈbaɽə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>octahedron</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polytope</gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>two</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '8.21'
+              date: '2025-10-16'
+            guhiba:
+              title: guhiba - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>guhiba</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>ぐひば</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/gʉˈhibə/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>dodecahedron</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>guhi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぐひ</tinellbian@x-tlb-hl> <gloss>five</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polytope</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '10.14'
+              date: '2025-10-16'
+            takkiba:
+              title: takkiba - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>takkiba</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>たっきば</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈtʰakːɨba/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>icosohedron</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>takki</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl> <gloss>many</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polytope</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '8.14'
+              date: '2025-10-16'
+            riccu:
+              title: riccu - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>riccu</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>りっゆ</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/ˈɽicːʉ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <definition>fantasy <note>genre</note></definition>
+              position: '6.13'
+              date: '2025-10-16'
+            kifibatakki:
+              title: kifibatakki - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>kifibatakki</h1|headword>
+              - <h2|language>High Lulani</h2|language>
+              - <native-script><tinellbian@x-tlb-hl>きべばたっき</tinellbian@x-tlb-hl></native-script>
+              - <pronunciation><ipa@x-tlb-hl>/kʰɨˌfibəˈtʰakːɨ/</ipa@x-tlb-hl></pronunciation>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <hidden>derived </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> shape</hidden></h3|part-of-speech>
+              - <definition>icosotetrachoron</definition>
+              - <h4|subheading>Etymology</h4|subheading>
+              - <link@x-tlb-hl>kifi</link@x-tlb-hl> <tinellbian@x-tlb-hl>きべ</tinellbian@x-tlb-hl> <gloss>three</gloss> + <link@x-tlb-hl>-ba</link@x-tlb-hl> <tinellbian@x-tlb-hl>ば</tinellbian@x-tlb-hl> <gloss>polytope</gloss> + <link@x-tlb-hl>takki</link@x-tlb-hl> <tinellbian@x-tlb-hl>たっき</tinellbian@x-tlb-hl> <gloss>many</gloss>
+              - <h4|subheading>See Also</h4|subheading>
+              - <poslink@x-tlb-hl>List of Shapes</poslink@x-tlb-hl>
+              position: '10.14'
+              date: '2025-10-16'
           date: '2024-05-29'
           position: '1.0'
           text: []
