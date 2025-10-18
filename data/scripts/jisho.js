@@ -1,10 +1,10 @@
-Jisho('wordlist.json')
+Jisho('/data/assets/wordlist.json')
 
 async function Jisho(wordlist) {
     let words = await fetch(wordlist);
     words = await words.json();
     words = words.filter(word => word.l == 'High Lulani');
-    words.forEach(word => word.n = FIRST(word.m));
+    words.forEach(word => word.n = FIRST(word.d));
     let jisho = `<dl>${words.map(
             word => `<dt>${word.t}</dt><dd><em>${POS(word)}</em> ${word.n}</dd>`
         ).join('\n')}</dl>`
@@ -53,5 +53,6 @@ const POS = word => {
     else if (word.p.includes('ordinal')) {return 'num.' }
     else if (word.p.includes('mathematics')) {return 'math.' }
     else if (word.p.includes('particle')) {return 'part.' }
-    else return word.p.join(' ');
+    else return word.p;
+
 }

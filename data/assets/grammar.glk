@@ -16,6 +16,7 @@ x-tlb-hl:
   chance: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#chance
   chromatic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#chromaticverbs
   cisclass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#cisclasssuffixes
+  clausal: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Conjunctions.html#clause-levelconjunctions
   communicative: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Ambitransitive.html#communicativeverbs
   comparative: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Comparatives.html
   compoundnoun: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html#compound
@@ -76,6 +77,7 @@ x-tlb-hl:
   quasi-suffix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Cisclass.html#quasi-suffixes
   quasi-transitive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#quasi-transitiveverbs
   sahaki: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html#two-digitnumbers
+  subordinating: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Conjunctions.html#Subordinating Conjunctions
   suffix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html
   symmetric: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#symmetricrelations
   time: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#time
