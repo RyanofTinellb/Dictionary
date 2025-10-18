@@ -5,13 +5,25 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - dibada
+  - paraba
 - - The Tinellbian Languages Dictionary
   - lex
-  - diba
+  - pa
 - - The Tinellbian Languages Dictionary
   - lex
-  - da
+  - para
+- - The Tinellbian Languages Dictionary
+  - lex
+  - raba
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ba
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ba
+- - The Tinellbian Languages Dictionary
+  - lex
+  - ra
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

@@ -32,9 +32,9 @@ x-tlb-hl:
   emotion: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#emotion
   evidence: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#evidence
   extent: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#extent
-  foodanddrink: special/Search.html?term=food
+  foodanddrink: /special/Search.html?term=food
   generic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#quasi-suffixes
-  geologicalterms: special/Search.html?term=geology
+  geologicalterms: /special/Search.html?term=geology
   gerund: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Gerunds.html
   inanimate: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html#inanimate
   inanimates: https://grammar.tinellb.com/Languages/Lulani/High/Morphology/Adpositions.html#inanimates
@@ -43,10 +43,12 @@ x-tlb-hl:
   intransitive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html
   kinetic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#kineticverbs
   kinshipterms: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Kinship.html
-  listofanimals: special/Search.html?term=animal
+  listofanimals: /special/Search.html?term=animal
+  listofclothing: /special/Search.html?term=clothing
   listofelements: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Elements.html
-  listofplants: special/Search.html?term=plant
-  listofshapes: special/Search.html?term=shape
+  listofplants: /special/Search.html?term=plant
+  listofshapes: /special/Search.html?term=shape
+  location: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Adpositions.html#Location
   mass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html#mass
   mathematics: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html
   modal: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#modals
@@ -60,8 +62,8 @@ x-tlb-hl:
   numeral: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html
   occasion: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#occasion
   ordinal: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html#ordinalnumbers
-  othersubstances: special/Search.html?term=substance
-  partsofthebody: special/Search.html?term=bodypart
+  othersubstances: /special/Search.html?term=substance
+  partsofthebody: /special/Search.html?term=bodypart
   particle: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Particles/Index.html
   passive: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Argument Promotion.html
   perceptive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Ambitransitive.html#perceptiveverbs

@@ -141,8 +141,7 @@ h2|language:
   keys:
     'off': Return
     'on': 2
-  param:
-    string: ' id="$grammar(text)$|$node$'
+  param: ' id="$grammar(text)$|$node$'
   props:
     bold: true
     font: Artisan Paris
@@ -254,7 +253,9 @@ native-script:
     justification: centre
   type: div
 note:
-  key: n
+  keys:
+   'on': n
+   'off': space
   props:
     italics: true
     size: 90
