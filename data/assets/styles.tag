@@ -142,8 +142,7 @@ h2|language:
     'off': Return
     'on': 2
   param:
-    string: ' id="$link$|$node$'
-    link: $grammar(text)$
+    string: ' id="$grammar(text)$|$node$'
   props:
     bold: true
     font: Artisan Paris

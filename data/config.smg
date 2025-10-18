@@ -5,28 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - mifasu
+  - dibada
 - - The Tinellbian Languages Dictionary
   - lex
-  - mifa
+  - diba
 - - The Tinellbian Languages Dictionary
   - lex
-  - -su
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -mi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - su
-- - The Tinellbian Languages Dictionary
-  - lex
-  - su’usi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - kitisu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - kiti
+  - da
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
