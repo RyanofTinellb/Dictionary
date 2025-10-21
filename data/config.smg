@@ -17,7 +17,22 @@ entries:
   - ’uja
 - - The Tinellbian Languages Dictionary
   - lex
-  - ja
+  - -la
+- - The Tinellbian Languages Dictionary
+  - lex
+  - mi’ula
+- - The Tinellbian Languages Dictionary
+  - lex
+  - raddila
+- - The Tinellbian Languages Dictionary
+  - lex
+  - fiqqala
+- - The Tinellbian Languages Dictionary
+  - lex
+  - saqala
+- - The Tinellbian Languages Dictionary
+  - lex
+  - xakila
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
