@@ -5,25 +5,19 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - paraba
+  - ’i’uja
 - - The Tinellbian Languages Dictionary
   - lex
-  - pa
+  - ’i’u
 - - The Tinellbian Languages Dictionary
   - lex
-  - para
+  - ’i
 - - The Tinellbian Languages Dictionary
   - lex
-  - raba
+  - ’uja
 - - The Tinellbian Languages Dictionary
   - lex
-  - ba
-- - The Tinellbian Languages Dictionary
-  - lex
-  - -ba
-- - The Tinellbian Languages Dictionary
-  - lex
-  - ra
+  - ja
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
