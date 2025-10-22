@@ -5,34 +5,22 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’i’uja
+  - na’ipa
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’i’u
+  - na
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’i
+  - na’i
 - - The Tinellbian Languages Dictionary
   - lex
-  - ’uja
+  - ’ipa
 - - The Tinellbian Languages Dictionary
   - lex
-  - -la
+  - quliru
 - - The Tinellbian Languages Dictionary
   - lex
-  - mi’ula
-- - The Tinellbian Languages Dictionary
-  - lex
-  - raddila
-- - The Tinellbian Languages Dictionary
-  - lex
-  - fiqqala
-- - The Tinellbian Languages Dictionary
-  - lex
-  - saqala
-- - The Tinellbian Languages Dictionary
-  - lex
-  - xakila
+  - -rra
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
