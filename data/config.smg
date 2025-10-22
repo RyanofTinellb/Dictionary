@@ -21,6 +21,9 @@ entries:
 - - The Tinellbian Languages Dictionary
   - lex
   - -rra
+- - The Tinellbian Languages Dictionary
+  - lex
+  - tila
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

@@ -1658,10 +1658,6 @@ entries:
               - → <link@x-tlb-hl>’i’isata</link@x-tlb-hl> <tinellbian@x-tlb-hl>いいさた</tinellbian@x-tlb-hl> <gloss>samarium</gloss>
               - ↓ <link@x-tlb-hl>xasagi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざさぎ</tinellbian@x-tlb-hl> <gloss>neptunium</gloss></wordlist>
               title: ’uccadama - The Tinellbian Languages Dictionary
-            ’uja:
-              title: ''
-              text: []
-              position: '1.0'
             ’umi:
               date: '2025-10-04'
               position: '9.25'
@@ -2718,10 +2714,6 @@ entries:
               - <list-block><b>High Lulani:</b> <link@x-tlb-hl>Pi’adu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぴあど</tinellbian@x-tlb-hl>
               - <b>Koine Fezhlê:</b> <link@x-tlb-kf>Piadû</link@x-tlb-kf></list-block>
               title: Piado - The Tinellbian Languages Dictionary
-            pu:
-              title: ''
-              text: []
-              position: '1.0'
             -pu’a:
               date: '2024-07-22'
               text:
@@ -2931,10 +2923,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>puxi</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷし</tinellbian@x-tlb-hl> <gloss>exchange</gloss> + <link@x-tlb-hl>-la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>component</gloss>
               title: puxila - The Tinellbian Languages Dictionary
-            puha:
-              title: ''
-              text: []
-              position: '1.0'
             $brequé:
               date: '2024-05-28'
               position: '3.18'
@@ -3633,11 +3621,6 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>’issu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっす</tinellbian@x-tlb-hl> <gloss>vagina</gloss></wordlist>
               title: buqqi - The Tinellbian Languages Dictionary
-            bulk:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             bufi:
               date: '2025-03-29'
               position: '14.16'
@@ -4009,10 +3992,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>tapu</link@x-tlb-hl> <tinellbian@x-tlb-hl>たぷ</tinellbian@x-tlb-hl> <gloss>to enjoy</gloss> + <link@x-tlb-hl>nara</link@x-tlb-hl> <tinellbian@x-tlb-hl>なら</tinellbian@x-tlb-hl> <gloss>to sleep</gloss>
               title: tapunara - The Tinellbian Languages Dictionary
-            tada:
-              title: ''
-              text: []
-              position: '1.0'
             taddi:
               date: '2018-03-30'
               position: '1.0'
@@ -4697,8 +4676,8 @@ entries:
               - <b>High Lulani:</b> <link@x-tlb-hl>Tinalli</link@x-tlb-hl> <tinellbian@x-tlb-hl>てなっえ</tinellbian@x-tlb-hl>
               title: Tinellb - The Tinellbian Languages Dictionary
             tila:
-              date: '2019-01-07'
-              position: '4.33'
+              date: '2025-10-22'
+              position: '12.0'
               text:
               - <h1|headword>tila</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -4708,9 +4687,9 @@ entries:
               - <definition>animal shell</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Parts of the Body</poslink@x-tlb-hl>
-              - <block><poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></block><wordlist><link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss>
+              - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl>
+              - </list-block><wordlist><link@x-tlb-hl>bufitila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぶべてわ</tinellbian@x-tlb-hl> <gloss>limestone</gloss>
               - <link@x-tlb-hl>dasutila</link@x-tlb-hl> <tinellbian@x-tlb-hl>だすてわ</tinellbian@x-tlb-hl> <gloss>mollusc</gloss></wordlist>
-              - </list-block>
               title: tila - The Tinellbian Languages Dictionary
             tiri:
               title: tiri - The Tinellbian Languages Dictionary
@@ -5069,10 +5048,6 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>-ppa</link@x-tlb-hl> <tinellbian@x-tlb-hl>っあ</tinellbian@x-tlb-hl> <gloss>time</gloss></wordlist>
               title: tuja - The Tinellbian Languages Dictionary
-            tuka:
-              title: ''
-              text: []
-              position: '1.0'
             tukaga:
               date: '2025-10-18'
               text:
@@ -6446,11 +6421,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>dihi</link@x-tlb-hl> <tinellbian@x-tlb-hl>でひ</tinellbian@x-tlb-hl> <gloss>smoke</gloss> + <link@x-tlb-hl>-qa</link@x-tlb-hl> <tinellbian@x-tlb-hl>げ</tinellbian@x-tlb-hl> <gloss><glossary>3ina;gen</glossary></gloss> + <link@x-tlb-hl>ra</link@x-tlb-hl> <tinellbian@x-tlb-hl>ら</tinellbian@x-tlb-hl> <gloss>metal</gloss>
               title: dihiqa ra - The Tinellbian Languages Dictionary
-            du:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             -du:
               date: '2025-10-18'
               position: '9.0'
@@ -6829,10 +6799,6 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>lukku</link@x-tlb-hl> <tinellbian@x-tlb-hl>をっく</tinellbian@x-tlb-hl> <gloss>wall</gloss></wordlist>
               title: cadi - The Tinellbian Languages Dictionary
-            cadu:
-              title: ''
-              text: []
-              position: '1.0'
             cakassu:
               date: '2025-10-10'
               position: '5.27'
@@ -7863,11 +7829,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>perceptive</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to taste; to smell</definition>
               title: ji’i - The Tinellbian Languages Dictionary
-            jita:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             jimu:
               date: '2024-07-24'
               text:
@@ -7905,11 +7866,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>voice; accent</definition>
               title: jiqu - The Tinellbian Languages Dictionary
-            jifa:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             jifadi:
               date: '2018-04-05'
               text:
@@ -9656,10 +9612,6 @@ entries:
               - <link@x-tlb-hl>galaffi</link@x-tlb-hl> <tinellbian@x-tlb-hl>がわっべ</tinellbian@x-tlb-hl> <gloss>to put in charge</gloss></block>
               - <block><link@x-tlb-hl>lannaga</link@x-tlb-hl> <tinellbian@x-tlb-hl>わっなが</tinellbian@x-tlb-hl> <gloss>experiment</gloss></block></wordlist>
               title: ga - The Tinellbian Languages Dictionary
-            -ga:
-              title: ''
-              text: []
-              position: '1.0'
             ga’i:
               date: '2025-04-14'
               position: '11.15'
@@ -12455,10 +12407,6 @@ entries:
               - ↑ <link@x-tlb-hl>hila</link@x-tlb-hl> <tinellbian@x-tlb-hl>ひわ</tinellbian@x-tlb-hl> <gloss>tantalum</gloss></wordlist>
               title: nulla - The Tinellbian Languages Dictionary
               position: '12.0'
-            nuli:
-              title: ''
-              text: []
-              position: '1.0'
             nulli:
               date: '2019-01-06'
               position: '6.61'
@@ -13847,11 +13795,6 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
               title: lica - The Tinellbian Languages Dictionary
-            likki:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             limma:
               date: '2018-04-04'
               text:
@@ -14437,6 +14380,7 @@ entries:
               - <wordlist><link@x-tlb-hl>tisakarra</link@x-tlb-hl> <tinellbian@x-tlb-hl>てさかっら</tinellbian@x-tlb-hl> <gloss>townsperson</gloss>
               - <link@x-tlb-hl>ramirra</link@x-tlb-hl> <tinellbian@x-tlb-hl>らみっら</tinellbian@x-tlb-hl> <gloss>guest</gloss></wordlist>
               title: -rra - The Tinellbian Languages Dictionary
+              position: '1.0'
             raʔa:
               title: raʔa - The Tinellbian Languages Dictionary
               text:
@@ -15027,10 +14971,6 @@ entries:
               - <link@x-tlb-hl>ritada</link@x-tlb-hl> <tinellbian@x-tlb-hl>りただ</tinellbian@x-tlb-hl> <gloss>doom</gloss></wordlist>
               position: '9.15'
               date: '2025-10-18'
-            ritatu’i:
-              title: ''
-              text: []
-              position: '1.0'
             ritada:
               date: '2025-10-18'
               position: '5.26'
@@ -15775,10 +15715,6 @@ entries:
               - ↓ <link@x-tlb-hl>’ittika</link@x-tlb-hl> <tinellbian@x-tlb-hl>いってか</tinellbian@x-tlb-hl> <gloss>oganesson</gloss></wordlist>
               title: fasami - The Tinellbian Languages Dictionary
               position: '6.5'
-            fasu:
-              title: ''
-              text: []
-              position: '1.0'
             faxi:
               date: '2024-07-24'
               position: '1.0'
@@ -16820,8 +16756,8 @@ entries:
               title: saqala - The Tinellbian Languages Dictionary
               position: '8.34'
             sala:
-              date: '2025-10-06'
-              position: '14.36'
+              date: '2025-10-22'
+              position: '11.13'
               text:
               - <h1|headword>sala</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -16832,8 +16768,8 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><template>Periodic Table</template>
               - <poslink@x-tlb-hl>Other Substances</poslink@x-tlb-hl></list-block>
-              - <block><poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
-              - </block><h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <poslink@x-tlb-hl>Food and Drink</poslink@x-tlb-hl>
+              - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>making up; applying cosmetics</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>salari</link@x-tlb-hl> <tinellbian@x-tlb-hl>さわり</tinellbian@x-tlb-hl> <gloss>make-up artist / antimony</gloss></wordlist>
@@ -18002,10 +17938,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xaki</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざき</tinellbian@x-tlb-hl> <gloss>cogitation</gloss> + <link@x-tlb-hl>-la</link@x-tlb-hl> <tinellbian@x-tlb-hl>わ</tinellbian@x-tlb-hl> <gloss>component</gloss>
               title: xakila - The Tinellbian Languages Dictionary
-            xana:
-              title: ''
-              text: []
-              position: '1.0'
             xanaki:
               date: '2025-10-22'
               position: '5.27'
@@ -18296,11 +18228,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>japu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぢぷ</tinellbian@x-tlb-hl> <gloss>sincerity</gloss>
               title: xijapu - The Tinellbian Languages Dictionary
-            xiki:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             xiku:
               date: '2018-04-05'
               text:
@@ -18354,11 +18281,6 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>xi</link@x-tlb-hl> <tinellbian@x-tlb-hl>し</tinellbian@x-tlb-hl> <gloss>to seem</gloss> + <link@x-tlb-hl>mussa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むっさ</tinellbian@x-tlb-hl> <gloss>exoticism</gloss>
               title: ximussa - The Tinellbian Languages Dictionary
-            xila:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             xiranna:
               date: '2019-03-19'
               position: '4.43'
@@ -18540,11 +18462,6 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>time</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>suddeness; <gloss>instantly</gloss></definition>
               title: xuga - The Tinellbian Languages Dictionary
-            xuni:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             xulagi:
               date: '2019-07-07'
               position: '4.33'
@@ -19432,11 +19349,6 @@ entries:
               - <wordlist><link@x-tlb-hl>tissaku</link@x-tlb-hl> <tinellbian@x-tlb-hl>てっさく</tinellbian@x-tlb-hl> <gloss>gale</gloss>
               - <link@x-tlb-hl>’isilaku</link@x-tlb-hl> <tinellbian@x-tlb-hl>いせわく</tinellbian@x-tlb-hl> <gloss>depression</gloss></wordlist>
               title: -aku - The Tinellbian Languages Dictionary
-            -aga:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
             -ar-:
               date: '2025-01-20'
               position: '4.33'
@@ -19595,15 +19507,6 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - Can also be pronounced as <gloss>double-u</gloss>
               title: w - The Tinellbian Languages Dictionary
-            na’i:
-              title: ''
-              text: []
-              position: '1.0'
-            ’ipa:
-              title: ''
-              text: []
-              position: '1.0'
-              date: null
           date: '2024-05-29'
           position: '1.0'
           text: []
