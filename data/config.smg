@@ -5,13 +5,64 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - munika
+  - jifadi
 - - The Tinellbian Languages Dictionary
   - lex
-  - ka
+  - jifa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ri
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ru
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ffi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -sa
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ssiji
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -su
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ss·su
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -hha
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -hu
 - - The Tinellbian Languages Dictionary
   - lex
   - -a
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -aku
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -iju
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ini
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -illu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ira
+- - The Tinellbian Languages Dictionary
+  - lex
+  - -ulu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - pa-
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

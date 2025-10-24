@@ -255,7 +255,7 @@ native-script:
 note:
   keys:
    'on': n
-   'off': space
+   'off': Return
   props:
     italics: true
     size: 90
