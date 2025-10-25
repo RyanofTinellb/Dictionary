@@ -58,7 +58,6 @@ x-tlb-hl:
   negative: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Matrixclauses/Negativecomplements.html
   negativecomplement: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Matrixclauses/Negativecomplements.html
   noun: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html
-  nominalisation: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#nominalisation
   number: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html
   numeral: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html
   occasion: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#occasion
@@ -71,6 +70,7 @@ x-tlb-hl:
   periodictable: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Elements.html
   personal: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Deixis/Personalpro-forms.html
   possessive: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Kinship.html#nuclearfamily
+  prefix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#Mathematical Affixes
   probability: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#probability
   prodeterminer: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Determiners.html
   pro-form: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Deixis/Index.html#pro-forms
