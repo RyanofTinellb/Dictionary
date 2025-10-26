@@ -5,28 +5,7 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - tappa
-- - The Tinellbian Languages Dictionary
-  - lex
-  - rani
-- - The Tinellbian Languages Dictionary
-  - lex
-  - qarihu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - tupi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - da
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sahha
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sa-
-- - The Tinellbian Languages Dictionary
-  - lex
-  - tila
+  - kaca
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
