@@ -5,7 +5,10 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - kaca
+  - $caemi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $tayedu
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime

@@ -4599,6 +4599,25 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>probability; <i>probably</i>; <i>probability</i> <i>≈</i> <i>0.50</i></definition>
               title: tasi - The Tinellbian Languages Dictionary
+            $tayedu:
+              title: $tayedu - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Tayedu</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/tʰəˈjedʊ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>The goddess of entropy, death and chance</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Volzd</link@en>
+              - <link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '14.0'
+              date: '2025-10-30'
             $ṭepet:
               date: '2024-05-06'
               position: '2.22'
