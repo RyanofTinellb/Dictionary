@@ -11877,14 +11877,14 @@ entries:
               - while the week of native High Lulani speakers consisted of nine days, this word is used to refer to any similar period of time.
               title: musaqapi - The Tinellbian Languages Dictionary
             musaqu:
-              date: '2025-10-04'
+              date: '2025-11-08'
               text:
               - <h1|headword>musaqu</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>むさも</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/mʉˈsaŋʉ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl> <poslink@x-tlb-hl>mass</poslink@x-tlb-hl> <hidden>derived compound </hidden><poslink@x-tlb-hl>noun</poslink@x-tlb-hl><hidden> element</hidden></h3|part-of-speech>
-              - <definition>lead; element 82</definition>
+              - <definition>lead <note>element</note></definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>musa</link@x-tlb-hl> <tinellbian@x-tlb-hl>むさ</tinellbian@x-tlb-hl> <gloss>sun</gloss> + <link@x-tlb-hl>qu</link@x-tlb-hl> <tinellbian@x-tlb-hl>も</tinellbian@x-tlb-hl> <gloss>gnome</gloss>
               - <h4|subheading>See Also</h4|subheading>
@@ -11895,7 +11895,7 @@ entries:
               - ↑ <link@x-tlb-hl>laji</link@x-tlb-hl> <tinellbian@x-tlb-hl>わじ</tinellbian@x-tlb-hl> <gloss>tin</gloss>
               - ↓ <link@x-tlb-hl>xa’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざあ</tinellbian@x-tlb-hl> <gloss>flerovium</gloss></wordlist>
               title: musaqu - The Tinellbian Languages Dictionary
-              position: '8.24'
+              position: '6.12'
             na:
               date: '2025-10-25'
               position: '19.17'
