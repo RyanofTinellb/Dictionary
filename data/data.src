@@ -3894,6 +3894,25 @@ entries:
               - <h4|subheading>Translations</h4|subheading>
               - <b>High Lulani:</b> <link@x-tlb-hl>xaraduluri</link@x-tlb-hl> <tinellbian@x-tlb-hl>ざらどをり</tinellbian@x-tlb-hl>
               title: tsarship - The Tinellbian Languages Dictionary
+            $tserron:
+              title: Tserron - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Tserron</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈtsɛrɒn/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>The god of life, order and the earth</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '4.11'
+              date: '2025-11-08'
             ta:
               date: '2025-10-25'
               position: '9.14'
@@ -4600,24 +4619,24 @@ entries:
               - <definition>probability; <i>probably</i>; <i>probability</i> <i>≈</i> <i>0.50</i></definition>
               title: tasi - The Tinellbian Languages Dictionary
             $tayedu:
-              title: $tayedu - The Tinellbian Languages Dictionary
+              title: Tayedu - The Tinellbian Languages Dictionary
               text:
               - <h1|headword>Tayedu</h1|headword>
               - <h2|language>English</h2|language>
-              - <pronunciation><ipa@en>/tʰəˈjedʊ/</ipa@en></pronunciation>
+              - <pronunciation><ipa@en>/ˈtʰiʕdɯ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>The goddess of entropy, death and chance</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@en>Caemi</link@en>
               - <link@en>Tserron</link@en></block>
-              - <block><link@en>Volzd</link@en>
-              - <link@en>Zigûti</link@en>
+              - <block><link@en>Zigûti</link@en>
               - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
               - <link@en>Vohalu</link@en></block>
               - <block><link@en>Yao</link@en>
               - <link@en>Umi</link@en></block></wordlist>
-              position: '14.0'
-              date: '2025-10-30'
+              position: '15.0'
+              date: '2025-11-08'
             $ṭepet:
               date: '2024-05-06'
               position: '2.22'
@@ -7273,24 +7292,24 @@ entries:
               title: cahuri - The Tinellbian Languages Dictionary
               position: '6.8'
             $caemi:
-              date: '2025-04-14'
-              position: '5.38'
+              date: '2025-11-08'
+              position: '8.6'
               text:
               - <h1|headword>Caemi</h1|headword>
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ðəˈjɛmɪ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>The goddess of light, energy and chaos</definition>
+              - <definition>The goddess of light, chaos and the sun</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><block><link@en>Tserron</link@en></block>
-              - <block><link@en>Volzd</link@en>
-              - <link@en>Zigûti</link@en>
+              - <block><link@en>Zigûti</link@en>
               - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
               - <link@en>Vohalu</link@en></block>
               - <block><link@en>Yao</link@en>
               - <link@en>Tayedu</link@en>
               - <link@en>Umi</link@en></block></wordlist>
-              title: $caemi - The Tinellbian Languages Dictionary
+              title: Caemi - The Tinellbian Languages Dictionary
             ci:
               date: '2025-10-18'
               position: '9.21'
@@ -13674,6 +13693,25 @@ entries:
               - <h4|subheading>See Also</h4|subheading>
               - <template>personal pronouns</template>
               title: quhu - The Tinellbian Languages Dictionary
+            $qolt:
+              title: Qolt - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Qolt</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈŋ͡ǂɒlt/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>the god of time, thought and joy</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Volzd</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '9.6'
+              date: '2025-11-08'
             $qōla:
               date: '2024-05-28'
               position: '5.29'
@@ -16614,6 +16652,44 @@ entries:
               - <wordlist><link@x-tlb-hl>’ifuhha</link@x-tlb-hl> <tinellbian@x-tlb-hl>いふっは</tinellbian@x-tlb-hl> <gloss>to argue</gloss>
               - <link@x-tlb-hl>’ifuhhanaku</link@x-tlb-hl> <tinellbian@x-tlb-hl>いふっはなく</tinellbian@x-tlb-hl> <gloss>to agree</gloss></wordlist>
               title: fuhha - The Tinellbian Languages Dictionary
+            $volzd:
+              title: Volzd - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Volzd</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈvɒlst/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>The goddess of emotion, reality and fire</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '5.31'
+              date: '2025-11-07'
+            $vohalu:
+              title: Vohalu - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Vohalu</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/vəˈhalʊ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>the goddess of love, gingla and etiquette</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '11.5'
+              date: '2025-11-08'
             $the’a:
               date: '2024-05-28'
               text:
@@ -16626,6 +16702,16 @@ entries:
               - This is not the same bubble as <link@en>Tinellb</link@en>.
               title: The’a - The Tinellbian Languages Dictionary
               position: '1.0'
+            $thilia:
+              title: Thilia - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Thilia</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈθɪlɪjə/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>planet in universe <universe>Q<sup>307</sup>λ, home of the <link@en>Six</link@en></universe></definition>
+              position: '5.41'
+              date: '2025-11-08'
             sa:
               date: '2025-10-26'
               position: '5.4'
@@ -17840,6 +17926,20 @@ entries:
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>hullasisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ほっわせさ</tinellbian@x-tlb-hl> <gloss>sex-play</gloss></wordlist>
               title: sisa - The Tinellbian Languages Dictionary
+            $six:
+              title: Six - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Six</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/siks/</ipa@en></pronunciation>
+              - <h3|part-of-speech>interjection</h3|part-of-speech>
+              - '<definition>calling on the six deities that still live on <link@en>Thilia</link@en>: <link@en>Caemi</link@en>, <link@en>Tserron</link@en>, <link@en>Zigûti</link@en>, <link@en>Qolt</link@en>, <link@en>Volzd</link@en> and <link@en>Vohalu</link@en>; <i>Oh gods!</i></definition>'
+              - <h4|subheading>Variants</h4|subheading>
+              - <wordlist><b>Six!</b>
+              - <b>By the Six!
+              - Gods of all Tinellb!</b></wordlist>
+              position: '5.110'
+              date: '2025-11-08'
             su:
               date: '2025-10-18'
               text:
@@ -18298,6 +18398,25 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>cisclass</poslink@x-tlb-hl> <poslink@x-tlb-hl>suffix</poslink@x-tlb-hl> <derivation><poslink@x-tlb-hl>verb</poslink@x-tlb-hl></derivation></h3|part-of-speech>
               - <definition>augmentative</definition>
               title: -ss·su - The Tinellbian Languages Dictionary
+            $zigûti:
+              title: Zigûti - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Zigûti</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/zəˈguːtʰɪ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>The god of fear, touch and the physical body</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '5.40'
+              date: '2025-11-08'
             xa:
               title: xa - The Tinellbian Languages Dictionary
               text:
@@ -20060,6 +20179,25 @@ entries:
               - <h4|subheading>Translations</h4|subheading>
               - '<b>High Lulani</b>: <link@x-tlb-hl>ʔirri’a</link@x-tlb-hl> <tinellbian@x-tlb-hl>いっりあ</tinellbian@x-tlb-hl>'
               title: Irìa - The Tinellbian Languages Dictionary
+            $yao:
+              title: Yao - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Yao</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈjaʊ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>the god of creation, choice and language</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Tayedu</link@en>
+              - <link@en>Umi</link@en></block></wordlist>
+              position: '10.4'
+              date: '2025-11-08'
             upstream:
               date: '2024-08-27'
               position: '1.0'
@@ -20090,6 +20228,26 @@ entries:
               - <link@x-tlb-hl>matta</link@x-tlb-hl> <tinellbian@x-tlb-hl>まった</tinellbian@x-tlb-hl> <gloss>second</gloss></wordlist>
               title: -uju - The Tinellbian Languages Dictionary
               position: '5.23'
+            $umi:
+              title: Umi - The Tinellbian Languages Dictionary
+              text:
+              - <h1|headword>Umi</h1|headword>
+              - <h2|language>English</h2|language>
+              - <pronunciation><ipa@en>/ˈuːmɪ/</ipa@en></pronunciation>
+              - <h3|part-of-speech>proper noun</h3|part-of-speech>
+              - <definition>the former god of life, choice and the physical plane</definition>
+              - <h4|subheading>See Also</h4|subheading>
+              - <wordlist><block><link@en>Caemi</link@en>
+              - <link@en>Tserron</link@en></block>
+              - <block><link@en>Zigûti</link@en>
+              - <link@en>Qolt</link@en>
+              - <link@en>Volzd</link@en>
+              - <link@en>Vohalu</link@en></block>
+              - <block><link@en>Yao</link@en>
+              - <link@en>Tayedu</link@en>
+              - </block></wordlist>
+              position: '2.7'
+              date: '2025-11-08'
             -ulu:
               date: '2025-10-25'
               text:
