@@ -465,14 +465,14 @@ entries:
               text:
               - <h1|headword>’aqqi</h1|headword>
               - <h2|language>High Lulani</h2|language>
-              - <native-script><tinellbian@x-tlb-hl>'あっね</tinellbian@x-tlb-hl></native-script>
+              - <native-script><tinellbian@x-tlb-hl>あっね</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈʔaŋːɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probabilty</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>foregone conclusion; <i>predictably</i></definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>’aqqixi</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっねし</tinellbian@x-tlb-hl> <gloss>yttrium</gloss></wordlist>
               position: '6.32'
-              date: '2025-10-25'
+              date: '2025-11-08'
             ’aqqixi:
               date: '2025-10-25'
               text:
