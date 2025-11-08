@@ -3567,13 +3567,13 @@ entries:
               - <h1|headword>bixa</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>びざ</tinellbian@x-tlb-hl></native-script>
-              - <pronunciation><ipa@x-tlb-hl>/biɕə/</ipa@x-tlb-hl></pronunciation>
+              - <pronunciation><ipa@x-tlb-hl>/ˈbiɕə/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>exchange; swap</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><link@x-tlb-hl>bixaca</link@x-tlb-hl> <tinellbian@x-tlb-hl>びざや</tinellbian@x-tlb-hl> <gloss>task</gloss></wordlist>
-              position: '8.15'
-              date: '2025-10-04'
+              position: '5.13'
+              date: '2025-11-08'
             bixaca:
               date: '2025-10-04'
               text:
