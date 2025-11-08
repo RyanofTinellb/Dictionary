@@ -17651,8 +17651,8 @@ entries:
               title: siti - The Tinellbian Languages Dictionary
               position: '1.0'
             sida:
-              date: '2019-01-06'
-              position: '11.17'
+              date: '2025-11-08'
+              position: '8.142'
               text:
               - <h1|headword>sida</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -17662,7 +17662,6 @@ entries:
               - <definition>heart</definition>
               - <h4|subheading>Notes</h4|subheading>
               - 'refers to the aspects of the heart dealing with the heartbeat, as a notification of physical or emotional stress, <gloss>et cetera</gloss>. Cf: <link@x-tlb-hl>mulukku</link@x-tlb-hl> <tinellbian@x-tlb-hl>むをっく</tinellbian@x-tlb-hl>.'
-              - <gloss>heart</gloss>
               - <h4|subheading>See Also</h4|subheading>
               - <list-block><poslink@x-tlb-hl>Parts of the Body</poslink@x-tlb-hl></list-block>
               - <wordlist><link@x-tlb-hl>’ilu</link@x-tlb-hl> <tinellbian@x-tlb-hl>いを</tinellbian@x-tlb-hl> <gloss>heart</gloss></wordlist>
