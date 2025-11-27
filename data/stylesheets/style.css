@@ -114,7 +114,7 @@ h3.part-of-speech {
 	font-weight: normal;
 }
 
-.definition .note {
+.note {
 	font-style: italic;
 
 	&::before {

@@ -9,9 +9,6 @@ entries:
 - - The Tinellbian Languages Dictionary
   - lex
   - $six
-- - The Tinellbian Languages Dictionary
-  - lex
-  - sida
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
