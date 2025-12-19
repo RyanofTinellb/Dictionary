@@ -15,7 +15,7 @@ x-tlb-hl:
   case: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Case.html
   chance: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#chance
   chromatic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#chromaticverbs
-  cisclass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#cisclasssuffixes
+  cisclass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Cisclass.html
   clausal: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Conjunctions.html#clause-levelconjunctions
   communicative: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Ambitransitive.html#communicativeverbs
   comparative: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Comparatives.html
@@ -85,7 +85,7 @@ x-tlb-hl:
   suffix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html
   symmetric: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#symmetricrelations
   time: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#time
-  transclass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#transclasssuffixes
+  transclass: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Transclass.html
   transformative: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Transitive.html#transformativeverbs
   transitive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Transitive.html
   verb: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Index.html
