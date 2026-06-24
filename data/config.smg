@@ -5,7 +5,34 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - $thilia
+  - $six
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $tserron
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $ziguti
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $qolt
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $volzd
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $vùalq
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $selu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $caemi
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $tayedu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $yao
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
@@ -39,6 +66,7 @@ templates:
     auxiliaries: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\auxiliaries.tpl
     basesearch: c:\users\ryan\tinellbianlanguages\www\data\templates\base_search.tpl
     copyright: c:\users\ryan\tinellbianlanguages\www\data\templates\sections\copyright.tpl
+    deities: C:\Users\Ryan\TinellbianLanguages\dictionary\data\templates\deities.tpl
     indefinitepronouns: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\tables\indefinite_pronouns.tpl
     jumptoentry: c:\users\ryan\tinellbianlanguages\dictionary\data\templates\jump_to_entry.tpl
     magnifyingglass: c:\users\ryan\tinellbianlanguages\www\data\templates\svg\magnifying_glass.tpl

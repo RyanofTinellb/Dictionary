@@ -126,6 +126,7 @@ substitutions:
   - u
   - uu
   - ū
+  - ù
   - û
   o:
   - o
@@ -347,8 +348,11 @@ replacements:
     ū:
     - 3
     - u
-    û:
+    ù:
     - 4
+    - u
+    û:
+    - 5
     - u
     o:
     - 1
