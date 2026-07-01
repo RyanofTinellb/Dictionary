@@ -10280,10 +10280,6 @@ entries:
               - <link@x-tlb-hl>migina</link@x-tlb-hl> <tinellbian@x-tlb-hl>みぎな</tinellbian@x-tlb-hl> <gloss>denial</gloss></wordlist>
               position: '8.21'
               date: '2025-10-14'
-            gingla:
-              title: ''
-              text: []
-              position: '1.0'
             girammi:
               date: '2025-10-14'
               text:
@@ -16625,17 +16621,17 @@ entries:
               - <link@x-tlb-hl>’ifuhhanaku</link@x-tlb-hl> <tinellbian@x-tlb-hl>いふっはなく</tinellbian@x-tlb-hl> <gloss>to agree</gloss></wordlist>
               title: fuhha - The Tinellbian Languages Dictionary
             $vùalq:
-              title: $vùalq - The Tinellbian Languages Dictionary
+              title: Vùalq - The Tinellbian Languages Dictionary
               text:
               - <h1|headword>Vùalq</h1|headword>
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ˈvu̯àlq/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>The god of fear, touch and the physical body</definition>
+              - <definition>The goddess of spring, magic and the physical realm</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>deities</template>
-              position: '5.44'
-              date: '2026-06-24'
+              position: '2.0'
+              date: '2026-06-27'
             $volzd:
               title: Volzd - The Tinellbian Languages Dictionary
               text:
@@ -16643,11 +16639,11 @@ entries:
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ˈvɒlst/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>The goddess of emotion, reality and fire</definition>
+              - <definition>The goddess of fire, emotion and reality</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>deities</template>
-              position: '7.7'
-              date: '2026-06-24'
+              position: '5.40'
+              date: '2026-06-27'
             $the’a:
               date: '2024-05-28'
               text:
@@ -18370,17 +18366,17 @@ entries:
               - <definition>augmentative</definition>
               title: -ss·su - The Tinellbian Languages Dictionary
             $ziguti:
-              title: $ziguti - The Tinellbian Languages Dictionary
+              title: Ziguti - The Tinellbian Languages Dictionary
               text:
               - <h1|headword>Ziguti</h1|headword>
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/zəˈguːtʰɪ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
-              - <definition>the goddess of love, gingla and etiquette</definition>
+              - <definition>the god of love, gingla and etiquette</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>deities</template>
-              position: '5.11'
-              date: '2026-06-24'
+              position: '1.0'
+              date: '2026-06-27'
             xa:
               title: xa - The Tinellbian Languages Dictionary
               text:
@@ -20212,10 +20208,6 @@ entries:
               - <h4|subheading>Notes</h4|subheading>
               - Can also be pronounced as <gloss>double-u</gloss>
               title: w - The Tinellbian Languages Dictionary
-            $tayedu':
-              title: ''
-              text: []
-              position: '1.0'
           date: '2024-05-29'
           position: '1.0'
           text: []
