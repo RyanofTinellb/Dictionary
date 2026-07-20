@@ -6,30 +6,6 @@ entries:
 - - The Tinellbian Languages Dictionary
   - lex
   - $tserron
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $ziguti
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $qolt
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $volzd
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $vùalq
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $selu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $caemi
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $tayedu
-- - The Tinellbian Languages Dictionary
-  - lex
-  - $yao
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
