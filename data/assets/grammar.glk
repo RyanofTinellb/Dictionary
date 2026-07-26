@@ -33,7 +33,7 @@ x-tlb-hl:
   evidence: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#evidence
   extent: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#extent
   foodanddrink: /special/Search.html?term=food
-  generic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Index.html#quasi-suffixes
+  generic: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Cisclass.html#quasisuffixes
   geologicalterms: /special/Search.html?term=geology
   gerund: http://grammar.tinellb.com/Languages/Lulani/High/Syntax/Gerunds.html
   inanimate: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html#inanimate
@@ -78,7 +78,7 @@ x-tlb-hl:
   pro-verb: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Index.html
   proper: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Index.html#proper
   purpose: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Nouns/Adverbs.html#purpose
-  quasi-suffix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Cisclass.html#quasi-suffixes
+  quasisuffix: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Suffixes/Cisclass.html#quasisuffixes
   quasi-transitive: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Verbs/Intransitive.html#quasi-transitiveverbs
   sahaki: http://grammar.tinellb.com/Languages/Lulani/High/Apocrypha/Numbers.html#two-digitnumbers
   subordinating: http://grammar.tinellb.com/Languages/Lulani/High/Morphology/Conjunctions.html#Subordinating Conjunctions

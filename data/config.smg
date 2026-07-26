@@ -5,7 +5,13 @@ assets:
 entries:
 - - The Tinellbian Languages Dictionary
   - lex
-  - $tserron
+  - duku
+- - The Tinellbian Languages Dictionary
+  - lex
+  - calu
+- - The Tinellbian Languages Dictionary
+  - lex
+  - caluduku
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
