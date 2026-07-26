@@ -13037,14 +13037,14 @@ entries:
               - <wordlist><link@x-tlb-hl>lisa</link@x-tlb-hl> <tinellbian@x-tlb-hl>えさ</tinellbian@x-tlb-hl> <gloss>paper</gloss></wordlist>
               title: nuhu - The Tinellbian Languages Dictionary
             nuhubatu:
-              date: '2019-05-04'
-              position: '4.38'
+              date: '2026-07-26'
+              position: '5.20'
               text:
               - <h1|headword>nuhubatu</h1|headword>
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぬほばと</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˌnuhʉˈbatʰʉ/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived generic compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><poslink@x-tlb-hl>inanimate</poslink@x-tlb-hl><hidden> derived </hidden> <poslink@x-tlb-hl>generic</poslink@x-tlb-hl><hidden> compound</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>book</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <link@x-tlb-hl>nuhu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぬほ</tinellbian@x-tlb-hl> <gloss>paper</gloss> + <link@x-tlb-hl>batu</link@x-tlb-hl> <tinellbian@x-tlb-hl>ばと</tinellbian@x-tlb-hl> <gloss>collection</gloss>
