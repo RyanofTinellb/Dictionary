@@ -7190,8 +7190,8 @@ entries:
               position: '7.0'
               date: '2025-10-04'
             calu:
-              date: '2026-07-26'
-              position: '12.8'
+              date: '2026-08-23'
+              position: '16.15'
               text:
               - <h1|headword>calu</h1|headword>
               - <h2|language>High Lulani</h2|language>
@@ -11071,6 +11071,10 @@ entries:
               - <definition>address</definition>
               title: mallu - The Tinellbian Languages Dictionary
               position: '6.7'
+            $maraka:
+              title: ''
+              text: []
+              position: '1.0'
             marasi:
               date: '2019-03-13'
               position: '4.14'
@@ -17506,7 +17510,7 @@ entries:
               title: sahha - The Tinellbian Languages Dictionary
               position: '8.23'
             $selu:
-              title: $selu - The Tinellbian Languages Dictionary
+              title: Selu - The Tinellbian Languages Dictionary
               text:
               - <h1|headword>Selu</h1|headword>
               - <h2|language>English</h2|language>
@@ -17515,8 +17519,8 @@ entries:
               - <definition>the former god of life, choice and the physical plane</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>deities</template>
-              position: '7.7'
-              date: '2026-06-24'
+              position: '1.0'
+              date: '2026-08-23'
             sesquidecimal:
               date: '2018-06-04'
               text:
