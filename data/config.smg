@@ -8,7 +8,10 @@ entries:
   - duku
 - - The Tinellbian Languages Dictionary
   - lex
-  - calu
+  - cula
+- - The Tinellbian Languages Dictionary
+  - lex
+  - $xucipura.$cula
 files: c:\users\ryan\tinellbianlanguages\!smeagol\files.yml
 imes:
   autocorrect: c:\users\ryan\tinellbianlanguages\dictionary\data\assets\autocorrect.ime
