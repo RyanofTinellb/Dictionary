@@ -13,7 +13,6 @@ const LANGUAGES = [
     'classical', 'modern', 'solajin', 'ancient', 'medieval', 'traditional', 'standard'
 ]
 
-
 const len = arr => arr.length;
 const displayWords = entries => entries.length ? `<ul>${entries.map(createLine).join('')}</ul>` : '';
 const languageCode = entry => entry.l.toLowerCase().split(' ').map(lang => lang.charAt(0)).join('');

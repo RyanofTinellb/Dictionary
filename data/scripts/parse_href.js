@@ -1,4 +1,4 @@
-let searchParams = new URLSearchParams(window.location.search);
+const TARGET = window.location.pathname;
 
 const mapString = (str, fn) =>
     str.split('')
@@ -13,6 +13,12 @@ const sellLetterCaps = letter =>
 function sellCaps(text) {
     return mapString(text, sellLetterCaps);
 }
+if (TARGET !== sellCaps(TARGET)) {
+    window.location.href = sellCaps(TARGET) + '.html';
+}
+
+
+let searchParams = new URLSearchParams(window.location.search);
 
 let term = searchParams.get('term')
 if (term) {
