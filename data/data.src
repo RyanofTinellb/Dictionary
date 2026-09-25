@@ -7292,18 +7292,18 @@ entries:
               - <b>from</b> <link@x-tlb-hl>cahuri</link@x-tlb-hl> <tinellbian@x-tlb-hl>やほり</tinellbian@x-tlb-hl> <gloss>merchant</gloss>
               title: cahuri - The Tinellbian Languages Dictionary
               position: '6.8'
-            $caemi:
-              date: '2026-06-24'
-              position: '7.7'
+            $caëmi:
+              date: '2026-09-25'
+              position: '8.0'
               text:
-              - <h1|headword>Caemi</h1|headword>
+              - <h1|headword>Caëmi</h1|headword>
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ðəˈjɛmɪ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
               - <definition>The goddess of light, chaos and the sun</definition>
               - <h4|subheading>See Also</h4|subheading>
               - <template>deities</template>
-              title: Caemi - The Tinellbian Languages Dictionary
+              title: Caëmi - The Tinellbian Languages Dictionary
             ci:
               date: '2025-10-18'
               position: '9.21'
@@ -11240,7 +11240,7 @@ entries:
               - <definition>giver</definition>
               - <h4|subheading>Examples</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>’aggami</link@x-tlb-hl> <tinellbian@x-tlb-hl>あっがみ</tinellbian@x-tlb-hl> <gloss>police officer</gloss></block>
-              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block>
+              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caëmi</gloss></block>
               - <block><link@x-tlb-hl>’i’ami</link@x-tlb-hl> <tinellbian@x-tlb-hl>いあみ</tinellbian@x-tlb-hl> <gloss>hassium</gloss>
               - <link@x-tlb-hl>fasami</link@x-tlb-hl> <tinellbian@x-tlb-hl>へさみ</tinellbian@x-tlb-hl> <gloss>radon</gloss></block></wordlist>
               - <h4|subheading>Antonym</h4|subheading>
@@ -16772,7 +16772,7 @@ entries:
               - <definition>light; <link@en>subtle</link@en> energy</definition>
               - <h4|subheading>Derived Terms</h4|subheading>
               - <wordlist><block><link@x-tlb-hl>sa’ijakki</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいぢっき</tinellbian@x-tlb-hl> <gloss>candlelight</gloss></block>
-              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caemi</gloss></block></wordlist>
+              - <block><link@x-tlb-hl>Sa’imi</link@x-tlb-hl> <tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl> <gloss>Caëmi</gloss></block></wordlist>
               - <h4|subheading>See Also</h4|subheading>
               - <wordlist><link@x-tlb-hl>saru</link@x-tlb-hl> <tinellbian@x-tlb-hl>さる</tinellbian@x-tlb-hl> <gloss>physical energy</gloss></wordlist>
               title: sa’i - The Tinellbian Languages Dictionary
@@ -16798,7 +16798,7 @@ entries:
               - <native-script><tinellbian@x-tlb-hl>さいみ</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/saˈʔimɨ/</ipa@x-tlb-hl></pronunciation>
               - <h3|part-of-speech><poslink@x-tlb-hl>proper</poslink@x-tlb-hl><hidden> derived</hidden> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl></h3|part-of-speech>
-              - <definition>Caemi</definition>
+              - <definition>Caëmi</definition>
               - <h4|subheading>Notes</h4|subheading>
               - Also the name given to the personification of the Nuobi sun.
               - <h4|subheading>Etymology</h4|subheading>
@@ -17918,7 +17918,7 @@ entries:
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/siks/</ipa@en></pronunciation>
               - <h3|part-of-speech>interjection</h3|part-of-speech>
-              - '<definition>calling on the six deities that still live on <link@en>Thilia</link@en>: <link@en>Caemi</link@en>, <link@en>Tserron</link@en>, <link@en>Volzd</link@en>, <link@en>Ziguti</link@en>, <link@en>Qolt</link@en> and <link@en>Vùalq</link@en>; <i>Oh gods!</i></definition>'
+              - '<definition>calling on the six deities that still live on <link@en>Thilia</link@en>: <link@en>Caëmi</link@en>, <link@en>Tserron</link@en>, <link@en>Volzd</link@en>, <link@en>Ziguti</link@en>, <link@en>Qolt</link@en> and <link@en>Vùalq</link@en>; <i>Oh gods!</i></definition>'
               - <h4|subheading>Variants</h4|subheading>
               - <wordlist><b>Six!</b>
               - <b>By the Six!
@@ -19092,8 +19092,8 @@ entries:
               - <h4|subheading>Etymology</h4|subheading>
               - <list-block><link@x-tlb-hl>xuci</link@x-tlb-hl> <tinellbian@x-tlb-hl>ずち</tinellbian@x-tlb-hl> <gloss>feather</gloss> + <link@x-tlb-hl>pura</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぷら</tinellbian@x-tlb-hl> <gloss>become</gloss>
               - <link@x-tlb-hl>cula</link@x-tlb-hl> <tinellbian@x-tlb-hl>ゆわ</tinellbian@x-tlb-hl> <gloss>egg</gloss></list-block>
-              position: '9.11'
-              date: '2026-08-23'
+              position: '10.0'
+              date: '2026-09-25'
             xuga:
               date: '2024-09-02'
               position: '5.26'

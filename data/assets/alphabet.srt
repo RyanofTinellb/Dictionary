@@ -115,6 +115,7 @@ substitutions:
   - ee
   - é
   - ê
+  - ë
   i:
   - i
   - ii
@@ -332,6 +333,9 @@ replacements:
     - e
     ê:
     - 4
+    - e
+    ë:
+    - 5
     - e
     i:
     - 1

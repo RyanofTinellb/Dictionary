@@ -24,7 +24,7 @@ styles:
     type: anchor
 text:
 - <wordlist><block><link@en>Yao</link@en>
-- <link@en>Caemi</link@en>
+- <link@en>Caëmi</link@en>
 - <link@en>Selu</link@en></block>
 - <block><link@en>Volzd</link@en>
 - <link@en>Ziguti</link@en>
