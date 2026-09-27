@@ -31,5 +31,5 @@ text:
 - <link@en>Qolt</link@en></block>
 - <block><link@en>Vùalq</link@en>
 - <link@en>Tserron</link@en>
-- <link@en>Tayedu</link@en>
+- <link@en>Teydu</link@en>
 - </block></wordlist>

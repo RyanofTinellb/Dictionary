@@ -4611,10 +4611,10 @@ entries:
               - <h3|part-of-speech><poslink@x-tlb-hl>abstract</poslink@x-tlb-hl> <poslink@x-tlb-hl>noun</poslink@x-tlb-hl> ~ <poslink@x-tlb-hl>modal</poslink@x-tlb-hl> <poslink@x-tlb-hl>probability</poslink@x-tlb-hl> <poslink@x-tlb-hl>adverb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>probability; <i>probably</i>; <i>probability</i> <i>≈</i> <i>0.50</i></definition>
               title: tasi - The Tinellbian Languages Dictionary
-            $tayedu:
-              title: Tayedu - The Tinellbian Languages Dictionary
+            $teydu:
+              title: Teydu - The Tinellbian Languages Dictionary
               text:
-              - <h1|headword>Tayedu</h1|headword>
+              - <h1|headword>Teydu</h1|headword>
               - <h2|language>English</h2|language>
               - <pronunciation><ipa@en>/ˈtʰiʕdɯ/</ipa@en></pronunciation>
               - <h3|part-of-speech>proper noun</h3|part-of-speech>
