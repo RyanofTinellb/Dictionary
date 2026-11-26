@@ -2220,12 +2220,12 @@ entries:
               - <h2|language>High Lulani</h2|language>
               - <native-script><tinellbian@x-tlb-hl>ぱや</tinellbian@x-tlb-hl></native-script>
               - <pronunciation><ipa@x-tlb-hl>/ˈpʰacə/</ipa@x-tlb-hl></pronunciation>
-              - <h3|part-of-speech><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
+              - <h3|part-of-speech><hidden>derived compound </hidden><poslink@x-tlb-hl>ambitransitive</poslink@x-tlb-hl> <poslink@x-tlb-hl>communicative</poslink@x-tlb-hl> <poslink@x-tlb-hl>verb</poslink@x-tlb-hl></h3|part-of-speech>
               - <definition>to elect</definition>
               - <h4|subheading>Etymology</h4|subheading>
               - <wordlist><link@x-tlb-hl>pa</link@x-tlb-hl> <tinellbian@x-tlb-hl>ぱ</tinellbian@x-tlb-hl> <gloss>to think</gloss> + <link@x-tlb-hl>ca</link@x-tlb-hl> <tinellbian@x-tlb-hl>や</tinellbian@x-tlb-hl> <gloss>encircling</gloss></wordlist>
-              position: '8.31'
-              date: '2025-10-18'
+              position: '5.17'
+              date: '2026-11-06'
             pacca:
               date: '2025-10-24'
               position: '10.26'

@@ -52,6 +52,7 @@ abbr.glossary::after {
     content: "?";
     vertical-align: super;
     font-size: smaller;
+    line-height: 0;
 }
 
 .flex {
@@ -408,7 +409,7 @@ main .toc::before {
 }
 
 main .toc p {
-    line-height: 2.5;
+    line-height: 2;
     margin-inline-start: 10%;
     margin-block: 0.2lh 0;
 }
