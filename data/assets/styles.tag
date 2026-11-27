@@ -73,6 +73,7 @@ derivation:
     size: 80
     border: on
 desktop:
+  cat: layout
   props:
     colour: '#f0f'
   type: span
@@ -149,13 +150,6 @@ h2|language:
     size: 120
     top: 10
   type: heading
-h3:
-  props:
-    bottom: 7
-    font: Garamond
-    top: 15
-    underline: true
-  type: heading
 h3|part-of-speech:
   hierarchy:
     key: p
@@ -169,6 +163,7 @@ h3|part-of-speech:
     font: Garamond
     top: 15
   type: line
+  cat: heading
 h4|subheading:
   hierarchy:
     rank: 6
@@ -184,6 +179,7 @@ h4|subheading:
     top: 15
     underline: true
   type: line
+  cat: heading
 hidden:
   keys:
     'on': h
@@ -216,6 +212,7 @@ ipa:
   type: anchor
 javascript: div
 landscape:
+  cat: layout
   props:
     background: '#ccf'
   type: div
@@ -235,6 +232,7 @@ link:
   type: anchor
 list-block: ul
 mobile:
+  cat: layout
   props:
     colour: '#ff0'
   type: span
@@ -262,6 +260,7 @@ note:
   type: span
 overline: span
 portrait:
+  cat: layout
   props:
     background: '#cfc'
   type: div
@@ -293,6 +292,7 @@ pronunciation:
     top: 10
   type: div
 remove-pipe:
+  cat: utils
   type: blank
   pipe: '&NoBreak;'
 strong:
@@ -309,13 +309,18 @@ summary|folding:
 sup: {}
 symbol: span
 table: table
-tbody: block
+tbody:
+  type: block
+  cat: table
 template:
+  cat: utils
   off-key: Return
   props:
     colour: '#0f0'
   type: template
-thead: block
+thead:
+  type: block
+  cat: table
 tinellbian:
   keys:
     'off': space
